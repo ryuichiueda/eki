@@ -2,6 +2,7 @@
 
 [ "$1" = "pref" ] && shift && exec "$(dirname $0)/eki-pref" "$@"
 [ "$1" = "adj" ] && shift && exec "$(dirname $0)/eki-adj" "$@"
+[ "$1" = "line" ] && shift && exec "$(dirname $0)/eki-line" "$@"
 
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
