@@ -6,3 +6,5 @@ BIN=$(dirname $0)/bin
 ### テストは京急で（京急さえ出力できれば他は大した問題ではない） ###
 "$BIN/eki" | grep '京急本線 京急川崎' 2> /dev/null
 "$BIN/eki-pref" | grep '神奈川県 京急本線' 2> /dev/null
+[ "$($BIN/eki-adj 京急川崎 | xargs)" = "港町 八丁畷 六郷土手" ]
+

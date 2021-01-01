@@ -1,6 +1,7 @@
 #!/bin/bash -e
 
 [ "$1" = "pref" ] && shift && exec "$(dirname $0)/eki-pref" "$@"
+[ "$1" = "adj" ] && shift && exec "$(dirname $0)/eki-adj" "$@"
 
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
@@ -11,6 +12,7 @@
 
 	These are some sub-commands (see eki [sub-command] -h):
 	    pref:     Show each prefectures with the lines in it.
+	    adj:      Show adjoining stations.
 
 	MIT License
 	Released under MIT license
