@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>1006</line_cd>
+		<line_name>上越新幹線(ガーラ湯沢支線)</line_name>
+		<line_lon>138.8032503783</line_lon>
+		<line_lat>36.942882112443</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+</ekidata>

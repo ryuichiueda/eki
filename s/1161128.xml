@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>35</pref_cd>
+		<line_cd>11611</line_cd>
+		<line_name>JR山陽本線(三原～岩国)</line_name>
+		<station_cd>1161128</station_cd>
+		<station_g_cd>1161128</station_g_cd>
+		<station_name>岩国</station_name>
+		<lon>132.225631</lon>
+		<lat>34.171828</lat>
+	</station>
+</ekidata>

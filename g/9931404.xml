@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99314</line_cd>
+		<line_name>伊豆箱根鉄道大雄山線</line_name>
+		<station_cd>9931404</station_cd>
+		<station_g_cd>9931404</station_g_cd>
+		<station_name>五百羅漢</station_name>
+		<lon>139.155758</lon>
+		<lat>35.27519</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99314</line_cd>
+		<line_name>伊豆箱根鉄道大雄山線</line_name>
+		<station_cd>9931404</station_cd>
+		<station_name>五百羅漢</station_name>
+	</station_g>
+</ekidata>

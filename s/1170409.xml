@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>31</pref_cd>
+		<line_cd>11704</line_cd>
+		<line_name>JR因美線</line_name>
+		<station_cd>1170409</station_cd>
+		<station_g_cd>1170409</station_g_cd>
+		<station_name>因幡社</station_name>
+		<lon>134.196673</lon>
+		<lat>35.312507</lat>
+	</station>
+</ekidata>

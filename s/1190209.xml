@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>11902</line_cd>
+		<line_name>JR鹿児島本線(下関・門司港～博多)</line_name>
+		<station_cd>1190209</station_cd>
+		<station_g_cd>1190209</station_g_cd>
+		<station_name>枝光</station_name>
+		<lon>130.813318</lon>
+		<lat>33.879367</lat>
+	</station>
+</ekidata>

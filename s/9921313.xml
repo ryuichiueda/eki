@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>7</pref_cd>
+		<line_cd>99213</line_cd>
+		<line_name>阿武隈急行線</line_name>
+		<station_cd>9921313</station_cd>
+		<station_g_cd>9921313</station_g_cd>
+		<station_name>やながわ希望の森公園前</station_name>
+		<lon>140.615552</lon>
+		<lat>37.857867</lat>
+	</station>
+</ekidata>

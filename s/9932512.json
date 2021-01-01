@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99325,"line_name":"小湊鉄道線","station_cd":9932512,"station_g_cd":9932512,"station_name":"高滝","lon":140.150246,"lat":35.353074}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

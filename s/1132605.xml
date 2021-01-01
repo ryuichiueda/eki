@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11326</line_cd>
+		<line_name>JR京葉線</line_name>
+		<station_cd>1132605</station_cd>
+		<station_g_cd>1132605</station_g_cd>
+		<station_name>新木場</station_name>
+		<lon>139.827402</lon>
+		<lat>35.646172</lat>
+	</station>
+</ekidata>

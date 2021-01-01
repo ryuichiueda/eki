@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99802</line_cd>
+		<line_name>琴電琴平線</line_name>
+		<station_cd>9980216</station_cd>
+		<station_g_cd>9980216</station_g_cd>
+		<station_name>羽床</station_name>
+		<lon>133.901782</lon>
+		<lat>34.241078</lat>
+	</station>
+	<station_g>
+		<pref_cd>37</pref_cd>
+		<line_cd>99802</line_cd>
+		<line_name>琴電琴平線</line_name>
+		<station_cd>9980216</station_cd>
+		<station_name>羽床</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":1,"line_cd":11105,"line_name":"JR室蘭本線(苫小牧～岩見沢)","station_cd":1110506,"station_name":"追分"},{"pref_cd":1,"line_cd":11110,"line_name":"JR石勝線","station_cd":1111002,"station_name":"追分"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>46</pref_cd>
+		<line_cd>11904</line_cd>
+		<line_name>JR鹿児島本線(川内～鹿児島)</line_name>
+		<station_cd>1190407</station_cd>
+		<station_g_cd>1190407</station_g_cd>
+		<station_name>東市来</station_name>
+		<lon>130.347609</lon>
+		<lat>31.655164</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99625,"line_name":"大阪メトロ南港ポートタウン線","station_cd":9962510,"station_g_cd":9962011,"station_name":"住之江公園","lon":135.471879,"lat":34.609269}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

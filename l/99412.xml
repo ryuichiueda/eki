@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99412</line_cd>
+		<line_name>黒部峡谷鉄道本線</line_name>
+		<line_lon>137.62933635449</line_lon>
+		<line_lat>36.771398208953</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>9941201</station_cd>
+		<station_g_cd>9940838</station_g_cd>
+		<station_name>宇奈月</station_name>
+		<lon>137.58586</lon>
+		<lat>36.815038</lat>
+	</station>
+	<station>
+		<station_cd>9941202</station_cd>
+		<station_g_cd>9941202</station_g_cd>
+		<station_name>黒薙</station_name>
+		<lon>137.624738</lon>
+		<lat>36.786638</lat>
+	</station>
+	<station>
+		<station_cd>9941203</station_cd>
+		<station_g_cd>9941203</station_g_cd>
+		<station_name>鐘釣</station_name>
+		<lon>137.651315</lon>
+		<lat>36.734378</lat>
+	</station>
+	<station>
+		<station_cd>9941204</station_cd>
+		<station_g_cd>9941204</station_g_cd>
+		<station_name>欅平</station_name>
+		<lon>137.658179</lon>
+		<lat>36.696732</lat>
+	</station>
+</ekidata>

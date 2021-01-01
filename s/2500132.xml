@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>25001</line_cd>
+		<line_name>小田急線</line_name>
+		<station_cd>2500132</station_cd>
+		<station_g_cd>1130910</station_g_cd>
+		<station_name>海老名</station_name>
+		<lon>139.390905</lon>
+		<lat>35.452709</lat>
+	</station>
+</ekidata>

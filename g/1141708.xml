@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11417</line_cd>
+		<line_name>JR城端線</line_name>
+		<station_cd>1141708</station_cd>
+		<station_g_cd>1141708</station_g_cd>
+		<station_name>高儀</station_name>
+		<lon>136.936007</lon>
+		<lat>36.606697</lat>
+	</station>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>11417</line_cd>
+		<line_name>JR城端線</line_name>
+		<station_cd>1141708</station_cd>
+		<station_name>高儀</station_name>
+	</station_g>
+</ekidata>

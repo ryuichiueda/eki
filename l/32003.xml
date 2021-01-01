@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>32003</line_cd>
+		<line_name>南海和歌山港線</line_name>
+		<line_lon>135.15513970898</line_lon>
+		<line_lat>34.231380855313</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>3200301</station_cd>
+		<station_g_cd>1164003</station_g_cd>
+		<station_name>和歌山市</station_name>
+		<lon>135.166538</lon>
+		<lat>34.236925</lat>
+	</station>
+	<station>
+		<station_cd>3200302</station_cd>
+		<station_g_cd>3200302</station_g_cd>
+		<station_name>和歌山港</station_name>
+		<lon>135.146488</lon>
+		<lat>34.217321</lat>
+	</station>
+</ekidata>

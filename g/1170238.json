@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":35,"line_cd":11612,"line_name":"JR山陽本線(岩国～門司)","station_cd":1161236,"station_name":"下関"},{"pref_cd":35,"line_cd":11702,"line_name":"JR山陰本線(益田～下関)","station_cd":1170238,"station_name":"下関"},{"pref_cd":35,"line_cd":11902,"line_name":"JR鹿児島本線(下関・門司港～博多)","station_cd":1190201,"station_name":"下関"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

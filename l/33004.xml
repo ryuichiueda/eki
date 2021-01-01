@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>33004</line_cd>
+		<line_name>京阪鴨東線</line_name>
+		<line_lon>135.77218700529</line_lon>
+		<line_lat>35.023132336607</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3300401</station_cd>
+		<station_g_cd>3300401</station_g_cd>
+		<station_name>出町柳</station_name>
+		<lon>135.772519</lon>
+		<lat>35.029654</lat>
+	</station>
+	<station>
+		<station_cd>3300402</station_cd>
+		<station_g_cd>3300402</station_g_cd>
+		<station_name>神宮丸太町</station_name>
+		<lon>135.772283</lon>
+		<lat>35.017555</lat>
+	</station>
+	<station>
+		<station_cd>3300403</station_cd>
+		<station_g_cd>3300101</station_g_cd>
+		<station_name>三条</station_name>
+		<lon>135.772274</lon>
+		<lat>35.009114</lat>
+	</station>
+</ekidata>

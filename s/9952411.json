@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":21,"line_cd":99524,"line_name":"明知鉄道明知線","station_cd":9952411,"station_g_cd":9952411,"station_name":"極楽","lon":137.432619,"lat":35.379944}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>33001</line_cd>
+		<line_name>京阪本線</line_name>
+		<station_cd>3300140</station_cd>
+		<station_g_cd>3300140</station_g_cd>
+		<station_name>淀屋橋</station_name>
+		<lon>135.501648</lon>
+		<lat>34.692456</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>33001</line_cd>
+		<line_name>京阪本線</line_name>
+		<station_cd>3300140</station_cd>
+		<station_name>淀屋橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>33008</line_cd>
+		<line_name>京阪中之島線</line_name>
+		<station_cd>3300803</station_cd>
+		<station_name>大江橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99618</line_cd>
+		<line_name>大阪メトロ御堂筋線</line_name>
+		<station_cd>9961807</station_cd>
+		<station_name>淀屋橋</station_name>
+	</station_g>
+</ekidata>

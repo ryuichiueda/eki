@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99340,"line_name":"北総鉄道北総線","station_cd":9934015,"station_g_cd":9934015,"station_name":"印旛日本医大","lon":140.203112,"lat":35.787512}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

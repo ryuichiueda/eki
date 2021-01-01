@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>46</pref_cd>
+		<line_cd>99921</line_cd>
+		<line_name>肥薩おれんじ鉄道線</line_name>
+		<station_cd>9992121</station_cd>
+		<station_g_cd>9992121</station_g_cd>
+		<station_name>阿久根</station_name>
+		<lon>130.196276</lon>
+		<lat>32.022969</lat>
+	</station>
+</ekidata>

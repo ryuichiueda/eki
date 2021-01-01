@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>33006</line_cd>
+		<line_name>京阪石山坂本線</line_name>
+		<station_cd>3300607</station_cd>
+		<station_g_cd>3300607</station_g_cd>
+		<station_name>膳所本町</station_name>
+		<lon>135.889249</lon>
+		<lat>34.995335</lat>
+	</station>
+	<station_g>
+		<pref_cd>25</pref_cd>
+		<line_cd>33006</line_cd>
+		<line_name>京阪石山坂本線</line_name>
+		<station_cd>3300607</station_cd>
+		<station_name>膳所本町</station_name>
+	</station_g>
+</ekidata>

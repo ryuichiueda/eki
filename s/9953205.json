@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":24,"line_cd":99532,"line_name":"養老鉄道養老線","station_cd":9953205,"station_g_cd":3100405,"station_name":"多度","lon":136.640594,"lat":35.133855}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

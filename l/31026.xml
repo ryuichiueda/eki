@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>31026</line_cd>
+		<line_name>生駒ケーブル</line_name>
+		<line_lon>135.68880395239</line_lon>
+		<line_lat>34.685818800797</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3102601</station_cd>
+		<station_g_cd>3101601</station_g_cd>
+		<station_name>鳥居前</station_name>
+		<lon>135.696151</lon>
+		<lat>34.692439</lat>
+	</station>
+	<station>
+		<station_cd>3102602</station_cd>
+		<station_g_cd>3102602</station_g_cd>
+		<station_name>宝山寺</station_name>
+		<lon>135.68907</lon>
+		<lat>34.686069</lat>
+	</station>
+	<station>
+		<station_cd>3102603</station_cd>
+		<station_g_cd>3102603</station_g_cd>
+		<station_name>梅屋敷</station_name>
+		<lon>135.686967</lon>
+		<lat>34.683299</lat>
+	</station>
+	<station>
+		<station_cd>3102604</station_cd>
+		<station_g_cd>3102604</station_g_cd>
+		<station_name>霞ヶ丘</station_name>
+		<lon>135.683577</lon>
+		<lat>34.681341</lat>
+	</station>
+	<station>
+		<station_cd>3102605</station_cd>
+		<station_g_cd>3102605</station_g_cd>
+		<station_name>生駒山上</station_name>
+		<lon>135.68053</lon>
+		<lat>34.679594</lat>
+	</station>
+</ekidata>

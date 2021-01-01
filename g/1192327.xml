@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11923</line_cd>
+		<line_name>阿蘇高原線</line_name>
+		<station_cd>1192327</station_cd>
+		<station_g_cd>1192327</station_g_cd>
+		<station_name>緒方</station_name>
+		<lon>131.476678</lon>
+		<lat>32.971255</lat>
+	</station>
+	<station_g>
+		<pref_cd>44</pref_cd>
+		<line_cd>11923</line_cd>
+		<line_name>阿蘇高原線</line_name>
+		<station_cd>1192327</station_cd>
+		<station_name>緒方</station_name>
+	</station_g>
+</ekidata>

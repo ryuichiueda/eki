@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11224,"line_name":"JR気仙沼線","line_lon":141.46445757915,"line_lat":38.696179754212,"line_zoom":10,"station_l":[{"station_cd":1122401,"station_g_cd":1122304,"station_name":"前谷地","lon":141.194345,"lat":38.512187},{"station_cd":1122402,"station_g_cd":1122402,"station_name":"和渕","lon":141.220428,"lat":38.525772},{"station_cd":1122403,"station_g_cd":1122403,"station_name":"のの岳","lon":141.225813,"lat":38.552567},{"station_cd":1122404,"station_g_cd":1122404,"station_name":"陸前豊里","lon":141.244674,"lat":38.582481},{"station_cd":1122405,"station_g_cd":1122405,"station_name":"御岳堂","lon":141.264718,"lat":38.605662},{"station_cd":1122406,"station_g_cd":1122406,"station_name":"柳津","lon":141.305947,"lat":38.611693}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

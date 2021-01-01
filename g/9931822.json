@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":8,"line_cd":99318,"line_name":"関東鉄道常総線","station_cd":9931822,"station_name":"黒子"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

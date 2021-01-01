@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":11214,"line_name":"JR羽越本線","station_cd":1121425,"station_g_cd":1121425,"station_name":"あつみ温泉","lon":139.587955,"lat":38.624217}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

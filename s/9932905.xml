@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>99329</line_cd>
+		<line_name>新京成線</line_name>
+		<station_cd>9932905</station_cd>
+		<station_g_cd>9932905</station_g_cd>
+		<station_name>習志野</station_name>
+		<lon>140.042787</lon>
+		<lat>35.715293</lat>
+	</station>
+</ekidata>

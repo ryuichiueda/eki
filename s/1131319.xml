@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131319</station_cd>
+		<station_g_cd>1130222</station_g_cd>
+		<station_name>秋葉原</station_name>
+		<lon>139.773288</lon>
+		<lat>35.698619</lat>
+	</station>
+</ekidata>

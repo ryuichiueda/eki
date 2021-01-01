@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11923</line_cd>
+		<line_name>阿蘇高原線</line_name>
+		<station_cd>1192305</station_cd>
+		<station_g_cd>1192305</station_g_cd>
+		<station_name>水前寺</station_name>
+		<lon>130.729823</lon>
+		<lat>32.796962</lat>
+	</station>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>11923</line_cd>
+		<line_name>阿蘇高原線</line_name>
+		<station_cd>1192305</station_cd>
+		<station_name>水前寺</station_name>
+	</station_g>
+</ekidata>

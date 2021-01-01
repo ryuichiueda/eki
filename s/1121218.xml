@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>5</pref_cd>
+		<line_cd>11212</line_cd>
+		<line_name>十和田八幡平四季彩ライン</line_name>
+		<station_cd>1121218</station_cd>
+		<station_g_cd>1121218</station_g_cd>
+		<station_name>柴平</station_name>
+		<lon>140.787941</lon>
+		<lat>40.230751</lat>
+	</station>
+</ekidata>

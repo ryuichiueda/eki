@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>34002</line_cd>
+		<line_name>阪急宝塚本線</line_name>
+		<station_cd>3400210</station_cd>
+		<station_g_cd>3400210</station_g_cd>
+		<station_name>蛍池</station_name>
+		<lon>135.449238</lon>
+		<lat>34.794365</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>34002</line_cd>
+		<line_name>阪急宝塚本線</line_name>
+		<station_cd>3400210</station_cd>
+		<station_name>蛍池</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99626</line_cd>
+		<line_name>大阪モノレール線</line_name>
+		<station_cd>9962602</station_cd>
+		<station_name>蛍池</station_name>
+	</station_g>
+</ekidata>

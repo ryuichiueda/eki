@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99609,"line_name":"宮豊線","station_cd":9960918,"station_g_cd":9960918,"station_name":"コウノトリの郷","lon":134.835391,"lat":35.552816}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

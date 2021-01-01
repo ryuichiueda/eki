@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>34</pref_cd>
+		<line_cd>99709</line_cd>
+		<line_name>アストラムライン</line_name>
+		<station_cd>9970907</station_cd>
+		<station_g_cd>9970907</station_g_cd>
+		<station_name>祇園新橋北</station_name>
+		<lon>132.47075</lon>
+		<lat>34.435148</lat>
+	</station>
+</ekidata>

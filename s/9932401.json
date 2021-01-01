@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99324,"line_name":"芝山鉄道線","station_cd":9932401,"station_g_cd":2300141,"station_name":"東成田","lon":140.387225,"lat":35.770091}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

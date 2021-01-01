@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99926</line_cd>
+		<line_name>鹿児島市電２系統</line_name>
+		<station_cd>9992608</station_cd>
+		<station_g_cd>9992508</station_g_cd>
+		<station_name>高見馬場</station_name>
+		<lon>130.550977</lon>
+		<lat>31.588726</lat>
+	</station>
+	<station_g>
+		<pref_cd>46</pref_cd>
+		<line_cd>99925</line_cd>
+		<line_name>鹿児島市電１系統</line_name>
+		<station_cd>9992508</station_cd>
+		<station_name>高見馬場</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>46</pref_cd>
+		<line_cd>99926</line_cd>
+		<line_name>鹿児島市電２系統</line_name>
+		<station_cd>9992608</station_cd>
+		<station_name>高見馬場</station_name>
+	</station_g>
+</ekidata>

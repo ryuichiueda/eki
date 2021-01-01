@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99703</line_cd>
+		<line_name>大社線</line_name>
+		<line_lon>132.73028389102</line_lon>
+		<line_lat>35.389565006844</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>9970301</station_cd>
+		<station_g_cd>9970205</station_g_cd>
+		<station_name>川跡</station_name>
+		<lon>132.776411</lon>
+		<lat>35.395127</lat>
+	</station>
+	<station>
+		<station_cd>9970302</station_cd>
+		<station_g_cd>9970302</station_g_cd>
+		<station_name>高浜</station_name>
+		<lon>132.746684</lon>
+		<lat>35.390677</lat>
+	</station>
+	<station>
+		<station_cd>9970303</station_cd>
+		<station_g_cd>9970303</station_g_cd>
+		<station_name>遙堪</station_name>
+		<lon>132.725637</lon>
+		<lat>35.389312</lat>
+	</station>
+	<station>
+		<station_cd>9970304</station_cd>
+		<station_g_cd>9970304</station_g_cd>
+		<station_name>浜山公園北口</station_name>
+		<lon>132.70829</lon>
+		<lat>35.38926</lat>
+	</station>
+	<station>
+		<station_cd>9970305</station_cd>
+		<station_g_cd>9970305</station_g_cd>
+		<station_name>出雲大社前</station_name>
+		<lon>132.687531</lon>
+		<lat>35.393245</lat>
+	</station>
+</ekidata>

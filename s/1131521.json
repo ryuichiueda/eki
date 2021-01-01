@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":11315,"line_name":"JR青梅線","station_cd":1131521,"station_g_cd":1131521,"station_name":"川井","lon":139.16429,"lat":35.813697}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

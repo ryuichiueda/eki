@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99711</line_cd>
+		<line_name>広電２号線(宮島線)</line_name>
+		<station_cd>9971133</station_cd>
+		<station_g_cd>1161120</station_g_cd>
+		<station_name>広電廿日市</station_name>
+		<lon>132.336179</lon>
+		<lat>34.356621</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>11611</line_cd>
+		<line_name>JR山陽本線(三原～岩国)</line_name>
+		<station_cd>1161120</station_cd>
+		<station_name>廿日市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99711</line_cd>
+		<line_name>広電２号線(宮島線)</line_name>
+		<station_cd>9971133</station_cd>
+		<station_name>広電廿日市</station_name>
+	</station_g>
+</ekidata>

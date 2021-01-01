@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30005,"line_name":"名鉄三河線","station_cd":3000514,"station_g_cd":3000514,"station_name":"三河八橋","lon":137.077147,"lat":35.010913}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

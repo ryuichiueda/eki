@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99643</line_cd>
+		<line_name>北条鉄道北条線</line_name>
+		<station_cd>9964306</station_cd>
+		<station_g_cd>9964306</station_g_cd>
+		<station_name>長</station_name>
+		<lon>134.82566</lon>
+		<lat>34.896484</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>99643</line_cd>
+		<line_name>北条鉄道北条線</line_name>
+		<station_cd>9964306</station_cd>
+		<station_name>長</station_name>
+	</station_g>
+</ekidata>

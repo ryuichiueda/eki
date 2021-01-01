@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>22</pref_cd>
+		<line_cd>99502</line_cd>
+		<line_name>伊豆箱根鉄道駿豆線</line_name>
+		<station_cd>9950204</station_cd>
+		<station_g_cd>9950204</station_g_cd>
+		<station_name>三島二日町</station_name>
+		<lon>138.926001</lon>
+		<lat>35.111039</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>32</pref_cd>
+		<line_cd>99702</line_cd>
+		<line_name>北松江線</line_name>
+		<station_cd>9970220</station_cd>
+		<station_g_cd>9970220</station_g_cd>
+		<station_name>朝日ヶ丘</station_name>
+		<lon>132.987954</lon>
+		<lat>35.480865</lat>
+	</station>
+</ekidata>

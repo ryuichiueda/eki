@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11103</line_cd>
+		<line_name>JR函館本線(小樽～旭川)</line_name>
+		<station_cd>1110342</station_cd>
+		<station_g_cd>1110342</station_g_cd>
+		<station_name>旭川</station_name>
+		<lon>142.357803</lon>
+		<lat>43.763492</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11217</line_cd>
+		<line_name>JR仙山線</line_name>
+		<station_cd>1121716</station_cd>
+		<station_g_cd>1121716</station_g_cd>
+		<station_name>山寺</station_name>
+		<lon>140.434773</lon>
+		<lat>38.309561</lat>
+	</station>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11217</line_cd>
+		<line_name>JR仙山線</line_name>
+		<station_cd>1121716</station_cd>
+		<station_name>山寺</station_name>
+	</station_g>
+</ekidata>

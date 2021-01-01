@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":42,"line_cd":11918,"line_name":"JR佐世保線","station_cd":1191810,"station_g_cd":1191810,"station_name":"三河内","lon":129.82919,"lat":33.150268}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>6</pref_cd>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120202</station_cd>
+		<station_g_cd>1120202</station_g_cd>
+		<station_name>泉田</station_name>
+		<lon>140.310039</lon>
+		<lat>38.811758</lat>
+	</station>
+</ekidata>

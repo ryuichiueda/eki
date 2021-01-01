@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":16,"line_cd":99422,"line_name":"富山地鉄富山都心線【３系統(環状線)】","station_cd":9942212,"station_name":"新富町"},{"pref_cd":16,"line_cd":99413,"line_name":"富山地鉄市内線【１・２系統】","station_cd":9941314,"station_name":"新富町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

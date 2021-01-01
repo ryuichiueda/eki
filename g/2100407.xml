@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>21004</line_cd>
+		<line_name>東武野田線</line_name>
+		<station_cd>2100407</station_cd>
+		<station_g_cd>2100407</station_g_cd>
+		<station_name>東岩槻</station_name>
+		<lon>139.712192</lon>
+		<lat>35.963273</lat>
+	</station>
+	<station_g>
+		<pref_cd>11</pref_cd>
+		<line_cd>21004</line_cd>
+		<line_name>東武野田線</line_name>
+		<station_cd>2100407</station_cd>
+		<station_name>東岩槻</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>6</pref_cd>
+		<line_cd>11221</line_cd>
+		<line_name>奥の細道湯けむりライン</line_name>
+		<station_cd>1122120</station_cd>
+		<station_g_cd>1122120</station_g_cd>
+		<station_name>最上</station_name>
+		<lon>140.517712</lon>
+		<lat>38.755959</lat>
+	</station>
+</ekidata>

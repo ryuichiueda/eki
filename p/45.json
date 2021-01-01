@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)"},{"line_cd":11925,"line_name":"えびの高原線(八代～吉松)"},{"line_cd":11927,"line_name":"JR宮崎空港線"},{"line_cd":11928,"line_name":"JR日南線"},{"line_cd":11929,"line_name":"えびの高原線"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

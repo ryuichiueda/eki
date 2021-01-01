@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":2,"line_cd":11206,"line_name":"JR八戸線","station_cd":1120610,"station_g_cd":1120610,"station_name":"種差海岸","lon":141.607367,"lat":40.506951}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

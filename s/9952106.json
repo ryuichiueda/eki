@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":99521,"line_name":"豊橋鉄道東田本線","station_cd":9952106,"station_g_cd":9952106,"station_name":"豊橋公園前","lon":137.395406,"lat":34.766841}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

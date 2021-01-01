@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>44</pref_cd>
+		<line_cd>11907</line_cd>
+		<line_name>JR日豊本線(佐伯～鹿児島中央)</line_name>
+		<station_cd>1190705</station_cd>
+		<station_g_cd>1190705</station_g_cd>
+		<station_name>重岡</station_name>
+		<lon>131.715499</lon>
+		<lat>32.840339</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":8,"line_cd":11229,"line_name":"JR常磐線(取手～いわき)","station_cd":1122901,"station_name":"取手"},{"pref_cd":8,"line_cd":11320,"line_name":"JR常磐線(上野～取手)","station_cd":1132019,"station_name":"取手"},{"pref_cd":8,"line_cd":99318,"line_name":"関東鉄道常総線","station_cd":9931801,"station_name":"取手"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

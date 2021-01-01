@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":25002,"line_name":"小田急江ノ島線","station_cd":2500216,"station_g_cd":2500216,"station_name":"鵠沼海岸","lon":139.47121,"lat":35.320744}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

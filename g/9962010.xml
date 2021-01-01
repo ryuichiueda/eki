@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99620</line_cd>
+		<line_name>大阪メトロ四つ橋線</line_name>
+		<station_cd>9962010</station_cd>
+		<station_g_cd>9962010</station_g_cd>
+		<station_name>北加賀屋</station_name>
+		<lon>135.478861</lon>
+		<lat>34.621318</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99620</line_cd>
+		<line_name>大阪メトロ四つ橋線</line_name>
+		<station_cd>9962010</station_cd>
+		<station_name>北加賀屋</station_name>
+	</station_g>
+</ekidata>

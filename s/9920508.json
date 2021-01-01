@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":3,"line_cd":99205,"line_name":"いわて銀河鉄道線","station_cd":9920508,"station_g_cd":9920508,"station_name":"岩手川口","lon":141.199337,"lat":39.918696}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

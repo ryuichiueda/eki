@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>5</pref_cd>
+		<line_cd>11212</line_cd>
+		<line_name>十和田八幡平四季彩ライン</line_name>
+		<station_cd>1121214</station_cd>
+		<station_g_cd>1121214</station_g_cd>
+		<station_name>湯瀬温泉</station_name>
+		<lon>140.840292</lon>
+		<lat>40.122384</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":24006,"line_name":"京王井の頭線","station_cd":2400608,"station_g_cd":2400106,"station_name":"明大前","lon":139.650352,"lat":35.668758}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

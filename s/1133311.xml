@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>11333</line_cd>
+		<line_name>JR湘南新宿ライン</line_name>
+		<station_cd>1133311</station_cd>
+		<station_g_cd>1130807</station_g_cd>
+		<station_name>保土ケ谷</station_name>
+		<lon>139.599671</lon>
+		<lat>35.446746</lat>
+	</station>
+</ekidata>

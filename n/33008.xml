@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3300801</station_cd1>
+		<station_cd2>3300802</station_cd2>
+		<station_name1>天満橋</station_name1>
+		<station_name2>なにわ橋</station_name2>
+		<lat1>34.6902</lat1>
+		<lon1>135.516633</lon1>
+		<lat2>34.692829</lat2>
+		<lon2>135.506594</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3300802</station_cd1>
+		<station_cd2>3300803</station_cd2>
+		<station_name1>なにわ橋</station_name1>
+		<station_name2>大江橋</station_name2>
+		<lat1>34.692829</lat1>
+		<lon1>135.506594</lon1>
+		<lat2>34.694296</lat2>
+		<lon2>135.500412</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3300803</station_cd1>
+		<station_cd2>3300804</station_cd2>
+		<station_name1>大江橋</station_name1>
+		<station_name2>渡辺橋</station_name2>
+		<lat1>34.694296</lat1>
+		<lon1>135.500412</lon1>
+		<lat2>34.693916</lat2>
+		<lon2>135.49542</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3300804</station_cd1>
+		<station_cd2>3300805</station_cd2>
+		<station_name1>渡辺橋</station_name1>
+		<station_name2>中之島</station_name2>
+		<lat1>34.693916</lat1>
+		<lon1>135.49542</lon1>
+		<lat2>34.691504</lat2>
+		<lon2>135.487373</lon2>
+	</station_join>
+</ekidata>

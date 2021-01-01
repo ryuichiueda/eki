@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>33007</line_cd>
+		<line_name>京阪京津線</line_name>
+		<station_cd>3300702</station_cd>
+		<station_g_cd>1160119</station_g_cd>
+		<station_name>京阪山科</station_name>
+		<lon>135.816835</lon>
+		<lat>34.992039</lat>
+	</station>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>11601</line_cd>
+		<line_name>琵琶湖線</line_name>
+		<station_cd>1160119</station_cd>
+		<station_name>山科</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>11605</line_cd>
+		<line_name>JR湖西線</line_name>
+		<station_cd>1160502</station_cd>
+		<station_name>山科</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>33007</line_cd>
+		<line_name>京阪京津線</line_name>
+		<station_cd>3300702</station_cd>
+		<station_name>京阪山科</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>99611</line_cd>
+		<line_name>京都市営地下鉄東西線</line_name>
+		<station_cd>9961107</station_cd>
+		<station_name>山科</station_name>
+	</station_g>
+</ekidata>

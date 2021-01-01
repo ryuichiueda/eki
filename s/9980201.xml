@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>37</pref_cd>
+		<line_cd>99802</line_cd>
+		<line_name>琴電琴平線</line_name>
+		<station_cd>9980201</station_cd>
+		<station_g_cd>1180201</station_g_cd>
+		<station_name>高松築港</station_name>
+		<lon>134.049507</lon>
+		<lat>34.35079</lat>
+	</station>
+</ekidata>

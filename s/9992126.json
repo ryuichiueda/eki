@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":46,"line_cd":99921,"line_name":"肥薩おれんじ鉄道線","station_cd":9992126,"station_g_cd":9992126,"station_name":"草道","lon":130.233533,"lat":31.854556}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

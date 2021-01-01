@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99340,"line_name":"北総鉄道北総線","station_cd":9934014,"station_g_cd":9934014,"station_name":"印西牧の原","lon":140.166911,"lat":35.803608}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

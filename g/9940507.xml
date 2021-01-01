@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99405</line_cd>
+		<line_name>長野電鉄長野線</line_name>
+		<station_cd>9940507</station_cd>
+		<station_g_cd>9940507</station_g_cd>
+		<station_name>信濃吉田</station_name>
+		<lon>138.220904</lon>
+		<lat>36.667428</lat>
+	</station>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>99405</line_cd>
+		<line_name>長野電鉄長野線</line_name>
+		<station_cd>9940507</station_cd>
+		<station_name>信濃吉田</station_name>
+	</station_g>
+</ekidata>

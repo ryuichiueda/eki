@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>17</pref_cd>
+		<line_cd>99418</line_cd>
+		<line_name>のと鉄道七尾線</line_name>
+		<station_cd>9941801</station_cd>
+		<station_g_cd>1141920</station_g_cd>
+		<station_name>和倉温泉</station_name>
+		<lon>136.925884</lon>
+		<lat>37.074663</lat>
+	</station>
+</ekidata>

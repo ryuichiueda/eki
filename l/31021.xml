@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>31021</line_cd>
+		<line_name>近鉄信貴線</line_name>
+		<line_lon>135.63263404761</line_lon>
+		<line_lat>34.625062516621</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3102101</station_cd>
+		<station_g_cd>3100510</station_g_cd>
+		<station_name>河内山本</station_name>
+		<lon>135.619317</lon>
+		<lat>34.627892</lat>
+	</station>
+	<station>
+		<station_cd>3102102</station_cd>
+		<station_g_cd>3102102</station_g_cd>
+		<station_name>服部川</station_name>
+		<lon>135.641102</lon>
+		<lat>34.626481</lat>
+	</station>
+	<station>
+		<station_cd>3102103</station_cd>
+		<station_g_cd>3102103</station_g_cd>
+		<station_name>信貴山口</station_name>
+		<lon>135.642118</lon>
+		<lat>34.619967</lat>
+	</station>
+</ekidata>

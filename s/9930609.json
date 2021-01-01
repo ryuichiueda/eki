@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":11,"line_cd":99306,"line_name":"秩父鉄道秩父本線","station_cd":9930609,"station_g_cd":9930609,"station_name":"上熊谷","lon":139.38134,"lat":36.142657}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

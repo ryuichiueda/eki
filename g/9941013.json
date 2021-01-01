@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":16,"line_cd":99410,"line_name":"富山地鉄不二越・上滝線","station_cd":9941013,"station_name":"上滝"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

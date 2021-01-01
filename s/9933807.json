@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99338,"line_name":"東葉高速線","station_cd":9933807,"station_g_cd":9933807,"station_name":"八千代中央","lon":140.103713,"lat":35.727807}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11101</line_cd>
+		<line_name>JR函館本線(函館～長万部)</line_name>
+		<station_cd>1110101</station_cd>
+		<station_g_cd>1110101</station_g_cd>
+		<station_name>函館</station_name>
+		<lon>140.726413</lon>
+		<lat>41.773709</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11101</line_cd>
+		<line_name>JR函館本線(函館～長万部)</line_name>
+		<station_cd>1110101</station_cd>
+		<station_name>函館</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>99108</line_cd>
+		<line_name>道南いさりび鉄道線</line_name>
+		<station_cd>1111922</station_cd>
+		<station_name>函館</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>99105</line_cd>
+		<line_name>函館市電２系統</line_name>
+		<station_cd>9910517</station_cd>
+		<station_name>函館駅前</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>99106</line_cd>
+		<line_name>函館市電５系統</line_name>
+		<station_cd>9910617</station_cd>
+		<station_name>函館駅前</station_name>
+	</station_g>
+</ekidata>

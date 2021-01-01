@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":38,"line_cd":99807,"line_name":"伊予鉄道横河原線","station_cd":9980705,"station_g_cd":9980705,"station_name":"北久米","lon":132.798664,"lat":33.819277}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

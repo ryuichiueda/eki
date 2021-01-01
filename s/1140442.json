@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":15,"line_cd":11404,"line_name":"JR信越本線(直江津～新潟)","station_cd":1140442,"station_g_cd":1140442,"station_name":"新潟","lon":139.060869,"lat":37.912299}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

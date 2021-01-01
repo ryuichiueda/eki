@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":46,"line_cd":11930,"line_name":"JR指宿枕崎線","station_cd":1193027,"station_g_cd":1193027,"station_name":"西頴娃","lon":130.491351,"lat":31.241025}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

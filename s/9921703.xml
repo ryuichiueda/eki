@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>99217</line_cd>
+		<line_name>仙台空港線</line_name>
+		<station_cd>9921703</station_cd>
+		<station_g_cd>9921703</station_g_cd>
+		<station_name>美田園</station_name>
+		<lon>140.917404</lon>
+		<lat>38.15965</lat>
+	</station>
+</ekidata>

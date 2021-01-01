@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>42</pref_cd>
+		<line_cd>99912</line_cd>
+		<line_name>島原鉄道線</line_name>
+		<station_cd>9991217</station_cd>
+		<station_g_cd>9991217</station_g_cd>
+		<station_name>有明湯江</station_name>
+		<lon>130.328246</lon>
+		<lat>32.858249</lat>
+	</station>
+</ekidata>

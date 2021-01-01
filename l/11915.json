@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11915,"line_name":"JR後藤寺線","line_lon":130.74314741536,"line_lat":33.638942676083,"line_zoom":12,"station_l":[{"station_cd":1191501,"station_g_cd":1191113,"station_name":"新飯塚","lon":130.694278,"lat":33.644261},{"station_cd":1191502,"station_g_cd":1191502,"station_name":"上三緒","lon":130.713824,"lat":33.622254},{"station_cd":1191503,"station_g_cd":1191503,"station_name":"下鴨生","lon":130.728209,"lat":33.614811},{"station_cd":1191504,"station_g_cd":1191504,"station_name":"筑前庄内","lon":130.738475,"lat":33.61635},{"station_cd":1191505,"station_g_cd":1191505,"station_name":"船尾","lon":130.767387,"lat":33.630221},{"station_cd":1191506,"station_g_cd":1191414,"station_name":"田川後藤寺","lon":130.800232,"lat":33.630294}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

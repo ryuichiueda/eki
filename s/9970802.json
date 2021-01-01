@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":99708,"line_name":"スカイレールみどり坂線","station_cd":9970802,"station_g_cd":9970802,"station_name":"みどり中街","lon":132.594804,"lat":34.42771}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

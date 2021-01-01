@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>32001</line_cd>
+		<line_name>南海本線</line_name>
+		<station_cd>3200106</station_cd>
+		<station_g_cd>3200106</station_g_cd>
+		<station_name>住吉大社</station_name>
+		<lon>135.490124</lon>
+		<lat>34.612431</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>32001</line_cd>
+		<line_name>南海本線</line_name>
+		<station_cd>3200106</station_cd>
+		<station_name>住吉大社</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99629</line_cd>
+		<line_name>阪堺電軌阪堺線</line_name>
+		<station_cd>9962913</station_cd>
+		<station_name>住吉鳥居前</station_name>
+	</station_g>
+</ekidata>

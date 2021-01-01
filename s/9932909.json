@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99329,"line_name":"新京成線","station_cd":9932909,"station_g_cd":9932909,"station_name":"滝不動","lon":140.02622,"lat":35.737957}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11806</line_cd>
+		<line_name>JR予讃線</line_name>
+		<station_cd>1180608</station_cd>
+		<station_g_cd>1180608</station_g_cd>
+		<station_name>八十場</station_name>
+		<lon>133.884815</lon>
+		<lat>34.313014</lat>
+	</station>
+	<station_g>
+		<pref_cd>37</pref_cd>
+		<line_cd>11806</line_cd>
+		<line_name>JR予讃線</line_name>
+		<station_cd>1180608</station_cd>
+		<station_name>八十場</station_name>
+	</station_g>
+</ekidata>

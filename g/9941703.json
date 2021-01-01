@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":17,"line_cd":99417,"line_name":"北陸鉄道浅野川線","station_cd":9941703,"station_name":"上諸江"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

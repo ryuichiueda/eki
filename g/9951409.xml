@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99514</line_cd>
+		<line_name>名古屋市営地下鉄名城線</line_name>
+		<station_cd>9951409</station_cd>
+		<station_g_cd>3001201</station_g_cd>
+		<station_name>栄</station_name>
+		<lon>136.908031</lon>
+		<lat>35.16999</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30012</line_cd>
+		<line_name>名鉄瀬戸線</line_name>
+		<station_cd>3001201</station_cd>
+		<station_name>栄町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>99513</line_cd>
+		<line_name>名古屋市営地下鉄東山線</line_name>
+		<station_cd>9951310</station_cd>
+		<station_name>栄</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>99514</line_cd>
+		<line_name>名古屋市営地下鉄名城線</line_name>
+		<station_cd>9951409</station_cd>
+		<station_name>栄</station_name>
+	</station_g>
+</ekidata>

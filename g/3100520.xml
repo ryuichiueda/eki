@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31005</line_cd>
+		<line_name>近鉄大阪線</line_name>
+		<station_cd>3100520</station_cd>
+		<station_g_cd>3100520</station_g_cd>
+		<station_name>近鉄下田</station_name>
+		<lon>135.704033</lon>
+		<lat>34.541478</lat>
+	</station>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31005</line_cd>
+		<line_name>近鉄大阪線</line_name>
+		<station_cd>3100520</station_cd>
+		<station_name>近鉄下田</station_name>
+	</station_g>
+</ekidata>

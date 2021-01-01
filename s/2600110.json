@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":26001,"line_name":"東急東横線","station_cd":2600110,"station_g_cd":2600110,"station_name":"新丸子","lon":139.661964,"lat":35.58049}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

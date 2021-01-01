@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30005</line_cd>
+		<line_name>名鉄三河線</line_name>
+		<station_cd>3000515</station_cd>
+		<station_g_cd>3000515</station_g_cd>
+		<station_name>若林</station_name>
+		<lon>137.095851</lon>
+		<lat>35.026284</lat>
+	</station>
+</ekidata>

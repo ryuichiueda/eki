@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":99317,"line_name":"金沢シーサイドライン","station_cd":9931713,"station_name":"野島公園"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

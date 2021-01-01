@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99302</line_cd>
+		<line_name>都営浅草線</line_name>
+		<station_cd>9930212</station_cd>
+		<station_g_cd>2800110</station_g_cd>
+		<station_name>宝町</station_name>
+		<lon>139.771767</lon>
+		<lat>35.675461</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28001</line_cd>
+		<line_name>東京メトロ銀座線</line_name>
+		<station_cd>2800110</station_cd>
+		<station_name>京橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99302</line_cd>
+		<line_name>都営浅草線</line_name>
+		<station_cd>9930212</station_cd>
+		<station_name>宝町</station_name>
+	</station_g>
+</ekidata>

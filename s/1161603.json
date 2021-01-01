@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":11616,"line_name":"JR山陰本線(豊岡～米子)","station_cd":1161603,"station_g_cd":1161603,"station_name":"城崎温泉","lon":134.813437,"lat":35.623764}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

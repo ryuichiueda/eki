@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":99315,"line_name":"ひたちなか海浜鉄道湊線","station_cd":9931509,"station_g_cd":1122918,"station_name":"勝田","lon":140.524482,"lat":36.394033}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

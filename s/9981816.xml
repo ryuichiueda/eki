@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>39</pref_cd>
+		<line_cd>99818</line_cd>
+		<line_name>伊野線</line_name>
+		<station_cd>9981816</station_cd>
+		<station_g_cd>9981816</station_g_cd>
+		<station_name>鏡川橋</station_name>
+		<lon>133.498456</lon>
+		<lat>33.555665</lat>
+	</station>
+</ekidata>

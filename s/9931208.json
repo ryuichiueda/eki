@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":10,"line_cd":99312,"line_name":"わたらせ渓谷線","station_cd":9931208,"station_g_cd":9931208,"station_name":"水沼","lon":139.277579,"lat":36.499866}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

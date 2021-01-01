@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":41,"line_cd":99910,"line_name":"西九州線(有田～伊万里)","station_cd":9991002,"station_g_cd":9991002,"station_name":"三代橋","lon":129.866336,"lat":33.188949}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

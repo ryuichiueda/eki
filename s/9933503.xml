@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>99335</line_cd>
+		<line_name>銚子電鉄線</line_name>
+		<station_cd>9933503</station_cd>
+		<station_g_cd>9933503</station_g_cd>
+		<station_name>観音</station_name>
+		<lon>140.840112</lon>
+		<lat>35.728952</lat>
+	</station>
+</ekidata>

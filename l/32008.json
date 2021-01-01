@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":32008,"line_name":"南海高野山ケーブル","line_lon":135.57993433069,"line_lat":34.2315662376,"line_zoom":15,"station_l":[{"station_cd":3200801,"station_g_cd":3200742,"station_name":"極楽橋","lon":135.582078,"lat":34.23435},{"station_cd":3200802,"station_g_cd":3200802,"station_name":"高野山","lon":135.577619,"lat":34.227789}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

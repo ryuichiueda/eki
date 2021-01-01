@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99617,"line_name":"水間鉄道水間線","station_cd":9961706,"station_g_cd":9961706,"station_name":"名越","lon":135.375027,"lat":34.421467}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

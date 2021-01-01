@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":20,"line_cd":11414,"line_name":"JR飯田線(天竜峡～辰野)","station_cd":1141429,"station_g_cd":1141429,"station_name":"大田切","lon":137.940159,"lat":35.748162}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

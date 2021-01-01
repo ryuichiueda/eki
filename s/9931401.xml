@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99314</line_cd>
+		<line_name>伊豆箱根鉄道大雄山線</line_name>
+		<station_cd>9931401</station_cd>
+		<station_g_cd>1130116</station_g_cd>
+		<station_name>小田原</station_name>
+		<lon>139.156474</lon>
+		<lat>35.25658</lat>
+	</station>
+</ekidata>

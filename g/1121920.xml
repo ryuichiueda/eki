@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11219</line_cd>
+		<line_name>JR米坂線</line_name>
+		<station_cd>1121920</station_cd>
+		<station_g_cd>1121412</station_g_cd>
+		<station_name>坂町</station_name>
+		<lon>139.445838</lon>
+		<lat>38.119277</lat>
+	</station>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11214</line_cd>
+		<line_name>JR羽越本線</line_name>
+		<station_cd>1121412</station_cd>
+		<station_name>坂町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11219</line_cd>
+		<line_name>JR米坂線</line_name>
+		<station_cd>1121920</station_cd>
+		<station_name>坂町</station_name>
+	</station_g>
+</ekidata>

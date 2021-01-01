@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>28008</line_cd>
+		<line_name>東京メトロ半蔵門線</line_name>
+		<station_cd>2800813</station_cd>
+		<station_g_cd>2100203</station_g_cd>
+		<station_name>押上〈スカイツリー前〉</station_name>
+		<lon>139.812935</lon>
+		<lat>35.710702</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11502</line_cd>
+		<line_name>JR東海道本線(浜松～岐阜)</line_name>
+		<station_cd>1150224</station_cd>
+		<station_g_cd>1150224</station_g_cd>
+		<station_name>刈谷</station_name>
+		<lon>137.008878</lon>
+		<lat>34.991156</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>11502</line_cd>
+		<line_name>JR東海道本線(浜松～岐阜)</line_name>
+		<station_cd>1150224</station_cd>
+		<station_name>刈谷</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30005</line_cd>
+		<line_name>名鉄三河線</line_name>
+		<station_cd>3000510</station_cd>
+		<station_name>刈谷</station_name>
+	</station_g>
+</ekidata>

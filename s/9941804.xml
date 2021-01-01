@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>17</pref_cd>
+		<line_cd>99418</line_cd>
+		<line_name>のと鉄道七尾線</line_name>
+		<station_cd>9941804</station_cd>
+		<station_g_cd>9941804</station_g_cd>
+		<station_name>能登中島</station_name>
+		<lon>136.853339</lon>
+		<lat>37.109174</lat>
+	</station>
+</ekidata>

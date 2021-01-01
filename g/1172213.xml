@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11722</line_cd>
+		<line_name>JR美祢線</line_name>
+		<station_cd>1172213</station_cd>
+		<station_g_cd>1172213</station_g_cd>
+		<station_name>仙崎</station_name>
+		<lon>131.198904</lon>
+		<lat>34.387841</lat>
+	</station>
+	<station_g>
+		<pref_cd>35</pref_cd>
+		<line_cd>11722</line_cd>
+		<line_name>JR美祢線</line_name>
+		<station_cd>1172213</station_cd>
+		<station_name>仙崎</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":24,"line_cd":99531,"line_name":"伊賀鉄道伊賀線","station_cd":9953105,"station_g_cd":3100605,"station_name":"広小路","lon":136.134427,"lat":34.767054}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

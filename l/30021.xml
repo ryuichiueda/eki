@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>30021</line_cd>
+		<line_name>名鉄羽島線</line_name>
+		<line_lon>136.693134</line_lon>
+		<line_lat>35.31404976239</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3002101</station_cd>
+		<station_g_cd>3002009</station_g_cd>
+		<station_name>江吉良</station_name>
+		<lon>136.699686</lon>
+		<lat>35.31543</lat>
+	</station>
+	<station>
+		<station_cd>3002102</station_cd>
+		<station_g_cd>3002102</station_g_cd>
+		<station_name>新羽島</station_name>
+		<lon>136.686582</lon>
+		<lat>35.315471</lat>
+	</station>
+</ekidata>

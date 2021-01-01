@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11607</line_cd>
+		<line_name>大和路線</line_name>
+		<station_cd>1160705</station_cd>
+		<station_g_cd>1160705</station_g_cd>
+		<station_name>郡山</station_name>
+		<lon>135.790441</lon>
+		<lat>34.648335</lat>
+	</station>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>11607</line_cd>
+		<line_name>大和路線</line_name>
+		<station_cd>1160705</station_cd>
+		<station_name>郡山</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>29</pref_cd>
+		<line_cd>11607</line_cd>
+		<line_name>大和路線</line_name>
+		<station_cd>1160709</station_cd>
+		<station_g_cd>1160709</station_g_cd>
+		<station_name>三郷</station_name>
+		<lon>135.687484</lon>
+		<lat>34.588867</lat>
+	</station>
+</ekidata>

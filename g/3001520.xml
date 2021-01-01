@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>30015</line_cd>
+		<line_name>名鉄犬山線</line_name>
+		<station_cd>3001520</station_cd>
+		<station_g_cd>1141606</station_g_cd>
+		<station_name>新鵜沼</station_name>
+		<lon>136.944314</lon>
+		<lat>35.396799</lat>
+	</station>
+	<station_g>
+		<pref_cd>21</pref_cd>
+		<line_cd>11416</line_cd>
+		<line_name>JR高山本線</line_name>
+		<station_cd>1141606</station_cd>
+		<station_name>鵜沼</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>21</pref_cd>
+		<line_cd>30015</line_cd>
+		<line_name>名鉄犬山線</line_name>
+		<station_cd>3001520</station_cd>
+		<station_name>新鵜沼</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>21</pref_cd>
+		<line_cd>30016</line_cd>
+		<line_name>名鉄各務原線</line_name>
+		<station_cd>3001601</station_cd>
+		<station_name>新鵜沼</station_name>
+	</station_g>
+</ekidata>

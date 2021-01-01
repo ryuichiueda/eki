@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":11629,"line_name":"JR宝塚線","station_cd":1162917,"station_g_cd":1162917,"station_name":"広野","lon":135.191267,"lat":34.928424}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

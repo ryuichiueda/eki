@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30001</line_cd>
+		<line_name>名鉄名古屋本線</line_name>
+		<station_cd>3000151</station_cd>
+		<station_g_cd>3000151</station_g_cd>
+		<station_name>今伊勢</station_name>
+		<lon>136.789273</lon>
+		<lat>35.31836</lat>
+	</station>
+</ekidata>

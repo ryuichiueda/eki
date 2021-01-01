@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99102</line_cd>
+		<line_name>札幌市営地下鉄南北線</line_name>
+		<station_cd>9910211</station_cd>
+		<station_g_cd>9910211</station_g_cd>
+		<station_name>中の島</station_name>
+		<lon>141.360758</lon>
+		<lat>43.037727</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>99102</line_cd>
+		<line_name>札幌市営地下鉄南北線</line_name>
+		<station_cd>9910211</station_cd>
+		<station_name>中の島</station_name>
+	</station_g>
+</ekidata>

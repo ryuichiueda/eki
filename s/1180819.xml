@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>38</pref_cd>
+		<line_cd>11808</line_cd>
+		<line_name>しまんとグリーンライン</line_name>
+		<station_cd>1180819</station_cd>
+		<station_g_cd>1180819</station_g_cd>
+		<station_name>伊予宮野下</station_name>
+		<lon>132.605849</lon>
+		<lat>33.289023</lat>
+	</station>
+</ekidata>

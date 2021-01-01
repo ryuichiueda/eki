@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>9</pref_cd>
+		<line_cd>21008</line_cd>
+		<line_name>東武宇都宮線</line_name>
+		<station_cd>2100802</station_cd>
+		<station_g_cd>2100313</station_g_cd>
+		<station_name>新栃木</station_name>
+		<lon>139.742308</lon>
+		<lat>36.390149</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11302</line_cd>
+		<line_name>JR山手線</line_name>
+		<station_cd>1130201</station_cd>
+		<station_g_cd>1130201</station_g_cd>
+		<station_name>大崎</station_name>
+		<lon>139.728439</lon>
+		<lat>35.619772</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11302</line_cd>
+		<line_name>JR山手線</line_name>
+		<station_cd>1130201</station_cd>
+		<station_name>大崎</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11321</line_cd>
+		<line_name>JR埼京線</line_name>
+		<station_cd>1132101</station_cd>
+		<station_name>大崎</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11333</line_cd>
+		<line_name>JR湘南新宿ライン</line_name>
+		<station_cd>1133307</station_cd>
+		<station_name>大崎</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99337</line_cd>
+		<line_name>りんかい線</line_name>
+		<station_cd>9933708</station_cd>
+		<station_name>大崎</station_name>
+	</station_g>
+</ekidata>

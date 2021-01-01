@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":16,"line_cd":99425,"line_name":"あいの風とやま鉄道線","station_cd":1140507,"station_g_cd":1140507,"station_name":"黒部","lon":137.434393,"lat":36.869322}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

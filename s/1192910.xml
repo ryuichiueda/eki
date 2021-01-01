@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>45</pref_cd>
+		<line_cd>11929</line_cd>
+		<line_name>えびの高原線</line_name>
+		<station_cd>1192910</station_cd>
+		<station_g_cd>1192910</station_g_cd>
+		<station_name>小林</station_name>
+		<lon>130.976132</lon>
+		<lat>31.990749</lat>
+	</station>
+</ekidata>

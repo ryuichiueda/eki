@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99905</line_cd>
+		<line_name>福岡市営地下鉄空港線</line_name>
+		<station_cd>9990506</station_cd>
+		<station_g_cd>9990506</station_g_cd>
+		<station_name>天神</station_name>
+		<lon>130.39906</lon>
+		<lat>33.591346</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>99905</line_cd>
+		<line_name>福岡市営地下鉄空港線</line_name>
+		<station_cd>9990506</station_cd>
+		<station_name>天神</station_name>
+	</station_g>
+</ekidata>

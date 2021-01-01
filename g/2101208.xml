@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>21012</line_cd>
+		<line_name>東武小泉線</line_name>
+		<station_cd>2101208</station_cd>
+		<station_g_cd>2100248</station_g_cd>
+		<station_name>太田</station_name>
+		<lon>139.378779</lon>
+		<lat>36.294228</lat>
+	</station>
+	<station_g>
+		<pref_cd>10</pref_cd>
+		<line_cd>21002</line_cd>
+		<line_name>東武伊勢崎線</line_name>
+		<station_cd>2100248</station_cd>
+		<station_name>太田</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>10</pref_cd>
+		<line_cd>21011</line_cd>
+		<line_name>東武桐生線</line_name>
+		<station_cd>2101101</station_cd>
+		<station_name>太田</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>10</pref_cd>
+		<line_cd>21012</line_cd>
+		<line_name>東武小泉線</line_name>
+		<station_cd>2101208</station_cd>
+		<station_name>太田</station_name>
+	</station_g>
+</ekidata>

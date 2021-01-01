@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99802</line_cd>
+		<line_name>琴電琴平線</line_name>
+		<station_cd>9980202</station_cd>
+		<station_g_cd>9980202</station_g_cd>
+		<station_name>片原町</station_name>
+		<lon>134.054368</lon>
+		<lat>34.346138</lat>
+	</station>
+	<station_g>
+		<pref_cd>37</pref_cd>
+		<line_cd>99802</line_cd>
+		<line_name>琴電琴平線</line_name>
+		<station_cd>9980202</station_cd>
+		<station_name>片原町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>37</pref_cd>
+		<line_cd>99803</line_cd>
+		<line_name>琴電長尾線</line_name>
+		<station_cd>9980302</station_cd>
+		<station_name>片原町</station_name>
+	</station_g>
+</ekidata>

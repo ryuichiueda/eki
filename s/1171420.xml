@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>34</pref_cd>
+		<line_cd>11714</line_cd>
+		<line_name>JR芸備線</line_name>
+		<station_cd>1171420</station_cd>
+		<station_g_cd>1171420</station_g_cd>
+		<station_name>七塚</station_name>
+		<lon>132.98584</lon>
+		<lat>34.844391</lat>
+	</station>
+</ekidata>

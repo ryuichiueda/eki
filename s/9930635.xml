@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>99306</line_cd>
+		<line_name>秩父鉄道秩父本線</line_name>
+		<station_cd>9930635</station_cd>
+		<station_g_cd>9930635</station_g_cd>
+		<station_name>三峰口</station_name>
+		<lon>138.978706</lon>
+		<lat>35.960075</lat>
+	</station>
+</ekidata>

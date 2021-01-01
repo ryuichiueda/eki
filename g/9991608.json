@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":42,"line_cd":99913,"line_name":"長崎電軌１系統","station_cd":9991322,"station_name":"新地中華街"},{"pref_cd":42,"line_cd":99916,"line_name":"長崎電軌５系統","station_cd":9991608,"station_name":"新地中華街"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

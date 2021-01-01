@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>18</pref_cd>
+		<line_cd>99420</line_cd>
+		<line_name>えちぜん鉄道三国芦原線</line_name>
+		<station_cd>9942011</station_cd>
+		<station_g_cd>9942011</station_g_cd>
+		<station_name>西春江ハートピア</station_name>
+		<lon>136.206187</lon>
+		<lat>36.138964</lat>
+	</station>
+</ekidata>

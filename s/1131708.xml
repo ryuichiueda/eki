@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>11317</line_cd>
+		<line_name>JR八高線(八王子～高麗川)</line_name>
+		<station_cd>1131708</station_cd>
+		<station_g_cd>1131708</station_g_cd>
+		<station_name>東飯能</station_name>
+		<lon>139.325965</lon>
+		<lat>35.852928</lat>
+	</station>
+</ekidata>

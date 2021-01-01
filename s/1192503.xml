@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>11925</line_cd>
+		<line_name>えびの高原線(八代～吉松)</line_name>
+		<station_cd>1192503</station_cd>
+		<station_g_cd>1192503</station_g_cd>
+		<station_name>坂本</station_name>
+		<lon>130.657898</lon>
+		<lat>32.435149</lat>
+	</station>
+</ekidata>

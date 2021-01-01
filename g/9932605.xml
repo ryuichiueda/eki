@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99326</line_cd>
+		<line_name>湘南モノレール</line_name>
+		<station_cd>9932605</station_cd>
+		<station_g_cd>9932605</station_g_cd>
+		<station_name>西鎌倉</station_name>
+		<lon>139.504365</lon>
+		<lat>35.319383</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99326</line_cd>
+		<line_name>湘南モノレール</line_name>
+		<station_cd>9932605</station_cd>
+		<station_name>西鎌倉</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":99315,"line_name":"ひたちなか海浜鉄道湊線","station_cd":9931505,"station_g_cd":9931505,"station_name":"那珂湊","lon":140.587716,"lat":36.345453}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

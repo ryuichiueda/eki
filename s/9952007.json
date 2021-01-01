@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":99520,"line_name":"豊橋鉄道渥美線","station_cd":9952007,"station_g_cd":9952007,"station_name":"芦原","lon":137.380122,"lat":34.718433}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

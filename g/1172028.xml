@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11720</line_cd>
+		<line_name>JR福塩線</line_name>
+		<station_cd>1172028</station_cd>
+		<station_g_cd>1171424</station_g_cd>
+		<station_name>神杉</station_name>
+		<lon>132.902747</lon>
+		<lat>34.780725</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>11714</line_cd>
+		<line_name>JR芸備線</line_name>
+		<station_cd>1171424</station_cd>
+		<station_name>神杉</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>11720</line_cd>
+		<line_name>JR福塩線</line_name>
+		<station_cd>1172028</station_cd>
+		<station_name>神杉</station_name>
+	</station_g>
+</ekidata>

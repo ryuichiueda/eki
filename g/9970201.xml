@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99702</line_cd>
+		<line_name>北松江線</line_name>
+		<station_cd>9970201</station_cd>
+		<station_g_cd>1170113</station_g_cd>
+		<station_name>電鉄出雲市</station_name>
+		<lon>132.75777</lon>
+		<lat>35.36113</lat>
+	</station>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>11701</line_cd>
+		<line_name>JR山陰本線(米子～益田)</line_name>
+		<station_cd>1170113</station_cd>
+		<station_name>出雲市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>99702</line_cd>
+		<line_name>北松江線</line_name>
+		<station_cd>9970201</station_cd>
+		<station_name>電鉄出雲市</station_name>
+	</station_g>
+</ekidata>

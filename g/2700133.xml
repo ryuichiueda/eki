@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>27001</line_cd>
+		<line_name>京急本線</line_name>
+		<station_cd>2700133</station_cd>
+		<station_g_cd>2700133</station_g_cd>
+		<station_name>上大岡</station_name>
+		<lon>139.596552</lon>
+		<lat>35.409418</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>27001</line_cd>
+		<line_name>京急本線</line_name>
+		<station_cd>2700133</station_cd>
+		<station_name>上大岡</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99316</line_cd>
+		<line_name>ブルーライン</line_name>
+		<station_cd>9931622</station_cd>
+		<station_name>上大岡</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99518</line_cd>
+		<line_name>名古屋市営地下鉄上飯田線</line_name>
+		<line_lon>136.929713</line_lon>
+		<line_lat>35.201222076956</line_lat>
+		<line_zoom>15</line_zoom>
+	</line>
+	<station>
+		<station_cd>9951801</station_cd>
+		<station_g_cd>9951403</station_g_cd>
+		<station_name>平安通</station_name>
+		<lon>136.929784</lon>
+		<lat>35.195934</lat>
+	</station>
+	<station>
+		<station_cd>9951802</station_cd>
+		<station_g_cd>3001801</station_g_cd>
+		<station_name>上飯田</station_name>
+		<lon>136.929642</lon>
+		<lat>35.203845</lat>
+	</station>
+</ekidata>

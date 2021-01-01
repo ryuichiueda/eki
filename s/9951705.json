@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":99517,"line_name":"名古屋市営地下鉄桜通線","station_cd":9951705,"station_g_cd":9951408,"station_name":"久屋大通","lon":136.908156,"lat":35.173784}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

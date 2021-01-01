@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":21,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141113,"station_name":"多治見"},{"pref_cd":21,"line_cd":11507,"line_name":"JR太多線","station_cd":1150701,"station_name":"多治見"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

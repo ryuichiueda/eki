@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>7</pref_cd>
+		<line_cd>11227</line_cd>
+		<line_name>JR只見線</line_name>
+		<station_cd>1122717</station_cd>
+		<station_g_cd>1122717</station_g_cd>
+		<station_name>会津宮下</station_name>
+		<lon>139.647102</lon>
+		<lat>37.471169</lat>
+	</station>
+</ekidata>

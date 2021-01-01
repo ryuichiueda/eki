@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11640</line_cd>
+		<line_name>紀勢本線(和歌山～和歌山市)</line_name>
+		<line_lon>135.17833371428</line_lon>
+		<line_lat>34.238033068498</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>1164001</station_cd>
+		<station_g_cd>1162635</station_g_cd>
+		<station_name>和歌山</station_name>
+		<lon>135.191454</lon>
+		<lat>34.232436</lat>
+	</station>
+	<station>
+		<station_cd>1164002</station_cd>
+		<station_g_cd>1164002</station_g_cd>
+		<station_name>紀和</station_name>
+		<lon>135.181451</lon>
+		<lat>34.241966</lat>
+	</station>
+	<station>
+		<station_cd>1164003</station_cd>
+		<station_g_cd>1164003</station_g_cd>
+		<station_name>和歌山市</station_name>
+		<lon>135.166731</lon>
+		<lat>34.236717</lat>
+	</station>
+</ekidata>

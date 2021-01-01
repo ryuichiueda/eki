@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":99342,"line_name":"日暮里・舎人ライナー","station_cd":9934210,"station_g_cd":9934210,"station_name":"谷在家","lon":139.770043,"lat":35.788774}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

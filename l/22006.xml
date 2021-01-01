@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>22006</line_cd>
+		<line_name>レオライナー</line_name>
+		<line_lon>139.43144441797</line_lon>
+		<line_lat>35.770567609113</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>2200601</station_cd>
+		<station_g_cd>2200601</station_g_cd>
+		<station_name>西武遊園地</station_name>
+		<lon>139.442747</lon>
+		<lat>35.765881</lat>
+	</station>
+	<station>
+		<station_cd>2200602</station_cd>
+		<station_g_cd>2200602</station_g_cd>
+		<station_name>遊園地西</station_name>
+		<lon>139.440166</lon>
+		<lat>35.769042</lat>
+	</station>
+	<station>
+		<station_cd>2200603</station_cd>
+		<station_g_cd>2200503</station_g_cd>
+		<station_name>西武球場前</station_name>
+		<lon>139.41966</lon>
+		<lat>35.77093</lat>
+	</station>
+</ekidata>

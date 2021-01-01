@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99621,"line_name":"大阪メトロ中央線","station_cd":9962105,"station_g_cd":3500208,"station_name":"九条","lon":135.473749,"lat":34.675492}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

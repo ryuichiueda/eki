@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99715</line_cd>
+		<line_name>広電７号線</line_name>
+		<station_cd>9971515</station_cd>
+		<station_g_cd>9971016</station_g_cd>
+		<station_name>広電本社前</station_name>
+		<lon>132.45821</lon>
+		<lat>34.377375</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99710</line_cd>
+		<line_name>広電１号線(宇品線)</line_name>
+		<station_cd>9971016</station_cd>
+		<station_name>広電本社前</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99712</line_cd>
+		<line_name>広電３号線</line_name>
+		<station_cd>9971212</station_cd>
+		<station_name>広電本社前</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99715</line_cd>
+		<line_name>広電７号線</line_name>
+		<station_cd>9971515</station_cd>
+		<station_name>広電本社前</station_name>
+	</station_g>
+</ekidata>

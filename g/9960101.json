@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":25,"line_cd":11415,"line_name":"JR北陸本線(米原～金沢)","station_cd":1141501,"station_name":"米原"},{"pref_cd":25,"line_cd":11503,"line_name":"JR東海道本線(岐阜～美濃赤坂・米原)","station_cd":1150312,"station_name":"米原"},{"pref_cd":25,"line_cd":11601,"line_name":"琵琶湖線","station_cd":1160101,"station_name":"米原"},{"pref_cd":25,"line_cd":99601,"line_name":"近江鉄道本線","station_cd":9960101,"station_name":"米原"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11626</line_cd>
+		<line_name>阪和線(天王寺～和歌山)</line_name>
+		<station_cd>1162635</station_cd>
+		<station_g_cd>1162635</station_g_cd>
+		<station_name>和歌山</station_name>
+		<lon>135.191454</lon>
+		<lat>34.232436</lat>
+	</station>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>11626</line_cd>
+		<line_name>阪和線(天王寺～和歌山)</line_name>
+		<station_cd>1162635</station_cd>
+		<station_name>和歌山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>11636</line_cd>
+		<line_name>JR和歌山線</line_name>
+		<station_cd>1163636</station_cd>
+		<station_name>和歌山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>11639</line_cd>
+		<line_name>きのくに線</line_name>
+		<station_cd>1163954</station_cd>
+		<station_name>和歌山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>11640</line_cd>
+		<line_name>紀勢本線(和歌山～和歌山市)</line_name>
+		<station_cd>1164001</station_cd>
+		<station_name>和歌山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>99651</line_cd>
+		<line_name>貴志川線</line_name>
+		<station_cd>9965101</station_cd>
+		<station_name>和歌山</station_name>
+	</station_g>
+</ekidata>

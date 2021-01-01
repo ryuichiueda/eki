@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99650</line_cd>
+		<line_name>紀州鉄道線</line_name>
+		<line_lon>135.15612553757</line_lon>
+		<line_lat>33.895428111877</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>9965001</station_cd>
+		<station_g_cd>1163938</station_g_cd>
+		<station_name>御坊</station_name>
+		<lon>135.158752</lon>
+		<lat>33.907724</lat>
+	</station>
+	<station>
+		<station_cd>9965002</station_cd>
+		<station_g_cd>9965002</station_g_cd>
+		<station_name>学門</station_name>
+		<lon>135.156604</lon>
+		<lat>33.89627</lat>
+	</station>
+	<station>
+		<station_cd>9965003</station_cd>
+		<station_g_cd>9965003</station_g_cd>
+		<station_name>紀伊御坊</station_name>
+		<lon>135.154655</lon>
+		<lat>33.894292</lat>
+	</station>
+	<station>
+		<station_cd>9965004</station_cd>
+		<station_g_cd>9965004</station_g_cd>
+		<station_name>市役所前</station_name>
+		<lon>135.152905</lon>
+		<lat>33.889565</lat>
+	</station>
+	<station>
+		<station_cd>9965005</station_cd>
+		<station_g_cd>9965005</station_g_cd>
+		<station_name>西御坊</station_name>
+		<lon>135.152991</lon>
+		<lat>33.886796</lat>
+	</station>
+</ekidata>

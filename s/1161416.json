@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":11614,"line_name":"嵯峨野線","station_cd":1161416,"station_g_cd":1161416,"station_name":"梅小路京都西","lon":135.743167,"lat":34.988778}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

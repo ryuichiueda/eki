@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99816</line_cd>
+		<line_name>ごめん・なはり線</line_name>
+		<station_cd>9981603</station_cd>
+		<station_g_cd>9981603</station_g_cd>
+		<station_name>立田</station_name>
+		<lon>133.670627</lon>
+		<lat>33.57073</lat>
+	</station>
+	<station_g>
+		<pref_cd>39</pref_cd>
+		<line_cd>99816</line_cd>
+		<line_name>ごめん・なはり線</line_name>
+		<station_cd>9981603</station_cd>
+		<station_name>立田</station_name>
+	</station_g>
+</ekidata>

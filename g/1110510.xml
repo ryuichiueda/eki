@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11105</line_cd>
+		<line_name>JR室蘭本線(苫小牧～岩見沢)</line_name>
+		<station_cd>1110510</station_cd>
+		<station_g_cd>1110510</station_g_cd>
+		<station_name>栗山</station_name>
+		<lon>141.775603</lon>
+		<lat>43.058164</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11105</line_cd>
+		<line_name>JR室蘭本線(苫小牧～岩見沢)</line_name>
+		<station_cd>1110510</station_cd>
+		<station_name>栗山</station_name>
+	</station_g>
+</ekidata>

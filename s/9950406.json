@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":99504,"line_name":"静岡鉄道静岡清水線","station_cd":9950406,"station_g_cd":9950406,"station_name":"長沼","lon":138.412884,"lat":34.989069}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

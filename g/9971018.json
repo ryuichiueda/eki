@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":34,"line_cd":99710,"line_name":"広電１号線(宇品線)","station_cd":9971018,"station_name":"皆実町六丁目"},{"pref_cd":34,"line_cd":99712,"line_name":"広電３号線","station_cd":9971210,"station_name":"皆実町六丁目"},{"pref_cd":34,"line_cd":99713,"line_name":"広電５号線(皆実線)","station_cd":9971309,"station_name":"皆実町六丁目"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

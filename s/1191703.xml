@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>11917</line_cd>
+		<line_name>JR香椎線(香椎～宇美)</line_name>
+		<station_cd>1191703</station_cd>
+		<station_g_cd>1191703</station_g_cd>
+		<station_name>舞松原</station_name>
+		<lon>130.455141</lon>
+		<lat>33.645386</lat>
+	</station>
+</ekidata>

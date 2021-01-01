@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":11320,"line_name":"JR常磐線(上野～取手)","station_cd":1132008,"station_name":"金町"},{"pref_cd":13,"line_cd":23003,"line_name":"京成金町線","station_cd":2300303,"station_name":"京成金町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

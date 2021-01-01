@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":21,"line_cd":30001,"line_name":"名鉄名古屋本線","station_cd":3000160,"station_g_cd":3000160,"station_name":"名鉄岐阜","lon":136.760066,"lat":35.411136}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

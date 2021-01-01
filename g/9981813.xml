@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99818</line_cd>
+		<line_name>伊野線</line_name>
+		<station_cd>9981813</station_cd>
+		<station_g_cd>9981813</station_g_cd>
+		<station_name>旭駅前通</station_name>
+		<lon>133.509636</lon>
+		<lat>33.555987</lat>
+	</station>
+	<station_g>
+		<pref_cd>39</pref_cd>
+		<line_cd>99818</line_cd>
+		<line_name>伊野線</line_name>
+		<station_cd>9981813</station_cd>
+		<station_name>旭駅前通</station_name>
+	</station_g>
+</ekidata>

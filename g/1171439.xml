@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11714</line_cd>
+		<line_name>JR芸備線</line_name>
+		<station_cd>1171439</station_cd>
+		<station_g_cd>1171439</station_g_cd>
+		<station_name>上深川</station_name>
+		<lon>132.562619</lon>
+		<lat>34.47591</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>11714</line_cd>
+		<line_name>JR芸備線</line_name>
+		<station_cd>1171439</station_cd>
+		<station_name>上深川</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>30017</line_cd>
+		<line_name>名鉄広見線</line_name>
+		<station_cd>3001701</station_cd>
+		<station_g_cd>3001518</station_g_cd>
+		<station_name>犬山</station_name>
+		<lon>136.945536</lon>
+		<lat>35.379871</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30015</line_cd>
+		<line_name>名鉄犬山線</line_name>
+		<station_cd>3001518</station_cd>
+		<station_name>犬山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30017</line_cd>
+		<line_name>名鉄広見線</line_name>
+		<station_cd>3001701</station_cd>
+		<station_name>犬山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30018</line_cd>
+		<line_name>名鉄小牧線</line_name>
+		<station_cd>3001814</station_cd>
+		<station_name>犬山</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99344,"line_name":"箱根登山ケーブルカー","line_lon":139.04142379761,"line_lat":35.248167,"line_zoom":15,"station_l":[{"station_cd":9934401,"station_g_cd":9933911,"station_name":"強羅","lon":139.048162,"lat":35.25085},{"station_cd":9934402,"station_g_cd":9934402,"station_name":"公園下","lon":139.045639,"lat":35.249944},{"station_cd":9934403,"station_g_cd":9934403,"station_name":"公園上","lon":139.043167,"lat":35.249083},{"station_cd":9934404,"station_g_cd":9934404,"station_name":"中強羅","lon":139.040556,"lat":35.248167},{"station_cd":9934405,"station_g_cd":9934405,"station_name":"上強羅","lon":139.038056,"lat":35.247306},{"station_cd":9934406,"station_g_cd":9934406,"station_name":"早雲山","lon":139.035611,"lat":35.246444}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

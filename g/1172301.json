@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":35,"line_cd":11721,"line_name":"JR宇部線","station_cd":1172115,"station_name":"宇部新川"},{"pref_cd":35,"line_cd":11723,"line_name":"JR小野田線","station_cd":1172301,"station_name":"宇部新川"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

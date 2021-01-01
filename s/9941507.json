@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":16,"line_cd":99415,"line_name":"富山港線","station_cd":9941507,"station_g_cd":9941507,"station_name":"城川原","lon":137.226082,"lat":36.731103}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

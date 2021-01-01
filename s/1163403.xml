@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>33</pref_cd>
+		<line_cd>11634</line_cd>
+		<line_name>JR姫新線(佐用～新見)</line_name>
+		<station_cd>1163403</station_cd>
+		<station_g_cd>1163403</station_g_cd>
+		<station_name>美作土居</station_name>
+		<lon>134.25991</lon>
+		<lat>34.995078</lat>
+	</station>
+</ekidata>

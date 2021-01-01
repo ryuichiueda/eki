@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>24002</line_cd>
+		<line_name>京王相模原線</line_name>
+		<station_cd>2400207</station_cd>
+		<station_g_cd>2400207</station_g_cd>
+		<station_name>京王永山</station_name>
+		<lon>139.448204</lon>
+		<lat>35.630102</lat>
+	</station>
+</ekidata>

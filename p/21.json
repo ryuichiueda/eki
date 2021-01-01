@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)"},{"line_cd":11416,"line_name":"JR高山本線"},{"line_cd":11502,"line_name":"JR東海道本線(浜松～岐阜)"},{"line_cd":11503,"line_name":"JR東海道本線(岐阜～美濃赤坂・米原)"},{"line_cd":11507,"line_name":"JR太多線"},{"line_cd":30001,"line_name":"名鉄名古屋本線"},{"line_cd":30015,"line_name":"名鉄犬山線"},{"line_cd":30016,"line_name":"名鉄各務原線"},{"line_cd":30017,"line_name":"名鉄広見線"},{"line_cd":30020,"line_name":"名鉄竹鼻線"},{"line_cd":30021,"line_name":"名鉄羽島線"},{"line_cd":99524,"line_name":"明知鉄道明知線"},{"line_cd":99525,"line_name":"長良川鉄道越美南線"},{"line_cd":99526,"line_name":"樽見鉄道樽見線"},{"line_cd":99532,"line_name":"養老鉄道養老線"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

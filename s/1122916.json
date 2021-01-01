@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":11229,"line_name":"JR常磐線(取手～いわき)","station_cd":1122916,"station_g_cd":1122916,"station_name":"偕楽園","lon":140.456292,"lat":36.373041}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

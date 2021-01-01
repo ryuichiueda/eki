@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":7,"line_cd":99216,"line_name":"会津鉄道会津線","station_cd":9921614,"station_g_cd":9921614,"station_name":"会津長野","lon":139.823887,"lat":37.21525}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

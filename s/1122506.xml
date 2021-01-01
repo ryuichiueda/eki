@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>7</pref_cd>
+		<line_cd>11225</line_cd>
+		<line_name>JR磐越西線(郡山～会津若松)</line_name>
+		<station_cd>1122506</station_cd>
+		<station_g_cd>1122506</station_g_cd>
+		<station_name>上戸</station_name>
+		<lon>140.163538</lon>
+		<lat>37.487848</lat>
+	</station>
+</ekidata>

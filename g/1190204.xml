@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11902</line_cd>
+		<line_name>JR鹿児島本線(下関・門司港～博多)</line_name>
+		<station_cd>1190204</station_cd>
+		<station_g_cd>1161237</station_g_cd>
+		<station_name>門司</station_name>
+		<lon>130.933438</lon>
+		<lat>33.904309</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11612</line_cd>
+		<line_name>JR山陽本線(岩国～門司)</line_name>
+		<station_cd>1161237</station_cd>
+		<station_name>門司</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11902</line_cd>
+		<line_name>JR鹿児島本線(下関・門司港～博多)</line_name>
+		<station_cd>1190204</station_cd>
+		<station_name>門司</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11906</line_cd>
+		<line_name>JR日豊本線(門司港～佐伯)</line_name>
+		<station_cd>1190603</station_cd>
+		<station_name>門司</station_name>
+	</station_g>
+</ekidata>

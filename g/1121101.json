@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":3,"line_cd":11211,"line_name":"JR田沢湖線","station_cd":1121101,"station_name":"盛岡"},{"pref_cd":3,"line_cd":11213,"line_name":"JR山田線","station_cd":1121301,"station_name":"盛岡"},{"pref_cd":3,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123185,"station_name":"盛岡"},{"pref_cd":3,"line_cd":99205,"line_name":"いわて銀河鉄道線","station_cd":9920501,"station_name":"盛岡"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

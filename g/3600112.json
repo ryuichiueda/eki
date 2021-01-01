@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":40,"line_cd":36001,"line_name":"西鉄天神大牟田線","station_cd":3600112,"station_name":"西鉄二日市"},{"pref_cd":40,"line_cd":36002,"line_name":"西鉄太宰府線","station_cd":3600201,"station_name":"西鉄二日市"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

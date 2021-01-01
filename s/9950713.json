@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":99507,"line_name":"大井川鐵道大井川本線","station_cd":9950713,"station_g_cd":9950713,"station_name":"塩郷","lon":138.090612,"lat":34.997664}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

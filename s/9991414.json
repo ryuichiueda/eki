@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":42,"line_cd":99914,"line_name":"長崎電軌３系統","station_cd":9991414,"station_g_cd":9991311,"station_name":"原爆資料館","lon":129.863784,"lat":32.770551}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11702</line_cd>
+		<line_name>JR山陰本線(益田～下関)</line_name>
+		<station_cd>1170201</station_cd>
+		<station_g_cd>1170145</station_g_cd>
+		<station_name>益田</station_name>
+		<lon>131.838932</lon>
+		<lat>34.678311</lat>
+	</station>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>11701</line_cd>
+		<line_name>JR山陰本線(米子～益田)</line_name>
+		<station_cd>1170145</station_cd>
+		<station_name>益田</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>11702</line_cd>
+		<line_name>JR山陰本線(益田～下関)</line_name>
+		<station_cd>1170201</station_cd>
+		<station_name>益田</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>11708</line_cd>
+		<line_name>JR山口線</line_name>
+		<station_cd>1170828</station_cd>
+		<station_name>益田</station_name>
+	</station_g>
+</ekidata>

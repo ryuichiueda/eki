@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11403</line_cd>
+		<line_name>JR信越本線(篠ノ井～長野)</line_name>
+		<station_cd>1140301</station_cd>
+		<station_g_cd>1140301</station_g_cd>
+		<station_name>篠ノ井</station_name>
+		<lon>138.138046</lon>
+		<lat>36.5771</lat>
+	</station>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11403</line_cd>
+		<line_name>JR信越本線(篠ノ井～長野)</line_name>
+		<station_cd>1140301</station_cd>
+		<station_name>篠ノ井</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11412</line_cd>
+		<line_name>JR篠ノ井線</line_name>
+		<station_cd>1141214</station_cd>
+		<station_name>篠ノ井</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>99403</line_cd>
+		<line_name>しなの鉄道線</line_name>
+		<station_cd>9940318</station_cd>
+		<station_name>篠ノ井</station_name>
+	</station_g>
+</ekidata>

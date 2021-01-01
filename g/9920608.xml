@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99206</line_cd>
+		<line_name>青い森鉄道線</line_name>
+		<station_cd>9920608</station_cd>
+		<station_g_cd>9920608</station_g_cd>
+		<station_name>筒井</station_name>
+		<lon>140.77</lon>
+		<lat>40.805556</lat>
+	</station>
+	<station_g>
+		<pref_cd>2</pref_cd>
+		<line_cd>99206</line_cd>
+		<line_name>青い森鉄道線</line_name>
+		<station_cd>9920608</station_cd>
+		<station_name>筒井</station_name>
+	</station_g>
+</ekidata>

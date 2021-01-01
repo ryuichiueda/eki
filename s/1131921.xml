@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>9</pref_cd>
+		<line_cd>11319</line_cd>
+		<line_name>宇都宮線</line_name>
+		<station_cd>1131921</station_cd>
+		<station_g_cd>1131921</station_g_cd>
+		<station_name>石橋</station_name>
+		<lon>139.866536</lon>
+		<lat>36.43651</lat>
+	</station>
+</ekidata>

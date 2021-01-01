@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":9,"line_cd":21008,"line_name":"東武宇都宮線","station_cd":2100812,"station_g_cd":2100812,"station_name":"東武宇都宮","lon":139.880427,"lat":36.559373}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

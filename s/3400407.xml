@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>34004</line_cd>
+		<line_name>阪急今津線</line_name>
+		<station_cd>3400407</station_cd>
+		<station_g_cd>3400407</station_g_cd>
+		<station_name>小林</station_name>
+		<lon>135.352282</lon>
+		<lat>34.789396</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>99631</line_cd>
+		<line_name>神戸高速南北線</line_name>
+		<station_cd>9963102</station_cd>
+		<station_g_cd>9963102</station_g_cd>
+		<station_name>湊川</station_name>
+		<lon>135.166426</lon>
+		<lat>34.679153</lat>
+	</station>
+</ekidata>

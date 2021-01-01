@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":11615,"line_name":"JR山陰本線(園部～豊岡)","station_cd":1161505,"station_g_cd":1161505,"station_name":"胡麻","lon":135.468467,"lat":35.195359}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

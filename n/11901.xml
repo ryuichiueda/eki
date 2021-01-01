@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>1190101</station_cd1>
+		<station_cd2>1190102</station_cd2>
+		<station_name1>博多</station_name1>
+		<station_name2>博多南</station_name2>
+		<lat1>33.590002</lat1>
+		<lon1>130.420622</lon1>
+		<lat2>33.517955</lat2>
+		<lon2>130.436997</lon2>
+	</station_join>
+</ekidata>

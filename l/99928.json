@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99928,"line_name":"門司港レトロ観光線","line_lon":130.96594879895,"line_lat":33.95269437674,"line_zoom":15,"station_l":[{"station_cd":9992801,"station_g_cd":1190202,"station_name":"九州鉄道記念館","lon":130.962439,"lat":33.944392},{"station_cd":9992802,"station_g_cd":9992802,"station_name":"出光美術館","lon":130.965292,"lat":33.947792},{"station_cd":9992803,"station_g_cd":9992803,"station_name":"ノーフォーク広場","lon":130.964254,"lat":33.955973},{"station_cd":9992804,"station_g_cd":9992804,"station_name":"関門海峡めかり","lon":130.967347,"lat":33.960627}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

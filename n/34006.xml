@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3400601</station_cd1>
+		<station_cd2>3400602</station_cd2>
+		<station_name1>塚口</station_name1>
+		<station_name2>稲野</station_name2>
+		<lat1>34.752826</lat1>
+		<lon1>135.41585</lon1>
+		<lat2>34.764817</lat2>
+		<lon2>135.415532</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3400602</station_cd1>
+		<station_cd2>3400603</station_cd2>
+		<station_name1>稲野</station_name1>
+		<station_name2>新伊丹</station_name2>
+		<lat1>34.764817</lat1>
+		<lon1>135.415532</lon1>
+		<lat2>34.772574</lat2>
+		<lon2>135.415479</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3400603</station_cd1>
+		<station_cd2>3400604</station_cd2>
+		<station_name1>新伊丹</station_name1>
+		<station_name2>伊丹</station_name2>
+		<lat1>34.772574</lat1>
+		<lon1>135.415479</lon1>
+		<lat2>34.779875</lat2>
+		<lon2>135.413618</lon2>
+	</station_join>
+</ekidata>

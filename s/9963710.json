@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99637,"line_name":"山陽電鉄本線","station_cd":9963710,"station_g_cd":9963710,"station_name":"東垂水","lon":135.063646,"lat":34.629216}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":1004,"line_name":"東北新幹線","line_lon":140.76319219429,"line_lat":38.274266939284,"line_zoom":7,"station_l":[]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

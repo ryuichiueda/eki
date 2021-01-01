@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":33007,"line_name":"京阪京津線","line_lon":135.83517567194,"line_lat":35.005599477996,"line_zoom":13,"station_l":[{"station_cd":3300701,"station_g_cd":3300701,"station_name":"御陵","lon":135.801637,"lat":34.996158},{"station_cd":3300702,"station_g_cd":1160119,"station_name":"京阪山科","lon":135.816835,"lat":34.992039},{"station_cd":3300703,"station_g_cd":3300703,"station_name":"四宮","lon":135.823996,"lat":34.991903},{"station_cd":3300704,"station_g_cd":3300704,"station_name":"追分","lon":135.837528,"lat":34.991445},{"station_cd":3300705,"station_g_cd":3300705,"station_name":"大谷","lon":135.854116,"lat":34.994129},{"station_cd":3300706,"station_g_cd":3300706,"station_name":"上栄町","lon":135.860152,"lat":35.00515},{"station_cd":3300707,"station_g_cd":3300612,"station_name":"びわ湖浜大津","lon":135.863982,"lat":35.011283}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

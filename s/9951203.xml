@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>99512</line_cd>
+		<line_name>リニモ</line_name>
+		<station_cd>9951203</station_cd>
+		<station_g_cd>9951203</station_g_cd>
+		<station_name>杁ヶ池公園</station_name>
+		<lon>137.037866</lon>
+		<lat>35.171788</lat>
+	</station>
+</ekidata>

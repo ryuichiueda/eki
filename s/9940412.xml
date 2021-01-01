@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>99404</line_cd>
+		<line_name>上田電鉄別所線</line_name>
+		<station_cd>9940412</station_cd>
+		<station_g_cd>9940412</station_g_cd>
+		<station_name>中野</station_name>
+		<lon>138.193438</lon>
+		<lat>36.360654</lat>
+	</station>
+</ekidata>

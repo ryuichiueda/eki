@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>11924</line_cd>
+		<line_name>三角線（あまくさみすみ線）</line_name>
+		<station_cd>1192404</station_cd>
+		<station_g_cd>1192404</station_g_cd>
+		<station_name>緑川</station_name>
+		<lon>130.631339</lon>
+		<lat>32.694006</lat>
+	</station>
+</ekidata>

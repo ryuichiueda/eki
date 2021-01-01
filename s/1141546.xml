@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>17</pref_cd>
+		<line_cd>99426</line_cd>
+		<line_name>IRいしかわ鉄道線</line_name>
+		<station_cd>1141546</station_cd>
+		<station_g_cd>1141546</station_g_cd>
+		<station_name>津幡</station_name>
+		<lon>136.730759</lon>
+		<lat>36.657895</lat>
+	</station>
+</ekidata>

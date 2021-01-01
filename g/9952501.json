@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":21,"line_cd":11416,"line_name":"JR高山本線","station_cd":1141608,"station_name":"美濃太田"},{"pref_cd":21,"line_cd":11507,"line_name":"JR太多線","station_cd":1150708,"station_name":"美濃太田"},{"pref_cd":21,"line_cd":99525,"line_name":"長良川鉄道越美南線","station_cd":9952501,"station_name":"美濃太田"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

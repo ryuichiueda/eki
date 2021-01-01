@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":15,"line_cd":99424,"line_name":"妙高はねうまライン","station_cd":1140320,"station_g_cd":1140320,"station_name":"春日山","lon":138.234922,"lat":37.148042}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

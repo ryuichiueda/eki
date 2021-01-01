@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":11220,"line_name":"奥の細道最上川ライン","station_cd":1122010,"station_g_cd":1121434,"station_name":"余目","lon":139.911348,"lat":38.844321}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

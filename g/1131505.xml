@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11315</line_cd>
+		<line_name>JR青梅線</line_name>
+		<station_cd>1131505</station_cd>
+		<station_g_cd>1131505</station_g_cd>
+		<station_name>昭島</station_name>
+		<lon>139.361564</lon>
+		<lat>35.713305</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11315</line_cd>
+		<line_name>JR青梅線</line_name>
+		<station_cd>1131505</station_cd>
+		<station_name>昭島</station_name>
+	</station_g>
+</ekidata>

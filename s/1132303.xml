@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11323</line_cd>
+		<line_name>JR高崎線</line_name>
+		<station_cd>1132303</station_cd>
+		<station_g_cd>1131903</station_g_cd>
+		<station_name>赤羽</station_name>
+		<lon>139.720928</lon>
+		<lat>35.778026</lat>
+	</station>
+</ekidata>

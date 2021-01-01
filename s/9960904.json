@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":99653,"line_name":"宮舞線","station_cd":9960904,"station_g_cd":9960904,"station_name":"丹後神崎","lon":135.293628,"lat":35.506463}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

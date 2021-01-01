@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11118,"line_name":"JR海峡線"},{"line_cd":11202,"line_name":"JR奥羽本線(新庄～青森)"},{"line_cd":11203,"line_name":"はまなすベイライン大湊線"},{"line_cd":11204,"line_name":"JR五能線"},{"line_cd":11205,"line_name":"JR津軽線"},{"line_cd":11206,"line_name":"JR八戸線"},{"line_cd":99201,"line_name":"津軽鉄道線"},{"line_cd":99202,"line_name":"弘南鉄道弘南線"},{"line_cd":99203,"line_name":"弘南鉄道大鰐線"},{"line_cd":99205,"line_name":"いわて銀河鉄道線"},{"line_cd":99206,"line_name":"青い森鉄道線"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

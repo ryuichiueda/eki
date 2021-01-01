@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11326</line_cd>
+		<line_name>JR京葉線</line_name>
+		<station_cd>1132603</station_cd>
+		<station_g_cd>1132603</station_g_cd>
+		<station_name>越中島</station_name>
+		<lon>139.792713</lon>
+		<lat>35.667946</lat>
+	</station>
+</ekidata>

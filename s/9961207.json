@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":99612,"line_name":"京福電鉄嵐山本線","station_cd":9961207,"station_g_cd":9961207,"station_name":"帷子ノ辻","lon":135.700257,"lat":35.015146}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

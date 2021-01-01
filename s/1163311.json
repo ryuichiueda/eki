@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":11633,"line_name":"JR姫新線(姫路～佐用)","station_cd":1163311,"station_g_cd":1163311,"station_name":"播磨徳久","lon":134.385711,"lat":34.990473}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

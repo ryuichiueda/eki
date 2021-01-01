@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>99637</line_cd>
+		<line_name>山陽電鉄本線</line_name>
+		<station_cd>9963706</station_cd>
+		<station_g_cd>1160805</station_g_cd>
+		<station_name>山陽須磨</station_name>
+		<lon>135.112208</lon>
+		<lat>34.643459</lat>
+	</station>
+</ekidata>

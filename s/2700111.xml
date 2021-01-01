@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>27001</line_cd>
+		<line_name>京急本線</line_name>
+		<station_cd>2700111</station_cd>
+		<station_g_cd>2700111</station_g_cd>
+		<station_name>梅屋敷</station_name>
+		<lon>139.728266</lon>
+		<lat>35.566873</lat>
+	</station>
+</ekidata>

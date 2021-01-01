@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>2</pref_cd>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120252</station_cd>
+		<station_g_cd>1120252</station_g_cd>
+		<station_name>津軽湯の沢</station_name>
+		<lon>140.632055</lon>
+		<lat>40.441879</lat>
+	</station>
+</ekidata>

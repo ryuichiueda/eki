@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>36003</line_cd>
+		<line_name>西鉄甘木線</line_name>
+		<station_cd>3600308</station_cd>
+		<station_g_cd>3600308</station_g_cd>
+		<station_name>大堰</station_name>
+		<lon>130.624022</lon>
+		<lat>33.372278</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>36003</line_cd>
+		<line_name>西鉄甘木線</line_name>
+		<station_cd>3600308</station_cd>
+		<station_name>大堰</station_name>
+	</station_g>
+</ekidata>

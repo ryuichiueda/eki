@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>16</pref_cd>
+		<line_cd>99412</line_cd>
+		<line_name>黒部峡谷鉄道本線</line_name>
+		<station_cd>9941203</station_cd>
+		<station_g_cd>9941203</station_g_cd>
+		<station_name>鐘釣</station_name>
+		<lon>137.651315</lon>
+		<lat>36.734378</lat>
+	</station>
+</ekidata>

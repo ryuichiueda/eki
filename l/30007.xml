@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>30007</line_cd>
+		<line_name>名鉄空港線</line_name>
+		<line_lon>136.82754263493</line_lon>
+		<line_lat>34.878389589252</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>3000701</station_cd>
+		<station_g_cd>3000701</station_g_cd>
+		<station_name>常滑</station_name>
+		<lon>136.834992</lon>
+		<lat>34.891167</lat>
+	</station>
+	<station>
+		<station_cd>3000702</station_cd>
+		<station_g_cd>3000702</station_g_cd>
+		<station_name>りんくう常滑</station_name>
+		<lon>136.828164</lon>
+		<lat>34.87967</lat>
+	</station>
+	<station>
+		<station_cd>3000703</station_cd>
+		<station_g_cd>3000703</station_g_cd>
+		<station_name>中部国際空港</station_name>
+		<lon>136.816382</lon>
+		<lat>34.859262</lat>
+	</station>
+</ekidata>

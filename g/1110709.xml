@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11107</line_cd>
+		<line_name>JR根室本線(新得～釧路)</line_name>
+		<station_cd>1110709</station_cd>
+		<station_g_cd>1110709</station_g_cd>
+		<station_name>帯広</station_name>
+		<lon>143.20195</lon>
+		<lat>42.917997</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11107</line_cd>
+		<line_name>JR根室本線(新得～釧路)</line_name>
+		<station_cd>1110709</station_cd>
+		<station_name>帯広</station_name>
+	</station_g>
+</ekidata>

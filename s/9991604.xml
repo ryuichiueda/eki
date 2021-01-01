@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>42</pref_cd>
+		<line_cd>99916</line_cd>
+		<line_name>長崎電軌５系統</line_name>
+		<station_cd>9991604</station_cd>
+		<station_g_cd>9991404</station_g_cd>
+		<station_name>諏訪神社</station_name>
+		<lon>129.884083</lon>
+		<lat>32.752596</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>99334</line_cd>
+		<line_name>多摩モノレール</line_name>
+		<station_cd>9933403</station_cd>
+		<station_g_cd>9933403</station_g_cd>
+		<station_name>大塚・帝京大学</station_name>
+		<lon>139.416461</lon>
+		<lat>35.636878</lat>
+	</station>
+</ekidata>

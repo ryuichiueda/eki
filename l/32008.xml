@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>32008</line_cd>
+		<line_name>南海高野山ケーブル</line_name>
+		<line_lon>135.57993433069</line_lon>
+		<line_lat>34.2315662376</line_lat>
+		<line_zoom>15</line_zoom>
+	</line>
+	<station>
+		<station_cd>3200801</station_cd>
+		<station_g_cd>3200742</station_g_cd>
+		<station_name>極楽橋</station_name>
+		<lon>135.582078</lon>
+		<lat>34.23435</lat>
+	</station>
+	<station>
+		<station_cd>3200802</station_cd>
+		<station_g_cd>3200802</station_g_cd>
+		<station_name>高野山</station_name>
+		<lon>135.577619</lon>
+		<lat>34.227789</lat>
+	</station>
+</ekidata>

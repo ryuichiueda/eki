@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":11,"line_cd":22001,"line_name":"西武池袋線","station_cd":2200121,"station_g_cd":2200121,"station_name":"稲荷山公園","lon":139.39842,"lat":35.845112}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

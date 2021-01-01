@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>3</pref_cd>
+		<line_cd>11231</line_cd>
+		<line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
+		<station_cd>1123169</station_cd>
+		<station_g_cd>1123169</station_g_cd>
+		<station_name>前沢</station_name>
+		<lon>141.12624</lon>
+		<lat>39.048686</lat>
+	</station>
+</ekidata>

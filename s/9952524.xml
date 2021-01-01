@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>21</pref_cd>
+		<line_cd>99525</line_cd>
+		<line_name>長良川鉄道越美南線</line_name>
+		<station_cd>9952524</station_cd>
+		<station_g_cd>9952524</station_g_cd>
+		<station_name>深戸</station_name>
+		<lon>136.962498</lon>
+		<lat>35.686445</lat>
+	</station>
+</ekidata>

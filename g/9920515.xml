@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99205</line_cd>
+		<line_name>いわて銀河鉄道線</line_name>
+		<station_cd>9920515</station_cd>
+		<station_g_cd>9920515</station_g_cd>
+		<station_name>二戸</station_name>
+		<lon>141.286211</lon>
+		<lat>40.25997</lat>
+	</station>
+	<station_g>
+		<pref_cd>3</pref_cd>
+		<line_cd>99205</line_cd>
+		<line_name>いわて銀河鉄道線</line_name>
+		<station_cd>9920515</station_cd>
+		<station_name>二戸</station_name>
+	</station_g>
+</ekidata>

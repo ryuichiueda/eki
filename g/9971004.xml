@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99710</line_cd>
+		<line_name>広電１号線(宇品線)</line_name>
+		<station_cd>9971004</station_cd>
+		<station_g_cd>9971004</station_g_cd>
+		<station_name>稲荷町</station_name>
+		<lon>132.471728</lon>
+		<lat>34.392569</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99710</line_cd>
+		<line_name>広電１号線(宇品線)</line_name>
+		<station_cd>9971004</station_cd>
+		<station_name>稲荷町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99711</line_cd>
+		<line_name>広電２号線(宮島線)</line_name>
+		<station_cd>9971104</station_cd>
+		<station_name>稲荷町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99714</line_cd>
+		<line_name>広電６号線(江波線)</line_name>
+		<station_cd>9971404</station_cd>
+		<station_name>稲荷町</station_name>
+	</station_g>
+</ekidata>

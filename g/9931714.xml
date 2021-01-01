@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99317</line_cd>
+		<line_name>金沢シーサイドライン</line_name>
+		<station_cd>9931714</station_cd>
+		<station_g_cd>2700139</station_g_cd>
+		<station_name>金沢八景</station_name>
+		<lon>139.622133</lon>
+		<lat>35.331285</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>27001</line_cd>
+		<line_name>京急本線</line_name>
+		<station_cd>2700139</station_cd>
+		<station_name>金沢八景</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>27004</line_cd>
+		<line_name>京急逗子線</line_name>
+		<station_cd>2700401</station_cd>
+		<station_name>金沢八景</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99317</line_cd>
+		<line_name>金沢シーサイドライン</line_name>
+		<station_cd>9931714</station_cd>
+		<station_name>金沢八景</station_name>
+	</station_g>
+</ekidata>

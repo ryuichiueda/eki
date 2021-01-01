@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>2</pref_cd>
+		<line_cd>11204</line_cd>
+		<line_name>JR五能線</line_name>
+		<station_cd>1120412</station_cd>
+		<station_g_cd>1120412</station_g_cd>
+		<station_name>大間越</station_name>
+		<lon>139.950062</lon>
+		<lat>40.492407</lat>
+	</station>
+</ekidata>

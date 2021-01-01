@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>11332</line_cd>
+		<line_name>JR京浜東北線</line_name>
+		<station_cd>1133203</station_cd>
+		<station_g_cd>1133203</station_g_cd>
+		<station_name>与野</station_name>
+		<lon>139.639085</lon>
+		<lat>35.884393</lat>
+	</station>
+</ekidata>

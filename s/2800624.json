@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":28006,"line_name":"東京メトロ有楽町線","station_cd":2800624,"station_g_cd":1132605,"station_name":"新木場","lon":139.826254,"lat":35.645832}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

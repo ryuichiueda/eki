@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":99716,"line_name":"広電８号線(横川線)","station_cd":9971606,"station_g_cd":9971114,"station_name":"土橋","lon":132.446322,"lat":34.3948}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

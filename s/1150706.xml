@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>21</pref_cd>
+		<line_cd>11507</line_cd>
+		<line_name>JR太多線</line_name>
+		<station_cd>1150706</station_cd>
+		<station_g_cd>1150706</station_g_cd>
+		<station_name>可児</station_name>
+		<lon>137.055345</lon>
+		<lat>35.422832</lat>
+	</station>
+</ekidata>

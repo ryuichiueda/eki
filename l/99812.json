@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99812,"line_name":"伊予鉄道本町線","line_lon":132.76946364551,"line_lat":33.84808660243,"line_zoom":14,"station_l":[{"station_cd":9981201,"station_g_cd":9980809,"station_name":"本町六丁目","lon":132.758473,"lat":33.853472},{"station_cd":9981202,"station_g_cd":9981202,"station_name":"本町五丁目","lon":132.758853,"lat":33.851047},{"station_cd":9981203,"station_g_cd":9981203,"station_name":"本町四丁目","lon":132.758789,"lat":33.847982},{"station_cd":9981204,"station_g_cd":9981204,"station_name":"本町三丁目","lon":132.758853,"lat":33.84513},{"station_cd":9981205,"station_g_cd":9980803,"station_name":"本町一丁目","lon":132.75877,"lat":33.84037679},{"station_cd":9981206,"station_g_cd":9980802,"station_name":"南堀端","lon":132.761664,"lat":33.839213},{"station_cd":9981216,"station_g_cd":9980501,"station_name":"松山市駅前","lon":132.762587,"lat":33.836148}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

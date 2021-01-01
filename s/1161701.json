@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":11617,"line_name":"学研都市線","station_cd":1161701,"station_g_cd":1160702,"station_name":"木津","lon":135.824794,"lat":34.735962}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

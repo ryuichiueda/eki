@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":28,"line_cd":11630,"line_name":"福知山線(篠山口～福知山)","station_cd":1163004,"station_name":"谷川"},{"pref_cd":28,"line_cd":11632,"line_name":"JR加古川線","station_cd":1163221,"station_name":"谷川"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

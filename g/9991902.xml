@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99919</line_cd>
+		<line_name>高森線</line_name>
+		<station_cd>9991902</station_cd>
+		<station_g_cd>9991902</station_g_cd>
+		<station_name>長陽</station_name>
+		<lon>131.003945</lon>
+		<lat>32.854287</lat>
+	</station>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>99919</line_cd>
+		<line_name>高森線</line_name>
+		<station_cd>9991902</station_cd>
+		<station_name>長陽</station_name>
+	</station_g>
+</ekidata>

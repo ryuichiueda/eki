@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99426</line_cd>
+		<line_name>IRいしかわ鉄道線</line_name>
+		<station_cd>1141545</station_cd>
+		<station_g_cd>1141545</station_g_cd>
+		<station_name>森本</station_name>
+		<lon>136.689489</lon>
+		<lat>36.612144</lat>
+	</station>
+	<station_g>
+		<pref_cd>17</pref_cd>
+		<line_cd>99426</line_cd>
+		<line_name>IRいしかわ鉄道線</line_name>
+		<station_cd>1141545</station_cd>
+		<station_name>森本</station_name>
+	</station_g>
+</ekidata>

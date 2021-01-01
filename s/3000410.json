@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30004,"line_name":"名鉄蒲郡線","station_cd":3000410,"station_g_cd":1150215,"station_name":"蒲郡","lon":137.226115,"lat":34.822743}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

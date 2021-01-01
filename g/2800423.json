@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":12,"line_cd":11305,"line_name":"JR武蔵野線","station_cd":1130524,"station_name":"西船橋"},{"pref_cd":12,"line_cd":11313,"line_name":"JR中央・総武線","station_cd":1131330,"station_name":"西船橋"},{"pref_cd":12,"line_cd":11326,"line_name":"JR京葉線","station_cd":1132610,"station_name":"西船橋"},{"pref_cd":12,"line_cd":28004,"line_name":"東京メトロ東西線","station_cd":2800423,"station_name":"西船橋"},{"pref_cd":12,"line_cd":99338,"line_name":"東葉高速線","station_cd":9933801,"station_name":"西船橋"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11805</line_cd>
+		<line_name>JR鳴門線</line_name>
+		<station_cd>1180502</station_cd>
+		<station_g_cd>1180502</station_g_cd>
+		<station_name>撫養</station_name>
+		<lon>134.600851</lon>
+		<lat>34.173162</lat>
+	</station>
+	<station_g>
+		<pref_cd>36</pref_cd>
+		<line_cd>11805</line_cd>
+		<line_name>JR鳴門線</line_name>
+		<station_cd>1180502</station_cd>
+		<station_name>撫養</station_name>
+	</station_g>
+</ekidata>

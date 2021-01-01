@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":11104,"line_name":"JR室蘭本線(長万部・室蘭～苫小牧)","station_cd":1110415,"station_g_cd":1110415,"station_name":"本輪西","lon":140.977561,"lat":42.358734}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

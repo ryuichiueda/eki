@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":4,"line_cd":99214,"line_name":"仙台市営地下鉄南北線","station_cd":9921414,"station_g_cd":9921414,"station_name":"長町一丁目","lon":140.887402,"lat":38.234085}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

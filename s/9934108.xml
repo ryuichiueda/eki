@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>9</pref_cd>
+		<line_cd>99341</line_cd>
+		<line_name>ほっとスパ・ライン</line_name>
+		<station_cd>9934108</station_cd>
+		<station_g_cd>9934108</station_g_cd>
+		<station_name>男鹿高原</station_name>
+		<lon>139.723845</lon>
+		<lat>37.04784</lat>
+	</station>
+</ekidata>

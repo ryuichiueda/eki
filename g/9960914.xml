@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99609</line_cd>
+		<line_name>宮豊線</line_name>
+		<station_cd>9960914</station_cd>
+		<station_g_cd>9960914</station_g_cd>
+		<station_name>夕日ヶ浦木津温泉</station_name>
+		<lon>134.972332</lon>
+		<lat>35.650061</lat>
+	</station>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>99609</line_cd>
+		<line_name>宮豊線</line_name>
+		<station_cd>9960914</station_cd>
+		<station_name>夕日ヶ浦木津温泉</station_name>
+	</station_g>
+</ekidata>

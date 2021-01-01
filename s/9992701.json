@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":47,"line_cd":99927,"line_name":"ゆいレール","station_cd":9992701,"station_g_cd":9992701,"station_name":"那覇空港","lon":127.652214,"lat":26.206515}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

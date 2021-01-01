@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120246</station_cd>
+		<station_g_cd>1120246</station_g_cd>
+		<station_name>糠沢</station_name>
+		<lon>140.397827</lon>
+		<lat>40.251094</lat>
+	</station>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120246</station_cd>
+		<station_name>糠沢</station_name>
+	</station_g>
+</ekidata>

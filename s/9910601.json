@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":99106,"line_name":"函館市電５系統","station_cd":9910601,"station_g_cd":9910501,"station_name":"湯の川","lon":140.789902,"lat":41.781073}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

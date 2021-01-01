@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>31019</line_cd>
+		<line_name>近鉄鈴鹿線</line_name>
+		<line_lon>136.58279578203</line_lon>
+		<line_lat>34.877984989431</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>3101901</station_cd>
+		<station_g_cd>3101901</station_g_cd>
+		<station_name>伊勢若松</station_name>
+		<lon>136.616765</lon>
+		<lat>34.869431</lat>
+	</station>
+	<station>
+		<station_cd>3101902</station_cd>
+		<station_g_cd>3101902</station_g_cd>
+		<station_name>柳</station_name>
+		<lon>136.595947</lon>
+		<lat>34.871381</lat>
+	</station>
+	<station>
+		<station_cd>3101903</station_cd>
+		<station_g_cd>3101903</station_g_cd>
+		<station_name>鈴鹿市</station_name>
+		<lon>136.582812</lon>
+		<lat>34.883899</lat>
+	</station>
+	<station>
+		<station_cd>3101904</station_cd>
+		<station_g_cd>3101904</station_g_cd>
+		<station_name>三日市</station_name>
+		<lon>136.562316</lon>
+		<lat>34.880232</lat>
+	</station>
+	<station>
+		<station_cd>3101905</station_cd>
+		<station_g_cd>3101905</station_g_cd>
+		<station_name>平田町</station_name>
+		<lon>136.542406</lon>
+		<lat>34.875124</lat>
+	</station>
+</ekidata>

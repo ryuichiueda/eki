@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":19,"line_cd":99401,"line_name":"富士急行線","station_cd":9940106,"station_g_cd":9940106,"station_name":"都留市","lon":138.907525,"lat":35.557199}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>33</pref_cd>
+		<line_cd>11709</line_cd>
+		<line_name>JR宇野線</line_name>
+		<station_cd>1170904</station_cd>
+		<station_g_cd>1170904</station_g_cd>
+		<station_name>妹尾</station_name>
+		<lon>133.871246</lon>
+		<lat>34.608269</lat>
+	</station>
+</ekidata>

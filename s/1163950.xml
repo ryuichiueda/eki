@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>30</pref_cd>
+		<line_cd>11639</line_cd>
+		<line_name>きのくに線</line_name>
+		<station_cd>1163950</station_cd>
+		<station_g_cd>1163950</station_g_cd>
+		<station_name>海南</station_name>
+		<lon>135.21443</lon>
+		<lat>34.154536</lat>
+	</station>
+</ekidata>

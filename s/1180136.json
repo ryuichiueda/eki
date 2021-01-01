@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":39,"line_cd":11801,"line_name":"JR土讃線","station_cd":1180136,"station_g_cd":1180136,"station_name":"円行寺口","lon":133.520791,"lat":33.565816}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

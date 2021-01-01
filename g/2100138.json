@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":11,"line_cd":11318,"line_name":"JR八高線(高麗川～高崎)","station_cd":1131808,"station_name":"寄居"},{"pref_cd":11,"line_cd":21001,"line_name":"東武東上線","station_cd":2100138,"station_name":"寄居"},{"pref_cd":11,"line_cd":99306,"line_name":"秩父鉄道秩父本線","station_cd":9930618,"station_name":"寄居"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

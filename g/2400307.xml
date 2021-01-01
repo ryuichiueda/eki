@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>24003</line_cd>
+		<line_name>京王高尾線</line_name>
+		<station_cd>2400307</station_cd>
+		<station_g_cd>2400307</station_g_cd>
+		<station_name>高尾山口</station_name>
+		<lon>139.269856</lon>
+		<lat>35.632377</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>24003</line_cd>
+		<line_name>京王高尾線</line_name>
+		<station_cd>2400307</station_cd>
+		<station_name>高尾山口</station_name>
+	</station_g>
+</ekidata>

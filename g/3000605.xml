@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>30006</line_cd>
+		<line_name>名鉄豊田線</line_name>
+		<station_cd>3000605</station_cd>
+		<station_g_cd>3000605</station_g_cd>
+		<station_name>三好ヶ丘</station_name>
+		<lon>137.111219</lon>
+		<lat>35.126918</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30006</line_cd>
+		<line_name>名鉄豊田線</line_name>
+		<station_cd>3000605</station_cd>
+		<station_name>三好ヶ丘</station_name>
+	</station_g>
+</ekidata>

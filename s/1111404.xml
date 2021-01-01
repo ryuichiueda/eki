@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11114</line_cd>
+		<line_name>JR富良野線</line_name>
+		<station_cd>1111404</station_cd>
+		<station_g_cd>1111404</station_g_cd>
+		<station_name>西御料</station_name>
+		<lon>142.371507</lon>
+		<lat>43.720834</lat>
+	</station>
+</ekidata>

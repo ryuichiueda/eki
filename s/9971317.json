@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":99713,"line_name":"広電５号線(皆実線)","station_cd":9971317,"station_g_cd":9971026,"station_name":"元宇品口","lon":132.459412,"lat":34.354048}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

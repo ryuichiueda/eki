@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>24</pref_cd>
+		<line_cd>31008</line_cd>
+		<line_name>近鉄湯の山線</line_name>
+		<station_cd>3100805</station_cd>
+		<station_g_cd>3100805</station_g_cd>
+		<station_name>高角</station_name>
+		<lon>136.554488</lon>
+		<lat>34.983287</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":27,"line_cd":11607,"line_name":"大和路線","station_cd":1160720,"station_name":"新今宮"},{"pref_cd":27,"line_cd":11623,"line_name":"大阪環状線","station_cd":1162302,"station_name":"新今宮"},{"pref_cd":27,"line_cd":32001,"line_name":"南海本線","station_cd":3200102,"station_name":"新今宮"},{"pref_cd":27,"line_cd":32007,"line_name":"南海高野線","station_cd":3200703,"station_name":"新今宮"},{"pref_cd":27,"line_cd":99618,"line_name":"大阪メトロ御堂筋線","station_cd":9961812,"station_name":"動物園前"},{"pref_cd":27,"line_cd":99623,"line_name":"大阪メトロ堺筋線","station_cd":9962309,"station_name":"動物園前"},{"pref_cd":27,"line_cd":99629,"line_name":"阪堺電軌阪堺線","station_cd":9962902,"station_name":"新今宮駅前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3002101</station_cd1>
+		<station_cd2>3002102</station_cd2>
+		<station_name1>江吉良</station_name1>
+		<station_name2>新羽島</station_name2>
+		<lat1>35.31543</lat1>
+		<lon1>136.699686</lon1>
+		<lat2>35.315471</lat2>
+		<lon2>136.686582</lon2>
+	</station_join>
+</ekidata>

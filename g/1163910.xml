@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11639</line_cd>
+		<line_name>きのくに線</line_name>
+		<station_cd>1163910</station_cd>
+		<station_g_cd>1163910</station_g_cd>
+		<station_name>下里</station_name>
+		<lon>135.9221</lon>
+		<lat>33.582115</lat>
+	</station>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>11639</line_cd>
+		<line_name>きのくに線</line_name>
+		<station_cd>1163910</station_cd>
+		<station_name>下里</station_name>
+	</station_g>
+</ekidata>

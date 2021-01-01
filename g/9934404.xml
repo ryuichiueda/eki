@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99344</line_cd>
+		<line_name>箱根登山ケーブルカー</line_name>
+		<station_cd>9934404</station_cd>
+		<station_g_cd>9934404</station_g_cd>
+		<station_name>中強羅</station_name>
+		<lon>139.040556</lon>
+		<lat>35.248167</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99344</line_cd>
+		<line_name>箱根登山ケーブルカー</line_name>
+		<station_cd>9934404</station_cd>
+		<station_name>中強羅</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11708</line_cd>
+		<line_name>JR山口線</line_name>
+		<station_cd>1170814</station_cd>
+		<station_g_cd>1170814</station_g_cd>
+		<station_name>渡川</station_name>
+		<lon>131.604033</lon>
+		<lat>34.322922</lat>
+	</station>
+	<station_g>
+		<pref_cd>35</pref_cd>
+		<line_cd>11708</line_cd>
+		<line_name>JR山口線</line_name>
+		<station_cd>1170814</station_cd>
+		<station_name>渡川</station_name>
+	</station_g>
+</ekidata>

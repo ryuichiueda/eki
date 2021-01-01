@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131106,"station_name":"国分寺"},{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131224,"station_name":"国分寺"},{"pref_cd":13,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132818,"station_name":"国分寺"},{"pref_cd":13,"line_cd":22010,"line_name":"西武国分寺線","station_cd":2201001,"station_name":"国分寺"},{"pref_cd":13,"line_cd":22011,"line_name":"西武多摩湖線","station_cd":2201101,"station_name":"国分寺"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

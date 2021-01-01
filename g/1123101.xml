@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11231</line_cd>
+		<line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
+		<station_cd>1123101</station_cd>
+		<station_g_cd>1123101</station_g_cd>
+		<station_name>黒磯</station_name>
+		<lon>140.060204</lon>
+		<lat>36.970128</lat>
+	</station>
+	<station_g>
+		<pref_cd>9</pref_cd>
+		<line_cd>11231</line_cd>
+		<line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
+		<station_cd>1123101</station_cd>
+		<station_name>黒磯</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>9</pref_cd>
+		<line_cd>11319</line_cd>
+		<line_name>宇都宮線</line_name>
+		<station_cd>1131933</station_cd>
+		<station_name>黒磯</station_name>
+	</station_g>
+</ekidata>

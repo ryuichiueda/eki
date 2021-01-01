@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>38</pref_cd>
+		<line_cd>99808</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980803</station_cd>
+		<station_g_cd>9980803</station_g_cd>
+		<station_name>西堀端</station_name>
+		<lon>132.75866</lon>
+		<lat>33.840105</lat>
+	</station>
+</ekidata>

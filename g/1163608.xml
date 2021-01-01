@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11636</line_cd>
+		<line_name>JR和歌山線</line_name>
+		<station_cd>1163608</station_cd>
+		<station_g_cd>1163608</station_g_cd>
+		<station_name>御所</station_name>
+		<lon>135.733819</lon>
+		<lat>34.465102</lat>
+	</station>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>11636</line_cd>
+		<line_name>JR和歌山線</line_name>
+		<station_cd>1163608</station_cd>
+		<station_name>御所</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31018</line_cd>
+		<line_name>近鉄御所線</line_name>
+		<station_cd>3101804</station_cd>
+		<station_name>近鉄御所</station_name>
+	</station_g>
+</ekidata>

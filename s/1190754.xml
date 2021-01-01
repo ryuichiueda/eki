@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>46</pref_cd>
+		<line_cd>11907</line_cd>
+		<line_name>JR日豊本線(佐伯～鹿児島中央)</line_name>
+		<station_cd>1190754</station_cd>
+		<station_g_cd>1190754</station_g_cd>
+		<station_name>竜ケ水</station_name>
+		<lon>130.604239</lon>
+		<lat>31.64743</lat>
+	</station>
+</ekidata>

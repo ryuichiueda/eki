@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31005</line_cd>
+		<line_name>近鉄大阪線</line_name>
+		<station_cd>3100513</station_cd>
+		<station_g_cd>3100513</station_g_cd>
+		<station_name>法善寺</station_name>
+		<lon>135.626331</lon>
+		<lat>34.595176</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>31005</line_cd>
+		<line_name>近鉄大阪線</line_name>
+		<station_cd>3100513</station_cd>
+		<station_name>法善寺</station_name>
+	</station_g>
+</ekidata>

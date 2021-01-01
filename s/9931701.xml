@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99317</line_cd>
+		<line_name>金沢シーサイドライン</line_name>
+		<station_cd>9931701</station_cd>
+		<station_g_cd>1130708</station_g_cd>
+		<station_name>新杉田</station_name>
+		<lon>139.620502</lon>
+		<lat>35.385919</lat>
+	</station>
+</ekidata>

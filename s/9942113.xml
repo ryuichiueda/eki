@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>18</pref_cd>
+		<line_cd>99421</line_cd>
+		<line_name>福井鉄道福武線</line_name>
+		<station_cd>9942113</station_cd>
+		<station_g_cd>9942113</station_g_cd>
+		<station_name>江端</station_name>
+		<lon>136.212379</lon>
+		<lat>36.028391</lat>
+	</station>
+</ekidata>

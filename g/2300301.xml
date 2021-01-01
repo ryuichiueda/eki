@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>23003</line_cd>
+		<line_name>京成金町線</line_name>
+		<station_cd>2300301</station_cd>
+		<station_g_cd>2300110</station_g_cd>
+		<station_name>京成高砂</station_name>
+		<lon>139.866875</lon>
+		<lat>35.750932</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23001</line_cd>
+		<line_name>京成本線</line_name>
+		<station_cd>2300110</station_cd>
+		<station_name>京成高砂</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23002</line_cd>
+		<line_name>京成押上線</line_name>
+		<station_cd>2300207</station_cd>
+		<station_name>京成高砂</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23003</line_cd>
+		<line_name>京成金町線</line_name>
+		<station_cd>2300301</station_cd>
+		<station_name>京成高砂</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23006</line_cd>
+		<line_name>成田スカイアクセス</line_name>
+		<station_cd>2300604</station_cd>
+		<station_name>京成高砂</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99340</line_cd>
+		<line_name>北総鉄道北総線</line_name>
+		<station_cd>9934001</station_cd>
+		<station_name>京成高砂</station_name>
+	</station_g>
+</ekidata>

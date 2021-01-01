@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>34</pref_cd>
+		<line_cd>11610</line_cd>
+		<line_name>JR山陽本線(岡山～三原)</line_name>
+		<station_cd>1161015</station_cd>
+		<station_g_cd>1161015</station_g_cd>
+		<station_name>備後赤坂</station_name>
+		<lon>133.305417</lon>
+		<lat>34.472108</lat>
+	</station>
+</ekidata>

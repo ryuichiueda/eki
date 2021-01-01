@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99633</line_cd>
+		<line_name>三田線</line_name>
+		<station_cd>9963308</station_cd>
+		<station_g_cd>9963308</station_g_cd>
+		<station_name>横山</station_name>
+		<lon>135.219696</lon>
+		<lat>34.876633</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>99633</line_cd>
+		<line_name>三田線</line_name>
+		<station_cd>9963308</station_cd>
+		<station_name>横山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>99634</line_cd>
+		<line_name>公園都市線</line_name>
+		<station_cd>9963403</station_cd>
+		<station_name>横山</station_name>
+	</station_g>
+</ekidata>

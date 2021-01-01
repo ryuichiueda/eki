@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11801</line_cd>
+		<line_name>JR土讃線</line_name>
+		<station_cd>1180123</station_cd>
+		<station_g_cd>1180123</station_g_cd>
+		<station_name>角茂谷</station_name>
+		<lon>133.692528</lon>
+		<lat>33.695689</lat>
+	</station>
+	<station_g>
+		<pref_cd>39</pref_cd>
+		<line_cd>11801</line_cd>
+		<line_name>JR土讃線</line_name>
+		<station_cd>1180123</station_cd>
+		<station_name>角茂谷</station_name>
+	</station_g>
+</ekidata>

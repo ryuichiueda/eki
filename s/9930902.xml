@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>99309</line_cd>
+		<line_name>つくばエクスプレス</line_name>
+		<station_cd>9930902</station_cd>
+		<station_g_cd>9930111</station_g_cd>
+		<station_name>新御徒町</station_name>
+		<lon>139.781958</lon>
+		<lat>35.707045</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>99928</line_cd>
+		<line_name>門司港レトロ観光線</line_name>
+		<station_cd>9992804</station_cd>
+		<station_g_cd>9992804</station_g_cd>
+		<station_name>関門海峡めかり</station_name>
+		<lon>130.967347</lon>
+		<lat>33.960627</lat>
+	</station>
+</ekidata>

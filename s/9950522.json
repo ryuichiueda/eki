@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":99505,"line_name":"天竜浜名湖線","station_cd":9950522,"station_g_cd":9950522,"station_name":"都田","lon":137.718272,"lat":34.828223}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

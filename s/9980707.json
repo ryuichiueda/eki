@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":38,"line_cd":99807,"line_name":"伊予鉄道横河原線","station_cd":9980707,"station_g_cd":9980707,"station_name":"鷹ノ子","lon":132.815301,"lat":33.812542}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

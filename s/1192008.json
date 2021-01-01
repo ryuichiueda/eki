@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":41,"line_cd":11920,"line_name":"JR筑肥線(西唐津～伊万里)","station_cd":1192008,"station_g_cd":1192008,"station_name":"駒鳴","lon":129.972469,"lat":33.319455}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

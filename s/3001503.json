@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30015,"line_name":"名鉄犬山線","station_cd":3001503,"station_g_cd":3000138,"station_name":"東枇杷島","lon":136.870168,"lat":35.189808}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

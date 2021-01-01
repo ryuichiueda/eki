@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":11601,"line_name":"琵琶湖線","station_cd":1160120,"station_name":"京都"},{"pref_cd":26,"line_cd":11602,"line_name":"JR京都線","station_cd":1160201,"station_name":"京都"},{"pref_cd":26,"line_cd":11605,"line_name":"JR湖西線","station_cd":1160501,"station_name":"京都"},{"pref_cd":26,"line_cd":11614,"line_name":"嵯峨野線","station_cd":1161401,"station_name":"京都"},{"pref_cd":26,"line_cd":11618,"line_name":"奈良線","station_cd":1161801,"station_name":"京都"},{"pref_cd":26,"line_cd":31025,"line_name":"近鉄京都線","station_cd":3102501,"station_name":"京都"},{"pref_cd":26,"line_cd":99610,"line_name":"京都市営地下鉄烏丸線","station_cd":9961011,"station_name":"京都"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

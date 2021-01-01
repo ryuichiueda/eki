@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>31011</line_cd>
+		<line_name>近鉄天理線</line_name>
+		<line_lon>135.80370124072</line_lon>
+		<line_lat>34.602763</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>3101101</station_cd>
+		<station_g_cd>3100207</station_g_cd>
+		<station_name>平端</station_name>
+		<lon>135.782804</lon>
+		<lat>34.606712</lat>
+	</station>
+	<station>
+		<station_cd>3101102</station_cd>
+		<station_g_cd>3101102</station_g_cd>
+		<station_name>二階堂</station_name>
+		<lon>135.79553</lon>
+		<lat>34.602121</lat>
+	</station>
+	<station>
+		<station_cd>3101103</station_cd>
+		<station_g_cd>3101103</station_g_cd>
+		<station_name>前栽</station_name>
+		<lon>135.816536</lon>
+		<lat>34.600996</lat>
+	</station>
+	<station>
+		<station_cd>3101104</station_cd>
+		<station_g_cd>1163705</station_g_cd>
+		<station_name>天理</station_name>
+		<lon>135.829548</lon>
+		<lat>34.601223</lat>
+	</station>
+</ekidata>

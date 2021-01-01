@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":2,"line_cd":11203,"line_name":"はまなすベイライン大湊線","station_cd":1120310,"station_g_cd":1120310,"station_name":"下北","lon":141.18989,"lat":41.28288}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11501</line_cd>
+		<line_name>JR東海道本線(熱海～浜松)</line_name>
+		<station_cd>1150103</station_cd>
+		<station_g_cd>1150103</station_g_cd>
+		<station_name>三島</station_name>
+		<lon>138.911133</lon>
+		<lat>35.126253</lat>
+	</station>
+	<station_g>
+		<pref_cd>22</pref_cd>
+		<line_cd>11501</line_cd>
+		<line_name>JR東海道本線(熱海～浜松)</line_name>
+		<station_cd>1150103</station_cd>
+		<station_name>三島</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>22</pref_cd>
+		<line_cd>99502</line_cd>
+		<line_name>伊豆箱根鉄道駿豆線</line_name>
+		<station_cd>9950201</station_cd>
+		<station_name>三島</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11305</line_cd>
+		<line_name>JR武蔵野線</line_name>
+		<station_cd>1130504</station_cd>
+		<station_g_cd>1130504</station_g_cd>
+		<station_name>新小平</station_name>
+		<lon>139.470745</lon>
+		<lat>35.73128</lat>
+	</station>
+</ekidata>

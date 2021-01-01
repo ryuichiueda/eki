@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99333</line_cd>
+		<line_name>流鉄流山線</line_name>
+		<station_cd>9933301</station_cd>
+		<station_g_cd>1132011</station_g_cd>
+		<station_name>馬橋</station_name>
+		<lon>139.917042</lon>
+		<lat>35.811949</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11320</line_cd>
+		<line_name>JR常磐線(上野～取手)</line_name>
+		<station_cd>1132011</station_cd>
+		<station_name>馬橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>99333</line_cd>
+		<line_name>流鉄流山線</line_name>
+		<station_cd>9933301</station_cd>
+		<station_name>馬橋</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11115</line_cd>
+		<line_name>JR宗谷本線</line_name>
+		<station_cd>1111535</station_cd>
+		<station_g_cd>1111535</station_g_cd>
+		<station_name>筬島</station_name>
+		<lon>142.197777</lon>
+		<lat>44.738883</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11115</line_cd>
+		<line_name>JR宗谷本線</line_name>
+		<station_cd>1111535</station_cd>
+		<station_name>筬島</station_name>
+	</station_g>
+</ekidata>

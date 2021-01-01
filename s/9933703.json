@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":99337,"line_name":"りんかい線","station_cd":9933703,"station_g_cd":9933703,"station_name":"国際展示場","lon":139.791617,"lat":35.63441}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

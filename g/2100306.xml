@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>21003</line_cd>
+		<line_name>東武日光線</line_name>
+		<station_cd>2100306</station_cd>
+		<station_g_cd>2100306</station_g_cd>
+		<station_name>新古河</station_name>
+		<lon>139.686904</lon>
+		<lat>36.192686</lat>
+	</station>
+	<station_g>
+		<pref_cd>11</pref_cd>
+		<line_cd>21003</line_cd>
+		<line_name>東武日光線</line_name>
+		<station_cd>2100306</station_cd>
+		<station_name>新古河</station_name>
+	</station_g>
+</ekidata>

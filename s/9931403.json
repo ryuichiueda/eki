@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":99314,"line_name":"伊豆箱根鉄道大雄山線","station_cd":9931403,"station_g_cd":9931403,"station_name":"井細田","lon":139.157397,"lat":35.268964}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

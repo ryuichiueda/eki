@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":32,"line_cd":99702,"line_name":"北松江線","station_cd":9970203,"station_g_cd":9970203,"station_name":"大津町","lon":132.774315,"lat":35.36916}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

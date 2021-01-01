@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":10,"line_cd":11335,"line_name":"JR吾妻線","station_cd":1133514,"station_g_cd":1133514,"station_name":"群馬大津","lon":138.628045,"lat":36.553792}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

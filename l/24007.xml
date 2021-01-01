@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>24007</line_cd>
+		<line_name>京王新線</line_name>
+		<line_lon>139.68525052071</line_lon>
+		<line_lat>35.680498528148</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>2400701</station_cd>
+		<station_g_cd>1130208</station_g_cd>
+		<station_name>新線新宿</station_name>
+		<lon>139.698812</lon>
+		<lat>35.68869</lat>
+	</station>
+	<station>
+		<station_cd>2400704</station_cd>
+		<station_g_cd>2400104</station_g_cd>
+		<station_name>笹塚</station_name>
+		<lon>139.667251</lon>
+		<lat>35.673758</lat>
+	</station>
+	<station>
+		<station_cd>2400702</station_cd>
+		<station_g_cd>2400102</station_g_cd>
+		<station_name>初台</station_name>
+		<lon>139.686354</lon>
+		<lat>35.68123</lat>
+	</station>
+	<station>
+		<station_cd>2400703</station_cd>
+		<station_g_cd>2400103</station_g_cd>
+		<station_name>幡ヶ谷</station_name>
+		<lon>139.676183</lon>
+		<lat>35.677061</lat>
+	</station>
+</ekidata>

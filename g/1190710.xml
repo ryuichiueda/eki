@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11907</line_cd>
+		<line_name>JR日豊本線(佐伯～鹿児島中央)</line_name>
+		<station_cd>1190710</station_cd>
+		<station_g_cd>1190710</station_g_cd>
+		<station_name>北延岡</station_name>
+		<lon>131.689869</lon>
+		<lat>32.630276</lat>
+	</station>
+	<station_g>
+		<pref_cd>45</pref_cd>
+		<line_cd>11907</line_cd>
+		<line_name>JR日豊本線(佐伯～鹿児島中央)</line_name>
+		<station_cd>1190710</station_cd>
+		<station_name>北延岡</station_name>
+	</station_g>
+</ekidata>

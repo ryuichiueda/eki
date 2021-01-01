@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":29,"line_cd":11637,"line_name":"万葉まほろば線","station_cd":1163704,"station_g_cd":1163704,"station_name":"櫟本","lon":135.826329,"lat":34.621058}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

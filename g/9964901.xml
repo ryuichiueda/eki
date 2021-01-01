@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99649</line_cd>
+		<line_name>六甲ライナー</line_name>
+		<station_cd>9964901</station_cd>
+		<station_g_cd>1160310</station_g_cd>
+		<station_name>住吉</station_name>
+		<lon>135.262309</lon>
+		<lat>34.719512</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11603</line_cd>
+		<line_name>JR神戸線(大阪～神戸)</line_name>
+		<station_cd>1160310</station_cd>
+		<station_name>住吉</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>99649</line_cd>
+		<line_name>六甲ライナー</line_name>
+		<station_cd>9964901</station_cd>
+		<station_name>住吉</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9970801</station_cd1>
+		<station_cd2>9970802</station_cd2>
+		<station_name1>みどり口</station_name1>
+		<station_name2>みどり中街</station_name2>
+		<lat1>34.422294</lat1>
+		<lon1>132.596248</lon1>
+		<lat2>34.42771</lat2>
+		<lon2>132.594804</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9970802</station_cd1>
+		<station_cd2>9970803</station_cd2>
+		<station_name1>みどり中街</station_name1>
+		<station_name2>みどり中央</station_name2>
+		<lat1>34.42771</lat1>
+		<lon1>132.594804</lon1>
+		<lat2>34.430248</lat2>
+		<lon2>132.589435</lon2>
+	</station_join>
+</ekidata>

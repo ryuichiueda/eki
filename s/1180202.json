@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":37,"line_cd":11802,"line_name":"JR高徳線","station_cd":1180202,"station_g_cd":1180202,"station_name":"昭和町","lon":134.032141,"lat":34.343882}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

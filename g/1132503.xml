@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11325</line_cd>
+		<line_name>JR内房線</line_name>
+		<station_cd>1132503</station_cd>
+		<station_g_cd>1132403</station_g_cd>
+		<station_name>蘇我</station_name>
+		<lon>140.130767</lon>
+		<lat>35.582065</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11324</line_cd>
+		<line_name>JR外房線</line_name>
+		<station_cd>1132403</station_cd>
+		<station_name>蘇我</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11325</line_cd>
+		<line_name>JR内房線</line_name>
+		<station_cd>1132503</station_cd>
+		<station_name>蘇我</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11326</line_cd>
+		<line_name>JR京葉線</line_name>
+		<station_cd>1132618</station_cd>
+		<station_name>蘇我</station_name>
+	</station_g>
+</ekidata>

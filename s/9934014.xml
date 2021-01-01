@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>99340</line_cd>
+		<line_name>北総鉄道北総線</line_name>
+		<station_cd>9934014</station_cd>
+		<station_g_cd>9934014</station_g_cd>
+		<station_name>印西牧の原</station_name>
+		<lon>140.166911</lon>
+		<lat>35.803608</lat>
+	</station>
+</ekidata>

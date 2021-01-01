@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11106</line_cd>
+		<line_name>JR根室本線(滝川～新得)</line_name>
+		<station_cd>1110618</station_cd>
+		<station_g_cd>1110618</station_g_cd>
+		<station_name>新得</station_name>
+		<lon>142.832432</lon>
+		<lat>43.082501</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11106</line_cd>
+		<line_name>JR根室本線(滝川～新得)</line_name>
+		<station_cd>1110618</station_cd>
+		<station_name>新得</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11107</line_cd>
+		<line_name>JR根室本線(新得～釧路)</line_name>
+		<station_cd>1110701</station_cd>
+		<station_name>新得</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11110</line_cd>
+		<line_name>JR石勝線</line_name>
+		<station_cd>1111015</station_cd>
+		<station_name>新得</station_name>
+	</station_g>
+</ekidata>

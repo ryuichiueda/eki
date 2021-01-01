@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99337</line_cd>
+		<line_name>りんかい線</line_name>
+		<station_cd>9933704</station_cd>
+		<station_g_cd>9933704</station_g_cd>
+		<station_name>東京テレポート</station_name>
+		<lon>139.778896</lon>
+		<lat>35.62753</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99337</line_cd>
+		<line_name>りんかい線</line_name>
+		<station_cd>9933704</station_cd>
+		<station_name>東京テレポート</station_name>
+	</station_g>
+</ekidata>

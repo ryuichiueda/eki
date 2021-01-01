@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":6,"line_cd":11202,"line_name":"JR奥羽本線(新庄～青森)","station_cd":1120201,"station_name":"新庄"},{"pref_cd":6,"line_cd":11216,"line_name":"山形線","station_cd":1121635,"station_name":"新庄"},{"pref_cd":6,"line_cd":11220,"line_name":"奥の細道最上川ライン","station_cd":1122001,"station_name":"新庄"},{"pref_cd":6,"line_cd":11221,"line_name":"奥の細道湯けむりライン","station_cd":1122127,"station_name":"新庄"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

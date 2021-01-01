@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>37</pref_cd>
+		<line_cd>99804</line_cd>
+		<line_name>琴電志度線</line_name>
+		<station_cd>9980409</station_cd>
+		<station_g_cd>9980409</station_g_cd>
+		<station_name>八栗</station_name>
+		<lon>134.122439</lon>
+		<lat>34.344582</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120221</station_cd>
+		<station_g_cd>1120221</station_g_cd>
+		<station_name>神宮寺</station_name>
+		<lon>140.426518</lon>
+		<lat>39.494841</lat>
+	</station>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120221</station_cd>
+		<station_name>神宮寺</station_name>
+	</station_g>
+</ekidata>

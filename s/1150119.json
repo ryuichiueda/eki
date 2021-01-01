@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":11501,"line_name":"JR東海道本線(熱海～浜松)","station_cd":1150119,"station_g_cd":1150119,"station_name":"安倍川","lon":138.364029,"lat":34.940961}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

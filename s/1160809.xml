@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>11608</line_cd>
+		<line_name>JR神戸線(神戸～姫路)</line_name>
+		<station_cd>1160809</station_cd>
+		<station_g_cd>1160809</station_g_cd>
+		<station_name>朝霧</station_name>
+		<lon>135.017485</lon>
+		<lat>34.644196</lat>
+	</station>
+</ekidata>

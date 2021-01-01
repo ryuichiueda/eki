@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>1192701</station_cd1>
+		<station_cd2>1192702</station_cd2>
+		<station_name1>宮崎</station_name1>
+		<station_name2>南宮崎</station_name2>
+		<lat1>31.915742</lat1>
+		<lon1>131.431975</lon1>
+		<lat2>31.895097</lat2>
+		<lon2>131.422329</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1192702</station_cd1>
+		<station_cd2>1192703</station_cd2>
+		<station_name1>南宮崎</station_name1>
+		<station_name2>田吉</station_name2>
+		<lat1>31.895097</lat1>
+		<lon1>131.422329</lon1>
+		<lat2>31.878202</lat2>
+		<lon2>131.430697</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1192703</station_cd1>
+		<station_cd2>1192704</station_cd2>
+		<station_name1>田吉</station_name1>
+		<station_name2>宮崎空港</station_name2>
+		<lat1>31.878202</lat1>
+		<lon1>131.430697</lon1>
+		<lat2>31.87251</lat2>
+		<lon2>131.440555</lon2>
+	</station_join>
+</ekidata>

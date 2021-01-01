@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":12,"line_cd":99325,"line_name":"小湊鉄道線","station_cd":9932505,"station_name":"上総山田"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

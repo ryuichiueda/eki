@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":9971701,"station_cd2":9971702,"station_name1":"八丁堀","station_name2":"女学院前","lat1":34.393897,"lon1":132.463403,"lat2":34.397827,"lon2":132.464776},{"station_cd1":9971702,"station_cd2":9971703,"station_name1":"女学院前","station_name2":"縮景園前","lat1":34.397827,"lon1":132.464776,"lat2":34.399881,"lon2":132.465334},{"station_cd1":9971703,"station_cd2":9971704,"station_name1":"縮景園前","station_name2":"家庭裁判所前","lat1":34.399881,"lon1":132.465334,"lat2":34.402289,"lon2":132.466106},{"station_cd1":9971704,"station_cd2":9971705,"station_name1":"家庭裁判所前","station_name2":"白島","lat1":34.402289,"lon1":132.466106,"lat2":34.404484,"lon2":132.465506}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

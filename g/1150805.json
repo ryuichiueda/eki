@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":23,"line_cd":11508,"line_name":"JR関西本線(名古屋～亀山)","station_cd":1150805,"station_name":"永和"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

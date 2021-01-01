@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":38,"line_cd":99809,"line_name":"伊予鉄道環状線","station_cd":9980912,"station_g_cd":9980812,"station_name":"清水町","lon":132.764281,"lat":33.849328}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

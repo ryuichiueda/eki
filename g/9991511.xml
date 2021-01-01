@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99915</line_cd>
+		<line_name>長崎電軌４系統</line_name>
+		<station_cd>9991511</station_cd>
+		<station_g_cd>9991511</station_g_cd>
+		<station_name>浜町アーケード</station_name>
+		<lon>129.8768124</lon>
+		<lat>32.74476168</lat>
+	</station>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99915</line_cd>
+		<line_name>長崎電軌４系統</line_name>
+		<station_cd>9991511</station_cd>
+		<station_name>浜町アーケード</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":8,"line_cd":99319,"line_name":"関東鉄道竜ヶ崎線","station_cd":9931903,"station_name":"竜ヶ崎"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

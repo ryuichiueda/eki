@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":18,"line_cd":99419,"line_name":"えちぜん鉄道勝山永平寺線","station_cd":9941912,"station_g_cd":9941912,"station_name":"永平寺口","lon":136.32678,"lat":36.095849}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

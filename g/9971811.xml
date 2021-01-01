@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99718</line_cd>
+		<line_name>錦川清流線</line_name>
+		<station_cd>9971811</station_cd>
+		<station_g_cd>9971811</station_g_cd>
+		<station_name>柳瀬</station_name>
+		<lon>131.97669</lon>
+		<lat>34.25714</lat>
+	</station>
+	<station_g>
+		<pref_cd>35</pref_cd>
+		<line_cd>99718</line_cd>
+		<line_name>錦川清流線</line_name>
+		<station_cd>9971811</station_cd>
+		<station_name>柳瀬</station_name>
+	</station_g>
+</ekidata>

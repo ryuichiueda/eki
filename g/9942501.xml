@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99425</line_cd>
+		<line_name>あいの風とやま鉄道線</line_name>
+		<station_cd>9942501</station_cd>
+		<station_g_cd>1141547</station_g_cd>
+		<station_name>倶利伽羅</station_name>
+		<lon>136.791605</lon>
+		<lat>36.672489</lat>
+	</station>
+	<station_g>
+		<pref_cd>17</pref_cd>
+		<line_cd>99425</line_cd>
+		<line_name>あいの風とやま鉄道線</line_name>
+		<station_cd>9942501</station_cd>
+		<station_name>倶利伽羅</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>17</pref_cd>
+		<line_cd>99426</line_cd>
+		<line_name>IRいしかわ鉄道線</line_name>
+		<station_cd>1141547</station_cd>
+		<station_name>倶利伽羅</station_name>
+	</station_g>
+</ekidata>

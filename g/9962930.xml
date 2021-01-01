@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99629</line_cd>
+		<line_name>阪堺電軌阪堺線</line_name>
+		<station_cd>9962930</station_cd>
+		<station_g_cd>3200113</station_g_cd>
+		<station_name>浜寺駅前</station_name>
+		<lon>135.44316</lon>
+		<lat>34.541418</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>32001</line_cd>
+		<line_name>南海本線</line_name>
+		<station_cd>3200113</station_cd>
+		<station_name>浜寺公園</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99629</line_cd>
+		<line_name>阪堺電軌阪堺線</line_name>
+		<station_cd>9962930</station_cd>
+		<station_name>浜寺駅前</station_name>
+	</station_g>
+</ekidata>

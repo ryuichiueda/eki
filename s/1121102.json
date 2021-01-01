@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":3,"line_cd":11211,"line_name":"JR田沢湖線","station_cd":1121102,"station_g_cd":1121102,"station_name":"大釜","lon":141.072202,"lat":39.711586}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

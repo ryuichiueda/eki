@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>39</pref_cd>
+		<line_cd>11801</line_cd>
+		<line_name>JR土讃線</line_name>
+		<station_cd>1180124</station_cd>
+		<station_g_cd>1180124</station_g_cd>
+		<station_name>繁藤</station_name>
+		<lon>133.690186</lon>
+		<lat>33.680389</lat>
+	</station>
+</ekidata>

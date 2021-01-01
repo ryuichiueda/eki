@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>21</pref_cd>
+		<line_cd>11416</line_cd>
+		<line_name>JR高山本線</line_name>
+		<station_cd>1141603</station_cd>
+		<station_g_cd>1141603</station_g_cd>
+		<station_name>那加</station_name>
+		<lon>136.835466</lon>
+		<lat>35.400538</lat>
+	</station>
+</ekidata>

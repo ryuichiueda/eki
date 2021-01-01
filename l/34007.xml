@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>34007</line_cd>
+		<line_name>阪急箕面線</line_name>
+		<line_lon>135.46021566138</line_lon>
+		<line_lat>34.82297850569</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3400701</station_cd>
+		<station_g_cd>3400211</station_g_cd>
+		<station_name>石橋阪大前</station_name>
+		<lon>135.445487</lon>
+		<lat>34.808254</lat>
+	</station>
+	<station>
+		<station_cd>3400702</station_cd>
+		<station_g_cd>3400702</station_g_cd>
+		<station_name>桜井</station_name>
+		<lon>135.460705</lon>
+		<lat>34.816801</lat>
+	</station>
+	<station>
+		<station_cd>3400703</station_cd>
+		<station_g_cd>3400703</station_g_cd>
+		<station_name>牧落</station_name>
+		<lon>135.465794</lon>
+		<lat>34.823436</lat>
+	</station>
+	<station>
+		<station_cd>3400704</station_cd>
+		<station_g_cd>3400704</station_g_cd>
+		<station_name>箕面</station_name>
+		<lon>135.46819</lon>
+		<lat>34.834404</lat>
+	</station>
+</ekidata>

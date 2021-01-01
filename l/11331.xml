@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11331</line_cd>
+		<line_name>JR東金線</line_name>
+		<line_lon>140.36805862754</line_lon>
+		<line_lat>35.562328658445</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>1133101</station_cd>
+		<station_g_cd>1132407</station_g_cd>
+		<station_name>大網</station_name>
+		<lon>140.311111</lon>
+		<lat>35.522427</lat>
+	</station>
+	<station>
+		<station_cd>1133102</station_cd>
+		<station_g_cd>1133102</station_g_cd>
+		<station_name>福俵</station_name>
+		<lon>140.341904</lon>
+		<lat>35.54617</lat>
+	</station>
+	<station>
+		<station_cd>1133103</station_cd>
+		<station_g_cd>1133103</station_g_cd>
+		<station_name>東金</station_name>
+		<lon>140.363743</lon>
+		<lat>35.560172</lat>
+	</station>
+	<station>
+		<station_cd>1133104</station_cd>
+		<station_g_cd>1133104</station_g_cd>
+		<station_name>求名</station_name>
+		<lon>140.39626</lon>
+		<lat>35.579947</lat>
+	</station>
+	<station>
+		<station_cd>1133105</station_cd>
+		<station_g_cd>1131420</station_g_cd>
+		<station_name>成東</station_name>
+		<lon>140.410109</lon>
+		<lat>35.608513</lat>
+	</station>
+</ekidata>

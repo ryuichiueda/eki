@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99325</line_cd>
+		<line_name>小湊鉄道線</line_name>
+		<station_cd>9932504</station_cd>
+		<station_g_cd>9932504</station_g_cd>
+		<station_name>上総三又</station_name>
+		<lon>140.12672</lon>
+		<lat>35.46592</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>99325</line_cd>
+		<line_name>小湊鉄道線</line_name>
+		<station_cd>9932504</station_cd>
+		<station_name>上総三又</station_name>
+	</station_g>
+</ekidata>

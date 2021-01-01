@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":35,"line_cd":11612,"line_name":"JR山陽本線(岩国～門司)","station_cd":1161222,"station_g_cd":1161222,"station_name":"大道","lon":131.488358,"lat":34.053295}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

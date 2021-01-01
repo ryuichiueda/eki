@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11412</line_cd>
+		<line_name>JR篠ノ井線</line_name>
+		<station_cd>1141201</station_cd>
+		<station_g_cd>1131153</station_g_cd>
+		<station_name>塩尻</station_name>
+		<lon>137.947961</lon>
+		<lat>36.114364</lat>
+	</station>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11311</line_cd>
+		<line_name>JR中央本線(東京～塩尻)</line_name>
+		<station_cd>1131153</station_cd>
+		<station_name>塩尻</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11411</line_cd>
+		<line_name>JR中央本線(名古屋～塩尻)</line_name>
+		<station_cd>1141140</station_cd>
+		<station_name>塩尻</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11412</line_cd>
+		<line_name>JR篠ノ井線</line_name>
+		<station_cd>1141201</station_cd>
+		<station_name>塩尻</station_name>
+	</station_g>
+</ekidata>

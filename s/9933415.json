@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":99334,"line_name":"多摩モノレール","station_cd":9933415,"station_g_cd":9933415,"station_name":"泉体育館","lon":139.419525,"lat":35.718775}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

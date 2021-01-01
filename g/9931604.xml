@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99316</line_cd>
+		<line_name>ブルーライン</line_name>
+		<station_cd>9931604</station_cd>
+		<station_g_cd>9931604</station_g_cd>
+		<station_name>センター南</station_name>
+		<lon>139.574291</lon>
+		<lat>35.545476</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99316</line_cd>
+		<line_name>ブルーライン</line_name>
+		<station_cd>9931604</station_cd>
+		<station_name>センター南</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99343</line_cd>
+		<line_name>グリーンライン</line_name>
+		<station_cd>9934304</station_cd>
+		<station_name>センター南</station_name>
+	</station_g>
+</ekidata>

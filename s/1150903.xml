@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>24</pref_cd>
+		<line_cd>11509</line_cd>
+		<line_name>JR関西本線(亀山～加茂)</line_name>
+		<station_cd>1150903</station_cd>
+		<station_g_cd>1150903</station_g_cd>
+		<station_name>加太</station_name>
+		<lon>136.340305</lon>
+		<lat>34.842639</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99332</line_cd>
+		<line_name>千葉都市モノレール２号線</line_name>
+		<station_cd>9933203</station_cd>
+		<station_g_cd>9933203</station_g_cd>
+		<station_name>作草部</station_name>
+		<lon>140.115314</lon>
+		<lat>35.625806</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>99332</line_cd>
+		<line_name>千葉都市モノレール２号線</line_name>
+		<station_cd>9933203</station_cd>
+		<station_name>作草部</station_name>
+	</station_g>
+</ekidata>

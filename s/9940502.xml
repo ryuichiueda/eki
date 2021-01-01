@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>99405</line_cd>
+		<line_name>長野電鉄長野線</line_name>
+		<station_cd>9940502</station_cd>
+		<station_g_cd>9940502</station_g_cd>
+		<station_name>市役所前</station_name>
+		<lon>138.191488</lon>
+		<lat>36.649141</lat>
+	</station>
+</ekidata>

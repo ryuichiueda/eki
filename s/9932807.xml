@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>10</pref_cd>
+		<line_cd>99328</line_cd>
+		<line_name>上毛電気鉄道上毛線</line_name>
+		<station_cd>9932807</station_cd>
+		<station_g_cd>9932807</station_g_cd>
+		<station_name>心臓血管センター</station_name>
+		<lon>139.129614</lon>
+		<lat>36.40559</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131113,"station_g_cd":1131113,"station_name":"相模湖","lon":139.1885,"lat":35.617335}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

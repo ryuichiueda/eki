@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":40,"line_cd":11914,"line_name":"JR日田彦山線","station_cd":1191414,"station_name":"田川後藤寺"},{"pref_cd":40,"line_cd":11915,"line_name":"JR後藤寺線","station_cd":1191506,"station_name":"田川後藤寺"},{"pref_cd":40,"line_cd":99903,"line_name":"糸田線","station_cd":9990306,"station_name":"田川後藤寺"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

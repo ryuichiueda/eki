@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>15</pref_cd>
+		<line_cd>11407</line_cd>
+		<line_name>JR飯山線</line_name>
+		<station_cd>1140722</station_cd>
+		<station_g_cd>1140722</station_g_cd>
+		<station_name>足滝</station_name>
+		<lon>138.603625</lon>
+		<lat>36.998958</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":11301,"line_name":"JR東海道本線(東京～熱海)","station_cd":1130106,"station_name":"戸塚"},{"pref_cd":14,"line_cd":11308,"line_name":"JR横須賀線","station_cd":1130809,"station_name":"戸塚"},{"pref_cd":14,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132802,"station_name":"戸塚"},{"pref_cd":14,"line_cd":11333,"line_name":"JR湘南新宿ライン","station_cd":1133313,"station_name":"戸塚"},{"pref_cd":14,"line_cd":99316,"line_name":"ブルーライン","station_cd":9931627,"station_name":"戸塚"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

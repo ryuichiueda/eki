@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":99105,"line_name":"函館市電２系統","station_cd":9910521,"station_g_cd":9910521,"station_name":"宝来町","lon":140.7198,"lat":41.761085}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

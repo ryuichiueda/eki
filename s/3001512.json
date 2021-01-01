@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30015,"line_name":"名鉄犬山線","station_cd":3001512,"station_g_cd":3001512,"station_name":"布袋","lon":136.872987,"lat":35.317135}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11613</line_cd>
+		<line_name>JR山陽本線(兵庫～和田岬)</line_name>
+		<line_lon>135.16794204761</line_lon>
+		<line_lat>34.665775516298</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>1161301</station_cd>
+		<station_g_cd>1160802</station_g_cd>
+		<station_name>兵庫</station_name>
+		<lon>135.164706</lon>
+		<lat>34.668343</lat>
+	</station>
+	<station>
+		<station_cd>1161302</station_cd>
+		<station_g_cd>1161302</station_g_cd>
+		<station_name>和田岬</station_name>
+		<lon>135.174268</lon>
+		<lat>34.657278</lat>
+	</station>
+</ekidata>

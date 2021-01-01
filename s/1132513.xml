@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>11325</line_cd>
+		<line_name>JR内房線</line_name>
+		<station_cd>1132513</station_cd>
+		<station_g_cd>1132513</station_g_cd>
+		<station_name>青堀</station_name>
+		<lon>139.858189</lon>
+		<lat>35.330304</lat>
+	</station>
+</ekidata>

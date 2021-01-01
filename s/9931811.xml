@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>8</pref_cd>
+		<line_cd>99318</line_cd>
+		<line_name>関東鉄道常総線</line_name>
+		<station_cd>9931811</station_cd>
+		<station_g_cd>9931811</station_g_cd>
+		<station_name>水海道</station_name>
+		<lon>139.99137</lon>
+		<lat>36.017828</lat>
+	</station>
+</ekidata>

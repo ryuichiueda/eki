@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99909</line_cd>
+		<line_name>筑豊電気鉄道線</line_name>
+		<station_cd>9990901</station_cd>
+		<station_g_cd>1190212</station_g_cd>
+		<station_name>黒崎駅前</station_name>
+		<lon>130.765459</lon>
+		<lat>33.86644</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11902</line_cd>
+		<line_name>JR鹿児島本線(下関・門司港～博多)</line_name>
+		<station_cd>1190212</station_cd>
+		<station_name>黒崎</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>99909</line_cd>
+		<line_name>筑豊電気鉄道線</line_name>
+		<station_cd>9990901</station_cd>
+		<station_name>黒崎駅前</station_name>
+	</station_g>
+</ekidata>

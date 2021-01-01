@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99809</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980909</station_cd>
+		<station_g_cd>9980815</station_g_cd>
+		<station_name>平和通一丁目</station_name>
+		<lon>132.774452</lon>
+		<lat>33.847673</lat>
+	</station>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99808</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980815</station_cd>
+		<station_name>平和通一丁目</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99809</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980909</station_cd>
+		<station_name>平和通一丁目</station_name>
+	</station_g>
+</ekidata>

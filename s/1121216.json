@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":5,"line_cd":11212,"line_name":"十和田八幡平四季彩ライン","station_cd":1121216,"station_g_cd":1121216,"station_name":"陸中大里","lon":140.793477,"lat":40.158574}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

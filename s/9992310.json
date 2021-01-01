@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":43,"line_cd":99923,"line_name":"熊本市電Ｂ系統","station_cd":9992310,"station_g_cd":9992208,"station_name":"辛島町","lon":130.705075,"lat":32.798891}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

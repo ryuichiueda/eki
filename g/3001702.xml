@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>30017</line_cd>
+		<line_name>名鉄広見線</line_name>
+		<station_cd>3001702</station_cd>
+		<station_g_cd>3001702</station_g_cd>
+		<station_name>富岡前</station_name>
+		<lon>136.962112</lon>
+		<lat>35.379508</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30017</line_cd>
+		<line_name>名鉄広見線</line_name>
+		<station_cd>3001702</station_cd>
+		<station_name>富岡前</station_name>
+	</station_g>
+</ekidata>

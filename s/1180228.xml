@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>36</pref_cd>
+		<line_cd>11802</line_cd>
+		<line_name>JR高徳線</line_name>
+		<station_cd>1180228</station_cd>
+		<station_g_cd>1180228</station_g_cd>
+		<station_name>佐古</station_name>
+		<lon>134.538539</lon>
+		<lat>34.080644</lat>
+	</station>
+</ekidata>

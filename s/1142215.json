@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":18,"line_cd":11422,"line_name":"JR小浜線","station_cd":1142215,"station_g_cd":1142215,"station_name":"大鳥羽","lon":135.866872,"lat":35.504839}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

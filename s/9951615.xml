@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>99516</line_cd>
+		<line_name>名古屋市営地下鉄鶴舞線</line_name>
+		<station_cd>9951615</station_cd>
+		<station_g_cd>9951422</station_g_cd>
+		<station_name>八事</station_name>
+		<lon>136.964036</lon>
+		<lat>35.136946</lat>
+	</station>
+</ekidata>

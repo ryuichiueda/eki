@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>0</station_cd1>
+		<station_cd2>0</station_cd2>
+		<station_name1>station_name</station_name1>
+		<station_name2>station_name</station_name2>
+		<lat1>0</lat1>
+		<lon1>0</lon1>
+		<lat2>0</lat2>
+		<lon2>0</lon2>
+	</station_join>
+</ekidata>

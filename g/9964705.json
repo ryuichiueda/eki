@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":28,"line_cd":11613,"line_name":"JR山陽本線(兵庫～和田岬)","station_cd":1161302,"station_name":"和田岬"},{"pref_cd":28,"line_cd":99647,"line_name":"夢かもめ","station_cd":9964705,"station_name":"和田岬"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

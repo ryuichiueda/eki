@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131307</station_cd>
+		<station_g_cd>1131214</station_g_cd>
+		<station_name>中野</station_name>
+		<lon>139.665835</lon>
+		<lat>35.705765</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11312</line_cd>
+		<line_name>JR中央線(快速)</line_name>
+		<station_cd>1131214</station_cd>
+		<station_name>中野</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131307</station_cd>
+		<station_name>中野</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28004</line_cd>
+		<line_name>東京メトロ東西線</line_name>
+		<station_cd>2800401</station_cd>
+		<station_name>中野</station_name>
+	</station_g>
+</ekidata>

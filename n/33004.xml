@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3300401</station_cd1>
+		<station_cd2>3300402</station_cd2>
+		<station_name1>出町柳</station_name1>
+		<station_name2>神宮丸太町</station_name2>
+		<lat1>35.029654</lat1>
+		<lon1>135.772519</lon1>
+		<lat2>35.017555</lat2>
+		<lon2>135.772283</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3300402</station_cd1>
+		<station_cd2>3300403</station_cd2>
+		<station_name1>神宮丸太町</station_name1>
+		<station_name2>三条</station_name2>
+		<lat1>35.017555</lat1>
+		<lon1>135.772283</lon1>
+		<lat2>35.009114</lat2>
+		<lon2>135.772274</lon2>
+	</station_join>
+</ekidata>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131302</station_cd>
+		<station_g_cd>1131104</station_g_cd>
+		<station_name>吉祥寺</station_name>
+		<lon>139.579765</lon>
+		<lat>35.703119</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11311</line_cd>
+		<line_name>JR中央本線(東京～塩尻)</line_name>
+		<station_cd>1131104</station_cd>
+		<station_name>吉祥寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11312</line_cd>
+		<line_name>JR中央線(快速)</line_name>
+		<station_cd>1131219</station_cd>
+		<station_name>吉祥寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131302</station_cd>
+		<station_name>吉祥寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11328</line_cd>
+		<line_name>JR成田エクスプレス</line_name>
+		<station_cd>1132820</station_cd>
+		<station_name>吉祥寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>24006</line_cd>
+		<line_name>京王井の頭線</line_name>
+		<station_cd>2400617</station_cd>
+		<station_name>吉祥寺</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":99326,"line_name":"湘南モノレール","station_cd":9932606,"station_g_cd":9932606,"station_name":"片瀬山","lon":139.496052,"lat":35.317256}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

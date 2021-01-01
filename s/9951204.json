@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":99512,"line_name":"リニモ","station_cd":9951204,"station_g_cd":9951204,"station_name":"長久手古戦場","lon":137.049932,"lat":35.171574}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

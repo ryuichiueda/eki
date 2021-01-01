@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99623</line_cd>
+		<line_name>大阪メトロ堺筋線</line_name>
+		<station_cd>9962304</station_cd>
+		<station_g_cd>3300139</station_g_cd>
+		<station_name>北浜</station_name>
+		<lon>135.506634</lon>
+		<lat>34.691588</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>33001</line_cd>
+		<line_name>京阪本線</line_name>
+		<station_cd>3300139</station_cd>
+		<station_name>北浜</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>33008</line_cd>
+		<line_name>京阪中之島線</line_name>
+		<station_cd>3300802</station_cd>
+		<station_name>なにわ橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99623</line_cd>
+		<line_name>大阪メトロ堺筋線</line_name>
+		<station_cd>9962304</station_cd>
+		<station_name>北浜</station_name>
+	</station_g>
+</ekidata>

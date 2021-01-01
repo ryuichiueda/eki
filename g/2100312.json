@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":9,"line_cd":11341,"line_name":"JR両毛線","station_cd":1134119,"station_name":"栃木"},{"pref_cd":9,"line_cd":21003,"line_name":"東武日光線","station_cd":2100312,"station_name":"栃木"},{"pref_cd":9,"line_cd":21008,"line_name":"東武宇都宮線","station_cd":2100801,"station_name":"栃木"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

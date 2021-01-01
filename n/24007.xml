@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>2400701</station_cd1>
+		<station_cd2>2400702</station_cd2>
+		<station_name1>新線新宿</station_name1>
+		<station_name2>初台</station_name2>
+		<lat1>35.68869</lat1>
+		<lon1>139.698812</lon1>
+		<lat2>35.68123</lat2>
+		<lon2>139.686354</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>2400702</station_cd1>
+		<station_cd2>2400703</station_cd2>
+		<station_name1>初台</station_name1>
+		<station_name2>幡ヶ谷</station_name2>
+		<lat1>35.68123</lat1>
+		<lon1>139.686354</lon1>
+		<lat2>35.677061</lat2>
+		<lon2>139.676183</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>2400703</station_cd1>
+		<station_cd2>2400704</station_cd2>
+		<station_name1>幡ヶ谷</station_name1>
+		<station_name2>笹塚</station_name2>
+		<lat1>35.677061</lat1>
+		<lon1>139.676183</lon1>
+		<lat2>35.673758</lat2>
+		<lon2>139.667251</lon2>
+	</station_join>
+</ekidata>

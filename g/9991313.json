@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":42,"line_cd":11905,"line_name":"JR長崎本線(鳥栖～長崎)","station_cd":1190540,"station_name":"浦上"},{"pref_cd":42,"line_cd":99913,"line_name":"長崎電軌１系統","station_cd":9991313,"station_name":"浦上駅前"},{"pref_cd":42,"line_cd":99914,"line_name":"長崎電軌３系統","station_cd":9991412,"station_name":"浦上駅前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

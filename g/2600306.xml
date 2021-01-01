@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>26003</line_cd>
+		<line_name>東急田園都市線</line_name>
+		<station_cd>2600306</station_cd>
+		<station_g_cd>2600306</station_g_cd>
+		<station_name>用賀</station_name>
+		<lon>139.633928</lon>
+		<lat>35.626436</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>26003</line_cd>
+		<line_name>東急田園都市線</line_name>
+		<station_cd>2600306</station_cd>
+		<station_name>用賀</station_name>
+	</station_g>
+</ekidata>

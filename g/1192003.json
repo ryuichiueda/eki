@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":41,"line_cd":11920,"line_name":"JR筑肥線(西唐津～伊万里)","station_cd":1192003,"station_name":"鬼塚"},{"pref_cd":41,"line_cd":11921,"line_name":"JR唐津線","station_cd":1192114,"station_name":"鬼塚"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

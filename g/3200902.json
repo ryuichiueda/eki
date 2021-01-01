@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":27,"line_cd":32009,"line_name":"南海汐見橋線","station_cd":3200902,"station_name":"芦原町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

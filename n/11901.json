@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":1190101,"station_cd2":1190102,"station_name1":"博多","station_name2":"博多南","lat1":33.590002,"lon1":130.420622,"lat2":33.517955,"lon2":130.436997}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

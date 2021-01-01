@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":31020,"line_name":"近鉄奈良線","station_cd":3102003,"station_g_cd":3102003,"station_name":"河内小阪","lon":135.5815,"lat":34.66394}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

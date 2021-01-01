@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>99523</line_cd>
+		<line_name>ゆとりーとライン</line_name>
+		<station_cd>9952301</station_cd>
+		<station_g_cd>1141105</station_g_cd>
+		<station_name>大曽根</station_name>
+		<lon>136.937494</lon>
+		<lat>35.191372</lat>
+	</station>
+</ekidata>

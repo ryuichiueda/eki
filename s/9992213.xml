@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>99922</line_cd>
+		<line_name>熊本市電Ａ系統</line_name>
+		<station_cd>9992213</station_cd>
+		<station_g_cd>9992213</station_g_cd>
+		<station_name>九品寺交差点</station_name>
+		<lon>130.7178</lon>
+		<lat>32.799576</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":30,"line_cd":99650,"line_name":"紀州鉄道線","station_cd":9965004,"station_g_cd":9965004,"station_name":"市役所前","lon":135.152905,"lat":33.889565}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

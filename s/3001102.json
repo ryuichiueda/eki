@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30011,"line_name":"名鉄築港線","station_cd":3001102,"station_g_cd":3001102,"station_name":"東名古屋港","lon":136.899255,"lat":35.089091}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

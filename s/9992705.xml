@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>47</pref_cd>
+		<line_cd>99927</line_cd>
+		<line_name>ゆいレール</line_name>
+		<station_cd>9992705</station_cd>
+		<station_g_cd>9992705</station_g_cd>
+		<station_name>壺川</station_name>
+		<lon>127.678344</lon>
+		<lat>26.205927</lat>
+	</station>
+</ekidata>

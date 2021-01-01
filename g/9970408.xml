@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99704</line_cd>
+		<line_name>水島本線</line_name>
+		<station_cd>9970408</station_cd>
+		<station_g_cd>9970408</station_g_cd>
+		<station_name>常盤</station_name>
+		<lon>133.743246</lon>
+		<lat>34.53401</lat>
+	</station>
+	<station_g>
+		<pref_cd>33</pref_cd>
+		<line_cd>99704</line_cd>
+		<line_name>水島本線</line_name>
+		<station_cd>9970408</station_cd>
+		<station_name>常盤</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30001</line_cd>
+		<line_name>名鉄名古屋本線</line_name>
+		<station_cd>3000145</station_cd>
+		<station_g_cd>3000145</station_g_cd>
+		<station_name>大里</station_name>
+		<lon>136.818428</lon>
+		<lat>35.226216</lat>
+	</station>
+</ekidata>

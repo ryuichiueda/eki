@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>32004</line_cd>
+		<line_name>南海高師浜線</line_name>
+		<line_lon>135.43873427515</line_lon>
+		<line_lat>34.53069292334</line_lat>
+		<line_zoom>15</line_zoom>
+	</line>
+	<station>
+		<station_cd>3200401</station_cd>
+		<station_g_cd>1162702</station_g_cd>
+		<station_name>羽衣</station_name>
+		<lon>135.44178</lon>
+		<lat>34.534546</lat>
+	</station>
+	<station>
+		<station_cd>3200402</station_cd>
+		<station_g_cd>3200402</station_g_cd>
+		<station_name>伽羅橋</station_name>
+		<lon>135.436847</lon>
+		<lat>34.528869</lat>
+	</station>
+	<station>
+		<station_cd>3200403</station_cd>
+		<station_g_cd>3200403</station_g_cd>
+		<station_name>高師浜</station_name>
+		<lon>135.431911</lon>
+		<lat>34.527391</lat>
+	</station>
+</ekidata>

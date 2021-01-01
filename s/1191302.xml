@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>11913</line_cd>
+		<line_name>ゆふ高原線</line_name>
+		<station_cd>1191302</station_cd>
+		<station_g_cd>1191302</station_g_cd>
+		<station_name>南久留米</station_name>
+		<lon>130.532204</lon>
+		<lat>33.302857</lat>
+	</station>
+</ekidata>

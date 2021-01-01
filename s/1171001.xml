@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>33</pref_cd>
+		<line_cd>11710</line_cd>
+		<line_name>瀬戸大橋線</line_name>
+		<station_cd>1171001</station_cd>
+		<station_g_cd>1170908</station_g_cd>
+		<station_name>茶屋町</station_name>
+		<lon>133.825906</lon>
+		<lat>34.57694</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>23006</line_cd>
+		<line_name>成田スカイアクセス</line_name>
+		<station_cd>2300602</station_cd>
+		<station_g_cd>1130218</station_g_cd>
+		<station_name>日暮里</station_name>
+		<lon>139.771287</lon>
+		<lat>35.727908</lat>
+	</station>
+</ekidata>

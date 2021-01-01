@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":33004,"line_name":"京阪鴨東線","line_lon":135.77218700529,"line_lat":35.023132336607,"line_zoom":14,"station_l":[{"station_cd":3300401,"station_g_cd":3300401,"station_name":"出町柳","lon":135.772519,"lat":35.029654},{"station_cd":3300402,"station_g_cd":3300402,"station_name":"神宮丸太町","lon":135.772283,"lat":35.017555},{"station_cd":3300403,"station_g_cd":3300101,"station_name":"三条","lon":135.772274,"lat":35.009114}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

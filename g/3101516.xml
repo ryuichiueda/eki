@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31015</line_cd>
+		<line_name>近鉄志摩線</line_name>
+		<station_cd>3101516</station_cd>
+		<station_g_cd>3101516</station_g_cd>
+		<station_name>賢島</station_name>
+		<lon>136.819285</lon>
+		<lat>34.308529</lat>
+	</station>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31015</line_cd>
+		<line_name>近鉄志摩線</line_name>
+		<station_cd>3101516</station_cd>
+		<station_name>賢島</station_name>
+	</station_g>
+</ekidata>

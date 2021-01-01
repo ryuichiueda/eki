@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>99106</line_cd>
+		<line_name>函館市電５系統</line_name>
+		<station_cd>9910605</station_cd>
+		<station_g_cd>9910505</station_g_cd>
+		<station_name>競馬場前</station_name>
+		<lon>140.775268</lon>
+		<lat>41.784657</lat>
+	</station>
+</ekidata>

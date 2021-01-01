@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":99907,"line_name":"福岡市営地下鉄七隈線","station_cd":9990712,"station_g_cd":9990712,"station_name":"桜坂","lon":130.386819,"lat":33.577292}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

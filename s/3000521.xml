@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30005</line_cd>
+		<line_name>名鉄三河線</line_name>
+		<station_cd>3000521</station_cd>
+		<station_g_cd>3000521</station_g_cd>
+		<station_name>越戸</station_name>
+		<lon>137.180178</lon>
+		<lat>35.10769</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11311</line_cd>
+		<line_name>JR中央本線(東京～塩尻)</line_name>
+		<station_cd>1131106</station_cd>
+		<station_g_cd>1131106</station_g_cd>
+		<station_name>国分寺</station_name>
+		<lon>139.480841</lon>
+		<lat>35.700123</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11311</line_cd>
+		<line_name>JR中央本線(東京～塩尻)</line_name>
+		<station_cd>1131106</station_cd>
+		<station_name>国分寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11312</line_cd>
+		<line_name>JR中央線(快速)</line_name>
+		<station_cd>1131224</station_cd>
+		<station_name>国分寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11328</line_cd>
+		<line_name>JR成田エクスプレス</line_name>
+		<station_cd>1132818</station_cd>
+		<station_name>国分寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>22010</line_cd>
+		<line_name>西武国分寺線</line_name>
+		<station_cd>2201001</station_cd>
+		<station_name>国分寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>22011</line_cd>
+		<line_name>西武多摩湖線</line_name>
+		<station_cd>2201101</station_cd>
+		<station_name>国分寺</station_name>
+	</station_g>
+</ekidata>

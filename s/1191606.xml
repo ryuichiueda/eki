@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>11916</line_cd>
+		<line_name>海の中道線</line_name>
+		<station_cd>1191606</station_cd>
+		<station_g_cd>1190227</station_g_cd>
+		<station_name>香椎</station_name>
+		<lon>130.444063</lon>
+		<lat>33.659228</lat>
+	</station>
+</ekidata>

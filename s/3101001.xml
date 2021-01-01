@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>24</pref_cd>
+		<line_cd>31010</line_cd>
+		<line_name>近鉄鳥羽線</line_name>
+		<station_cd>3101001</station_cd>
+		<station_g_cd>3100914</station_g_cd>
+		<station_name>宇治山田</station_name>
+		<lon>136.714002</lon>
+		<lat>34.488256</lat>
+	</station>
+</ekidata>

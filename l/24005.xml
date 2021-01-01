@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>24005</line_cd>
+		<line_name>京王動物園線</line_name>
+		<line_lon>139.40999162964</line_lon>
+		<line_lat>35.657461750042</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>2400501</station_cd>
+		<station_g_cd>2400129</station_g_cd>
+		<station_name>高幡不動</station_name>
+		<lon>139.412953</lon>
+		<lat>35.662361</lat>
+	</station>
+	<station>
+		<station_cd>2400502</station_cd>
+		<station_g_cd>2400502</station_g_cd>
+		<station_name>多摩動物公園</station_name>
+		<lon>139.404627</lon>
+		<lat>35.649215</lat>
+	</station>
+</ekidata>

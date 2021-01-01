@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":42,"line_cd":11922,"line_name":"JR大村線","station_cd":1192203,"station_name":"南風崎"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

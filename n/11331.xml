@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>1133101</station_cd1>
+		<station_cd2>1133102</station_cd2>
+		<station_name1>大網</station_name1>
+		<station_name2>福俵</station_name2>
+		<lat1>35.522427</lat1>
+		<lon1>140.311111</lon1>
+		<lat2>35.54617</lat2>
+		<lon2>140.341904</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1133102</station_cd1>
+		<station_cd2>1133103</station_cd2>
+		<station_name1>福俵</station_name1>
+		<station_name2>東金</station_name2>
+		<lat1>35.54617</lat1>
+		<lon1>140.341904</lon1>
+		<lat2>35.560172</lat2>
+		<lon2>140.363743</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1133103</station_cd1>
+		<station_cd2>1133104</station_cd2>
+		<station_name1>東金</station_name1>
+		<station_name2>求名</station_name2>
+		<lat1>35.560172</lat1>
+		<lon1>140.363743</lon1>
+		<lat2>35.579947</lat2>
+		<lon2>140.39626</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1133104</station_cd1>
+		<station_cd2>1133105</station_cd2>
+		<station_name1>求名</station_name1>
+		<station_name2>成東</station_name2>
+		<lat1>35.579947</lat1>
+		<lon1>140.39626</lon1>
+		<lat2>35.608513</lat2>
+		<lon2>140.410109</lon2>
+	</station_join>
+</ekidata>

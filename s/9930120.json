@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":99301,"line_name":"都営大江戸線","station_cd":9930120,"station_g_cd":9930120,"station_name":"汐留","lon":139.760642,"lat":35.663703}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

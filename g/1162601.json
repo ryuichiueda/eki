@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":27,"line_cd":11607,"line_name":"大和路線","station_cd":1160719,"station_name":"天王寺"},{"pref_cd":27,"line_cd":11623,"line_name":"大阪環状線","station_cd":1162301,"station_name":"天王寺"},{"pref_cd":27,"line_cd":11626,"line_name":"阪和線(天王寺～和歌山)","station_cd":1162601,"station_name":"天王寺"},{"pref_cd":27,"line_cd":31003,"line_name":"近鉄南大阪線","station_cd":3100301,"station_name":"大阪阿部野橋"},{"pref_cd":27,"line_cd":99618,"line_name":"大阪メトロ御堂筋線","station_cd":9961813,"station_name":"天王寺"},{"pref_cd":27,"line_cd":99619,"line_name":"大阪メトロ谷町線","station_cd":9961917,"station_name":"天王寺"},{"pref_cd":27,"line_cd":99628,"line_name":"阪堺電軌上町線","station_cd":9962801,"station_name":"天王寺駅前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9963601</station_cd1>
+		<station_cd2>9963602</station_cd2>
+		<station_name1>新神戸</station_name1>
+		<station_name2>谷上</station_name2>
+		<lat1>34.706417</lat1>
+		<lon1>135.195758</lon1>
+		<lat2>34.761691</lat2>
+		<lon2>135.17142</lon2>
+	</station_join>
+</ekidata>

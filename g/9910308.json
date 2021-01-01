@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":1,"line_cd":99101,"line_name":"札幌市営地下鉄東西線","station_cd":9910109,"station_name":"大通"},{"pref_cd":1,"line_cd":99102,"line_name":"札幌市営地下鉄南北線","station_cd":9910207,"station_name":"大通"},{"pref_cd":1,"line_cd":99103,"line_name":"札幌市営地下鉄東豊線","station_cd":9910308,"station_name":"大通"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

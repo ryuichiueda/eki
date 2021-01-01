@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11110</line_cd>
+		<line_name>JR石勝線</line_name>
+		<station_cd>1111005</station_cd>
+		<station_g_cd>1111005</station_g_cd>
+		<station_name>滝ノ上</station_name>
+		<lon>141.97628</lon>
+		<lat>42.910244</lat>
+	</station>
+</ekidata>

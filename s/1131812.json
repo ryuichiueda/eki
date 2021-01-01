@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":11,"line_cd":11318,"line_name":"JR八高線(高麗川～高崎)","station_cd":1131812,"station_g_cd":1131812,"station_name":"丹荘","lon":139.102306,"lat":36.216668}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

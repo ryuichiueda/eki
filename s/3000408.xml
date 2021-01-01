@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30004</line_cd>
+		<line_name>名鉄蒲郡線</line_name>
+		<station_cd>3000408</station_cd>
+		<station_g_cd>3000408</station_g_cd>
+		<station_name>三河鹿島</station_name>
+		<lon>137.189687</lon>
+		<lat>34.813313</lat>
+	</station>
+</ekidata>

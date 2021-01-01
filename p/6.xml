@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+	<pref>
+		<code>6</code>
+		<name>山形県</name>
+	</pref>
+	<line>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+	</line>
+	<line>
+		<line_cd>11214</line_cd>
+		<line_name>JR羽越本線</line_name>
+	</line>
+	<line>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+	</line>
+	<line>
+		<line_cd>11217</line_cd>
+		<line_name>JR仙山線</line_name>
+	</line>
+	<line>
+		<line_cd>11218</line_cd>
+		<line_name>フルーツライン左沢線</line_name>
+	</line>
+	<line>
+		<line_cd>11219</line_cd>
+		<line_name>JR米坂線</line_name>
+	</line>
+	<line>
+		<line_cd>11220</line_cd>
+		<line_name>奥の細道最上川ライン</line_name>
+	</line>
+	<line>
+		<line_cd>11221</line_cd>
+		<line_name>奥の細道湯けむりライン</line_name>
+	</line>
+	<line>
+		<line_cd>99211</line_cd>
+		<line_name>フラワー長井線</line_name>
+	</line>
+</ekidata>

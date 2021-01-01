@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>22</pref_cd>
+		<line_cd>99501</line_cd>
+		<line_name>伊豆急行線</line_name>
+		<station_cd>9950108</station_cd>
+		<station_g_cd>9950108</station_g_cd>
+		<station_name>伊豆北川</station_name>
+		<lon>139.075487</lon>
+		<lat>34.827174</lat>
+	</station>
+</ekidata>

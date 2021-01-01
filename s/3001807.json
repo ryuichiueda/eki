@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30018,"line_name":"名鉄小牧線","station_cd":3001807,"station_g_cd":3001807,"station_name":"小牧口","lon":136.927675,"lat":35.281717}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

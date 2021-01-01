@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99532</line_cd>
+		<line_name>養老鉄道養老線</line_name>
+		<station_cd>9953210</station_cd>
+		<station_g_cd>3100410</station_g_cd>
+		<station_name>美濃津屋</station_name>
+		<lon>136.566651</lon>
+		<lat>35.251532</lat>
+	</station>
+	<station_g>
+		<pref_cd>21</pref_cd>
+		<line_cd>99532</line_cd>
+		<line_name>養老鉄道養老線</line_name>
+		<station_cd>9953210</station_cd>
+		<station_name>美濃津屋</station_name>
+	</station_g>
+</ekidata>

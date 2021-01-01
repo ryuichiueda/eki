@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":43,"line_cd":11924,"line_name":"三角線（あまくさみすみ線）","station_cd":1192401,"station_g_cd":1190341,"station_name":"熊本","lon":130.688499,"lat":32.789207}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

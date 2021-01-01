@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>32007</line_cd>
+		<line_name>南海高野線</line_name>
+		<station_cd>3200702</station_cd>
+		<station_g_cd>3200702</station_g_cd>
+		<station_name>今宮戎</station_name>
+		<lon>135.50153</lon>
+		<lat>34.655137</lat>
+	</station>
+</ekidata>

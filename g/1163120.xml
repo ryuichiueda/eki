@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11631</line_cd>
+		<line_name>JR赤穂線</line_name>
+		<station_cd>1163120</station_cd>
+		<station_g_cd>1160916</station_g_cd>
+		<station_name>高島</station_name>
+		<lon>133.95774</lon>
+		<lat>34.683074</lat>
+	</station>
+	<station_g>
+		<pref_cd>33</pref_cd>
+		<line_cd>11609</line_cd>
+		<line_name>JR山陽本線(姫路～岡山)</line_name>
+		<station_cd>1160916</station_cd>
+		<station_name>高島</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>33</pref_cd>
+		<line_cd>11631</line_cd>
+		<line_name>JR赤穂線</line_name>
+		<station_cd>1163120</station_cd>
+		<station_name>高島</station_name>
+	</station_g>
+</ekidata>

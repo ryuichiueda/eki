@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99426</line_cd>
+		<line_name>IRいしかわ鉄道線</line_name>
+		<line_lon>136.8520640675</line_lon>
+		<line_lat>36.661886043478</line_lat>
+		<line_zoom>10</line_zoom>
+	</line>
+	<station>
+		<station_cd>9942601</station_cd>
+		<station_g_cd>1141543</station_g_cd>
+		<station_name>金沢</station_name>
+		<lon>136.648166</lon>
+		<lat>36.578117</lat>
+	</station>
+	<station>
+		<station_cd>1141544</station_cd>
+		<station_g_cd>1141544</station_g_cd>
+		<station_name>東金沢</station_name>
+		<lon>136.669806</lon>
+		<lat>36.593652</lat>
+	</station>
+	<station>
+		<station_cd>1141545</station_cd>
+		<station_g_cd>1141545</station_g_cd>
+		<station_name>森本</station_name>
+		<lon>136.689489</lon>
+		<lat>36.612144</lat>
+	</station>
+	<station>
+		<station_cd>1141546</station_cd>
+		<station_g_cd>1141546</station_g_cd>
+		<station_name>津幡</station_name>
+		<lon>136.730759</lon>
+		<lat>36.657895</lat>
+	</station>
+	<station>
+		<station_cd>1141547</station_cd>
+		<station_g_cd>1141547</station_g_cd>
+		<station_name>倶利伽羅</station_name>
+		<lon>136.791605</lon>
+		<lat>36.672489</lat>
+	</station>
+</ekidata>

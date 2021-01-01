@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11409</line_cd>
+		<line_name>北アルプス線</line_name>
+		<station_cd>1140917</station_cd>
+		<station_g_cd>1140917</station_g_cd>
+		<station_name>安曇沓掛</station_name>
+		<lon>137.854784</lon>
+		<lat>36.447795</lat>
+	</station>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11409</line_cd>
+		<line_name>北アルプス線</line_name>
+		<station_cd>1140917</station_cd>
+		<station_name>安曇沓掛</station_name>
+	</station_g>
+</ekidata>

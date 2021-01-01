@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>27005</line_cd>
+		<line_name>京急久里浜線</line_name>
+		<station_cd>2700505</station_cd>
+		<station_g_cd>2700505</station_g_cd>
+		<station_name>ＹＲＰ野比</station_name>
+		<lon>139.685068</lon>
+		<lat>35.212229</lat>
+	</station>
+</ekidata>

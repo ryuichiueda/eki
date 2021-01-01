@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11701</line_cd>
+		<line_name>JR山陰本線(米子～益田)</line_name>
+		<station_cd>1170124</station_cd>
+		<station_g_cd>1170124</station_g_cd>
+		<station_name>仁万</station_name>
+		<lon>132.403511</lon>
+		<lat>35.150972</lat>
+	</station>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>11701</line_cd>
+		<line_name>JR山陰本線(米子～益田)</line_name>
+		<station_cd>1170124</station_cd>
+		<station_name>仁万</station_name>
+	</station_g>
+</ekidata>

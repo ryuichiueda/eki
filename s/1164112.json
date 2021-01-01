@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":11641,"line_name":"おおさか東線","station_cd":1164112,"station_g_cd":1164112,"station_name":"城北公園通","lon":135.530694,"lat":34.723472}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

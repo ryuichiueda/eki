@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>21</pref_cd>
+		<line_cd>11416</line_cd>
+		<line_name>JR高山本線</line_name>
+		<station_cd>1141625</station_cd>
+		<station_g_cd>1141625</station_g_cd>
+		<station_name>飛騨一ノ宮</station_name>
+		<lon>137.247588</lon>
+		<lat>36.08836</lat>
+	</station>
+</ekidata>

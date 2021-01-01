@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":22010,"line_name":"西武国分寺線","station_cd":2201005,"station_g_cd":2200721,"station_name":"東村山","lon":139.465839,"lat":35.76006}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

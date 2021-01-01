@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":43,"line_cd":11924,"line_name":"三角線（あまくさみすみ線）","station_cd":1192404,"station_name":"緑川"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

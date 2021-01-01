@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11913</line_cd>
+		<line_name>ゆふ高原線</line_name>
+		<station_cd>1191329</station_cd>
+		<station_g_cd>1191329</station_g_cd>
+		<station_name>小野屋</station_name>
+		<lon>131.452546</lon>
+		<lat>33.185258</lat>
+	</station>
+	<station_g>
+		<pref_cd>44</pref_cd>
+		<line_cd>11913</line_cd>
+		<line_name>ゆふ高原線</line_name>
+		<station_cd>1191329</station_cd>
+		<station_name>小野屋</station_name>
+	</station_g>
+</ekidata>

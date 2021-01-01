@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>7</pref_cd>
+		<line_cd>11226</line_cd>
+		<line_name>森と水とロマンの鉄道</line_name>
+		<station_cd>1122610</station_cd>
+		<station_g_cd>1122610</station_g_cd>
+		<station_name>尾登</station_name>
+		<lon>139.691542</lon>
+		<lat>37.609024</lat>
+	</station>
+</ekidata>

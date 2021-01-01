@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99628</line_cd>
+		<line_name>阪堺電軌上町線</line_name>
+		<station_cd>9962804</station_cd>
+		<station_g_cd>9962804</station_g_cd>
+		<station_name>東天下茶屋</station_name>
+		<lon>135.508475</lon>
+		<lat>34.632539</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99628</line_cd>
+		<line_name>阪堺電軌上町線</line_name>
+		<station_cd>9962804</station_cd>
+		<station_name>東天下茶屋</station_name>
+	</station_g>
+</ekidata>

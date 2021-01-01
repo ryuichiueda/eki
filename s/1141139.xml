@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>11411</line_cd>
+		<line_name>JR中央本線(名古屋～塩尻)</line_name>
+		<station_cd>1141139</station_cd>
+		<station_g_cd>1141139</station_g_cd>
+		<station_name>洗馬</station_name>
+		<lon>137.916842</lon>
+		<lat>36.087164</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3200601</station_cd1>
+		<station_cd2>3200602</station_cd2>
+		<station_name1>みさき公園</station_name1>
+		<station_name2>深日町</station_name2>
+		<lat1>34.323986</lat1>
+		<lon1>135.160977</lon1>
+		<lat2>34.31823</lat2>
+		<lon2>135.148002</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3200602</station_cd1>
+		<station_cd2>3200603</station_cd2>
+		<station_name1>深日町</station_name1>
+		<station_name2>深日港</station_name2>
+		<lat1>34.31823</lat1>
+		<lon1>135.148002</lon1>
+		<lat2>34.317386</lat2>
+		<lon2>135.141297</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3200603</station_cd1>
+		<station_cd2>3200604</station_cd2>
+		<station_name1>深日港</station_name1>
+		<station_name2>多奈川</station_name2>
+		<lat1>34.317386</lat1>
+		<lon1>135.141297</lon1>
+		<lat2>34.316705</lat2>
+		<lon2>135.137181</lon2>
+	</station_join>
+</ekidata>

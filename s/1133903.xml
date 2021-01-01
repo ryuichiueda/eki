@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>8</pref_cd>
+		<line_cd>11339</line_cd>
+		<line_name>JR水戸線</line_name>
+		<station_cd>1133903</station_cd>
+		<station_g_cd>1133903</station_g_cd>
+		<station_name>結城</station_name>
+		<lon>139.873028</lon>
+		<lat>36.298056</lat>
+	</station>
+</ekidata>

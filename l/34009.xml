@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>34009</line_cd>
+		<line_name>阪急嵐山線</line_name>
+		<line_lon>135.69109537036</line_lon>
+		<line_lat>34.99649848993</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3400901</station_cd>
+		<station_g_cd>3400306</station_g_cd>
+		<station_name>桂</station_name>
+		<lon>135.703302</lon>
+		<lat>34.979522</lat>
+	</station>
+	<station>
+		<station_cd>3400902</station_cd>
+		<station_g_cd>3400902</station_g_cd>
+		<station_name>上桂</station_name>
+		<lon>135.696069</lon>
+		<lat>34.990201</lat>
+	</station>
+	<station>
+		<station_cd>3400903</station_cd>
+		<station_g_cd>3400903</station_g_cd>
+		<station_name>松尾大社</station_name>
+		<lon>135.688214</lon>
+		<lat>35.000331</lat>
+	</station>
+	<station>
+		<station_cd>3400904</station_cd>
+		<station_g_cd>3400904</station_g_cd>
+		<station_name>嵐山</station_name>
+		<lon>135.681603</lon>
+		<lat>35.010315</lat>
+	</station>
+</ekidata>

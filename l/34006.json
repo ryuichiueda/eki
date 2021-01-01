@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":34006,"line_name":"阪急伊丹線","line_lon":135.41460476587,"line_lat":34.770061233011,"line_zoom":14,"station_l":[{"station_cd":3400601,"station_g_cd":3400106,"station_name":"塚口","lon":135.41585,"lat":34.752826},{"station_cd":3400602,"station_g_cd":3400602,"station_name":"稲野","lon":135.415532,"lat":34.764817},{"station_cd":3400603,"station_g_cd":3400603,"station_name":"新伊丹","lon":135.415479,"lat":34.772574},{"station_cd":3400604,"station_g_cd":3400604,"station_name":"伊丹","lon":135.413618,"lat":34.779875}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

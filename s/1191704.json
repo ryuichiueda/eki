@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":11917,"line_name":"JR香椎線(香椎～宇美)","station_cd":1191704,"station_g_cd":1191704,"station_name":"土井","lon":130.466068,"lat":33.634968}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

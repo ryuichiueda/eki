@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":46,"line_cd":99925,"line_name":"鹿児島市電１系統","station_cd":9992521,"station_g_cd":1193004,"station_name":"脇田","lon":130.53763,"lat":31.54418}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

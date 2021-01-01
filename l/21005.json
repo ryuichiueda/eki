@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":21005,"line_name":"東武亀戸線","line_lon":139.82434675659,"line_lat":35.707951515131,"line_zoom":14,"station_l":[{"station_cd":2100501,"station_g_cd":2100204,"station_name":"曳舟","lon":139.816634,"lat":35.718418},{"station_cd":2100502,"station_g_cd":2100502,"station_name":"小村井","lon":139.827595,"lat":35.710316},{"station_cd":2100503,"station_g_cd":2100503,"station_name":"東あずま","lon":139.831883,"lat":35.707067},{"station_cd":2100504,"station_g_cd":2100504,"station_name":"亀戸水神","lon":139.833422,"lat":35.699976},{"station_cd":2100505,"station_g_cd":1131323,"station_name":"亀戸","lon":139.826791,"lat":35.697708}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

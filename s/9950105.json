@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":99501,"line_name":"伊豆急行線","station_cd":9950105,"station_g_cd":9950105,"station_name":"城ヶ崎海岸","lon":139.1217,"lat":34.889878}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

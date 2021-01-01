@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>22007</line_cd>
+		<line_name>西武新宿線</line_name>
+		<station_cd>2200722</station_cd>
+		<station_g_cd>2200131</station_g_cd>
+		<station_name>所沢</station_name>
+		<lon>139.473324</lon>
+		<lat>35.786627</lat>
+	</station>
+	<station_g>
+		<pref_cd>11</pref_cd>
+		<line_cd>22001</line_cd>
+		<line_name>西武池袋線</line_name>
+		<station_cd>2200131</station_cd>
+		<station_name>所沢</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>11</pref_cd>
+		<line_cd>22007</line_cd>
+		<line_name>西武新宿線</line_name>
+		<station_cd>2200722</station_cd>
+		<station_name>所沢</station_name>
+	</station_g>
+</ekidata>

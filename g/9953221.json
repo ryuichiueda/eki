@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":21,"line_cd":99532,"line_name":"養老鉄道養老線","station_cd":9953221,"station_name":"東赤坂"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>19</pref_cd>
+		<line_cd>99401</line_cd>
+		<line_name>富士急行線</line_name>
+		<station_cd>9940101</station_cd>
+		<station_g_cd>1131120</station_g_cd>
+		<station_name>大月</station_name>
+		<lon>138.942248</lon>
+		<lat>35.612938</lat>
+	</station>
+</ekidata>

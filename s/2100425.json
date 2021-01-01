@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":21004,"line_name":"東武野田線","station_cd":2100425,"station_g_cd":2100425,"station_name":"新柏","lon":139.966994,"lat":35.838128}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

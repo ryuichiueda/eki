@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11306</line_cd>
+		<line_name>JR横浜線</line_name>
+		<station_cd>1130610</station_cd>
+		<station_g_cd>1130610</station_g_cd>
+		<station_name>成瀬</station_name>
+		<lon>139.472875</lon>
+		<lat>35.535412</lat>
+	</station>
+</ekidata>

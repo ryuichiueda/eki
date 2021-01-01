@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>6</pref_cd>
+		<line_cd>11220</line_cd>
+		<line_name>奥の細道最上川ライン</line_name>
+		<station_cd>1122004</station_cd>
+		<station_g_cd>1122004</station_g_cd>
+		<station_name>津谷</station_name>
+		<lon>140.186375</lon>
+		<lat>38.737618</lat>
+	</station>
+</ekidata>

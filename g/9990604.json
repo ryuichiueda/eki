@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":40,"line_cd":99906,"line_name":"福岡市営地下鉄箱崎線","station_cd":9990604,"station_name":"馬出九大病院前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

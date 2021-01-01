@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":16,"line_cd":99415,"line_name":"富山港線","station_cd":9941505,"station_g_cd":9941505,"station_name":"粟島（大阪屋ショップ前）","lon":137.224796,"lat":36.719391}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

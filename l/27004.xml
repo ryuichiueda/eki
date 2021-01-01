@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>27004</line_cd>
+		<line_name>京急逗子線</line_name>
+		<line_lon>139.59885124072</line_lon>
+		<line_lat>35.314704348486</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>2700401</station_cd>
+		<station_g_cd>2700139</station_g_cd>
+		<station_name>金沢八景</station_name>
+		<lon>139.62018</lon>
+		<lat>35.331223</lat>
+	</station>
+	<station>
+		<station_cd>2700402</station_cd>
+		<station_g_cd>2700402</station_g_cd>
+		<station_name>六浦</station_name>
+		<lon>139.611532</lon>
+		<lat>35.32269</lat>
+	</station>
+	<station>
+		<station_cd>2700403</station_cd>
+		<station_g_cd>2700403</station_g_cd>
+		<station_name>神武寺</station_name>
+		<lon>139.592947</lon>
+		<lat>35.306233</lat>
+	</station>
+	<station>
+		<station_cd>2700404</station_cd>
+		<station_g_cd>2700404</station_g_cd>
+		<station_name>逗子・葉山</station_name>
+		<lon>139.580359</lon>
+		<lat>35.294189</lat>
+	</station>
+</ekidata>

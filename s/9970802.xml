@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>34</pref_cd>
+		<line_cd>99708</line_cd>
+		<line_name>スカイレールみどり坂線</line_name>
+		<station_cd>9970802</station_cd>
+		<station_g_cd>9970802</station_g_cd>
+		<station_name>みどり中街</station_name>
+		<lon>132.594804</lon>
+		<lat>34.42771</lat>
+	</station>
+</ekidata>

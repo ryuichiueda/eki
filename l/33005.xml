@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>33005</line_cd>
+		<line_name>石清水八幡宮参道ケーブル</line_name>
+		<line_lon>135.69970633862</line_lon>
+		<line_lat>34.883348860759</line_lat>
+		<line_zoom>16</line_zoom>
+	</line>
+	<station>
+		<station_cd>3300501</station_cd>
+		<station_g_cd>3300115</station_g_cd>
+		<station_name>ケーブル八幡宮口</station_name>
+		<lon>135.6995372</lon>
+		<lat>34.88453597</lat>
+	</station>
+	<station>
+		<station_cd>3300502</station_cd>
+		<station_g_cd>3300502</station_g_cd>
+		<station_name>ケーブル八幡宮山上</station_name>
+		<lon>135.699796</lon>
+		<lat>34.881061</lat>
+	</station>
+</ekidata>

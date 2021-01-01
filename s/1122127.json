@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":11221,"line_name":"奥の細道湯けむりライン","station_cd":1122127,"station_g_cd":1120201,"station_name":"新庄","lon":140.306064,"lat":38.76256}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

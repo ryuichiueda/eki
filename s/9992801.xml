@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>99928</line_cd>
+		<line_name>門司港レトロ観光線</line_name>
+		<station_cd>9992801</station_cd>
+		<station_g_cd>1190202</station_g_cd>
+		<station_name>九州鉄道記念館</station_name>
+		<lon>130.962439</lon>
+		<lat>33.944392</lat>
+	</station>
+</ekidata>

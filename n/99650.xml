@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9965001</station_cd1>
+		<station_cd2>9965002</station_cd2>
+		<station_name1>御坊</station_name1>
+		<station_name2>学門</station_name2>
+		<lat1>33.907724</lat1>
+		<lon1>135.158752</lon1>
+		<lat2>33.89627</lat2>
+		<lon2>135.156604</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9965002</station_cd1>
+		<station_cd2>9965003</station_cd2>
+		<station_name1>学門</station_name1>
+		<station_name2>紀伊御坊</station_name2>
+		<lat1>33.89627</lat1>
+		<lon1>135.156604</lon1>
+		<lat2>33.894292</lat2>
+		<lon2>135.154655</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9965003</station_cd1>
+		<station_cd2>9965004</station_cd2>
+		<station_name1>紀伊御坊</station_name1>
+		<station_name2>市役所前</station_name2>
+		<lat1>33.894292</lat1>
+		<lon1>135.154655</lon1>
+		<lat2>33.889565</lat2>
+		<lon2>135.152905</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9965004</station_cd1>
+		<station_cd2>9965005</station_cd2>
+		<station_name1>市役所前</station_name1>
+		<station_name2>西御坊</station_name2>
+		<lat1>33.889565</lat1>
+		<lon1>135.152905</lon1>
+		<lat2>33.886796</lat2>
+		<lon2>135.152991</lon2>
+	</station_join>
+</ekidata>

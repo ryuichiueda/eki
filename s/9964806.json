@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99648,"line_name":"ポートライナー","station_cd":9964806,"station_g_cd":9964806,"station_name":"市民広場","lon":135.212455,"lat":34.664897}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11212</line_cd>
+		<line_name>十和田八幡平四季彩ライン</line_name>
+		<station_cd>1121221</station_cd>
+		<station_g_cd>1121221</station_g_cd>
+		<station_name>土深井</station_name>
+		<lon>140.713142</lon>
+		<lat>40.222452</lat>
+	</station>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11212</line_cd>
+		<line_name>十和田八幡平四季彩ライン</line_name>
+		<station_cd>1121221</station_cd>
+		<station_name>土深井</station_name>
+	</station_g>
+</ekidata>

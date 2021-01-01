@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":7,"line_cd":99213,"line_name":"阿武隈急行線","station_cd":9921313,"station_g_cd":9921313,"station_name":"やながわ希望の森公園前","lon":140.615552,"lat":37.857867}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

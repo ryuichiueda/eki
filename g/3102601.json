@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":29,"line_cd":31016,"line_name":"近鉄生駒線","station_cd":3101601,"station_name":"生駒"},{"pref_cd":29,"line_cd":31020,"line_name":"近鉄奈良線","station_cd":3102012,"station_name":"生駒"},{"pref_cd":29,"line_cd":31023,"line_name":"近鉄けいはんな線","station_cd":3102305,"station_name":"生駒"},{"pref_cd":29,"line_cd":31026,"line_name":"生駒ケーブル","station_cd":3102601,"station_name":"鳥居前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

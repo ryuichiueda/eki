@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11701</line_cd>
+		<line_name>JR山陰本線(米子～益田)</line_name>
+		<station_cd>1170135</station_cd>
+		<station_g_cd>1170135</station_g_cd>
+		<station_name>久代</station_name>
+		<lon>132.139174</lon>
+		<lat>34.949568</lat>
+	</station>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>11701</line_cd>
+		<line_name>JR山陰本線(米子～益田)</line_name>
+		<station_cd>1170135</station_cd>
+		<station_name>久代</station_name>
+	</station_g>
+</ekidata>

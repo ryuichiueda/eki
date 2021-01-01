@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":0,"station_cd2":0,"station_name1":"station_name","station_name2":"station_name","lat1":0,"lon1":0,"lat2":0,"lon2":0}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

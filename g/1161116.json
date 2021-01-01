@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":34,"line_cd":11611,"line_name":"JR山陽本線(三原～岩国)","station_cd":1161116,"station_name":"横川"},{"pref_cd":34,"line_cd":11717,"line_name":"JR可部線","station_cd":1171702,"station_name":"横川"},{"pref_cd":34,"line_cd":99715,"line_name":"広電７号線","station_cd":9971501,"station_name":"横川駅"},{"pref_cd":34,"line_cd":99716,"line_name":"広電８号線(横川線)","station_cd":9971601,"station_name":"横川駅"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

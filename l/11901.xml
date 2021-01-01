@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11901</line_cd>
+		<line_name>JR博多南線</line_name>
+		<line_lon>130.4288095</line_lon>
+		<line_lat>33.564850122278</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>1190101</station_cd>
+		<station_g_cd>1190101</station_g_cd>
+		<station_name>博多</station_name>
+		<lon>130.420622</lon>
+		<lat>33.590002</lat>
+	</station>
+	<station>
+		<station_cd>1190102</station_cd>
+		<station_g_cd>1190102</station_g_cd>
+		<station_name>博多南</station_name>
+		<lon>130.436997</lon>
+		<lat>33.517955</lat>
+	</station>
+</ekidata>

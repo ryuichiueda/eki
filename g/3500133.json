@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":28,"line_cd":11603,"line_name":"JR神戸線(大阪～神戸)","station_cd":1160314,"station_name":"元町"},{"pref_cd":28,"line_cd":35001,"line_name":"阪神本線","station_cd":3500133,"station_name":"元町"},{"pref_cd":28,"line_cd":99630,"line_name":"神戸高速東西線","station_cd":9963003,"station_name":"元町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

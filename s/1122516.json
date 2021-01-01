@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":7,"line_cd":11225,"line_name":"JR磐越西線(郡山～会津若松)","station_cd":1122516,"station_g_cd":1122516,"station_name":"郡山富田","lon":140.3695,"lat":37.420361}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

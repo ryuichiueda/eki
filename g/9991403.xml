@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99914</line_cd>
+		<line_name>長崎電軌３系統</line_name>
+		<station_cd>9991403</station_cd>
+		<station_g_cd>9991403</station_g_cd>
+		<station_name>新大工町</station_name>
+		<lon>129.886701</lon>
+		<lat>32.75238</lat>
+	</station>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99914</line_cd>
+		<line_name>長崎電軌３系統</line_name>
+		<station_cd>9991403</station_cd>
+		<station_name>新大工町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99915</line_cd>
+		<line_name>長崎電軌４系統</line_name>
+		<station_cd>9991503</station_cd>
+		<station_name>新大工町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99916</line_cd>
+		<line_name>長崎電軌５系統</line_name>
+		<station_cd>9991603</station_cd>
+		<station_name>新大工町</station_name>
+	</station_g>
+</ekidata>

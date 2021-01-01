@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11209</line_cd>
+		<line_name>銀河ドリームライン釜石線</line_name>
+		<station_cd>1120918</station_cd>
+		<station_g_cd>1120918</station_g_cd>
+		<station_name>足ケ瀬</station_name>
+		<lon>141.645807</lon>
+		<lat>39.254766</lat>
+	</station>
+	<station_g>
+		<pref_cd>3</pref_cd>
+		<line_cd>11209</line_cd>
+		<line_name>銀河ドリームライン釜石線</line_name>
+		<station_cd>1120918</station_cd>
+		<station_name>足ケ瀬</station_name>
+	</station_g>
+</ekidata>

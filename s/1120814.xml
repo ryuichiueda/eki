@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>11208</line_cd>
+		<line_name>ドラゴンレール大船渡線</line_name>
+		<station_cd>1120814</station_cd>
+		<station_g_cd>1120814</station_g_cd>
+		<station_name>気仙沼</station_name>
+		<lon>141.558893</lon>
+		<lat>38.910031</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":31014,"line_name":"八王子線","line_lon":136.60779761377,"line_lat":34.958208185442,"line_zoom":14,"station_l":[{"station_cd":3101401,"station_g_cd":3100801,"station_name":"あすなろう四日市","lon":136.618352,"lat":34.966495},{"station_cd":3101402,"station_g_cd":3101302,"station_name":"赤堀","lon":136.6104,"lat":34.95919},{"station_cd":3101403,"station_g_cd":3101303,"station_name":"日永","lon":136.604409,"lat":34.95594},{"station_cd":3101404,"station_g_cd":3101404,"station_name":"西日野","lon":136.591163,"lat":34.952896}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

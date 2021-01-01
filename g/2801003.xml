@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28010</line_cd>
+		<line_name>東京メトロ副都心線</line_name>
+		<station_cd>2801003</station_cd>
+		<station_g_cd>2100109</station_g_cd>
+		<station_name>地下鉄赤塚</station_name>
+		<lon>139.644021</lon>
+		<lat>35.769939</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>21001</line_cd>
+		<line_name>東武東上線</line_name>
+		<station_cd>2100109</station_cd>
+		<station_name>下赤塚</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28006</line_cd>
+		<line_name>東京メトロ有楽町線</line_name>
+		<station_cd>2800603</station_cd>
+		<station_name>地下鉄赤塚</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28010</line_cd>
+		<line_name>東京メトロ副都心線</line_name>
+		<station_cd>2801003</station_cd>
+		<station_name>地下鉄赤塚</station_name>
+	</station_g>
+</ekidata>

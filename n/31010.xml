@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3101001</station_cd1>
+		<station_cd2>3101002</station_cd2>
+		<station_name1>宇治山田</station_name1>
+		<station_name2>五十鈴川</station_name2>
+		<lat1>34.488256</lat1>
+		<lon1>136.714002</lon1>
+		<lat2>34.476433</lat2>
+		<lon2>136.727287</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3101002</station_cd1>
+		<station_cd2>3101003</station_cd2>
+		<station_name1>五十鈴川</station_name1>
+		<station_name2>朝熊</station_name2>
+		<lat1>34.476433</lat1>
+		<lon1>136.727287</lon1>
+		<lat2>34.477195</lat2>
+		<lon2>136.757357</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3101003</station_cd1>
+		<station_cd2>3101004</station_cd2>
+		<station_name1>朝熊</station_name1>
+		<station_name2>池の浦</station_name2>
+		<lat1>34.477195</lat1>
+		<lon1>136.757357</lon1>
+		<lat2>34.479104</lat2>
+		<lon2>136.818533</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3101004</station_cd1>
+		<station_cd2>3101005</station_cd2>
+		<station_name1>池の浦</station_name1>
+		<station_name2>鳥羽</station_name2>
+		<lat1>34.479104</lat1>
+		<lon1>136.818533</lon1>
+		<lat2>34.486743</lat2>
+		<lon2>136.843117</lon2>
+	</station_join>
+</ekidata>

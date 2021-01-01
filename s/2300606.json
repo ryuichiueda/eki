@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":23006,"line_name":"成田スカイアクセス","station_cd":2300606,"station_g_cd":2100430,"station_name":"新鎌ヶ谷","lon":139.998361,"lat":35.779481}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

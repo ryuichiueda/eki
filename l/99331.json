@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99331,"line_name":"千葉都市モノレール１号線","line_lon":140.11310786772,"line_lat":35.608265091811,"line_zoom":14,"station_l":[{"station_cd":9933101,"station_g_cd":1132617,"station_name":"千葉みなと","lon":140.102495,"lat":35.607391},{"station_cd":9933102,"station_g_cd":9933102,"station_name":"市役所前","lon":140.107757,"lat":35.606878},{"station_cd":9933103,"station_g_cd":1131339,"station_name":"千葉","lon":140.114136,"lat":35.612084},{"station_cd":9933104,"station_g_cd":9933104,"station_name":"栄町","lon":140.118592,"lat":35.612822},{"station_cd":9933105,"station_g_cd":9933105,"station_name":"葭川公園","lon":140.120142,"lat":35.608551},{"station_cd":9933106,"station_g_cd":9933106,"station_name":"県庁前","lon":140.12222,"lat":35.603958}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>42</pref_cd>
+		<line_cd>11905</line_cd>
+		<line_name>JR長崎本線(鳥栖～長崎)</line_name>
+		<station_cd>1190532</station_cd>
+		<station_g_cd>1190532</station_g_cd>
+		<station_name>現川</station_name>
+		<lon>129.926453</lon>
+		<lat>32.79118</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>1140301</station_cd1>
+		<station_cd2>1140302</station_cd2>
+		<station_name1>篠ノ井</station_name1>
+		<station_name2>今井</station_name2>
+		<lat1>36.5771</lat1>
+		<lon1>138.138046</lon1>
+		<lat2>36.595732</lat2>
+		<lon2>138.145347</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1140302</station_cd1>
+		<station_cd2>1140303</station_cd2>
+		<station_name1>今井</station_name1>
+		<station_name2>川中島</station_name2>
+		<lat1>36.595732</lat1>
+		<lon1>138.145347</lon1>
+		<lat2>36.614167</lat2>
+		<lon2>138.150679</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1140303</station_cd1>
+		<station_cd2>1140304</station_cd2>
+		<station_name1>川中島</station_name1>
+		<station_name2>安茂里</station_name2>
+		<lat1>36.614167</lat1>
+		<lon1>138.150679</lon1>
+		<lat2>36.630262</lat2>
+		<lon2>138.161791</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1140304</station_cd1>
+		<station_cd2>1140305</station_cd2>
+		<station_name1>安茂里</station_name1>
+		<station_name2>長野</station_name2>
+		<lat1>36.630262</lat1>
+		<lon1>138.161791</lon1>
+		<lat2>36.643307</lat2>
+		<lon2>138.189101</lon2>
+	</station_join>
+</ekidata>

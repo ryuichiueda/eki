@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>11322</line_cd>
+		<line_name>JR川越線</line_name>
+		<station_cd>1132203</station_cd>
+		<station_g_cd>1132121</station_g_cd>
+		<station_name>指扇</station_name>
+		<lon>139.564951</lon>
+		<lat>35.917023</lat>
+	</station>
+</ekidata>

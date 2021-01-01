@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":30,"line_cd":11626,"line_name":"阪和線(天王寺～和歌山)","station_cd":1162635,"station_name":"和歌山"},{"pref_cd":30,"line_cd":11636,"line_name":"JR和歌山線","station_cd":1163636,"station_name":"和歌山"},{"pref_cd":30,"line_cd":11639,"line_name":"きのくに線","station_cd":1163954,"station_name":"和歌山"},{"pref_cd":30,"line_cd":11640,"line_name":"紀勢本線(和歌山～和歌山市)","station_cd":1164001,"station_name":"和歌山"},{"pref_cd":30,"line_cd":99651,"line_name":"貴志川線","station_cd":9965101,"station_name":"和歌山"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

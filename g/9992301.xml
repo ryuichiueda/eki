@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99923</line_cd>
+		<line_name>熊本市電Ｂ系統</line_name>
+		<station_cd>9992301</station_cd>
+		<station_g_cd>1190340</station_g_cd>
+		<station_name>上熊本</station_name>
+		<lon>130.6994037</lon>
+		<lat>32.81743247</lat>
+	</station>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>11903</line_cd>
+		<line_name>JR鹿児島本線(博多～八代)</line_name>
+		<station_cd>1190340</station_cd>
+		<station_name>上熊本</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>99918</line_cd>
+		<line_name>熊本電鉄上熊本線</line_name>
+		<station_cd>9991801</station_cd>
+		<station_name>上熊本</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>99923</line_cd>
+		<line_name>熊本市電Ｂ系統</line_name>
+		<station_cd>9992301</station_cd>
+		<station_name>上熊本</station_name>
+	</station_g>
+</ekidata>

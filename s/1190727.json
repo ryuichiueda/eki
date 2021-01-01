@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":45,"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)","station_cd":1190727,"station_g_cd":1190727,"station_name":"蓮ケ池","lon":131.442802,"lat":31.960113}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

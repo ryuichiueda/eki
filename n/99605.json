@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":9960501,"station_cd2":9960502,"station_name1":"トロッコ嵯峨","station_name2":"トロッコ嵐山","lat1":35.018656,"lon1":135.680704,"lat2":35.017162,"lon2":135.670252},{"station_cd1":9960502,"station_cd2":9960503,"station_name1":"トロッコ嵐山","station_name2":"トロッコ保津峡","lat1":35.017162,"lon1":135.670252,"lat2":35.026148,"lon2":135.646284},{"station_cd1":9960503,"station_cd2":9960504,"station_name1":"トロッコ保津峡","station_name2":"トロッコ亀岡","lat1":35.026148,"lon1":135.646284,"lat2":35.01314,"lon2":135.606751}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

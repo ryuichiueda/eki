@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>99103</line_cd>
+		<line_name>札幌市営地下鉄東豊線</line_name>
+		<station_cd>9910305</station_cd>
+		<station_g_cd>9910305</station_g_cd>
+		<station_name>東区役所前</station_name>
+		<lon>141.364769</lon>
+		<lat>43.078197</lat>
+	</station>
+</ekidata>

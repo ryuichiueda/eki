@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":39,"line_cd":11808,"line_name":"しまんとグリーンライン","station_cd":1180805,"station_g_cd":1180805,"station_name":"土佐大正","lon":132.975612,"lat":33.194815}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

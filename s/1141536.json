@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":17,"line_cd":11415,"line_name":"JR北陸本線(米原～金沢)","station_cd":1141536,"station_g_cd":1141536,"station_name":"能美根上","lon":136.459721,"lat":36.452053}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

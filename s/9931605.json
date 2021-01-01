@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":99316,"line_name":"ブルーライン","station_cd":9931605,"station_g_cd":9931605,"station_name":"仲町台","lon":139.589715,"lat":35.535258}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

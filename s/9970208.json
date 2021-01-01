@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":32,"line_cd":99702,"line_name":"北松江線","station_cd":9970208,"station_g_cd":9970208,"station_name":"旅伏","lon":132.806899,"lat":35.42116}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

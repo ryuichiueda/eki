@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":35,"line_cd":11702,"line_name":"JR山陰本線(益田～下関)","station_cd":1170221,"station_name":"伊上"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

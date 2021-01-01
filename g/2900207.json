@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":29002,"line_name":"相鉄いずみ野線","station_cd":2900207,"station_name":"ゆめが丘"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>21012</line_cd>
+		<line_name>東武小泉線</line_name>
+		<station_cd>2101203</station_cd>
+		<station_g_cd>2101203</station_g_cd>
+		<station_name>本中野</station_name>
+		<lon>139.469546</lon>
+		<lat>36.25843</lat>
+	</station>
+	<station_g>
+		<pref_cd>10</pref_cd>
+		<line_cd>21012</line_cd>
+		<line_name>東武小泉線</line_name>
+		<station_cd>2101203</station_cd>
+		<station_name>本中野</station_name>
+	</station_g>
+</ekidata>

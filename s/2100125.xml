@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>21001</line_cd>
+		<line_name>東武東上線</line_name>
+		<station_cd>2100125</station_cd>
+		<station_g_cd>2100125</station_g_cd>
+		<station_name>若葉</station_name>
+		<lon>139.408782</lon>
+		<lat>35.948919</lat>
+	</station>
+</ekidata>

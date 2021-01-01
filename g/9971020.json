@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":34,"line_cd":99710,"line_name":"広電１号線(宇品線)","station_cd":9971020,"station_name":"県病院前"},{"pref_cd":34,"line_cd":99712,"line_name":"広電３号線","station_cd":9971208,"station_name":"県病院前"},{"pref_cd":34,"line_cd":99713,"line_name":"広電５号線(皆実線)","station_cd":9971311,"station_name":"県病院前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

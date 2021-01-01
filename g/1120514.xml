@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11205</line_cd>
+		<line_name>JR津軽線</line_name>
+		<station_cd>1120514</station_cd>
+		<station_g_cd>1111802</station_g_cd>
+		<station_name>津軽二股</station_name>
+		<lon>140.514231</lon>
+		<lat>41.145937</lat>
+	</station>
+	<station_g>
+		<pref_cd>2</pref_cd>
+		<line_cd>11118</line_cd>
+		<line_name>JR海峡線</line_name>
+		<station_cd>1111802</station_cd>
+		<station_name>津軽今別</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>2</pref_cd>
+		<line_cd>11205</line_cd>
+		<line_name>JR津軽線</line_name>
+		<station_cd>1120514</station_cd>
+		<station_name>津軽二股</station_name>
+	</station_g>
+</ekidata>

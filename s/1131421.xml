@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>11314</line_cd>
+		<line_name>JR総武本線</line_name>
+		<station_cd>1131421</station_cd>
+		<station_g_cd>1131421</station_g_cd>
+		<station_name>松尾</station_name>
+		<lon>140.457587</lon>
+		<lat>35.63604</lat>
+	</station>
+</ekidata>

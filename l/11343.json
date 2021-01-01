@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11343,"line_name":"上野東京ライン","line_lon":139.77210044861,"line_lat":35.697455807258,"line_zoom":14,"station_l":[{"station_cd":1134301,"station_g_cd":1130101,"station_name":"東京","lon":139.766103,"lat":35.681391},{"station_cd":1134302,"station_g_cd":1130220,"station_name":"上野","lon":139.777043,"lat":35.71379}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

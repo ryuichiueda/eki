@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99645,"line_name":"神戸市営地下鉄西神線","station_cd":9964504,"station_g_cd":9964504,"station_name":"名谷","lon":135.094725,"lat":34.67936}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

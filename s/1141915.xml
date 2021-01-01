@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>17</pref_cd>
+		<line_cd>11419</line_cd>
+		<line_name>JR七尾線</line_name>
+		<station_cd>1141915</station_cd>
+		<station_g_cd>1141915</station_g_cd>
+		<station_name>能登部</station_name>
+		<lon>136.869403</lon>
+		<lat>36.960867</lat>
+	</station>
+</ekidata>

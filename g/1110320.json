@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":1,"line_cd":11103,"line_name":"JR函館本線(小樽～旭川)","station_cd":1110320,"station_name":"大麻"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

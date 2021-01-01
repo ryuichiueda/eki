@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":42,"line_cd":99916,"line_name":"長崎電軌５系統","station_cd":9991604,"station_g_cd":9991404,"station_name":"諏訪神社","lon":129.884083,"lat":32.752596}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>1007</line_cd>
+		<line_name>山形新幹線</line_name>
+		<line_lon>140.16847776151</line_lon>
+		<line_lat>37.588208809852</line_lat>
+		<line_zoom>8</line_zoom>
+	</line>
+</ekidata>

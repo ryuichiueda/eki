@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99342</line_cd>
+		<line_name>日暮里・舎人ライナー</line_name>
+		<station_cd>9934205</station_cd>
+		<station_g_cd>9934205</station_g_cd>
+		<station_name>足立小台</station_name>
+		<lon>139.770381</lon>
+		<lat>35.754658</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99342</line_cd>
+		<line_name>日暮里・舎人ライナー</line_name>
+		<station_cd>9934205</station_cd>
+		<station_name>足立小台</station_name>
+	</station_g>
+</ekidata>

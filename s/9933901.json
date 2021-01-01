@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":99339,"line_name":"箱根登山鉄道鉄道線","station_cd":9933901,"station_g_cd":1130116,"station_name":"小田原","lon":139.155396,"lat":35.256229}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

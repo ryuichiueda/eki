@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>11506</line_cd>
+		<line_name>JR武豊線</line_name>
+		<station_cd>1150610</station_cd>
+		<station_g_cd>1150610</station_g_cd>
+		<station_name>武豊</station_name>
+		<lon>136.921244</lon>
+		<lat>34.853507</lat>
+	</station>
+</ekidata>

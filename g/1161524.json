@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":28,"line_cd":11615,"line_name":"JR山陰本線(園部～豊岡)","station_cd":1161524,"station_name":"豊岡"},{"pref_cd":28,"line_cd":11616,"line_name":"JR山陰本線(豊岡～米子)","station_cd":1161601,"station_name":"豊岡"},{"pref_cd":28,"line_cd":99609,"line_name":"宮豊線","station_cd":9960919,"station_name":"豊岡"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

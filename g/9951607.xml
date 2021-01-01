@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99516</line_cd>
+		<line_name>名古屋市営地下鉄鶴舞線</line_name>
+		<station_cd>9951607</station_cd>
+		<station_g_cd>9951309</station_g_cd>
+		<station_name>伏見</station_name>
+		<lon>136.897427</lon>
+		<lat>35.169273</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>99513</line_cd>
+		<line_name>名古屋市営地下鉄東山線</line_name>
+		<station_cd>9951309</station_cd>
+		<station_name>伏見</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>99516</line_cd>
+		<line_name>名古屋市営地下鉄鶴舞線</line_name>
+		<station_cd>9951607</station_cd>
+		<station_name>伏見</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>34006</line_cd>
+		<line_name>阪急伊丹線</line_name>
+		<line_lon>135.41460476587</line_lon>
+		<line_lat>34.770061233011</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3400601</station_cd>
+		<station_g_cd>3400106</station_g_cd>
+		<station_name>塚口</station_name>
+		<lon>135.41585</lon>
+		<lat>34.752826</lat>
+	</station>
+	<station>
+		<station_cd>3400602</station_cd>
+		<station_g_cd>3400602</station_g_cd>
+		<station_name>稲野</station_name>
+		<lon>135.415532</lon>
+		<lat>34.764817</lat>
+	</station>
+	<station>
+		<station_cd>3400603</station_cd>
+		<station_g_cd>3400603</station_g_cd>
+		<station_name>新伊丹</station_name>
+		<lon>135.415479</lon>
+		<lat>34.772574</lat>
+	</station>
+	<station>
+		<station_cd>3400604</station_cd>
+		<station_g_cd>3400604</station_g_cd>
+		<station_name>伊丹</station_name>
+		<lon>135.413618</lon>
+		<lat>34.779875</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99301</line_cd>
+		<line_name>都営大江戸線</line_name>
+		<station_cd>9930107</station_cd>
+		<station_g_cd>1131316</station_g_cd>
+		<station_name>飯田橋</station_name>
+		<lon>139.744999</lon>
+		<lat>35.702927</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131316</station_cd>
+		<station_name>飯田橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28004</line_cd>
+		<line_name>東京メトロ東西線</line_name>
+		<station_cd>2800406</station_cd>
+		<station_name>飯田橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28006</line_cd>
+		<line_name>東京メトロ有楽町線</line_name>
+		<station_cd>2800613</station_cd>
+		<station_name>飯田橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800910</station_cd>
+		<station_name>飯田橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99301</line_cd>
+		<line_name>都営大江戸線</line_name>
+		<station_cd>9930107</station_cd>
+		<station_name>飯田橋</station_name>
+	</station_g>
+</ekidata>

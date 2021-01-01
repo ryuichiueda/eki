@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>27002</line_cd>
+		<line_name>京急空港線</line_name>
+		<station_cd>2700202</station_cd>
+		<station_g_cd>2700202</station_g_cd>
+		<station_name>糀谷</station_name>
+		<lon>139.72962</lon>
+		<lat>35.5545</lat>
+	</station>
+</ekidata>

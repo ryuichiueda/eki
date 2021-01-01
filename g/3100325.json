@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":29,"line_cd":31003,"line_name":"近鉄南大阪線","station_cd":3100325,"station_name":"浮孔"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

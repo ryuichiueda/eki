@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>99303</line_cd>
+		<line_name>都営三田線</line_name>
+		<station_cd>9930304</station_cd>
+		<station_g_cd>9930208</station_g_cd>
+		<station_name>三田</station_name>
+		<lon>139.748775</lon>
+		<lat>35.64818</lat>
+	</station>
+</ekidata>

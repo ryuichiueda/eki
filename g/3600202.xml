@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>36002</line_cd>
+		<line_name>西鉄太宰府線</line_name>
+		<station_cd>3600202</station_cd>
+		<station_g_cd>3600202</station_g_cd>
+		<station_name>西鉄五条</station_name>
+		<lon>130.526106</lon>
+		<lat>33.51111</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>36002</line_cd>
+		<line_name>西鉄太宰府線</line_name>
+		<station_cd>3600202</station_cd>
+		<station_name>西鉄五条</station_name>
+	</station_g>
+</ekidata>

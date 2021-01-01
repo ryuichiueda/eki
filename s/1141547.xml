@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>17</pref_cd>
+		<line_cd>99426</line_cd>
+		<line_name>IRいしかわ鉄道線</line_name>
+		<station_cd>1141547</station_cd>
+		<station_g_cd>1141547</station_g_cd>
+		<station_name>倶利伽羅</station_name>
+		<lon>136.791605</lon>
+		<lat>36.672489</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":18,"line_cd":99420,"line_name":"えちぜん鉄道三国芦原線","station_cd":9942013,"station_g_cd":9942013,"station_name":"下兵庫こうふく","lon":136.202507,"lat":36.170129}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

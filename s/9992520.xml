@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>46</pref_cd>
+		<line_cd>99925</line_cd>
+		<line_name>鹿児島市電１系統</line_name>
+		<station_cd>9992520</station_cd>
+		<station_g_cd>9992520</station_g_cd>
+		<station_name>宇宿一丁目</station_name>
+		<lon>130.539068</lon>
+		<lat>31.546439</lat>
+	</station>
+</ekidata>

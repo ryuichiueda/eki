@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":99712,"line_name":"広電３号線","station_cd":9971229,"station_g_cd":1161117,"station_name":"広電西広島（己斐）","lon":132.428255,"lat":34.397261}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

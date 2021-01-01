@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99323</line_cd>
+		<line_name>鹿島臨海鉄道大洗鹿島線</line_name>
+		<station_cd>9932313</station_cd>
+		<station_g_cd>9932313</station_g_cd>
+		<station_name>長者ヶ浜潮騒はまなす公園前</station_name>
+		<lon>140.618849</lon>
+		<lat>36.031336</lat>
+	</station>
+	<station_g>
+		<pref_cd>8</pref_cd>
+		<line_cd>99323</line_cd>
+		<line_name>鹿島臨海鉄道大洗鹿島線</line_name>
+		<station_cd>9932313</station_cd>
+		<station_name>長者ヶ浜潮騒はまなす公園前</station_name>
+	</station_g>
+</ekidata>

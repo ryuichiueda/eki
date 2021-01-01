@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11613,"line_name":"JR山陽本線(兵庫～和田岬)","line_lon":135.16794204761,"line_lat":34.665775516298,"line_zoom":14,"station_l":[{"station_cd":1161301,"station_g_cd":1160802,"station_name":"兵庫","lon":135.164706,"lat":34.668343},{"station_cd":1161302,"station_g_cd":1161302,"station_name":"和田岬","lon":135.174268,"lat":34.657278}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

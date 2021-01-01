@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":7,"line_cd":11216,"line_name":"山形線","station_cd":1121601,"station_name":"福島"},{"pref_cd":7,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123124,"station_name":"福島"},{"pref_cd":7,"line_cd":99213,"line_name":"阿武隈急行線","station_cd":9921301,"station_name":"福島"},{"pref_cd":7,"line_cd":99215,"line_name":"福島交通飯坂線","station_cd":9921501,"station_name":"福島"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

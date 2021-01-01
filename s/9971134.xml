@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>34</pref_cd>
+		<line_cd>99711</line_cd>
+		<line_name>広電２号線(宮島線)</line_name>
+		<station_cd>9971134</station_cd>
+		<station_g_cd>9971134</station_g_cd>
+		<station_name>廿日市市役所前（平良）</station_name>
+		<lon>132.329722</lon>
+		<lat>34.352816</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":33,"line_cd":11609,"line_name":"JR山陽本線(姫路～岡山)","station_cd":1160917,"station_name":"岡山"},{"pref_cd":33,"line_cd":11610,"line_name":"JR山陽本線(岡山～三原)","station_cd":1161001,"station_name":"岡山"},{"pref_cd":33,"line_cd":11631,"line_name":"JR赤穂線","station_cd":1163121,"station_name":"岡山"},{"pref_cd":33,"line_cd":11703,"line_name":"JR伯備線","station_cd":1170301,"station_name":"岡山"},{"pref_cd":33,"line_cd":11709,"line_name":"JR宇野線","station_cd":1170901,"station_name":"岡山"},{"pref_cd":33,"line_cd":11713,"line_name":"JR吉備線","station_cd":1171301,"station_name":"岡山"},{"pref_cd":33,"line_cd":11715,"line_name":"JR津山線","station_cd":1171517,"station_name":"岡山"},{"pref_cd":33,"line_cd":99706,"line_name":"東山線","station_cd":9970601,"station_name":"岡山駅前"},{"pref_cd":33,"line_cd":99707,"line_name":"清輝橋線","station_cd":9970701,"station_name":"岡山駅前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

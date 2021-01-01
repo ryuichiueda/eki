@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>11409</line_cd>
+		<line_name>北アルプス線</line_name>
+		<station_cd>1140928</station_cd>
+		<station_g_cd>1140928</station_g_cd>
+		<station_name>神城</station_name>
+		<lon>137.846586</lon>
+		<lat>36.658287</lat>
+	</station>
+</ekidata>

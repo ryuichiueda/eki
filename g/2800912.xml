@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800912</station_cd>
+		<station_g_cd>1131102</station_g_cd>
+		<station_name>四ツ谷</station_name>
+		<lon>139.72955</lon>
+		<lat>35.686032</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11311</line_cd>
+		<line_name>JR中央本線(東京～塩尻)</line_name>
+		<station_cd>1131102</station_cd>
+		<station_name>四ツ谷</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11312</line_cd>
+		<line_name>JR中央線(快速)</line_name>
+		<station_cd>1131207</station_cd>
+		<station_name>四ツ谷</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131314</station_cd>
+		<station_name>四ツ谷</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28002</line_cd>
+		<line_name>東京メトロ丸ノ内線</line_name>
+		<station_cd>2800214</station_cd>
+		<station_name>四ツ谷</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800912</station_cd>
+		<station_name>四ツ谷</station_name>
+	</station_g>
+</ekidata>

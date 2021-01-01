@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99412,"line_name":"黒部峡谷鉄道本線","line_lon":137.62933635449,"line_lat":36.771398208953,"line_zoom":12,"station_l":[{"station_cd":9941201,"station_g_cd":9940838,"station_name":"宇奈月","lon":137.58586,"lat":36.815038},{"station_cd":9941202,"station_g_cd":9941202,"station_name":"黒薙","lon":137.624738,"lat":36.786638},{"station_cd":9941203,"station_g_cd":9941203,"station_name":"鐘釣","lon":137.651315,"lat":36.734378},{"station_cd":9941204,"station_g_cd":9941204,"station_name":"欅平","lon":137.658179,"lat":36.696732}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

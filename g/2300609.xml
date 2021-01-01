@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>23006</line_cd>
+		<line_name>成田スカイアクセス</line_name>
+		<station_cd>2300609</station_cd>
+		<station_g_cd>2300609</station_g_cd>
+		<station_name>成田湯川</station_name>
+		<lon>140.291596</lon>
+		<lat>35.799115</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>23006</line_cd>
+		<line_name>成田スカイアクセス</line_name>
+		<station_cd>2300609</station_cd>
+		<station_name>成田湯川</station_name>
+	</station_g>
+</ekidata>

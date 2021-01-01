@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11325</line_cd>
+		<line_name>JR内房線</line_name>
+		<station_cd>1132511</station_cd>
+		<station_g_cd>1132511</station_g_cd>
+		<station_name>木更津</station_name>
+		<lon>139.92611</lon>
+		<lat>35.381668</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11325</line_cd>
+		<line_name>JR内房線</line_name>
+		<station_cd>1132511</station_cd>
+		<station_name>木更津</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11330</line_cd>
+		<line_name>JR久留里線</line_name>
+		<station_cd>1133001</station_cd>
+		<station_name>木更津</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11218</line_cd>
+		<line_name>フルーツライン左沢線</line_name>
+		<station_cd>1121812</station_cd>
+		<station_g_cd>1121812</station_g_cd>
+		<station_name>左沢</station_name>
+		<lon>140.208132</lon>
+		<lat>38.382223</lat>
+	</station>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11218</line_cd>
+		<line_name>フルーツライン左沢線</line_name>
+		<station_cd>1121812</station_cd>
+		<station_name>左沢</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11720</line_cd>
+		<line_name>JR福塩線</line_name>
+		<station_cd>1172019</station_cd>
+		<station_g_cd>1172019</station_g_cd>
+		<station_name>備後三川</station_name>
+		<lon>133.110118</lon>
+		<lat>34.630201</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>11720</line_cd>
+		<line_name>JR福塩線</line_name>
+		<station_cd>1172019</station_cd>
+		<station_name>備後三川</station_name>
+	</station_g>
+</ekidata>

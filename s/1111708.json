@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":11117,"line_name":"JR釧網本線","station_cd":1111708,"station_g_cd":1111708,"station_name":"止別","lon":144.519818,"lat":43.921558}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

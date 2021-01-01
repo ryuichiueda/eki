@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30005</line_cd>
+		<line_name>名鉄三河線</line_name>
+		<station_cd>3000510</station_cd>
+		<station_g_cd>1150224</station_g_cd>
+		<station_name>刈谷</station_name>
+		<lon>137.008642</lon>
+		<lat>34.990884</lat>
+	</station>
+</ekidata>

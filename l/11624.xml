@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11624</line_cd>
+		<line_name>JRゆめ咲線</line_name>
+		<line_lon>135.44744518652</line_lon>
+		<line_lat>34.674044432381</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>1162401</station_cd>
+		<station_g_cd>1162307</station_g_cd>
+		<station_name>西九条</station_name>
+		<lon>135.466779</lon>
+		<lat>34.68269</lat>
+	</station>
+	<station>
+		<station_cd>1162402</station_cd>
+		<station_g_cd>1162402</station_g_cd>
+		<station_name>安治川口</station_name>
+		<lon>135.443921</lon>
+		<lat>34.673416</lat>
+	</station>
+	<station>
+		<station_cd>1162403</station_cd>
+		<station_g_cd>1162403</station_g_cd>
+		<station_name>ユニバーサルシティ</station_name>
+		<lon>135.438705</lon>
+		<lat>34.667842</lat>
+	</station>
+	<station>
+		<station_cd>1162404</station_cd>
+		<station_g_cd>1162404</station_g_cd>
+		<station_name>桜島</station_name>
+		<lon>135.432136</lon>
+		<lat>34.662065</lat>
+	</station>
+</ekidata>

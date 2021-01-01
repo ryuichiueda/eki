@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11801</line_cd>
+		<line_name>JR土讃線</line_name>
+		<station_cd>1180134</station_cd>
+		<station_g_cd>1180134</station_g_cd>
+		<station_name>高知</station_name>
+		<lon>133.543522</lon>
+		<lat>33.566758</lat>
+	</station>
+	<station_g>
+		<pref_cd>39</pref_cd>
+		<line_cd>11801</line_cd>
+		<line_name>JR土讃線</line_name>
+		<station_cd>1180134</station_cd>
+		<station_name>高知</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>39</pref_cd>
+		<line_cd>99819</line_cd>
+		<line_name>桟橋線</line_name>
+		<station_cd>9981901</station_cd>
+		<station_name>高知駅前</station_name>
+	</station_g>
+</ekidata>

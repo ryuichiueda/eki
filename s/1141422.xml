@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>11414</line_cd>
+		<line_name>JR飯田線(天竜峡～辰野)</line_name>
+		<station_cd>1141422</station_cd>
+		<station_g_cd>1141422</station_g_cd>
+		<station_name>七久保</station_name>
+		<lon>137.911346</lon>
+		<lat>35.654645</lat>
+	</station>
+</ekidata>

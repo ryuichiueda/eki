@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":24,"line_cd":99528,"line_name":"三岐鉄道三岐線","station_cd":9952805,"station_name":"山城"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

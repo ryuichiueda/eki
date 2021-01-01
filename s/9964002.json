@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99640,"line_name":"能勢電鉄日生線","station_cd":9964002,"station_g_cd":9964002,"station_name":"日生中央","lon":135.393216,"lat":34.906447}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

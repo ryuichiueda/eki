@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":11630,"line_name":"福知山線(篠山口～福知山)","station_cd":1163002,"station_g_cd":1163002,"station_name":"丹波大山","lon":135.168533,"lat":35.072369}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

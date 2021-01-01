@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>36</pref_cd>
+		<line_cd>11804</line_cd>
+		<line_name>JR牟岐線</line_name>
+		<station_cd>1180402</station_cd>
+		<station_g_cd>1180402</station_g_cd>
+		<station_name>阿波富田</station_name>
+		<lon>134.555658</lon>
+		<lat>34.064051</lat>
+	</station>
+</ekidata>

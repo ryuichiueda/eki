@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>11413</line_cd>
+		<line_name>JR飯田線(豊橋～天竜峡)</line_name>
+		<station_cd>1141305</station_cd>
+		<station_g_cd>1141305</station_g_cd>
+		<station_name>牛久保</station_name>
+		<lon>137.381671</lon>
+		<lat>34.808563</lat>
+	</station>
+</ekidata>

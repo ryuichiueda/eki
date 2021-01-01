@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>0</line_cd>
+		<line_name>line_name</line_name>
+		<line_lon>0</line_lon>
+		<line_lat>0</line_lat>
+		<line_zoom>0</line_zoom>
+	</line>
+</ekidata>

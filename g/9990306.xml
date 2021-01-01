@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99903</line_cd>
+		<line_name>糸田線</line_name>
+		<station_cd>9990306</station_cd>
+		<station_g_cd>1191414</station_g_cd>
+		<station_name>田川後藤寺</station_name>
+		<lon>130.800232</lon>
+		<lat>33.630294</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11914</line_cd>
+		<line_name>JR日田彦山線</line_name>
+		<station_cd>1191414</station_cd>
+		<station_name>田川後藤寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11915</line_cd>
+		<line_name>JR後藤寺線</line_name>
+		<station_cd>1191506</station_cd>
+		<station_name>田川後藤寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>99903</line_cd>
+		<line_name>糸田線</line_name>
+		<station_cd>9990306</station_cd>
+		<station_name>田川後藤寺</station_name>
+	</station_g>
+</ekidata>

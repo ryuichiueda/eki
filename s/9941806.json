@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":17,"line_cd":99418,"line_name":"のと鉄道七尾線","station_cd":9941806,"station_g_cd":9941806,"station_name":"能登鹿島","lon":136.897879,"lat":37.179723}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

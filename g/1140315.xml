@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99424</line_cd>
+		<line_name>妙高はねうまライン</line_name>
+		<station_cd>1140315</station_cd>
+		<station_g_cd>1140315</station_g_cd>
+		<station_name>新井</station_name>
+		<lon>138.255614</lon>
+		<lat>37.026738</lat>
+	</station>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>99424</line_cd>
+		<line_name>妙高はねうまライン</line_name>
+		<station_cd>1140315</station_cd>
+		<station_name>新井</station_name>
+	</station_g>
+</ekidata>

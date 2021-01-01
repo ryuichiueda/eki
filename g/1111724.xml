@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11117</line_cd>
+		<line_name>JR釧網本線</line_name>
+		<station_cd>1111724</station_cd>
+		<station_g_cd>1111724</station_g_cd>
+		<station_name>細岡</station_name>
+		<lon>144.469683</lon>
+		<lat>43.105055</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11117</line_cd>
+		<line_name>JR釧網本線</line_name>
+		<station_cd>1111724</station_cd>
+		<station_name>細岡</station_name>
+	</station_g>
+</ekidata>

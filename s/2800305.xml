@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>28003</line_cd>
+		<line_name>東京メトロ日比谷線</line_name>
+		<station_cd>2800305</station_cd>
+		<station_g_cd>1130220</station_g_cd>
+		<station_name>上野</station_name>
+		<lon>139.777122</lon>
+		<lat>35.711482</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":24,"line_cd":11512,"line_name":"JR参宮線","station_cd":1151208,"station_g_cd":1151208,"station_name":"二見浦","lon":136.77713,"lat":34.503753}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11617</line_cd>
+		<line_name>学研都市線</line_name>
+		<station_cd>1161715</station_cd>
+		<station_g_cd>1161715</station_g_cd>
+		<station_name>寝屋川公園</station_name>
+		<lon>135.653276</lon>
+		<lat>34.755491</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>11617</line_cd>
+		<line_name>学研都市線</line_name>
+		<station_cd>1161715</station_cd>
+		<station_name>寝屋川公園</station_name>
+	</station_g>
+</ekidata>

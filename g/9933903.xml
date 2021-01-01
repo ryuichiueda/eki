@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99339</line_cd>
+		<line_name>箱根登山鉄道鉄道線</line_name>
+		<station_cd>9933903</station_cd>
+		<station_g_cd>9933903</station_g_cd>
+		<station_name>風祭</station_name>
+		<lon>139.129104</lon>
+		<lat>35.246229</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99339</line_cd>
+		<line_name>箱根登山鉄道鉄道線</line_name>
+		<station_cd>9933903</station_cd>
+		<station_name>風祭</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":5,"line_cd":99209,"line_name":"秋田内陸線","station_cd":9920929,"station_g_cd":1121111,"station_name":"角館","lon":140.570988,"lat":39.591716}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

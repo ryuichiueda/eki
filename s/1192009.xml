@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>41</pref_cd>
+		<line_cd>11920</line_cd>
+		<line_name>JR筑肥線(西唐津～伊万里)</line_name>
+		<station_cd>1192009</station_cd>
+		<station_g_cd>1192009</station_g_cd>
+		<station_name>大川野</station_name>
+		<lon>129.976724</lon>
+		<lat>33.307298</lat>
+	</station>
+</ekidata>

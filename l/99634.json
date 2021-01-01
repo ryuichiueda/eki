@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99634,"line_name":"公園都市線","line_lon":135.20684257405,"line_lat":34.89567763884,"line_zoom":13,"station_l":[{"station_cd":9963401,"station_g_cd":1162915,"station_name":"三田","lon":135.23052,"lat":34.888259},{"station_cd":9963402,"station_g_cd":9963309,"station_name":"三田本町","lon":135.229606,"lat":34.881805},{"station_cd":9963403,"station_g_cd":9963308,"station_name":"横山","lon":135.219696,"lat":34.876633},{"station_cd":9963404,"station_g_cd":9963404,"station_name":"フラワータウン","lon":135.202334,"lat":34.88546},{"station_cd":9963405,"station_g_cd":9963405,"station_name":"南ウッディタウン","lon":135.189612,"lat":34.901729},{"station_cd":9963406,"station_g_cd":9963406,"station_name":"ウッディタウン中央","lon":135.183707,"lat":34.909767}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

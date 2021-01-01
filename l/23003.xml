@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>23003</line_cd>
+		<line_name>京成金町線</line_name>
+		<line_lon>139.86858506877</line_lon>
+		<line_lat>35.761222006316</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>2300301</station_cd>
+		<station_g_cd>2300110</station_g_cd>
+		<station_name>京成高砂</station_name>
+		<lon>139.866875</lon>
+		<lat>35.750932</lat>
+	</station>
+	<station>
+		<station_cd>2300302</station_cd>
+		<station_g_cd>2300302</station_g_cd>
+		<station_name>柴又</station_name>
+		<lon>139.875188</lon>
+		<lat>35.756323</lat>
+	</station>
+	<station>
+		<station_cd>2300303</station_cd>
+		<station_g_cd>1132008</station_g_cd>
+		<station_name>京成金町</station_name>
+		<lon>139.870387</lon>
+		<lat>35.768471</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99715</line_cd>
+		<line_name>広電７号線</line_name>
+		<station_cd>9971501</station_cd>
+		<station_g_cd>1161116</station_g_cd>
+		<station_name>横川駅</station_name>
+		<lon>132.450496</lon>
+		<lat>34.409512</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>11611</line_cd>
+		<line_name>JR山陽本線(三原～岩国)</line_name>
+		<station_cd>1161116</station_cd>
+		<station_name>横川</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>11717</line_cd>
+		<line_name>JR可部線</line_name>
+		<station_cd>1171702</station_cd>
+		<station_name>横川</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99715</line_cd>
+		<line_name>広電７号線</line_name>
+		<station_cd>9971501</station_cd>
+		<station_name>横川駅</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99716</line_cd>
+		<line_name>広電８号線(横川線)</line_name>
+		<station_cd>9971601</station_cd>
+		<station_name>横川駅</station_name>
+	</station_g>
+</ekidata>

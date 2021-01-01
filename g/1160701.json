@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":11509,"line_name":"JR関西本線(亀山～加茂)","station_cd":1150912,"station_name":"加茂"},{"pref_cd":26,"line_cd":11607,"line_name":"大和路線","station_cd":1160701,"station_name":"加茂"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

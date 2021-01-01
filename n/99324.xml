@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9932401</station_cd1>
+		<station_cd2>9932402</station_cd2>
+		<station_name1>東成田</station_name1>
+		<station_name2>芝山千代田</station_name2>
+		<lat1>35.770091</lat1>
+		<lon1>140.387225</lon1>
+		<lat2>35.754248</lat2>
+		<lon2>140.399215</lon2>
+	</station_join>
+</ekidata>

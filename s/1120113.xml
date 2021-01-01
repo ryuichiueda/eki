@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>2</pref_cd>
+		<line_cd>99206</line_cd>
+		<line_name>青い森鉄道線</line_name>
+		<station_cd>1120113</station_cd>
+		<station_g_cd>1120113</station_g_cd>
+		<station_name>小湊</station_name>
+		<lon>140.953953</lon>
+		<lat>40.929703</lat>
+	</station>
+</ekidata>

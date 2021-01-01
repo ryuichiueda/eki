@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":3,"line_cd":11212,"line_name":"十和田八幡平四季彩ライン","station_cd":1121210,"station_g_cd":1121210,"station_name":"荒屋新町","lon":141.049196,"lat":40.097682}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

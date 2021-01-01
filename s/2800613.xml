@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>28006</line_cd>
+		<line_name>東京メトロ有楽町線</line_name>
+		<station_cd>2800613</station_cd>
+		<station_g_cd>1131316</station_g_cd>
+		<station_name>飯田橋</station_name>
+		<lon>139.743669</lon>
+		<lat>35.701934</lat>
+	</station>
+</ekidata>

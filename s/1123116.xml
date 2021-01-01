@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>7</pref_cd>
+		<line_cd>11231</line_cd>
+		<line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
+		<station_cd>1123116</station_cd>
+		<station_g_cd>1123116</station_g_cd>
+		<station_name>五百川</station_name>
+		<lon>140.38785</lon>
+		<lat>37.482887</lat>
+	</station>
+</ekidata>

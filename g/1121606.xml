@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+		<station_cd>1121606</station_cd>
+		<station_g_cd>1121606</station_g_cd>
+		<station_name>峠</station_name>
+		<lon>140.236041</lon>
+		<lat>37.811935</lat>
+	</station>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+		<station_cd>1121606</station_cd>
+		<station_name>峠</station_name>
+	</station_g>
+</ekidata>

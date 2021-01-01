@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28001</line_cd>
+		<line_name>東京メトロ銀座線</line_name>
+		<station_cd>2800105</station_cd>
+		<station_g_cd>1130221</station_g_cd>
+		<station_name>上野広小路</station_name>
+		<lon>139.772877</lon>
+		<lat>35.70768</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11302</line_cd>
+		<line_name>JR山手線</line_name>
+		<station_cd>1130221</station_cd>
+		<station_name>御徒町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11332</line_cd>
+		<line_name>JR京浜東北線</line_name>
+		<station_cd>1133219</station_cd>
+		<station_name>御徒町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28001</line_cd>
+		<line_name>東京メトロ銀座線</line_name>
+		<station_cd>2800105</station_cd>
+		<station_name>上野広小路</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28003</line_cd>
+		<line_name>東京メトロ日比谷線</line_name>
+		<station_cd>2800306</station_cd>
+		<station_name>仲御徒町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99301</line_cd>
+		<line_name>都営大江戸線</line_name>
+		<station_cd>9930110</station_cd>
+		<station_name>上野御徒町</station_name>
+	</station_g>
+</ekidata>

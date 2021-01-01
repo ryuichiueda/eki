@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11422</line_cd>
+		<line_name>JR小浜線</line_name>
+		<station_cd>1142211</station_cd>
+		<station_g_cd>1142211</station_g_cd>
+		<station_name>東小浜</station_name>
+		<lon>135.781053</lon>
+		<lat>35.485234</lat>
+	</station>
+	<station_g>
+		<pref_cd>18</pref_cd>
+		<line_cd>11422</line_cd>
+		<line_name>JR小浜線</line_name>
+		<station_cd>1142211</station_cd>
+		<station_name>東小浜</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":43,"line_cd":11925,"line_name":"えびの高原線(八代～吉松)","station_cd":1192511,"station_g_cd":1192511,"station_name":"一勝地","lon":130.652399,"lat":32.250231}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

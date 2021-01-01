@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11912</line_cd>
+		<line_name>原田線</line_name>
+		<line_lon>130.60913221797</line_lon>
+		<line_lat>33.5241644</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>1191201</station_cd>
+		<station_g_cd>1190801</station_g_cd>
+		<station_name>桂川</station_name>
+		<lon>130.662752</lon>
+		<lat>33.584705</lat>
+	</station>
+	<station>
+		<station_cd>1191202</station_cd>
+		<station_g_cd>1191202</station_g_cd>
+		<station_name>上穂波</station_name>
+		<lon>130.645151</lon>
+		<lat>33.566909</lat>
+	</station>
+	<station>
+		<station_cd>1191203</station_cd>
+		<station_g_cd>1191203</station_g_cd>
+		<station_name>筑前内野</station_name>
+		<lon>130.63793</lon>
+		<lat>33.539967</lat>
+	</station>
+	<station>
+		<station_cd>1191204</station_cd>
+		<station_g_cd>1191204</station_g_cd>
+		<station_name>筑前山家</station_name>
+		<lon>130.574185</lon>
+		<lat>33.477472</lat>
+	</station>
+	<station>
+		<station_cd>1191205</station_cd>
+		<station_g_cd>1190311</station_g_cd>
+		<station_name>原田</station_name>
+		<lon>130.539376</lon>
+		<lat>33.451769</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":99609,"line_name":"宮豊線","station_cd":9960911,"station_name":"京丹後大宮"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

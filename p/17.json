@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11415,"line_name":"JR北陸本線(米原～金沢)"},{"line_cd":11419,"line_name":"JR七尾線"},{"line_cd":99416,"line_name":"北陸鉄道石川線"},{"line_cd":99417,"line_name":"北陸鉄道浅野川線"},{"line_cd":99418,"line_name":"のと鉄道七尾線"},{"line_cd":99425,"line_name":"あいの風とやま鉄道線"},{"line_cd":99426,"line_name":"IRいしかわ鉄道線"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

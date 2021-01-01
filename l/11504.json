@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11504,"line_name":"JR伊東線","line_lon":139.06965506608,"line_lat":35.047592333333,"line_zoom":12,"station_l":[{"station_cd":1150401,"station_g_cd":1130121,"station_name":"熱海","lon":139.077679,"lat":35.103573},{"station_cd":1150402,"station_g_cd":1150402,"station_name":"来宮","lon":139.065575,"lat":35.098723},{"station_cd":1150403,"station_g_cd":1150403,"station_name":"伊豆多賀","lon":139.066847,"lat":35.059411},{"station_cd":1150404,"station_g_cd":1150404,"station_name":"網代","lon":139.081245,"lat":35.043545},{"station_cd":1150405,"station_g_cd":1150405,"station_name":"宇佐美","lon":139.079778,"lat":35.005602},{"station_cd":1150406,"station_g_cd":1150406,"station_name":"伊東","lon":139.092125,"lat":34.9747}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

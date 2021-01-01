@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":42,"line_cd":99911,"line_name":"西九州線(伊万里～佐世保)","station_cd":9991115,"station_name":"松浦発電所前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

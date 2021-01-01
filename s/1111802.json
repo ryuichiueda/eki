@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":2,"line_cd":11118,"line_name":"JR海峡線","station_cd":1111802,"station_g_cd":1111802,"station_name":"津軽今別","lon":140.515625,"lat":41.144885}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

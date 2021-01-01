@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":23005,"line_name":"京成千原線","line_lon":140.14014244173,"line_lat":35.578852314308,"line_zoom":12,"station_l":[{"station_cd":2300501,"station_g_cd":2300410,"station_name":"千葉中央","lon":140.117809,"lat":35.607354},{"station_cd":2300502,"station_g_cd":2300502,"station_name":"千葉寺","lon":140.132236,"lat":35.590311},{"station_cd":2300503,"station_g_cd":2300503,"station_name":"大森台","lon":140.149398,"lat":35.584126},{"station_cd":2300504,"station_g_cd":2300504,"station_name":"学園前","lon":140.158416,"lat":35.560364},{"station_cd":2300505,"station_g_cd":2300505,"station_name":"おゆみ野","lon":140.166264,"lat":35.550029},{"station_cd":2300506,"station_g_cd":2300506,"station_name":"ちはら台","lon":140.17029,"lat":35.534017}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>24004</line_cd>
+		<line_name>京王競馬場線</line_name>
+		<line_lon>139.48962301587</line_lon>
+		<line_lat>35.668945374045</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>2400401</station_cd>
+		<station_g_cd>2400123</station_g_cd>
+		<station_name>東府中</station_name>
+		<lon>139.495257</lon>
+		<lat>35.668766</lat>
+	</station>
+	<station>
+		<station_cd>2400402</station_cd>
+		<station_g_cd>2400402</station_g_cd>
+		<station_name>府中競馬正門前</station_name>
+		<lon>139.485019</lon>
+		<lat>35.668288</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":24,"line_cd":99530,"line_name":"伊勢鉄道伊勢線","station_cd":9953009,"station_g_cd":9953009,"station_name":"東一身田","lon":136.512126,"lat":34.758717}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

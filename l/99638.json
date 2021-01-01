@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99638,"line_name":"山陽電鉄網干線","line_lon":134.62899303704,"line_lat":34.796193571429,"line_zoom":13,"station_l":[{"station_cd":9963801,"station_g_cd":9963740,"station_name":"飾磨","lon":134.675401,"lat":34.799748},{"station_cd":9963802,"station_g_cd":9963802,"station_name":"西飾磨","lon":134.651176,"lat":34.803045},{"station_cd":9963803,"station_g_cd":9963803,"station_name":"夢前川","lon":134.639457,"lat":34.798695},{"station_cd":9963804,"station_g_cd":9963804,"station_name":"広畑","lon":134.62815,"lat":34.797736},{"station_cd":9963805,"station_g_cd":9963805,"station_name":"山陽天満","lon":134.61741,"lat":34.796378},{"station_cd":9963806,"station_g_cd":9963806,"station_name":"平松","lon":134.601001,"lat":34.790751},{"station_cd":9963807,"station_g_cd":9963807,"station_name":"山陽網干","lon":134.587953,"lat":34.787002}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

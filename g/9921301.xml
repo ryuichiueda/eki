@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99213</line_cd>
+		<line_name>阿武隈急行線</line_name>
+		<station_cd>9921301</station_cd>
+		<station_g_cd>1123124</station_g_cd>
+		<station_name>福島</station_name>
+		<lon>140.460055</lon>
+		<lat>37.755388</lat>
+	</station>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+		<station_cd>1121601</station_cd>
+		<station_name>福島</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>11231</line_cd>
+		<line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
+		<station_cd>1123124</station_cd>
+		<station_name>福島</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>99213</line_cd>
+		<line_name>阿武隈急行線</line_name>
+		<station_cd>9921301</station_cd>
+		<station_name>福島</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>99215</line_cd>
+		<line_name>福島交通飯坂線</line_name>
+		<station_cd>9921501</station_cd>
+		<station_name>福島</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11607</line_cd>
+		<line_name>大和路線</line_name>
+		<station_cd>1160722</station_cd>
+		<station_g_cd>1160722</station_g_cd>
+		<station_name>ＪＲ難波</station_name>
+		<lon>135.495265</lon>
+		<lat>34.666438</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>11607</line_cd>
+		<line_name>大和路線</line_name>
+		<station_cd>1160722</station_cd>
+		<station_name>ＪＲ難波</station_name>
+	</station_g>
+</ekidata>

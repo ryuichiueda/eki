@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":20,"line_cd":11412,"line_name":"JR篠ノ井線","station_cd":1141202,"station_g_cd":1141202,"station_name":"広丘","lon":137.949578,"lat":36.148032}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

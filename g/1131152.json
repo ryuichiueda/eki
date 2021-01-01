@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":20,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131152,"station_name":"小野"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

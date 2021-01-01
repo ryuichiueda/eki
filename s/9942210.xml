@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>16</pref_cd>
+		<line_cd>99422</line_cd>
+		<line_name>富山地鉄富山都心線【３系統(環状線)】</line_name>
+		<station_cd>9942210</station_cd>
+		<station_g_cd>9941312</station_g_cd>
+		<station_name>地鉄ビル前</station_name>
+		<lon>137.216105</lon>
+		<lat>36.698584</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":12,"line_cd":11305,"line_name":"JR武蔵野線","station_cd":1130521,"station_name":"東松戸"},{"pref_cd":12,"line_cd":23006,"line_name":"成田スカイアクセス","station_cd":2300605,"station_name":"東松戸"},{"pref_cd":12,"line_cd":99340,"line_name":"北総鉄道北総線","station_cd":9934006,"station_name":"東松戸"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

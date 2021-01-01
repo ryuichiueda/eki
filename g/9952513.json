@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":21,"line_cd":99525,"line_name":"長良川鉄道越美南線","station_cd":9952513,"station_name":"梅山"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

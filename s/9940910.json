@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":16,"line_cd":99409,"line_name":"富山地鉄立山線","station_cd":9940910,"station_g_cd":9940910,"station_name":"横江","lon":137.335605,"lat":36.582175}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

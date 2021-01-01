@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>11306</line_cd>
+		<line_name>JR横浜線</line_name>
+		<station_cd>1130612</station_cd>
+		<station_g_cd>1130612</station_g_cd>
+		<station_name>古淵</station_name>
+		<lon>139.419151</lon>
+		<lat>35.556055</lat>
+	</station>
+</ekidata>

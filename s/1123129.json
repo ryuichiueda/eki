@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":7,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123129,"station_g_cd":1123129,"station_name":"貝田","lon":140.58106,"lat":37.908226}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

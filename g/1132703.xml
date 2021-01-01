@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11327</line_cd>
+		<line_name>JR成田線</line_name>
+		<station_cd>1132703</station_cd>
+		<station_g_cd>1132703</station_g_cd>
+		<station_name>成田</station_name>
+		<lon>140.313853</lon>
+		<lat>35.777796</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11327</line_cd>
+		<line_name>JR成田線</line_name>
+		<station_cd>1132703</station_cd>
+		<station_name>成田</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11328</line_cd>
+		<line_name>JR成田エクスプレス</line_name>
+		<station_cd>1132812</station_cd>
+		<station_name>成田</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>23001</line_cd>
+		<line_name>京成本線</line_name>
+		<station_cd>2300140</station_cd>
+		<station_name>京成成田</station_name>
+	</station_g>
+</ekidata>

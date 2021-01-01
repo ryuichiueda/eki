@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":41,"line_cd":11905,"line_name":"JR長崎本線(鳥栖～長崎)","station_cd":1190519,"station_name":"多良"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

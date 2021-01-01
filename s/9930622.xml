@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>99306</line_cd>
+		<line_name>秩父鉄道秩父本線</line_name>
+		<station_cd>9930622</station_cd>
+		<station_g_cd>9930622</station_g_cd>
+		<station_name>長瀞</station_name>
+		<lon>139.112346</lon>
+		<lat>36.095462</lat>
+	</station>
+</ekidata>

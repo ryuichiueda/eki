@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99320</line_cd>
+		<line_name>江ノ島電鉄線</line_name>
+		<station_cd>9932001</station_cd>
+		<station_g_cd>1130108</station_g_cd>
+		<station_name>藤沢</station_name>
+		<lon>139.487293</lon>
+		<lat>35.337227</lat>
+	</station>
+</ekidata>

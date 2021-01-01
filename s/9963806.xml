@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>99638</line_cd>
+		<line_name>山陽電鉄網干線</line_name>
+		<station_cd>9963806</station_cd>
+		<station_g_cd>9963806</station_g_cd>
+		<station_name>平松</station_name>
+		<lon>134.601001</lon>
+		<lat>34.790751</lat>
+	</station>
+</ekidata>

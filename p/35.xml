@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+	<pref>
+		<code>35</code>
+		<name>山口県</name>
+	</pref>
+	<line>
+		<line_cd>11611</line_cd>
+		<line_name>JR山陽本線(三原～岩国)</line_name>
+	</line>
+	<line>
+		<line_cd>11612</line_cd>
+		<line_name>JR山陽本線(岩国～門司)</line_name>
+	</line>
+	<line>
+		<line_cd>11702</line_cd>
+		<line_name>JR山陰本線(益田～下関)</line_name>
+	</line>
+	<line>
+		<line_cd>11708</line_cd>
+		<line_name>JR山口線</line_name>
+	</line>
+	<line>
+		<line_cd>11721</line_cd>
+		<line_name>JR宇部線</line_name>
+	</line>
+	<line>
+		<line_cd>11722</line_cd>
+		<line_name>JR美祢線</line_name>
+	</line>
+	<line>
+		<line_cd>11723</line_cd>
+		<line_name>JR小野田線</line_name>
+	</line>
+	<line>
+		<line_cd>11724</line_cd>
+		<line_name>JR岩徳線</line_name>
+	</line>
+	<line>
+		<line_cd>11902</line_cd>
+		<line_name>JR鹿児島本線(下関・門司港～博多)</line_name>
+	</line>
+	<line>
+		<line_cd>99718</line_cd>
+		<line_name>錦川清流線</line_name>
+	</line>
+</ekidata>

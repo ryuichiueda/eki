@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>99624</line_cd>
+		<line_name>大阪メトロ長堀鶴見緑地線</line_name>
+		<station_cd>9962416</station_cd>
+		<station_g_cd>9962416</station_g_cd>
+		<station_name>鶴見緑地</station_name>
+		<lon>135.580239</lon>
+		<lat>34.710754</lat>
+	</station>
+</ekidata>

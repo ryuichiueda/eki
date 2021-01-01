@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99602,"line_name":"近江鉄道多賀線","line_lon":136.26770142326,"line_lat":35.233252609383,"line_zoom":14,"station_l":[{"station_cd":9960201,"station_g_cd":9960106,"station_name":"高宮","lon":136.260524,"lat":35.236266},{"station_cd":9960203,"station_g_cd":9960203,"station_name":"スクリーン","lon":136.267258,"lat":35.233264},{"station_cd":9960202,"station_g_cd":9960202,"station_name":"多賀大社前","lon":136.284077,"lat":35.226442}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

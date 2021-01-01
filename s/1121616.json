@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":11216,"line_name":"山形線","station_cd":1121616,"station_g_cd":1121616,"station_name":"茂吉記念館前","lon":140.298167,"lat":38.171249}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

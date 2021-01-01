@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":4,"line_cd":11222,"line_name":"JR仙石線","station_cd":1122209,"station_g_cd":1122209,"station_name":"陸前高砂","lon":140.967607,"lat":38.27344}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

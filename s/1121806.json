@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":11218,"line_name":"フルーツライン左沢線","station_cd":1121806,"station_g_cd":1121806,"station_name":"羽前長崎","lon":140.273018,"lat":38.332969}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

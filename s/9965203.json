@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99652,"line_name":"大阪メトロ今里筋線","station_cd":9965203,"station_g_cd":9965203,"station_name":"だいどう豊里","lon":135.544408,"lat":34.743805}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

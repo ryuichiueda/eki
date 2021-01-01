@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>22003</line_cd>
+		<line_name>西武有楽町線</line_name>
+		<line_lon>139.66759498413</line_lon>
+		<line_lat>35.74040400299</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>2200301</station_cd>
+		<station_g_cd>2200301</station_g_cd>
+		<station_name>小竹向原</station_name>
+		<lon>139.678572</lon>
+		<lat>35.743803</lat>
+	</station>
+	<station>
+		<station_cd>2200302</station_cd>
+		<station_g_cd>2200302</station_g_cd>
+		<station_name>新桜台</station_name>
+		<lon>139.6683</lon>
+		<lat>35.74077</lat>
+	</station>
+	<station>
+		<station_cd>2200303</station_cd>
+		<station_g_cd>2200106</station_g_cd>
+		<station_name>練馬</station_name>
+		<lon>139.654368</lon>
+		<lat>35.737893</lat>
+	</station>
+</ekidata>

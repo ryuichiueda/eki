@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":24,"line_cd":99529,"line_name":"三岐鉄道北勢線","station_cd":9952901,"station_g_cd":1150808,"station_name":"西桑名","lon":136.684034,"lat":35.065694}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

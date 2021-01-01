@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>31</pref_cd>
+		<line_cd>11703</line_cd>
+		<line_name>JR伯備線</line_name>
+		<station_cd>1170324</station_cd>
+		<station_g_cd>1170324</station_g_cd>
+		<station_name>上菅</station_name>
+		<lon>133.341813</lon>
+		<lat>35.193886</lat>
+	</station>
+</ekidata>

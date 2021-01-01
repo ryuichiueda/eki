@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11918</line_cd>
+		<line_name>JR佐世保線</line_name>
+		<station_cd>1191814</station_cd>
+		<station_g_cd>1191814</station_g_cd>
+		<station_name>佐世保</station_name>
+		<lon>129.725667</lon>
+		<lat>33.163868</lat>
+	</station>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>11918</line_cd>
+		<line_name>JR佐世保線</line_name>
+		<station_cd>1191814</station_cd>
+		<station_name>佐世保</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99911</line_cd>
+		<line_name>西九州線(伊万里～佐世保)</line_name>
+		<station_cd>9991147</station_cd>
+		<station_name>佐世保</station_name>
+	</station_g>
+</ekidata>

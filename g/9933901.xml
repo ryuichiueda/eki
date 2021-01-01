@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99339</line_cd>
+		<line_name>箱根登山鉄道鉄道線</line_name>
+		<station_cd>9933901</station_cd>
+		<station_g_cd>1130116</station_g_cd>
+		<station_name>小田原</station_name>
+		<lon>139.155396</lon>
+		<lat>35.256229</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>11301</line_cd>
+		<line_name>JR東海道本線(東京～熱海)</line_name>
+		<station_cd>1130116</station_cd>
+		<station_name>小田原</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>25001</line_cd>
+		<line_name>小田急線</line_name>
+		<station_cd>2500147</station_cd>
+		<station_name>小田原</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99314</line_cd>
+		<line_name>伊豆箱根鉄道大雄山線</line_name>
+		<station_cd>9931401</station_cd>
+		<station_name>小田原</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99339</line_cd>
+		<line_name>箱根登山鉄道鉄道線</line_name>
+		<station_cd>9933901</station_cd>
+		<station_name>小田原</station_name>
+	</station_g>
+</ekidata>

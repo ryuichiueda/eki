@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11331</line_cd>
+		<line_name>JR東金線</line_name>
+		<station_cd>1133105</station_cd>
+		<station_g_cd>1131420</station_g_cd>
+		<station_name>成東</station_name>
+		<lon>140.410109</lon>
+		<lat>35.608513</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11314</line_cd>
+		<line_name>JR総武本線</line_name>
+		<station_cd>1131420</station_cd>
+		<station_name>成東</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>11331</line_cd>
+		<line_name>JR東金線</line_name>
+		<station_cd>1133105</station_cd>
+		<station_name>成東</station_name>
+	</station_g>
+</ekidata>

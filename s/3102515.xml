@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>26</pref_cd>
+		<line_cd>31025</line_cd>
+		<line_name>近鉄京都線</line_name>
+		<station_cd>3102515</station_cd>
+		<station_g_cd>3102515</station_g_cd>
+		<station_name>富野荘</station_name>
+		<lon>135.772922</lon>
+		<lat>34.840201</lat>
+	</station>
+</ekidata>

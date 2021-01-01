@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800909</station_cd>
+		<station_g_cd>2800204</station_g_cd>
+		<station_name>後楽園</station_name>
+		<lon>139.751864</lon>
+		<lat>35.707898</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28002</line_cd>
+		<line_name>東京メトロ丸ノ内線</line_name>
+		<station_cd>2800204</station_cd>
+		<station_name>後楽園</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800909</station_cd>
+		<station_name>後楽園</station_name>
+	</station_g>
+</ekidata>

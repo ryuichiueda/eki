@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>33</pref_cd>
+		<line_cd>11715</line_cd>
+		<line_name>JR津山線</line_name>
+		<station_cd>1171516</station_cd>
+		<station_g_cd>1171516</station_g_cd>
+		<station_name>法界院</station_name>
+		<lon>133.927547</lon>
+		<lat>34.684851</lat>
+	</station>
+</ekidata>

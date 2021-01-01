@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3101901</station_cd1>
+		<station_cd2>3101902</station_cd2>
+		<station_name1>伊勢若松</station_name1>
+		<station_name2>柳</station_name2>
+		<lat1>34.869431</lat1>
+		<lon1>136.616765</lon1>
+		<lat2>34.871381</lat2>
+		<lon2>136.595947</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3101902</station_cd1>
+		<station_cd2>3101903</station_cd2>
+		<station_name1>柳</station_name1>
+		<station_name2>鈴鹿市</station_name2>
+		<lat1>34.871381</lat1>
+		<lon1>136.595947</lon1>
+		<lat2>34.883899</lat2>
+		<lon2>136.582812</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3101903</station_cd1>
+		<station_cd2>3101904</station_cd2>
+		<station_name1>鈴鹿市</station_name1>
+		<station_name2>三日市</station_name2>
+		<lat1>34.883899</lat1>
+		<lon1>136.582812</lon1>
+		<lat2>34.880232</lat2>
+		<lon2>136.562316</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>3101904</station_cd1>
+		<station_cd2>3101905</station_cd2>
+		<station_name1>三日市</station_name1>
+		<station_name2>平田町</station_name2>
+		<lat1>34.880232</lat1>
+		<lon1>136.562316</lon1>
+		<lat2>34.875124</lat2>
+		<lon2>136.542406</lon2>
+	</station_join>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":99323,"line_name":"鹿島臨海鉄道大洗鹿島線","station_cd":9932304,"station_g_cd":9932304,"station_name":"大洗","lon":140.562675,"lat":36.315342}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

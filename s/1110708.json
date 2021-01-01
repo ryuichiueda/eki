@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":11107,"line_name":"JR根室本線(新得～釧路)","station_cd":1110708,"station_g_cd":1110708,"station_name":"柏林台","lon":143.1645,"lat":42.928877}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99330</line_cd>
+		<line_name>真岡鐵道真岡線</line_name>
+		<station_cd>9933002</station_cd>
+		<station_g_cd>9933002</station_g_cd>
+		<station_name>下館二高前</station_name>
+		<lon>139.972193</lon>
+		<lat>36.319137</lat>
+	</station>
+	<station_g>
+		<pref_cd>8</pref_cd>
+		<line_cd>99330</line_cd>
+		<line_name>真岡鐵道真岡線</line_name>
+		<station_cd>9933002</station_cd>
+		<station_name>下館二高前</station_name>
+	</station_g>
+</ekidata>

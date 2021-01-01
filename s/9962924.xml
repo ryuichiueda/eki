@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>99629</line_cd>
+		<line_name>阪堺電軌阪堺線</line_name>
+		<station_cd>9962924</station_cd>
+		<station_g_cd>9962924</station_g_cd>
+		<station_name>宿院</station_name>
+		<lon>135.47196</lon>
+		<lat>34.576439</lat>
+	</station>
+</ekidata>

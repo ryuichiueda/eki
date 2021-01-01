@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>99919</line_cd>
+		<line_name>高森線</line_name>
+		<station_cd>9991905</station_cd>
+		<station_g_cd>9991905</station_g_cd>
+		<station_name>南阿蘇水の生まれる里白水高原</station_name>
+		<lon>131.040264</lon>
+		<lat>32.83407</lat>
+	</station>
+</ekidata>

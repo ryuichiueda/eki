@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":18,"line_cd":99420,"line_name":"えちぜん鉄道三国芦原線","station_cd":9942021,"station_name":"三国港"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>36004</line_cd>
+		<line_name>西鉄貝塚線</line_name>
+		<station_cd>3600405</station_cd>
+		<station_g_cd>3600405</station_g_cd>
+		<station_name>西鉄香椎</station_name>
+		<lon>130.441429</lon>
+		<lat>33.659809</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>36004</line_cd>
+		<line_name>西鉄貝塚線</line_name>
+		<station_cd>3600405</station_cd>
+		<station_name>西鉄香椎</station_name>
+	</station_g>
+</ekidata>

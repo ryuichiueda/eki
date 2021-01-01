@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>99325</line_cd>
+		<line_name>小湊鉄道線</line_name>
+		<station_cd>9932513</station_cd>
+		<station_g_cd>9932513</station_g_cd>
+		<station_name>里見</station_name>
+		<lon>140.145505</lon>
+		<lat>35.336685</lat>
+	</station>
+</ekidata>

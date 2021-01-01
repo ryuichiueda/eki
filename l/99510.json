@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99510,"line_name":"東海交通事業城北線","line_lon":136.89666252116,"line_lat":35.229299962293,"line_zoom":13,"station_l":[{"station_cd":9951001,"station_g_cd":1150234,"station_name":"枇杷島","lon":136.861816,"lat":35.198681},{"station_cd":9951002,"station_g_cd":9951002,"station_name":"尾張星の宮","lon":136.855011,"lat":35.212988},{"station_cd":9951003,"station_g_cd":9951003,"station_name":"小田井","lon":136.880491,"lat":35.221043},{"station_cd":9951004,"station_g_cd":9951004,"station_name":"比良","lon":136.90178,"lat":35.228549},{"station_cd":9951005,"station_g_cd":9951005,"station_name":"味美","lon":136.932263,"lat":35.229504},{"station_cd":9951006,"station_g_cd":1141107,"station_name":"勝川","lon":136.952734,"lat":35.227821}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

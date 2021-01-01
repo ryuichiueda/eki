@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99316</line_cd>
+		<line_name>ブルーライン</line_name>
+		<station_cd>9931615</station_cd>
+		<station_g_cd>1130702</station_g_cd>
+		<station_name>桜木町</station_name>
+		<lon>139.630791</lon>
+		<lat>35.449667</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>24</pref_cd>
+		<line_cd>31027</line_cd>
+		<line_name>近鉄名古屋線</line_name>
+		<station_cd>3102714</station_cd>
+		<station_g_cd>3102714</station_g_cd>
+		<station_name>益生</station_name>
+		<lon>136.67854</lon>
+		<lat>35.057772</lat>
+	</station>
+</ekidata>

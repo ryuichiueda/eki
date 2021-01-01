@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":99211,"line_name":"フラワー長井線","station_cd":9921111,"station_g_cd":9921111,"station_name":"あやめ公園","lon":140.032749,"lat":38.113971}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

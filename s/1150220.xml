@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>11502</line_cd>
+		<line_name>JR東海道本線(浜松～岐阜)</line_name>
+		<station_cd>1150220</station_cd>
+		<station_g_cd>1150220</station_g_cd>
+		<station_name>西岡崎</station_name>
+		<lon>137.123187</lon>
+		<lat>34.946572</lat>
+	</station>
+</ekidata>

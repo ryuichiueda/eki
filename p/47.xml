@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+	<pref>
+		<code>47</code>
+		<name>沖縄県</name>
+	</pref>
+	<line>
+		<line_cd>99927</line_cd>
+		<line_name>ゆいレール</line_name>
+	</line>
+</ekidata>

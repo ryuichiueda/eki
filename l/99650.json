@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99650,"line_name":"紀州鉄道線","line_lon":135.15612553757,"line_lat":33.895428111877,"line_zoom":14,"station_l":[{"station_cd":9965001,"station_g_cd":1163938,"station_name":"御坊","lon":135.158752,"lat":33.907724},{"station_cd":9965002,"station_g_cd":9965002,"station_name":"学門","lon":135.156604,"lat":33.89627},{"station_cd":9965003,"station_g_cd":9965003,"station_name":"紀伊御坊","lon":135.154655,"lat":33.894292},{"station_cd":9965004,"station_g_cd":9965004,"station_name":"市役所前","lon":135.152905,"lat":33.889565},{"station_cd":9965005,"station_g_cd":9965005,"station_name":"西御坊","lon":135.152991,"lat":33.886796}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

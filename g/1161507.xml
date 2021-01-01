@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11615</line_cd>
+		<line_name>JR山陰本線(園部～豊岡)</line_name>
+		<station_cd>1161507</station_cd>
+		<station_g_cd>1161507</station_g_cd>
+		<station_name>和知</station_name>
+		<lon>135.399015</lon>
+		<lat>35.261101</lat>
+	</station>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>11615</line_cd>
+		<line_name>JR山陰本線(園部～豊岡)</line_name>
+		<station_cd>1161507</station_cd>
+		<station_name>和知</station_name>
+	</station_g>
+</ekidata>

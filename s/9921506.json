@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":7,"line_cd":99215,"line_name":"福島交通飯坂線","station_cd":9921506,"station_g_cd":9921506,"station_name":"上松川","lon":140.441011,"lat":37.783619}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

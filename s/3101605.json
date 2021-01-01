@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":29,"line_cd":31016,"line_name":"近鉄生駒線","station_cd":3101605,"station_g_cd":3101605,"station_name":"萩の台","lon":135.708967,"lat":34.656974}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

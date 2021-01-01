@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":22,"line_cd":99508,"line_name":"南アルプスあぷとライン","station_cd":9950814,"station_name":"井川"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

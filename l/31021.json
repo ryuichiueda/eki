@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":31021,"line_name":"近鉄信貴線","line_lon":135.63263404761,"line_lat":34.625062516621,"line_zoom":14,"station_l":[{"station_cd":3102101,"station_g_cd":3100510,"station_name":"河内山本","lon":135.619317,"lat":34.627892},{"station_cd":3102102,"station_g_cd":3102102,"station_name":"服部川","lon":135.641102,"lat":34.626481},{"station_cd":3102103,"station_g_cd":3102103,"station_name":"信貴山口","lon":135.642118,"lat":34.619967}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

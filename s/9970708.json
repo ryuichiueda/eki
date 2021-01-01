@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":33,"line_cd":99707,"line_name":"清輝橋線","station_cd":9970708,"station_g_cd":9970708,"station_name":"清輝橋","lon":133.925807,"lat":34.651691}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

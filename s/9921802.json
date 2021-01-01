@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":4,"line_cd":99218,"line_name":"仙台市営地下鉄東西線","station_cd":9921802,"station_g_cd":9921802,"station_name":"青葉山","lon":140.835222,"lat":38.254972}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

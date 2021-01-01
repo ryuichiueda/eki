@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>5</pref_cd>
+		<line_cd>99209</line_cd>
+		<line_name>秋田内陸線</line_name>
+		<station_cd>9920925</station_cd>
+		<station_g_cd>9920925</station_g_cd>
+		<station_name>羽後長戸呂</station_name>
+		<lon>140.565383</lon>
+		<lat>39.727689</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>11401</line_cd>
+		<line_name>八ヶ岳高原線</line_name>
+		<station_cd>1140108</station_cd>
+		<station_g_cd>1140108</station_g_cd>
+		<station_name>佐久海ノ口</station_name>
+		<lon>138.490807</lon>
+		<lat>36.021128</lat>
+	</station>
+</ekidata>

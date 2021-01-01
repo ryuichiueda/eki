@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99901</line_cd>
+		<line_name>甘木鉄道</line_name>
+		<station_cd>9990108</station_cd>
+		<station_g_cd>9990108</station_g_cd>
+		<station_name>山隈</station_name>
+		<lon>130.609964</lon>
+		<lat>33.414076</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>99901</line_cd>
+		<line_name>甘木鉄道</line_name>
+		<station_cd>9990108</station_cd>
+		<station_name>山隈</station_name>
+	</station_g>
+</ekidata>

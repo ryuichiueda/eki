@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":99714,"line_name":"広電６号線(江波線)","station_cd":9971415,"station_g_cd":9971415,"station_name":"舟入町","lon":132.444928,"lat":34.389222}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

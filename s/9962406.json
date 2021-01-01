@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99624,"line_name":"大阪メトロ長堀鶴見緑地線","station_cd":9962406,"station_g_cd":9962306,"station_name":"長堀橋","lon":135.506357,"lat":34.674645}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

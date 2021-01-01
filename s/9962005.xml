@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>99620</line_cd>
+		<line_name>大阪メトロ四つ橋線</line_name>
+		<station_cd>9962005</station_cd>
+		<station_g_cd>3100101</station_g_cd>
+		<station_name>なんば</station_name>
+		<lon>135.497539</lon>
+		<lat>34.666402</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":11313,"line_name":"JR中央・総武線","station_cd":1131315,"station_name":"市ケ谷"},{"pref_cd":13,"line_cd":28006,"line_name":"東京メトロ有楽町線","station_cd":2800614,"station_name":"市ケ谷"},{"pref_cd":13,"line_cd":28009,"line_name":"東京メトロ南北線","station_cd":2800911,"station_name":"市ケ谷"},{"pref_cd":13,"line_cd":99304,"line_name":"都営新宿線","station_cd":9930404,"station_name":"市ヶ谷"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

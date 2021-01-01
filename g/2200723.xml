@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>22007</line_cd>
+		<line_name>西武新宿線</line_name>
+		<station_cd>2200723</station_cd>
+		<station_g_cd>2200723</station_g_cd>
+		<station_name>航空公園</station_name>
+		<lon>139.465641</lon>
+		<lat>35.798272</lat>
+	</station>
+	<station_g>
+		<pref_cd>11</pref_cd>
+		<line_cd>22007</line_cd>
+		<line_name>西武新宿線</line_name>
+		<station_cd>2200723</station_cd>
+		<station_name>航空公園</station_name>
+	</station_g>
+</ekidata>

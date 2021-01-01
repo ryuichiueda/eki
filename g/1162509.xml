@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11625</line_cd>
+		<line_name>JR東西線</line_name>
+		<station_cd>1162509</station_cd>
+		<station_g_cd>1160303</station_g_cd>
+		<station_name>尼崎</station_name>
+		<lon>135.431685</lon>
+		<lat>34.731791</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11603</line_cd>
+		<line_name>JR神戸線(大阪～神戸)</line_name>
+		<station_cd>1160303</station_cd>
+		<station_name>尼崎</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11625</line_cd>
+		<line_name>JR東西線</line_name>
+		<station_cd>1162509</station_cd>
+		<station_name>尼崎</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11629</line_cd>
+		<line_name>JR宝塚線</line_name>
+		<station_cd>1162903</station_cd>
+		<station_name>尼崎</station_name>
+	</station_g>
+</ekidata>

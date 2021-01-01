@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":11306,"line_name":"JR横浜線","station_cd":1130620,"station_name":"八王子"},{"pref_cd":13,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131110,"station_name":"八王子"},{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131230,"station_name":"八王子"},{"pref_cd":13,"line_cd":11317,"line_name":"JR八高線(八王子～高麗川)","station_cd":1131701,"station_name":"八王子"},{"pref_cd":13,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132816,"station_name":"八王子"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

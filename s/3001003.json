@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30010,"line_name":"名鉄知多新線","station_cd":3001003,"station_g_cd":3001003,"station_name":"美浜緑苑","lon":136.863063,"lat":34.80028}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

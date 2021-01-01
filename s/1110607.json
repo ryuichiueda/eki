@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":11106,"line_name":"JR根室本線(滝川～新得)","station_cd":1110607,"station_g_cd":1110607,"station_name":"上芦別","lon":142.210855,"lat":43.48871}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>5</pref_cd>
+		<line_cd>11215</line_cd>
+		<line_name>JR男鹿線</line_name>
+		<station_cd>1121502</station_cd>
+		<station_g_cd>1121502</station_g_cd>
+		<station_name>出戸浜</station_name>
+		<lon>140.024374</lon>
+		<lat>39.844473</lat>
+	</station>
+</ekidata>

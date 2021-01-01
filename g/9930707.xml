@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99307</line_cd>
+		<line_name>埼玉高速鉄道線</line_name>
+		<station_cd>9930707</station_cd>
+		<station_g_cd>1130513</station_g_cd>
+		<station_name>東川口</station_name>
+		<lon>139.74398</lon>
+		<lat>35.876211</lat>
+	</station>
+	<station_g>
+		<pref_cd>11</pref_cd>
+		<line_cd>11305</line_cd>
+		<line_name>JR武蔵野線</line_name>
+		<station_cd>1130513</station_cd>
+		<station_name>東川口</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>11</pref_cd>
+		<line_cd>99307</line_cd>
+		<line_name>埼玉高速鉄道線</line_name>
+		<station_cd>9930707</station_cd>
+		<station_name>東川口</station_name>
+	</station_g>
+</ekidata>

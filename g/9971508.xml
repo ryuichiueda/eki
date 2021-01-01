@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99715</line_cd>
+		<line_name>広電７号線</line_name>
+		<station_cd>9971508</station_cd>
+		<station_g_cd>9971110</station_g_cd>
+		<station_name>紙屋町西</station_name>
+		<lon>132.456965</lon>
+		<lat>34.395455</lat>
+	</station>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99711</line_cd>
+		<line_name>広電２号線(宮島線)</line_name>
+		<station_cd>9971110</station_cd>
+		<station_name>紙屋町西</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99712</line_cd>
+		<line_name>広電３号線</line_name>
+		<station_cd>9971219</station_cd>
+		<station_name>紙屋町西</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99714</line_cd>
+		<line_name>広電６号線(江波線)</line_name>
+		<station_cd>9971410</station_cd>
+		<station_name>紙屋町西</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>34</pref_cd>
+		<line_cd>99715</line_cd>
+		<line_name>広電７号線</line_name>
+		<station_cd>9971508</station_cd>
+		<station_name>紙屋町西</station_name>
+	</station_g>
+</ekidata>

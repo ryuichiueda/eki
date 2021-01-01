@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>99332</line_cd>
+		<line_name>千葉都市モノレール２号線</line_name>
+		<station_cd>9933209</station_cd>
+		<station_g_cd>1131412</station_g_cd>
+		<station_name>都賀</station_name>
+		<lon>140.148736</lon>
+		<lat>35.635491</lat>
+	</station>
+</ekidata>

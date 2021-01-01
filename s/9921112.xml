@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>6</pref_cd>
+		<line_cd>99211</line_cd>
+		<line_name>フラワー長井線</line_name>
+		<station_cd>9921112</station_cd>
+		<station_g_cd>9921112</station_g_cd>
+		<station_name>羽前成田</station_name>
+		<lon>140.034987</lon>
+		<lat>38.131038</lat>
+	</station>
+</ekidata>

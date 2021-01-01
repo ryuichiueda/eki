@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99334</line_cd>
+		<line_name>多摩モノレール</line_name>
+		<station_cd>9933417</station_cd>
+		<station_g_cd>2200805</station_g_cd>
+		<station_name>玉川上水</station_name>
+		<lon>139.417866</lon>
+		<lat>35.73223</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>22008</line_cd>
+		<line_name>西武拝島線</line_name>
+		<station_cd>2200805</station_cd>
+		<station_name>玉川上水</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99334</line_cd>
+		<line_name>多摩モノレール</line_name>
+		<station_cd>9933417</station_cd>
+		<station_name>玉川上水</station_name>
+	</station_g>
+</ekidata>

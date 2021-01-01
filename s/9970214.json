@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":32,"line_cd":99702,"line_name":"北松江線","station_cd":9970214,"station_g_cd":9970214,"station_name":"伊野灘","lon":132.900862,"lat":35.461308}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

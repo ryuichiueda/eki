@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99419</line_cd>
+		<line_name>えちぜん鉄道勝山永平寺線</line_name>
+		<station_cd>9941908</station_cd>
+		<station_g_cd>9941908</station_g_cd>
+		<station_name>越前島橋</station_name>
+		<lon>136.277123</lon>
+		<lat>36.089967</lat>
+	</station>
+	<station_g>
+		<pref_cd>18</pref_cd>
+		<line_cd>99419</line_cd>
+		<line_name>えちぜん鉄道勝山永平寺線</line_name>
+		<station_cd>9941908</station_cd>
+		<station_name>越前島橋</station_name>
+	</station_g>
+</ekidata>

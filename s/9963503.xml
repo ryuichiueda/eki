@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>99635</line_cd>
+		<line_name>粟生線</line_name>
+		<station_cd>9963503</station_cd>
+		<station_g_cd>9963503</station_g_cd>
+		<station_name>西鈴蘭台</station_name>
+		<lon>135.135013</lon>
+		<lat>34.725836</lat>
+	</station>
+</ekidata>

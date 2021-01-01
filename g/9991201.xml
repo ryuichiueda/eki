@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99912</line_cd>
+		<line_name>島原鉄道線</line_name>
+		<station_cd>9991201</station_cd>
+		<station_g_cd>1190527</station_g_cd>
+		<station_name>諫早</station_name>
+		<lon>130.041596</lon>
+		<lat>32.851018</lat>
+	</station>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>11905</line_cd>
+		<line_name>JR長崎本線(鳥栖～長崎)</line_name>
+		<station_cd>1190527</station_cd>
+		<station_name>諫早</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>11922</line_cd>
+		<line_name>JR大村線</line_name>
+		<station_cd>1192213</station_cd>
+		<station_name>諫早</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99912</line_cd>
+		<line_name>島原鉄道線</line_name>
+		<station_cd>9991201</station_cd>
+		<station_name>諫早</station_name>
+	</station_g>
+</ekidata>

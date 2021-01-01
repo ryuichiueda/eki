@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99913</line_cd>
+		<line_name>長崎電軌１系統</line_name>
+		<station_cd>9991323</station_cd>
+		<station_g_cd>9991323</station_g_cd>
+		<station_name>西浜町</station_name>
+		<lon>129.876015</lon>
+		<lat>32.743735</lat>
+	</station>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99913</line_cd>
+		<line_name>長崎電軌１系統</line_name>
+		<station_cd>9991323</station_cd>
+		<station_name>西浜町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>99916</line_cd>
+		<line_name>長崎電軌５系統</line_name>
+		<station_cd>9991607</station_cd>
+		<station_name>西浜町</station_name>
+	</station_g>
+</ekidata>

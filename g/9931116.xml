@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99311</line_cd>
+		<line_name>ゆりかもめ</line_name>
+		<station_cd>9931116</station_cd>
+		<station_g_cd>2800622</station_g_cd>
+		<station_name>豊洲</station_name>
+		<lon>139.795414</lon>
+		<lat>35.653792</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28006</line_cd>
+		<line_name>東京メトロ有楽町線</line_name>
+		<station_cd>2800622</station_cd>
+		<station_name>豊洲</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99311</line_cd>
+		<line_name>ゆりかもめ</line_name>
+		<station_cd>9931116</station_cd>
+		<station_name>豊洲</station_name>
+	</station_g>
+</ekidata>

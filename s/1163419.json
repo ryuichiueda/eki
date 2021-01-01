@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":33,"line_cd":11634,"line_name":"JR姫新線(佐用～新見)","station_cd":1163419,"station_g_cd":1163419,"station_name":"中国勝山","lon":133.694735,"lat":35.080556}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

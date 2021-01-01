@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>11923</line_cd>
+		<line_name>阿蘇高原線</line_name>
+		<station_cd>1192312</station_cd>
+		<station_g_cd>1192312</station_g_cd>
+		<station_name>肥後大津</station_name>
+		<lon>130.866218</lon>
+		<lat>32.877512</lat>
+	</station>
+</ekidata>

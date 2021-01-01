@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>11412</line_cd>
+		<line_name>JR篠ノ井線</line_name>
+		<station_cd>1141212</station_cd>
+		<station_g_cd>1141212</station_g_cd>
+		<station_name>姨捨</station_name>
+		<lon>138.093388</lon>
+		<lat>36.502649</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":23,"line_cd":30018,"line_name":"名鉄小牧線","station_cd":3001801,"station_name":"上飯田"},{"pref_cd":23,"line_cd":99518,"line_name":"名古屋市営地下鉄上飯田線","station_cd":9951802,"station_name":"上飯田"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

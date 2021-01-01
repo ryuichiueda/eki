@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>22001</line_cd>
+		<line_name>西武池袋線</line_name>
+		<station_cd>2200119</station_cd>
+		<station_g_cd>2200119</station_g_cd>
+		<station_name>狭山ヶ丘</station_name>
+		<lon>139.416975</lon>
+		<lat>35.810445</lat>
+	</station>
+</ekidata>

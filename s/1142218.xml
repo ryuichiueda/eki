@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>18</pref_cd>
+		<line_cd>11422</line_cd>
+		<line_name>JR小浜線</line_name>
+		<station_cd>1142218</station_cd>
+		<station_g_cd>1142218</station_g_cd>
+		<station_name>三方</station_name>
+		<lon>135.909259</lon>
+		<lat>35.555282</lat>
+	</station>
+</ekidata>

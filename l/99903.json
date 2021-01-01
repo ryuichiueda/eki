@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99903,"line_name":"糸田線","line_lon":130.78873194182,"line_lat":33.659068805649,"line_zoom":13,"station_l":[{"station_cd":9990301,"station_g_cd":9990210,"station_name":"金田","lon":130.776491,"lat":33.682805},{"station_cd":9990302,"station_g_cd":9990302,"station_name":"豊前大熊","lon":130.780387,"lat":33.672646},{"station_cd":9990303,"station_g_cd":9990303,"station_name":"松山","lon":130.780537,"lat":33.668496},{"station_cd":9990304,"station_g_cd":9990304,"station_name":"糸田","lon":130.785773,"lat":33.656481},{"station_cd":9990305,"station_g_cd":9990305,"station_name":"大藪","lon":130.797642,"lat":33.64712},{"station_cd":9990306,"station_g_cd":1191414,"station_name":"田川後藤寺","lon":130.800232,"lat":33.630294}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

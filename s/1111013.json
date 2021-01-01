@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":11110,"line_name":"JR石勝線","station_cd":1111013,"station_g_cd":1111013,"station_name":"占冠","lon":142.400078,"lat":42.993088}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

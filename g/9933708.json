@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":11302,"line_name":"JR山手線","station_cd":1130201,"station_name":"大崎"},{"pref_cd":13,"line_cd":11321,"line_name":"JR埼京線","station_cd":1132101,"station_name":"大崎"},{"pref_cd":13,"line_cd":11333,"line_name":"JR湘南新宿ライン","station_cd":1133307,"station_name":"大崎"},{"pref_cd":13,"line_cd":99337,"line_name":"りんかい線","station_cd":9933708,"station_name":"大崎"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

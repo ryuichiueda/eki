@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>36001</line_cd>
+		<line_name>西鉄天神大牟田線</line_name>
+		<station_cd>3600114</station_cd>
+		<station_g_cd>3600114</station_g_cd>
+		<station_name>桜台</station_name>
+		<lon>130.542465</lon>
+		<lat>33.471636</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>29003</line_cd>
+		<line_name>相鉄・JR直通線</line_name>
+		<line_lon>139.49649288818</line_lon>
+		<line_lat>35.431541345898</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>2900301</station_cd>
+		<station_g_cd>2900301</station_g_cd>
+		<station_name>羽沢横浜国大</station_name>
+		<lon>139.586389</lon>
+		<lat>35.481389</lat>
+	</station>
+	<station>
+		<station_cd>2900302</station_cd>
+		<station_g_cd>2900108</station_g_cd>
+		<station_name>西谷</station_name>
+		<lon>139.565721</lon>
+		<lat>35.478092</lat>
+	</station>
+</ekidata>

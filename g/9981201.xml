@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99812</line_cd>
+		<line_name>伊予鉄道本町線</line_name>
+		<station_cd>9981201</station_cd>
+		<station_g_cd>9980809</station_g_cd>
+		<station_name>本町六丁目</station_name>
+		<lon>132.758473</lon>
+		<lat>33.853472</lat>
+	</station>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99808</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980809</station_cd>
+		<station_name>本町六丁目</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99809</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980915</station_cd>
+		<station_name>本町六丁目</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99812</line_cd>
+		<line_name>伊予鉄道本町線</line_name>
+		<station_cd>9981201</station_cd>
+		<station_name>本町六丁目</station_name>
+	</station_g>
+</ekidata>

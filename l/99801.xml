@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99801</line_cd>
+		<line_name>阿波室戸シーサイドライン</line_name>
+		<line_lon>134.31125740739</line_lon>
+		<line_lat>33.573504169616</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>9980101</station_cd>
+		<station_g_cd>1180430</station_g_cd>
+		<station_name>海部</station_name>
+		<lon>134.351999</lon>
+		<lat>33.593453</lat>
+	</station>
+	<station>
+		<station_cd>9980102</station_cd>
+		<station_g_cd>9980102</station_g_cd>
+		<station_name>宍喰</station_name>
+		<lon>134.300741</lon>
+		<lat>33.566949</lat>
+	</station>
+	<station>
+		<station_cd>9980103</station_cd>
+		<station_g_cd>9980103</station_g_cd>
+		<station_name>甲浦</station_name>
+		<lon>134.288242</lon>
+		<lat>33.547238</lat>
+	</station>
+</ekidata>

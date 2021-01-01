@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>42</pref_cd>
+		<line_cd>11905</line_cd>
+		<line_name>JR長崎本線(鳥栖～長崎)</line_name>
+		<station_cd>1190528</station_cd>
+		<station_g_cd>1190528</station_g_cd>
+		<station_name>西諫早</station_name>
+		<lon>130.021269</lon>
+		<lat>32.839632</lat>
+	</station>
+</ekidata>

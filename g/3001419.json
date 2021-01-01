@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":23,"line_cd":11502,"line_name":"JR東海道本線(浜松～岐阜)","station_cd":1150237,"station_name":"尾張一宮"},{"pref_cd":23,"line_cd":30001,"line_name":"名鉄名古屋本線","station_cd":3000150,"station_name":"名鉄一宮"},{"pref_cd":23,"line_cd":30014,"line_name":"名鉄尾西線","station_cd":3001419,"station_name":"名鉄一宮"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

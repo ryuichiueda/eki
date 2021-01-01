@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":25,"line_cd":11503,"line_name":"JR東海道本線(岐阜～美濃赤坂・米原)","station_cd":1150310,"station_g_cd":1150310,"station_name":"近江長岡","lon":136.373775,"lat":35.359307}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

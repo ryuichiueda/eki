@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>1162401</station_cd1>
+		<station_cd2>1162402</station_cd2>
+		<station_name1>西九条</station_name1>
+		<station_name2>安治川口</station_name2>
+		<lat1>34.68269</lat1>
+		<lon1>135.466779</lon1>
+		<lat2>34.673416</lat2>
+		<lon2>135.443921</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1162402</station_cd1>
+		<station_cd2>1162403</station_cd2>
+		<station_name1>安治川口</station_name1>
+		<station_name2>ユニバーサルシティ</station_name2>
+		<lat1>34.673416</lat1>
+		<lon1>135.443921</lon1>
+		<lat2>34.667842</lat2>
+		<lon2>135.438705</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1162403</station_cd1>
+		<station_cd2>1162404</station_cd2>
+		<station_name1>ユニバーサルシティ</station_name1>
+		<station_name2>桜島</station_name2>
+		<lat1>34.667842</lat1>
+		<lon1>135.438705</lon1>
+		<lat2>34.662065</lat2>
+		<lon2>135.432136</lon2>
+	</station_join>
+</ekidata>

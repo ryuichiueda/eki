@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>10</pref_cd>
+		<line_cd>21011</line_cd>
+		<line_name>東武桐生線</line_name>
+		<station_cd>2101102</station_cd>
+		<station_g_cd>2101102</station_g_cd>
+		<station_name>三枚橋</station_name>
+		<lon>139.354938</lon>
+		<lat>36.313369</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>99509</line_cd>
+		<line_name>あおなみ線</line_name>
+		<station_cd>9950911</station_cd>
+		<station_g_cd>9950911</station_g_cd>
+		<station_name>金城ふ頭</station_name>
+		<lon>136.849009</lon>
+		<lat>35.048775</lat>
+	</station>
+</ekidata>

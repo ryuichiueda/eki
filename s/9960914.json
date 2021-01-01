@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":99609,"line_name":"宮豊線","station_cd":9960914,"station_g_cd":9960914,"station_name":"夕日ヶ浦木津温泉","lon":134.972332,"lat":35.650061}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99526</line_cd>
+		<line_name>樽見鉄道樽見線</line_name>
+		<station_cd>9952612</station_cd>
+		<station_g_cd>9952612</station_g_cd>
+		<station_name>谷汲口</station_name>
+		<lon>136.642187</lon>
+		<lat>35.527552</lat>
+	</station>
+	<station_g>
+		<pref_cd>21</pref_cd>
+		<line_cd>99526</line_cd>
+		<line_name>樽見鉄道樽見線</line_name>
+		<station_cd>9952612</station_cd>
+		<station_name>谷汲口</station_name>
+	</station_g>
+</ekidata>

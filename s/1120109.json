@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":2,"line_cd":99206,"line_name":"青い森鉄道線","station_cd":1120109,"station_g_cd":1120109,"station_name":"千曳","lon":141.152876,"lat":40.804662}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

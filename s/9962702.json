@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99627,"line_name":"大阪モノレール彩都線","station_cd":9962702,"station_g_cd":9962702,"station_name":"公園東口","lon":135.539235,"lat":34.810427}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

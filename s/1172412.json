@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":35,"line_cd":11724,"line_name":"JR岩徳線","station_cd":1172412,"station_g_cd":1172412,"station_name":"周防久保","lon":131.919248,"lat":34.029211}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

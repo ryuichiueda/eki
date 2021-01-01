@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>35</pref_cd>
+		<line_cd>11612</line_cd>
+		<line_name>JR山陽本線(岩国～門司)</line_name>
+		<station_cd>1161225</station_cd>
+		<station_g_cd>1161225</station_g_cd>
+		<station_name>嘉川</station_name>
+		<lon>131.370068</lon>
+		<lat>34.066211</lat>
+	</station>
+</ekidata>

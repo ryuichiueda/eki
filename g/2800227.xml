@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28002</line_cd>
+		<line_name>東京メトロ丸ノ内線</line_name>
+		<station_cd>2800227</station_cd>
+		<station_g_cd>2800227</station_g_cd>
+		<station_name>中野富士見町</station_name>
+		<lon>139.666933</lon>
+		<lat>35.690514</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28002</line_cd>
+		<line_name>東京メトロ丸ノ内線</line_name>
+		<station_cd>2800227</station_cd>
+		<station_name>中野富士見町</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>26</pref_cd>
+		<line_cd>11615</line_cd>
+		<line_name>JR山陰本線(園部～豊岡)</line_name>
+		<station_cd>1161513</station_cd>
+		<station_g_cd>1161513</station_g_cd>
+		<station_name>石原</station_name>
+		<lon>135.180241</lon>
+		<lat>35.300904</lat>
+	</station>
+</ekidata>

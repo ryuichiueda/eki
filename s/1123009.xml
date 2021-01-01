@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>7</pref_cd>
+		<line_cd>11230</line_cd>
+		<line_name>JR常磐線(いわき～仙台)</line_name>
+		<station_cd>1123009</station_cd>
+		<station_g_cd>1123009</station_g_cd>
+		<station_name>富岡</station_name>
+		<lon>141.02276</lon>
+		<lat>37.33396</lat>
+	</station>
+</ekidata>

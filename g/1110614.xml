@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11106</line_cd>
+		<line_name>JR根室本線(滝川～新得)</line_name>
+		<station_cd>1110614</station_cd>
+		<station_g_cd>1110614</station_g_cd>
+		<station_name>金山</station_name>
+		<lon>142.416201</lon>
+		<lat>43.136115</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11106</line_cd>
+		<line_name>JR根室本線(滝川～新得)</line_name>
+		<station_cd>1110614</station_cd>
+		<station_name>金山</station_name>
+	</station_g>
+</ekidata>

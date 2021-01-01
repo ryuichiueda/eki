@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>6</pref_cd>
+		<line_cd>99211</line_cd>
+		<line_name>フラワー長井線</line_name>
+		<station_cd>9921116</station_cd>
+		<station_g_cd>9921116</station_g_cd>
+		<station_name>荒砥</station_name>
+		<lon>140.097401</lon>
+		<lat>38.188</lat>
+	</station>
+</ekidata>

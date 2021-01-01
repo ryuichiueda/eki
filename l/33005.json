@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":33005,"line_name":"石清水八幡宮参道ケーブル","line_lon":135.69970633862,"line_lat":34.883348860759,"line_zoom":16,"station_l":[{"station_cd":3300501,"station_g_cd":3300115,"station_name":"ケーブル八幡宮口","lon":135.6995372,"lat":34.88453597},{"station_cd":3300502,"station_g_cd":3300502,"station_name":"ケーブル八幡宮山上","lon":135.699796,"lat":34.881061}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>10</pref_cd>
+		<line_cd>11318</line_cd>
+		<line_name>JR八高線(高麗川～高崎)</line_name>
+		<station_cd>1131813</station_cd>
+		<station_g_cd>1131813</station_g_cd>
+		<station_name>群馬藤岡</station_name>
+		<lon>139.08338</lon>
+		<lat>36.250336</lat>
+	</station>
+</ekidata>

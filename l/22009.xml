@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>22009</line_cd>
+		<line_name>西武西武園線</line_name>
+		<line_lon>139.4573715</line_lon>
+		<line_lat>35.764150582754</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>2200901</station_cd>
+		<station_g_cd>2200721</station_g_cd>
+		<station_name>東村山</station_name>
+		<lon>139.465839</lon>
+		<lat>35.76006</lat>
+	</station>
+	<station>
+		<station_cd>2200902</station_cd>
+		<station_g_cd>2200902</station_g_cd>
+		<station_name>西武園</station_name>
+		<lon>139.448904</lon>
+		<lat>35.767684</lat>
+	</station>
+</ekidata>

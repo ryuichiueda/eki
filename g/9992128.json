@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":46,"line_cd":11904,"line_name":"JR鹿児島本線(川内～鹿児島)","station_cd":1190401,"station_name":"川内"},{"pref_cd":46,"line_cd":99921,"line_name":"肥薩おれんじ鉄道線","station_cd":9992128,"station_name":"川内"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

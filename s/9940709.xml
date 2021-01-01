@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>20</pref_cd>
+		<line_cd>99407</line_cd>
+		<line_name>上高地線</line_name>
+		<station_cd>9940709</station_cd>
+		<station_g_cd>9940709</station_g_cd>
+		<station_name>三溝</station_name>
+		<lon>137.891469</lon>
+		<lat>36.212863</lat>
+	</station>
+</ekidata>

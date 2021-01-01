@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":9,"line_cd":21009,"line_name":"東武鬼怒川線","station_cd":2100905,"station_g_cd":2100905,"station_name":"小佐越","lon":139.706465,"lat":36.802252}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

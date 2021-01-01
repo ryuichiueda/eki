@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":99905,"line_name":"福岡市営地下鉄空港線","station_cd":9990508,"station_g_cd":9990508,"station_name":"大濠公園","lon":130.378784,"lat":33.589957}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

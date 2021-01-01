@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":7,"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)","station_cd":1123002,"station_g_cd":1123002,"station_name":"草野","lon":140.947243,"lat":37.073863}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

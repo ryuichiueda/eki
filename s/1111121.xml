@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11111</line_cd>
+		<line_name>JR日高本線</line_name>
+		<station_cd>1111121</station_cd>
+		<station_g_cd>1111121</station_g_cd>
+		<station_name>蓬栄</station_name>
+		<lon>142.604517</lon>
+		<lat>42.264636</lat>
+	</station>
+</ekidata>

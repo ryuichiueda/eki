@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>26</pref_cd>
+		<line_cd>99653</line_cd>
+		<line_name>宮舞線</line_name>
+		<station_cd>9960904</station_cd>
+		<station_g_cd>9960904</station_g_cd>
+		<station_name>丹後神崎</station_name>
+		<lon>135.293628</lon>
+		<lat>35.506463</lat>
+	</station>
+</ekidata>

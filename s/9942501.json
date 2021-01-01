@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":17,"line_cd":99425,"line_name":"あいの風とやま鉄道線","station_cd":9942501,"station_g_cd":1141547,"station_name":"倶利伽羅","lon":136.791605,"lat":36.672489}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

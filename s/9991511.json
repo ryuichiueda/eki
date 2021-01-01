@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":42,"line_cd":99915,"line_name":"長崎電軌４系統","station_cd":9991511,"station_g_cd":9991511,"station_name":"浜町アーケード","lon":129.8768124,"lat":32.74476168}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99630,"line_name":"神戸高速東西線","station_cd":9963003,"station_g_cd":1160314,"station_name":"元町","lon":135.18725,"lat":34.689836}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

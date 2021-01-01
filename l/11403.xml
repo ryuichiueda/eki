@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11403</line_cd>
+		<line_name>JR信越本線(篠ノ井～長野)</line_name>
+		<line_lon>138.15981626976</line_lon>
+		<line_lat>36.608595973876</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>1140301</station_cd>
+		<station_g_cd>1140301</station_g_cd>
+		<station_name>篠ノ井</station_name>
+		<lon>138.138046</lon>
+		<lat>36.5771</lat>
+	</station>
+	<station>
+		<station_cd>1140302</station_cd>
+		<station_g_cd>1140302</station_g_cd>
+		<station_name>今井</station_name>
+		<lon>138.145347</lon>
+		<lat>36.595732</lat>
+	</station>
+	<station>
+		<station_cd>1140303</station_cd>
+		<station_g_cd>1140303</station_g_cd>
+		<station_name>川中島</station_name>
+		<lon>138.150679</lon>
+		<lat>36.614167</lat>
+	</station>
+	<station>
+		<station_cd>1140304</station_cd>
+		<station_g_cd>1140304</station_g_cd>
+		<station_name>安茂里</station_name>
+		<lon>138.161791</lon>
+		<lat>36.630262</lat>
+	</station>
+	<station>
+		<station_cd>1140305</station_cd>
+		<station_g_cd>1140305</station_g_cd>
+		<station_name>長野</station_name>
+		<lon>138.189101</lon>
+		<lat>36.643307</lat>
+	</station>
+</ekidata>

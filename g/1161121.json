@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":34,"line_cd":11611,"line_name":"JR山陽本線(三原～岩国)","station_cd":1161121,"station_name":"宮内串戸"},{"pref_cd":34,"line_cd":99711,"line_name":"広電２号線(宮島線)","station_cd":9971135,"station_name":"宮内"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

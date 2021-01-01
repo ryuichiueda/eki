@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11214</line_cd>
+		<line_name>JR羽越本線</line_name>
+		<station_cd>1121457</station_cd>
+		<station_g_cd>1121457</station_g_cd>
+		<station_name>桂根</station_name>
+		<lon>140.066482</lon>
+		<lat>39.647566</lat>
+	</station>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11214</line_cd>
+		<line_name>JR羽越本線</line_name>
+		<station_cd>1121457</station_cd>
+		<station_name>桂根</station_name>
+	</station_g>
+</ekidata>

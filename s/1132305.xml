@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>11323</line_cd>
+		<line_name>JR高崎線</line_name>
+		<station_cd>1132305</station_cd>
+		<station_g_cd>1131905</station_g_cd>
+		<station_name>さいたま新都心</station_name>
+		<lon>139.633587</lon>
+		<lat>35.893867</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>34005</line_cd>
+		<line_name>阪急甲陽線</line_name>
+		<line_lon>135.32876150793</line_lon>
+		<line_lat>34.752838687946</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3400501</station_cd>
+		<station_g_cd>3400109</station_g_cd>
+		<station_name>夙川</station_name>
+		<lon>135.328207</lon>
+		<lat>34.742246</lat>
+	</station>
+	<station>
+		<station_cd>3400502</station_cd>
+		<station_g_cd>3400502</station_g_cd>
+		<station_name>苦楽園口</station_name>
+		<lon>135.328885</lon>
+		<lat>34.750062</lat>
+	</station>
+	<station>
+		<station_cd>3400503</station_cd>
+		<station_g_cd>3400503</station_g_cd>
+		<station_name>甲陽園</station_name>
+		<lon>135.329965</lon>
+		<lat>34.760919</lat>
+	</station>
+</ekidata>

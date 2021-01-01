@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":11626,"line_name":"阪和線(天王寺～和歌山)","station_cd":1162612,"station_g_cd":1162612,"station_name":"上野芝","lon":135.478026,"lat":34.549484}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

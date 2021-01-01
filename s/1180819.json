@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":38,"line_cd":11808,"line_name":"しまんとグリーンライン","station_cd":1180819,"station_g_cd":1180819,"station_name":"伊予宮野下","lon":132.605849,"lat":33.289023}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

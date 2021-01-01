@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>34004</line_cd>
+		<line_name>阪急今津線</line_name>
+		<station_cd>3400410</station_cd>
+		<station_g_cd>1162910</station_g_cd>
+		<station_name>宝塚</station_name>
+		<lon>135.341054</lon>
+		<lat>34.810469</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11629</line_cd>
+		<line_name>JR宝塚線</line_name>
+		<station_cd>1162910</station_cd>
+		<station_name>宝塚</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>34002</line_cd>
+		<line_name>阪急宝塚本線</line_name>
+		<station_cd>3400219</station_cd>
+		<station_name>宝塚</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>34004</line_cd>
+		<line_name>阪急今津線</line_name>
+		<station_cd>3400410</station_cd>
+		<station_name>宝塚</station_name>
+	</station_g>
+</ekidata>

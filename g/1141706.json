@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":16,"line_cd":11417,"line_name":"JR城端線","station_cd":1141706,"station_name":"砺波"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

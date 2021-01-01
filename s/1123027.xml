@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>11230</line_cd>
+		<line_name>JR常磐線(いわき～仙台)</line_name>
+		<station_cd>1123027</station_cd>
+		<station_g_cd>1123027</station_g_cd>
+		<station_name>逢隈</station_name>
+		<lon>140.854669</lon>
+		<lat>38.067584</lat>
+	</station>
+</ekidata>

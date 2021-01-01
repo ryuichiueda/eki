@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>6</pref_cd>
+		<line_cd>11217</line_cd>
+		<line_name>JR仙山線</line_name>
+		<station_cd>1121715</station_cd>
+		<station_g_cd>1121715</station_g_cd>
+		<station_name>面白山高原</station_name>
+		<lon>140.49712</lon>
+		<lat>38.333071</lat>
+	</station>
+</ekidata>

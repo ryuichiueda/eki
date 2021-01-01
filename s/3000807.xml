@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30008</line_cd>
+		<line_name>名鉄常滑線</line_name>
+		<station_cd>3000807</station_cd>
+		<station_g_cd>3000807</station_g_cd>
+		<station_name>大江</station_name>
+		<lon>136.912758</lon>
+		<lat>35.093258</lat>
+	</station>
+</ekidata>

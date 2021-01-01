@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>99634</line_cd>
+		<line_name>公園都市線</line_name>
+		<station_cd>9963406</station_cd>
+		<station_g_cd>9963406</station_g_cd>
+		<station_name>ウッディタウン中央</station_name>
+		<lon>135.183707</lon>
+		<lat>34.909767</lat>
+	</station>
+</ekidata>

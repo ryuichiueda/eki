@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>36002</line_cd>
+		<line_name>西鉄太宰府線</line_name>
+		<line_lon>130.52547098942</line_lon>
+		<line_lat>33.510780666667</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3600201</station_cd>
+		<station_g_cd>3600112</station_g_cd>
+		<station_name>西鉄二日市</station_name>
+		<lon>130.517871</lon>
+		<lat>33.502192</lat>
+	</station>
+	<station>
+		<station_cd>3600202</station_cd>
+		<station_g_cd>3600202</station_g_cd>
+		<station_name>西鉄五条</station_name>
+		<lon>130.526106</lon>
+		<lat>33.51111</lat>
+	</station>
+	<station>
+		<station_cd>3600203</station_cd>
+		<station_g_cd>3600203</station_g_cd>
+		<station_name>太宰府</station_name>
+		<lon>130.531406</lon>
+		<lat>33.51904</lat>
+	</station>
+</ekidata>

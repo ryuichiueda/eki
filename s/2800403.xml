@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>28004</line_cd>
+		<line_name>東京メトロ東西線</line_name>
+		<station_cd>2800403</station_cd>
+		<station_g_cd>1130210</station_g_cd>
+		<station_name>高田馬場</station_name>
+		<lon>139.704745</lon>
+		<lat>35.713338</lat>
+	</station>
+</ekidata>

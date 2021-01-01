@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>99214</line_cd>
+		<line_name>仙台市営地下鉄南北線</line_name>
+		<station_cd>9921412</station_cd>
+		<station_g_cd>9921412</station_g_cd>
+		<station_name>愛宕橋</station_name>
+		<lon>140.882036</lon>
+		<lat>38.24729</lat>
+	</station>
+</ekidata>

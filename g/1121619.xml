@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+		<station_cd>1121619</station_cd>
+		<station_g_cd>1121619</station_g_cd>
+		<station_name>北山形</station_name>
+		<lon>140.332658</lon>
+		<lat>38.265902</lat>
+	</station>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+		<station_cd>1121619</station_cd>
+		<station_name>北山形</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11217</line_cd>
+		<line_name>JR仙山線</line_name>
+		<station_cd>1121720</station_cd>
+		<station_name>北山形</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11218</line_cd>
+		<line_name>フルーツライン左沢線</line_name>
+		<station_cd>1121802</station_cd>
+		<station_name>北山形</station_name>
+	</station_g>
+</ekidata>

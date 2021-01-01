@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":22012,"line_name":"西武多摩川線","line_lon":139.51353168782,"line_lat":35.677028280788,"line_zoom":13,"station_l":[{"station_cd":2201201,"station_g_cd":1131221,"station_name":"武蔵境","lon":139.543402,"lat":35.702083},{"station_cd":2201202,"station_g_cd":2201202,"station_name":"新小金井","lon":139.526603,"lat":35.695908},{"station_cd":2201203,"station_g_cd":2201203,"station_name":"多磨","lon":139.51713,"lat":35.676821},{"station_cd":2201204,"station_g_cd":2201204,"station_name":"白糸台","lon":139.509862,"lat":35.666517},{"station_cd":2201205,"station_g_cd":2201205,"station_name":"競艇場前","lon":139.499721,"lat":35.656232},{"station_cd":2201206,"station_g_cd":2201206,"station_name":"是政","lon":139.488592,"lat":35.656242}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

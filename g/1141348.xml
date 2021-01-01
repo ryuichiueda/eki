@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11413</line_cd>
+		<line_name>JR飯田線(豊橋～天竜峡)</line_name>
+		<station_cd>1141348</station_cd>
+		<station_g_cd>1141348</station_g_cd>
+		<station_name>唐笠</station_name>
+		<lon>137.810254</lon>
+		<lat>35.402338</lat>
+	</station>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11413</line_cd>
+		<line_name>JR飯田線(豊橋～天竜峡)</line_name>
+		<station_cd>1141348</station_cd>
+		<station_name>唐笠</station_name>
+	</station_g>
+</ekidata>

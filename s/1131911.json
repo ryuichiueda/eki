@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":11,"line_cd":11319,"line_name":"宇都宮線","station_cd":1131911,"station_g_cd":1131911,"station_name":"新白岡","lon":139.67208,"lat":36.038732}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

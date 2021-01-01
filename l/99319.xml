@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99319</line_cd>
+		<line_name>関東鉄道竜ヶ崎線</line_name>
+		<line_lon>140.15730669312</line_lon>
+		<line_lat>35.918931647193</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>9931901</station_cd>
+		<station_g_cd>1122903</station_g_cd>
+		<station_name>佐貫</station_name>
+		<lon>140.138292</lon>
+		<lat>35.929636</lat>
+	</station>
+	<station>
+		<station_cd>9931902</station_cd>
+		<station_g_cd>9931902</station_g_cd>
+		<station_name>入地</station_name>
+		<lon>140.157266</lon>
+		<lat>35.91899</lat>
+	</station>
+	<station>
+		<station_cd>9931903</station_cd>
+		<station_g_cd>9931903</station_g_cd>
+		<station_name>竜ヶ崎</station_name>
+		<lon>140.178937</lon>
+		<lat>35.908586</lat>
+	</station>
+</ekidata>

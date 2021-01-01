@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>23001</line_cd>
+		<line_name>京成本線</line_name>
+		<station_cd>2300109</station_cd>
+		<station_g_cd>2300109</station_g_cd>
+		<station_name>青砥</station_name>
+		<lon>139.856292</lon>
+		<lat>35.745883</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23001</line_cd>
+		<line_name>京成本線</line_name>
+		<station_cd>2300109</station_cd>
+		<station_name>青砥</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23002</line_cd>
+		<line_name>京成押上線</line_name>
+		<station_cd>2300206</station_cd>
+		<station_name>青砥</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23006</line_cd>
+		<line_name>成田スカイアクセス</line_name>
+		<station_cd>2300603</station_cd>
+		<station_name>青砥</station_name>
+	</station_g>
+</ekidata>

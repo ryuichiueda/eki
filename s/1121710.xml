@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>11217</line_cd>
+		<line_name>JR仙山線</line_name>
+		<station_cd>1121710</station_cd>
+		<station_g_cd>1121710</station_g_cd>
+		<station_name>熊ケ根</station_name>
+		<lon>140.680633</lon>
+		<lat>38.297947</lat>
+	</station>
+</ekidata>

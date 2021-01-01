@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":31024,"line_name":"西信貴ケーブル","line_lon":135.647956,"line_lat":34.617670628245,"line_zoom":15,"station_l":[{"station_cd":3102401,"station_g_cd":3102103,"station_name":"信貴山口","lon":135.642118,"lat":34.619967},{"station_cd":3102402,"station_g_cd":3102402,"station_name":"高安山","lon":135.653794,"lat":34.613679}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

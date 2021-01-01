@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":11101,"line_name":"JR函館本線(函館～長万部)","station_cd":1110121,"station_g_cd":1110121,"station_name":"尾白内","lon":140.613449,"lat":42.111232}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

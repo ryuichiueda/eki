@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>11224</line_cd>
+		<line_name>JR気仙沼線</line_name>
+		<station_cd>1122404</station_cd>
+		<station_g_cd>1122404</station_g_cd>
+		<station_name>陸前豊里</station_name>
+		<lon>141.244674</lon>
+		<lat>38.582481</lat>
+	</station>
+</ekidata>

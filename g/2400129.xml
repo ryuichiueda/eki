@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>24001</line_cd>
+		<line_name>京王線</line_name>
+		<station_cd>2400129</station_cd>
+		<station_g_cd>2400129</station_g_cd>
+		<station_name>高幡不動</station_name>
+		<lon>139.412953</lon>
+		<lat>35.662361</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>24001</line_cd>
+		<line_name>京王線</line_name>
+		<station_cd>2400129</station_cd>
+		<station_name>高幡不動</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>24005</line_cd>
+		<line_name>京王動物園線</line_name>
+		<station_cd>2400501</station_cd>
+		<station_name>高幡不動</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99334</line_cd>
+		<line_name>多摩モノレール</line_name>
+		<station_cd>9933407</station_cd>
+		<station_name>高幡不動</station_name>
+	</station_g>
+</ekidata>

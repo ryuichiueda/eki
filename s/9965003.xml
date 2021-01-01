@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>30</pref_cd>
+		<line_cd>99650</line_cd>
+		<line_name>紀州鉄道線</line_name>
+		<station_cd>9965003</station_cd>
+		<station_g_cd>9965003</station_g_cd>
+		<station_name>紀伊御坊</station_name>
+		<lon>135.154655</lon>
+		<lat>33.894292</lat>
+	</station>
+</ekidata>

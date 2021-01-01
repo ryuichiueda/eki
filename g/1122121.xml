@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11221</line_cd>
+		<line_name>奥の細道湯けむりライン</line_name>
+		<station_cd>1122121</station_cd>
+		<station_g_cd>1122121</station_g_cd>
+		<station_name>大堀</station_name>
+		<lon>140.475377</lon>
+		<lat>38.76592</lat>
+	</station>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11221</line_cd>
+		<line_name>奥の細道湯けむりライン</line_name>
+		<station_cd>1122121</station_cd>
+		<station_name>大堀</station_name>
+	</station_g>
+</ekidata>

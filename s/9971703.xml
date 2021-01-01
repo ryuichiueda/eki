@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>34</pref_cd>
+		<line_cd>99717</line_cd>
+		<line_name>広電９号線(白島線)</line_name>
+		<station_cd>9971703</station_cd>
+		<station_g_cd>9971703</station_g_cd>
+		<station_name>縮景園前</station_name>
+		<lon>132.465334</lon>
+		<lat>34.399881</lat>
+	</station>
+</ekidata>

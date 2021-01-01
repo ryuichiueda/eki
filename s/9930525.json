@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":99305,"line_name":"都電荒川線","station_cd":9930525,"station_g_cd":2800610,"station_name":"東池袋四丁目","lon":139.720012,"lat":35.72528}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

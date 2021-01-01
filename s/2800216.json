@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800216,"station_g_cd":2800216,"station_name":"新宿御苑前","lon":139.71069,"lat":35.688588}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

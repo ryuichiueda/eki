@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30004,"line_name":"名鉄蒲郡線","station_cd":3000403,"station_g_cd":3000403,"station_name":"西幡豆","lon":137.121271,"lat":34.792431}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

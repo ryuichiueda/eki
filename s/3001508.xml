@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30015</line_cd>
+		<line_name>名鉄犬山線</line_name>
+		<station_cd>3001508</station_cd>
+		<station_g_cd>3001508</station_g_cd>
+		<station_name>徳重・名古屋芸大</station_name>
+		<lon>136.873384</lon>
+		<lat>35.256045</lat>
+	</station>
+</ekidata>

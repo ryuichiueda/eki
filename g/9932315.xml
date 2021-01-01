@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99323</line_cd>
+		<line_name>鹿島臨海鉄道大洗鹿島線</line_name>
+		<station_cd>9932315</station_cd>
+		<station_g_cd>1132907</station_g_cd>
+		<station_name>鹿島サッカースタジアム（臨）</station_name>
+		<lon>140.63606</lon>
+		<lat>35.992707</lat>
+	</station>
+	<station_g>
+		<pref_cd>8</pref_cd>
+		<line_cd>11329</line_cd>
+		<line_name>JR鹿島線</line_name>
+		<station_cd>1132907</station_cd>
+		<station_name>鹿島サッカースタジアム（臨）</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>8</pref_cd>
+		<line_cd>99323</line_cd>
+		<line_name>鹿島臨海鉄道大洗鹿島線</line_name>
+		<station_cd>9932315</station_cd>
+		<station_name>鹿島サッカースタジアム（臨）</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":20,"line_cd":11401,"line_name":"八ヶ岳高原線","station_cd":1140107,"station_g_cd":1140107,"station_name":"佐久広瀬","lon":138.519349,"lat":36.003724}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

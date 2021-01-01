@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>15</pref_cd>
+		<line_cd>11404</line_cd>
+		<line_name>JR信越本線(直江津～新潟)</line_name>
+		<station_cd>1140411</station_cd>
+		<station_g_cd>1140411</station_g_cd>
+		<station_name>鯨波</station_name>
+		<lon>138.517263</lon>
+		<lat>37.355828</lat>
+	</station>
+</ekidata>

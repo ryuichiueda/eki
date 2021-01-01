@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":99506,"line_name":"遠州鉄道鉄道線","station_cd":9950614,"station_g_cd":9950614,"station_name":"美薗中央公園","lon":137.789764,"lat":34.798208}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

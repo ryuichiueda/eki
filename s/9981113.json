@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":38,"line_cd":99811,"line_name":"伊予鉄道松山駅前線","station_cd":9981113,"station_g_cd":9981011,"station_name":"道後温泉","lon":132.784817,"lat":33.850477}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

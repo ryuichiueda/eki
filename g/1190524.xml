@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11905</line_cd>
+		<line_name>JR長崎本線(鳥栖～長崎)</line_name>
+		<station_cd>1190524</station_cd>
+		<station_g_cd>1190524</station_g_cd>
+		<station_name>小江</station_name>
+		<lon>130.112282</lon>
+		<lat>32.891351</lat>
+	</station>
+	<station_g>
+		<pref_cd>42</pref_cd>
+		<line_cd>11905</line_cd>
+		<line_name>JR長崎本線(鳥栖～長崎)</line_name>
+		<station_cd>1190524</station_cd>
+		<station_name>小江</station_name>
+	</station_g>
+</ekidata>

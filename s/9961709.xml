@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>99617</line_cd>
+		<line_name>水間鉄道水間線</line_name>
+		<station_cd>9961709</station_cd>
+		<station_g_cd>9961709</station_g_cd>
+		<station_name>三ヶ山口</station_name>
+		<lon>135.385026</lon>
+		<lat>34.407247</lat>
+	</station>
+</ekidata>

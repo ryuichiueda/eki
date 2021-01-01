@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99702</line_cd>
+		<line_name>北松江線</line_name>
+		<station_cd>9970211</station_cd>
+		<station_g_cd>9970211</station_g_cd>
+		<station_name>湖遊館新駅</station_name>
+		<lon>132.862037</lon>
+		<lat>35.452611</lat>
+	</station>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>99702</line_cd>
+		<line_name>北松江線</line_name>
+		<station_cd>9970211</station_cd>
+		<station_name>湖遊館新駅</station_name>
+	</station_g>
+</ekidata>

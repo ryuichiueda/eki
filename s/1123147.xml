@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>11231</line_cd>
+		<line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
+		<station_cd>1123147</station_cd>
+		<station_g_cd>1123147</station_g_cd>
+		<station_name>利府</station_name>
+		<lon>140.984652</lon>
+		<lat>38.329483</lat>
+	</station>
+</ekidata>

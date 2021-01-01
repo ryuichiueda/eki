@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11903,"line_name":"JR鹿児島本線(博多～八代)"},{"line_cd":11923,"line_name":"阿蘇高原線"},{"line_cd":11924,"line_name":"三角線（あまくさみすみ線）"},{"line_cd":11925,"line_name":"えびの高原線(八代～吉松)"},{"line_cd":99917,"line_name":"熊本電鉄本線"},{"line_cd":99918,"line_name":"熊本電鉄上熊本線"},{"line_cd":99919,"line_name":"高森線"},{"line_cd":99920,"line_name":"湯前線"},{"line_cd":99921,"line_name":"肥薩おれんじ鉄道線"},{"line_cd":99922,"line_name":"熊本市電Ａ系統"},{"line_cd":99923,"line_name":"熊本市電Ｂ系統"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

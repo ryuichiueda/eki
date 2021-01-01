@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>11625</line_cd>
+		<line_name>JR東西線</line_name>
+		<station_cd>1162503</station_cd>
+		<station_g_cd>1162503</station_g_cd>
+		<station_name>大阪天満宮</station_name>
+		<lon>135.513442</lon>
+		<lat>34.697404</lat>
+	</station>
+</ekidata>

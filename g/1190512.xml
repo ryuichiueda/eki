@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11905</line_cd>
+		<line_name>JR長崎本線(鳥栖～長崎)</line_name>
+		<station_cd>1190512</station_cd>
+		<station_g_cd>1190512</station_g_cd>
+		<station_name>肥前山口</station_name>
+		<lon>130.160858</lon>
+		<lat>33.21919</lat>
+	</station>
+	<station_g>
+		<pref_cd>41</pref_cd>
+		<line_cd>11905</line_cd>
+		<line_name>JR長崎本線(鳥栖～長崎)</line_name>
+		<station_cd>1190512</station_cd>
+		<station_name>肥前山口</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>41</pref_cd>
+		<line_cd>11918</line_cd>
+		<line_name>JR佐世保線</line_name>
+		<station_cd>1191801</station_cd>
+		<station_name>肥前山口</station_name>
+	</station_g>
+</ekidata>

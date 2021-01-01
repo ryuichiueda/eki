@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120225</station_cd>
+		<station_g_cd>1120225</station_g_cd>
+		<station_name>大張野</station_name>
+		<lon>140.274071</lon>
+		<lat>39.663347</lat>
+	</station>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120225</station_cd>
+		<station_name>大張野</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99605</line_cd>
+		<line_name>嵯峨野観光線</line_name>
+		<line_lon>135.65168439551</line_lon>
+		<line_lat>35.021588141529</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>9960501</station_cd>
+		<station_g_cd>1161407</station_g_cd>
+		<station_name>トロッコ嵯峨</station_name>
+		<lon>135.680704</lon>
+		<lat>35.018656</lat>
+	</station>
+	<station>
+		<station_cd>9960502</station_cd>
+		<station_g_cd>9960502</station_g_cd>
+		<station_name>トロッコ嵐山</station_name>
+		<lon>135.670252</lon>
+		<lat>35.017162</lat>
+	</station>
+	<station>
+		<station_cd>9960503</station_cd>
+		<station_g_cd>9960503</station_g_cd>
+		<station_name>トロッコ保津峡</station_name>
+		<lon>135.646284</lon>
+		<lat>35.026148</lat>
+	</station>
+	<station>
+		<station_cd>9960504</station_cd>
+		<station_g_cd>9960504</station_g_cd>
+		<station_name>トロッコ亀岡</station_name>
+		<lon>135.606751</lon>
+		<lat>35.01314</lat>
+	</station>
+</ekidata>

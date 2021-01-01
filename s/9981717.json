@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":39,"line_cd":99817,"line_name":"ごめん線","station_cd":9981717,"station_g_cd":9981717,"station_name":"田辺島通","lon":133.593214,"lat":33.566644}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

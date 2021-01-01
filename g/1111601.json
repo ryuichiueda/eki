@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":1,"line_cd":11103,"line_name":"JR函館本線(小樽～旭川)","station_cd":1110342,"station_name":"旭川"},{"pref_cd":1,"line_cd":11114,"line_name":"JR富良野線","station_cd":1111401,"station_name":"旭川"},{"pref_cd":1,"line_cd":11115,"line_name":"JR宗谷本線","station_cd":1111501,"station_name":"旭川"},{"pref_cd":1,"line_cd":11116,"line_name":"JR石北本線","station_cd":1111601,"station_name":"旭川"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

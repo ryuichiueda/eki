@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>99648</line_cd>
+		<line_name>ポートライナー</line_name>
+		<station_cd>9964801</station_cd>
+		<station_g_cd>1160313</station_g_cd>
+		<station_name>三宮</station_name>
+		<lon>135.195306</lon>
+		<lat>34.694563</lat>
+	</station>
+</ekidata>

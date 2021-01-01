@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>16</pref_cd>
+		<line_cd>99414</line_cd>
+		<line_name>万葉線</line_name>
+		<station_cd>9941413</station_cd>
+		<station_g_cd>9941413</station_g_cd>
+		<station_name>能町口</station_name>
+		<lon>137.049031</lon>
+		<lat>36.773239</lat>
+	</station>
+</ekidata>

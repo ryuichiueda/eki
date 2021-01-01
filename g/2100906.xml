@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>21009</line_cd>
+		<line_name>東武鬼怒川線</line_name>
+		<station_cd>2100906</station_cd>
+		<station_g_cd>2100906</station_g_cd>
+		<station_name>鬼怒川温泉</station_name>
+		<lon>139.716552</lon>
+		<lat>36.822622</lat>
+	</station>
+	<station_g>
+		<pref_cd>9</pref_cd>
+		<line_cd>21009</line_cd>
+		<line_name>東武鬼怒川線</line_name>
+		<station_cd>2100906</station_cd>
+		<station_name>鬼怒川温泉</station_name>
+	</station_g>
+</ekidata>

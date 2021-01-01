@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11112</line_cd>
+		<line_name>JR札沼線</line_name>
+		<station_cd>1111214</station_cd>
+		<station_g_cd>1111214</station_g_cd>
+		<station_name>北海道医療大学</station_name>
+		<lon>141.54995</lon>
+		<lat>43.230925</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11112</line_cd>
+		<line_name>JR札沼線</line_name>
+		<station_cd>1111214</station_cd>
+		<station_name>北海道医療大学</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>35</pref_cd>
+		<line_cd>11708</line_cd>
+		<line_name>JR山口線</line_name>
+		<station_cd>1170813</station_cd>
+		<station_g_cd>1170813</station_g_cd>
+		<station_name>長門峡</station_name>
+		<lon>131.578725</lon>
+		<lat>34.304532</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>99213</line_cd>
+		<line_name>阿武隈急行線</line_name>
+		<station_cd>9921323</station_cd>
+		<station_g_cd>9921323</station_g_cd>
+		<station_name>東船岡</station_name>
+		<lon>140.789824</lon>
+		<lat>38.050095</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":34009,"line_name":"阪急嵐山線","line_lon":135.69109537036,"line_lat":34.99649848993,"line_zoom":14,"station_l":[{"station_cd":3400901,"station_g_cd":3400306,"station_name":"桂","lon":135.703302,"lat":34.979522},{"station_cd":3400902,"station_g_cd":3400902,"station_name":"上桂","lon":135.696069,"lat":34.990201},{"station_cd":3400903,"station_g_cd":3400903,"station_name":"松尾大社","lon":135.688214,"lat":35.000331},{"station_cd":3400904,"station_g_cd":3400904,"station_name":"嵐山","lon":135.681603,"lat":35.010315}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11107</line_cd>
+		<line_name>JR根室本線(新得～釧路)</line_name>
+		<station_cd>1110728</station_cd>
+		<station_g_cd>1110728</station_g_cd>
+		<station_name>大楽毛</station_name>
+		<lon>144.273879</lon>
+		<lat>43.009078</lat>
+	</station>
+</ekidata>

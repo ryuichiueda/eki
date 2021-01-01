@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131231,"station_g_cd":1131111,"station_name":"西八王子","lon":139.31264,"lat":35.656621}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":30011,"line_name":"名鉄築港線","line_lon":136.90566317725,"line_lat":35.091876796523,"line_zoom":14,"station_l":[{"station_cd":3001101,"station_g_cd":3000807,"station_name":"大江","lon":136.912758,"lat":35.093258},{"station_cd":3001102,"station_g_cd":3001102,"station_name":"東名古屋港","lon":136.899255,"lat":35.089091}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

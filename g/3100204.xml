@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31002</line_cd>
+		<line_name>近鉄橿原線</line_name>
+		<station_cd>3100204</station_cd>
+		<station_g_cd>3100204</station_g_cd>
+		<station_name>九条</station_name>
+		<lon>135.782894</lon>
+		<lat>34.659523</lat>
+	</station>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31002</line_cd>
+		<line_name>近鉄橿原線</line_name>
+		<station_cd>3100204</station_cd>
+		<station_name>九条</station_name>
+	</station_g>
+</ekidata>

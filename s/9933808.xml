@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>99338</line_cd>
+		<line_name>東葉高速線</line_name>
+		<station_cd>9933808</station_cd>
+		<station_g_cd>9933808</station_g_cd>
+		<station_name>村上</station_name>
+		<lon>140.118375</lon>
+		<lat>35.72371</lat>
+	</station>
+</ekidata>

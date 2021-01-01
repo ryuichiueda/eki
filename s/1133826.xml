@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>8</pref_cd>
+		<line_cd>11338</line_cd>
+		<line_name>JR水郡線</line_name>
+		<station_cd>1133826</station_cd>
+		<station_g_cd>1133826</station_g_cd>
+		<station_name>下野宮</station_name>
+		<lon>140.375282</lon>
+		<lat>36.815744</lat>
+	</station>
+</ekidata>

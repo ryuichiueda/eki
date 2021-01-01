@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":25,"line_cd":11601,"line_name":"琵琶湖線","station_cd":1160116,"station_g_cd":1160116,"station_name":"石山","lon":135.900228,"lat":34.97987}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99634,"line_name":"公園都市線","station_cd":9963406,"station_g_cd":9963406,"station_name":"ウッディタウン中央","lon":135.183707,"lat":34.909767}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

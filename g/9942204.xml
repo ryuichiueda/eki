@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99422</line_cd>
+		<line_name>富山地鉄富山都心線【３系統(環状線)】</line_name>
+		<station_cd>9942204</station_cd>
+		<station_g_cd>9942204</station_g_cd>
+		<station_name>グランドプラザ前</station_name>
+		<lon>137.213386</lon>
+		<lat>36.688923</lat>
+	</station>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99422</line_cd>
+		<line_name>富山地鉄富山都心線【３系統(環状線)】</line_name>
+		<station_cd>9942204</station_cd>
+		<station_name>グランドプラザ前</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":99320,"line_name":"江ノ島電鉄線","station_cd":9932005,"station_name":"湘南海岸公園"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

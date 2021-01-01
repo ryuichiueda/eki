@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":16,"line_cd":99414,"line_name":"万葉線","station_cd":9941413,"station_g_cd":9941413,"station_name":"能町口","lon":137.049031,"lat":36.773239}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

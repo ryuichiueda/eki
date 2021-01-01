@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>11311</line_cd>
+		<line_name>JR中央本線(東京～塩尻)</line_name>
+		<station_cd>1131113</station_cd>
+		<station_g_cd>1131113</station_g_cd>
+		<station_name>相模湖</station_name>
+		<lon>139.1885</lon>
+		<lat>35.617335</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11628</line_cd>
+		<line_name>JR関西空港線</line_name>
+		<line_lon>135.28886841797</line_lon>
+		<line_lat>34.415185002847</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>1162801</station_cd>
+		<station_g_cd>1162626</station_g_cd>
+		<station_name>日根野</station_name>
+		<lon>135.331309</lon>
+		<lat>34.39075</lat>
+	</station>
+	<station>
+		<station_cd>1162802</station_cd>
+		<station_g_cd>1162802</station_g_cd>
+		<station_name>りんくうタウン</station_name>
+		<lon>135.300117</lon>
+		<lat>34.410308</lat>
+	</station>
+	<station>
+		<station_cd>1162803</station_cd>
+		<station_g_cd>1162803</station_g_cd>
+		<station_name>関西空港</station_name>
+		<lon>135.243419</lon>
+		<lat>34.436</lat>
+	</station>
+</ekidata>

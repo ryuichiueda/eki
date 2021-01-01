@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>31010</line_cd>
+		<line_name>近鉄鳥羽線</line_name>
+		<line_lon>136.77274584551</line_lon>
+		<line_lat>34.483810200395</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>3101001</station_cd>
+		<station_g_cd>3100914</station_g_cd>
+		<station_name>宇治山田</station_name>
+		<lon>136.714002</lon>
+		<lat>34.488256</lat>
+	</station>
+	<station>
+		<station_cd>3101002</station_cd>
+		<station_g_cd>3101002</station_g_cd>
+		<station_name>五十鈴川</station_name>
+		<lon>136.727287</lon>
+		<lat>34.476433</lat>
+	</station>
+	<station>
+		<station_cd>3101003</station_cd>
+		<station_g_cd>3101003</station_g_cd>
+		<station_name>朝熊</station_name>
+		<lon>136.757357</lon>
+		<lat>34.477195</lat>
+	</station>
+	<station>
+		<station_cd>3101004</station_cd>
+		<station_g_cd>3101004</station_g_cd>
+		<station_name>池の浦</station_name>
+		<lon>136.818533</lon>
+		<lat>34.479104</lat>
+	</station>
+	<station>
+		<station_cd>3101005</station_cd>
+		<station_g_cd>1151211</station_g_cd>
+		<station_name>鳥羽</station_name>
+		<lon>136.843117</lon>
+		<lat>34.486743</lat>
+	</station>
+</ekidata>

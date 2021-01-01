@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":1,"line_cd":11104,"line_name":"JR室蘭本線(長万部・室蘭～苫小牧)","station_cd":1110434,"station_name":"苫小牧"},{"pref_cd":1,"line_cd":11105,"line_name":"JR室蘭本線(苫小牧～岩見沢)","station_cd":1110501,"station_name":"苫小牧"},{"pref_cd":1,"line_cd":11109,"line_name":"JR千歳線","station_cd":1110901,"station_name":"苫小牧"},{"pref_cd":1,"line_cd":11111,"line_name":"JR日高本線","station_cd":1111101,"station_name":"苫小牧"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

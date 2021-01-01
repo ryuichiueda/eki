@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>11914</line_cd>
+		<line_name>JR日田彦山線</line_name>
+		<station_cd>1191410</station_cd>
+		<station_g_cd>1191410</station_g_cd>
+		<station_name>採銅所</station_name>
+		<lon>130.853151</lon>
+		<lat>33.707489</lat>
+	</station>
+</ekidata>

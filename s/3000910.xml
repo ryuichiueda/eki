@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30009</line_cd>
+		<line_name>名鉄河和線</line_name>
+		<station_cd>3000910</station_cd>
+		<station_g_cd>3000910</station_g_cd>
+		<station_name>植大</station_name>
+		<lon>136.923448</lon>
+		<lat>34.917457</lat>
+	</station>
+</ekidata>

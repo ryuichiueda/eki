@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":11911,"line_name":"福北ゆたか線(折尾～桂川)","station_cd":1191109,"station_g_cd":1191109,"station_name":"勝野","lon":130.715893,"lat":33.728338}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

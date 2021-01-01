@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>22002</line_cd>
+		<line_name>西武秩父線</line_name>
+		<station_cd>2200205</station_cd>
+		<station_g_cd>2200129</station_g_cd>
+		<station_name>東吾野</station_name>
+		<lon>139.260281</lon>
+		<lat>35.892439</lat>
+	</station>
+</ekidata>

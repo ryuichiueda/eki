@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>99218</line_cd>
+		<line_name>仙台市営地下鉄東西線</line_name>
+		<station_cd>9921812</station_cd>
+		<station_g_cd>9921812</station_g_cd>
+		<station_name>六丁の目</station_name>
+		<lon>140.935556</lon>
+		<lat>38.250972</lat>
+	</station>
+</ekidata>

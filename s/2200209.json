@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":11,"line_cd":22002,"line_name":"西武秩父線","station_cd":2200209,"station_g_cd":2200209,"station_name":"芦ヶ久保","lon":139.135982,"lat":35.976505}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

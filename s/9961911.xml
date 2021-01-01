@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>99619</line_cd>
+		<line_name>大阪メトロ谷町線</line_name>
+		<station_cd>9961911</station_cd>
+		<station_g_cd>1162503</station_g_cd>
+		<station_name>南森町</station_name>
+		<lon>135.511078</lon>
+		<lat>34.697699</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>24</pref_cd>
+		<line_cd>11508</line_cd>
+		<line_name>JR関西本線(名古屋～亀山)</line_name>
+		<station_cd>1150814</station_cd>
+		<station_g_cd>1150814</station_g_cd>
+		<station_name>河原田</station_name>
+		<lon>136.598527</lon>
+		<lat>34.910684</lat>
+	</station>
+</ekidata>

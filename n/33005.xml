@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3300501</station_cd1>
+		<station_cd2>3300502</station_cd2>
+		<station_name1>ケーブル八幡宮口</station_name1>
+		<station_name2>ケーブル八幡宮山上</station_name2>
+		<lat1>34.88453597</lat1>
+		<lon1>135.6995372</lon1>
+		<lat2>34.881061</lat2>
+		<lon2>135.699796</lon2>
+	</station_join>
+</ekidata>

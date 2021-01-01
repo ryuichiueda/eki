@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11109</line_cd>
+		<line_name>JR千歳線</line_name>
+		<station_cd>1110918</station_cd>
+		<station_g_cd>1110316</station_g_cd>
+		<station_name>苗穂</station_name>
+		<lon>141.377522</lon>
+		<lat>43.068574</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11103</line_cd>
+		<line_name>JR函館本線(小樽～旭川)</line_name>
+		<station_cd>1110316</station_cd>
+		<station_name>苗穂</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11109</line_cd>
+		<line_name>JR千歳線</line_name>
+		<station_cd>1110918</station_cd>
+		<station_name>苗穂</station_name>
+	</station_g>
+</ekidata>

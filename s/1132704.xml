@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>11327</line_cd>
+		<line_name>JR成田線</line_name>
+		<station_cd>1132704</station_cd>
+		<station_g_cd>1132813</station_g_cd>
+		<station_name>空港第２ビル（第２旅客ターミナル）</station_name>
+		<lon>140.387871</lon>
+		<lat>35.773327</lat>
+	</station>
+</ekidata>

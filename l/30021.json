@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":30021,"line_name":"名鉄羽島線","line_lon":136.693134,"line_lat":35.31404976239,"line_zoom":14,"station_l":[{"station_cd":3002101,"station_g_cd":3002009,"station_name":"江吉良","lon":136.699686,"lat":35.31543},{"station_cd":3002102,"station_g_cd":3002102,"station_name":"新羽島","lon":136.686582,"lat":35.315471}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

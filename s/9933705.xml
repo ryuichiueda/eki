@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>99337</line_cd>
+		<line_name>りんかい線</line_name>
+		<station_cd>9933705</station_cd>
+		<station_g_cd>9933602</station_g_cd>
+		<station_name>天王洲アイル</station_name>
+		<lon>139.750793</lon>
+		<lat>35.620562</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131216,"station_g_cd":1131216,"station_name":"阿佐ケ谷","lon":139.635868,"lat":35.704818}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

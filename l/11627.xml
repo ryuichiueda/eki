@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11627</line_cd>
+		<line_name>羽衣線</line_name>
+		<line_lon>135.44957737036</line_lon>
+		<line_lat>34.534058567075</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>1162701</station_cd>
+		<station_g_cd>1162614</station_g_cd>
+		<station_name>鳳</station_name>
+		<lon>135.458734</lon>
+		<lat>34.531674</lat>
+	</station>
+	<station>
+		<station_cd>1162702</station_cd>
+		<station_g_cd>1162702</station_g_cd>
+		<station_name>東羽衣</station_name>
+		<lon>135.442824</lon>
+		<lat>34.535029</lat>
+	</station>
+</ekidata>

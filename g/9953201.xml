@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99532</line_cd>
+		<line_name>養老鉄道養老線</line_name>
+		<station_cd>9953201</station_cd>
+		<station_g_cd>1150808</station_g_cd>
+		<station_name>桑名</station_name>
+		<lon>136.683435</lon>
+		<lat>35.06744</lat>
+	</station>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>11508</line_cd>
+		<line_name>JR関西本線(名古屋～亀山)</line_name>
+		<station_cd>1150808</station_cd>
+		<station_name>桑名</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31027</line_cd>
+		<line_name>近鉄名古屋線</line_name>
+		<station_cd>3102713</station_cd>
+		<station_name>桑名</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>99529</line_cd>
+		<line_name>三岐鉄道北勢線</line_name>
+		<station_cd>9952901</station_cd>
+		<station_name>西桑名</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>99532</line_cd>
+		<line_name>養老鉄道養老線</line_name>
+		<station_cd>9953201</station_cd>
+		<station_name>桑名</station_name>
+	</station_g>
+</ekidata>

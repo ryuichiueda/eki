@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99302</line_cd>
+		<line_name>都営浅草線</line_name>
+		<station_cd>9930216</station_cd>
+		<station_g_cd>1131320</station_g_cd>
+		<station_name>浅草橋</station_name>
+		<lon>139.786305</lon>
+		<lat>35.697451</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131320</station_cd>
+		<station_name>浅草橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99302</line_cd>
+		<line_name>都営浅草線</line_name>
+		<station_cd>9930216</station_cd>
+		<station_name>浅草橋</station_name>
+	</station_g>
+</ekidata>

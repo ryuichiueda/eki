@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":11906,"line_name":"JR日豊本線(門司港～佐伯)","station_cd":1190603,"station_g_cd":1161237,"station_name":"門司","lon":130.933438,"lat":33.904309}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

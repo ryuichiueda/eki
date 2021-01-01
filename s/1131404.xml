@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11314</line_cd>
+		<line_name>JR総武本線</line_name>
+		<station_cd>1131404</station_cd>
+		<station_g_cd>1131322</station_g_cd>
+		<station_name>錦糸町</station_name>
+		<lon>139.814136</lon>
+		<lat>35.696802</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>11222</line_cd>
+		<line_name>JR仙石線</line_name>
+		<station_cd>1122223</station_cd>
+		<station_g_cd>1122223</station_g_cd>
+		<station_name>野蒜</station_name>
+		<lon>141.1570349</lon>
+		<lat>38.3790003</lat>
+	</station>
+</ekidata>

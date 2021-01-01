@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9992801</station_cd1>
+		<station_cd2>9992802</station_cd2>
+		<station_name1>九州鉄道記念館</station_name1>
+		<station_name2>出光美術館</station_name2>
+		<lat1>33.944392</lat1>
+		<lon1>130.962439</lon1>
+		<lat2>33.947792</lat2>
+		<lon2>130.965292</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9992802</station_cd1>
+		<station_cd2>9992803</station_cd2>
+		<station_name1>出光美術館</station_name1>
+		<station_name2>ノーフォーク広場</station_name2>
+		<lat1>33.947792</lat1>
+		<lon1>130.965292</lon1>
+		<lat2>33.955973</lat2>
+		<lon2>130.964254</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9992803</station_cd1>
+		<station_cd2>9992804</station_cd2>
+		<station_name1>ノーフォーク広場</station_name1>
+		<station_name2>関門海峡めかり</station_name2>
+		<lat1>33.955973</lat1>
+		<lon1>130.964254</lon1>
+		<lat2>33.960627</lat2>
+		<lon2>130.967347</lon2>
+	</station_join>
+</ekidata>

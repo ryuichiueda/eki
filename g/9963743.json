@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":28,"line_cd":11608,"line_name":"JR神戸線(神戸～姫路)","station_cd":1160821,"station_name":"姫路"},{"pref_cd":28,"line_cd":11609,"line_name":"JR山陽本線(姫路～岡山)","station_cd":1160901,"station_name":"姫路"},{"pref_cd":28,"line_cd":11633,"line_name":"JR姫新線(姫路～佐用)","station_cd":1163301,"station_name":"姫路"},{"pref_cd":28,"line_cd":11635,"line_name":"JR播但線","station_cd":1163501,"station_name":"姫路"},{"pref_cd":28,"line_cd":99637,"line_name":"山陽電鉄本線","station_cd":9963743,"station_name":"山陽姫路"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

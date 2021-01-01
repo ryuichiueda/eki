@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":99610,"line_name":"京都市営地下鉄烏丸線","station_cd":9961005,"station_name":"鞍馬口"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>16</pref_cd>
+		<line_cd>11418</line_cd>
+		<line_name>JR氷見線</line_name>
+		<station_cd>1141803</station_cd>
+		<station_g_cd>1141803</station_g_cd>
+		<station_name>能町</station_name>
+		<lon>137.039885</lon>
+		<lat>36.768259</lat>
+	</station>
+</ekidata>

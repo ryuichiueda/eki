@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11628,"line_name":"JR関西空港線","line_lon":135.28886841797,"line_lat":34.415185002847,"line_zoom":12,"station_l":[{"station_cd":1162801,"station_g_cd":1162626,"station_name":"日根野","lon":135.331309,"lat":34.39075},{"station_cd":1162802,"station_g_cd":1162802,"station_name":"りんくうタウン","lon":135.300117,"lat":34.410308},{"station_cd":1162803,"station_g_cd":1162803,"station_name":"関西空港","lon":135.243419,"lat":34.436}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

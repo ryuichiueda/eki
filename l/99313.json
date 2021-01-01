@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99313,"line_name":"ユーカリが丘線","line_lon":140.15304849736,"line_lat":35.73088307488,"line_zoom":15,"station_l":[{"station_cd":9931301,"station_g_cd":2300133,"station_name":"ユーカリが丘","lon":140.157019,"lat":35.722247},{"station_cd":9931302,"station_g_cd":9931302,"station_name":"地区センター","lon":140.155041,"lat":35.726225},{"station_cd":9931303,"station_g_cd":9931303,"station_name":"公園","lon":140.153755,"lat":35.730758},{"station_cd":9931304,"station_g_cd":9931304,"station_name":"女子大","lon":140.155054,"lat":35.738357},{"station_cd":9931305,"station_g_cd":9931305,"station_name":"中学校","lon":140.14841,"lat":35.740123},{"station_cd":9931306,"station_g_cd":9931306,"station_name":"井野","lon":140.148497,"lat":35.732605}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

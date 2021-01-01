@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>4</pref_cd>
+		<line_cd>11217</line_cd>
+		<line_name>JR仙山線</line_name>
+		<station_cd>1121702</station_cd>
+		<station_g_cd>1121702</station_g_cd>
+		<station_name>東照宮</station_name>
+		<lon>140.88682</lon>
+		<lat>38.277262</lat>
+	</station>
+</ekidata>

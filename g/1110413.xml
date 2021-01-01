@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11104</line_cd>
+		<line_name>JR室蘭本線(長万部・室蘭～苫小牧)</line_name>
+		<station_cd>1110413</station_cd>
+		<station_g_cd>1110413</station_g_cd>
+		<station_name>黄金</station_name>
+		<lon>140.907781</lon>
+		<lat>42.386441</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>11104</line_cd>
+		<line_name>JR室蘭本線(長万部・室蘭～苫小牧)</line_name>
+		<station_cd>1110413</station_cd>
+		<station_name>黄金</station_name>
+	</station_g>
+</ekidata>

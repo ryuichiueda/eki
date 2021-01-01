@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":99710,"line_name":"広電１号線(宇品線)","station_cd":9971017,"station_g_cd":9971017,"station_name":"御幸橋","lon":132.459605,"lat":34.375321}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

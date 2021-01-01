@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>17</pref_cd>
+		<line_cd>99417</line_cd>
+		<line_name>北陸鉄道浅野川線</line_name>
+		<station_cd>9941707</station_cd>
+		<station_g_cd>9941707</station_g_cd>
+		<station_name>三ツ屋</station_name>
+		<lon>136.645538</lon>
+		<lat>36.611941</lat>
+	</station>
+</ekidata>

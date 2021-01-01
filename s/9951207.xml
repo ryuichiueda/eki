@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>99512</line_cd>
+		<line_name>リニモ</line_name>
+		<station_cd>9951207</station_cd>
+		<station_g_cd>9951207</station_g_cd>
+		<station_name>愛・地球博記念公園</station_name>
+		<lon>137.08796</lon>
+		<lat>35.177948</lat>
+	</station>
+</ekidata>

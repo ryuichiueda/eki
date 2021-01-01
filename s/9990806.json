@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":99908,"line_name":"北九州モノレール","station_cd":9990806,"station_g_cd":9990806,"station_name":"城野","lon":130.879601,"lat":33.858398}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":32,"line_cd":11701,"line_name":"JR山陰本線(米子～益田)","station_cd":1170114,"station_g_cd":1170114,"station_name":"西出雲","lon":132.721897,"lat":35.334871}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

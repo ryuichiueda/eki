@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>30021</line_cd>
+		<line_name>名鉄羽島線</line_name>
+		<station_cd>3002101</station_cd>
+		<station_g_cd>3002009</station_g_cd>
+		<station_name>江吉良</station_name>
+		<lon>136.699686</lon>
+		<lat>35.31543</lat>
+	</station>
+	<station_g>
+		<pref_cd>21</pref_cd>
+		<line_cd>30020</line_cd>
+		<line_name>名鉄竹鼻線</line_name>
+		<station_cd>3002009</station_cd>
+		<station_name>江吉良</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>21</pref_cd>
+		<line_cd>30021</line_cd>
+		<line_name>名鉄羽島線</line_name>
+		<station_cd>3002101</station_cd>
+		<station_name>江吉良</station_name>
+	</station_g>
+</ekidata>

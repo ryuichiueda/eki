@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99343</line_cd>
+		<line_name>グリーンライン</line_name>
+		<station_cd>9934305</station_cd>
+		<station_g_cd>9931603</station_g_cd>
+		<station_name>センター北</station_name>
+		<lon>139.578386</lon>
+		<lat>35.553534</lat>
+	</station>
+</ekidata>

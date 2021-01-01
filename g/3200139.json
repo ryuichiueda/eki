@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":30,"line_cd":32001,"line_name":"南海本線","station_cd":3200139,"station_name":"紀ノ川"},{"pref_cd":30,"line_cd":32005,"line_name":"南海加太線","station_cd":3200502,"station_name":"紀ノ川"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

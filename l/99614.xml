@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99614</line_cd>
+		<line_name>北大阪急行電鉄</line_name>
+		<line_lon>135.49546160449</line_lon>
+		<line_lat>34.789927239204</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>9961401</station_cd>
+		<station_g_cd>9961401</station_g_cd>
+		<station_name>千里中央</station_name>
+		<lon>135.495067</lon>
+		<lat>34.808655</lat>
+	</station>
+	<station>
+		<station_cd>9961402</station_cd>
+		<station_g_cd>9961402</station_g_cd>
+		<station_name>桃山台</station_name>
+		<lon>135.497142</lon>
+		<lat>34.793842</lat>
+	</station>
+	<station>
+		<station_cd>9961403</station_cd>
+		<station_g_cd>9961403</station_g_cd>
+		<station_name>緑地公園</station_name>
+		<lon>135.495278</lon>
+		<lat>34.774772</lat>
+	</station>
+	<station>
+		<station_cd>9961404</station_cd>
+		<station_g_cd>9961404</station_g_cd>
+		<station_name>江坂</station_name>
+		<lon>135.497106</lon>
+		<lat>34.758755</lat>
+	</station>
+</ekidata>

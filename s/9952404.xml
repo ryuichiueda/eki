@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>21</pref_cd>
+		<line_cd>99524</line_cd>
+		<line_name>明知鉄道明知線</line_name>
+		<station_cd>9952404</station_cd>
+		<station_g_cd>9952404</station_g_cd>
+		<station_name>阿木</station_name>
+		<lon>137.458962</lon>
+		<lat>35.399759</lat>
+	</station>
+</ekidata>

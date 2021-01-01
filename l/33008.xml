@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>33008</line_cd>
+		<line_name>京阪中之島線</line_name>
+		<line_lon>135.50042809312</line_lon>
+		<line_lat>34.69339585418</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>3300801</station_cd>
+		<station_g_cd>3300138</station_g_cd>
+		<station_name>天満橋</station_name>
+		<lon>135.516633</lon>
+		<lat>34.6902</lat>
+	</station>
+	<station>
+		<station_cd>3300802</station_cd>
+		<station_g_cd>3300139</station_g_cd>
+		<station_name>なにわ橋</station_name>
+		<lon>135.506594</lon>
+		<lat>34.692829</lat>
+	</station>
+	<station>
+		<station_cd>3300803</station_cd>
+		<station_g_cd>3300140</station_g_cd>
+		<station_name>大江橋</station_name>
+		<lon>135.500412</lon>
+		<lat>34.694296</lat>
+	</station>
+	<station>
+		<station_cd>3300804</station_cd>
+		<station_g_cd>3300804</station_g_cd>
+		<station_name>渡辺橋</station_name>
+		<lon>135.49542</lon>
+		<lat>34.693916</lat>
+	</station>
+	<station>
+		<station_cd>3300805</station_cd>
+		<station_g_cd>3300805</station_g_cd>
+		<station_name>中之島</station_name>
+		<lon>135.487373</lon>
+		<lat>34.691504</lat>
+	</station>
+</ekidata>

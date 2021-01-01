@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":99506,"line_name":"遠州鉄道鉄道線","station_cd":9950601,"station_g_cd":1150201,"station_name":"新浜松","lon":137.732456,"lat":34.703402}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

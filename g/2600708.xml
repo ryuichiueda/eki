@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>26007</line_cd>
+		<line_name>東急世田谷線</line_name>
+		<station_cd>2600708</station_cd>
+		<station_g_cd>2500110</station_g_cd>
+		<station_name>山下</station_name>
+		<lon>139.646509</lon>
+		<lat>35.653844</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>25001</line_cd>
+		<line_name>小田急線</line_name>
+		<station_cd>2500110</station_cd>
+		<station_name>豪徳寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>26007</line_cd>
+		<line_name>東急世田谷線</line_name>
+		<station_cd>2600708</station_cd>
+		<station_name>山下</station_name>
+	</station_g>
+</ekidata>

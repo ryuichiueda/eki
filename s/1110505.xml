@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11105</line_cd>
+		<line_name>JR室蘭本線(苫小牧～岩見沢)</line_name>
+		<station_cd>1110505</station_cd>
+		<station_g_cd>1110505</station_g_cd>
+		<station_name>安平</station_name>
+		<lon>141.825283</lon>
+		<lat>42.814007</lat>
+	</station>
+</ekidata>

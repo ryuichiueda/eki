@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11808</line_cd>
+		<line_name>しまんとグリーンライン</line_name>
+		<station_cd>1180815</station_cd>
+		<station_g_cd>1180815</station_g_cd>
+		<station_name>近永</station_name>
+		<lon>132.676335</lon>
+		<lat>33.255693</lat>
+	</station>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>11808</line_cd>
+		<line_name>しまんとグリーンライン</line_name>
+		<station_cd>1180815</station_cd>
+		<station_name>近永</station_name>
+	</station_g>
+</ekidata>

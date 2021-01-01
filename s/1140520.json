@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":15,"line_cd":99423,"line_name":"日本海ひすいライン","station_cd":1140520,"station_g_cd":1140520,"station_name":"筒石","lon":138.060768,"lat":37.127473}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

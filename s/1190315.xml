@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>41</pref_cd>
+		<line_cd>11903</line_cd>
+		<line_name>JR鹿児島本線(博多～八代)</line_name>
+		<station_cd>1190315</station_cd>
+		<station_g_cd>1190315</station_g_cd>
+		<station_name>田代</station_name>
+		<lon>130.524496</lon>
+		<lat>33.384007</lat>
+	</station>
+</ekidata>

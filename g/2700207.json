@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":27002,"line_name":"京急空港線","station_cd":2700207,"station_name":"羽田空港第3ターミナル"},{"pref_cd":13,"line_cd":99336,"line_name":"東京モノレール","station_cd":9933611,"station_name":"羽田空港第3ターミナル"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

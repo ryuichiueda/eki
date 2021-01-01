@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":29003,"line_name":"相鉄・JR直通線","station_cd":2900301,"station_name":"羽沢横浜国大"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

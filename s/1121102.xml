@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>3</pref_cd>
+		<line_cd>11211</line_cd>
+		<line_name>JR田沢湖線</line_name>
+		<station_cd>1121102</station_cd>
+		<station_g_cd>1121102</station_g_cd>
+		<station_name>大釜</station_name>
+		<lon>141.072202</lon>
+		<lat>39.711586</lat>
+	</station>
+</ekidata>

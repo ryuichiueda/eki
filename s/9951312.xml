@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>99513</line_cd>
+		<line_name>名古屋市営地下鉄東山線</line_name>
+		<station_cd>9951312</station_cd>
+		<station_g_cd>1141104</station_g_cd>
+		<station_name>千種</station_name>
+		<lon>136.930402</lon>
+		<lat>35.170625</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99313</line_cd>
+		<line_name>ユーカリが丘線</line_name>
+		<station_cd>9931301</station_cd>
+		<station_g_cd>2300133</station_g_cd>
+		<station_name>ユーカリが丘</station_name>
+		<lon>140.157019</lon>
+		<lat>35.722247</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>23001</line_cd>
+		<line_name>京成本線</line_name>
+		<station_cd>2300133</station_cd>
+		<station_name>ユーカリが丘</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>99313</line_cd>
+		<line_name>ユーカリが丘線</line_name>
+		<station_cd>9931301</station_cd>
+		<station_name>ユーカリが丘</station_name>
+	</station_g>
+</ekidata>

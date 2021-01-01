@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":21,"line_cd":30017,"line_name":"名鉄広見線","station_cd":3001708,"station_g_cd":3001708,"station_name":"明智","lon":137.087295,"lat":35.433208}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

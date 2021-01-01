@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":9,"line_cd":99341,"line_name":"ほっとスパ・ライン","station_cd":9934105,"station_name":"湯西川温泉"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

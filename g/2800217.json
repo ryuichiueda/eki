@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800217,"station_name":"新宿三丁目"},{"pref_cd":13,"line_cd":28010,"line_name":"東京メトロ副都心線","station_cd":2801013,"station_name":"新宿三丁目"},{"pref_cd":13,"line_cd":99304,"line_name":"都営新宿線","station_cd":9930402,"station_name":"新宿三丁目"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

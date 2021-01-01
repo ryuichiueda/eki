@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":42,"line_cd":99911,"line_name":"西九州線(伊万里～佐世保)","station_cd":9991135,"station_g_cd":9991135,"station_name":"大学","lon":129.667187,"lat":33.189461}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

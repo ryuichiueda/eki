@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11911</line_cd>
+		<line_name>福北ゆたか線(折尾～桂川)</line_name>
+		<station_cd>1191113</station_cd>
+		<station_g_cd>1191113</station_g_cd>
+		<station_name>新飯塚</station_name>
+		<lon>130.694278</lon>
+		<lat>33.644261</lat>
+	</station>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11911</line_cd>
+		<line_name>福北ゆたか線(折尾～桂川)</line_name>
+		<station_cd>1191113</station_cd>
+		<station_name>新飯塚</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>40</pref_cd>
+		<line_cd>11915</line_cd>
+		<line_name>JR後藤寺線</line_name>
+		<station_cd>1191501</station_cd>
+		<station_name>新飯塚</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>11909</line_cd>
+		<line_name>JR筑肥線(姪浜～西唐津)</line_name>
+		<station_cd>1190913</station_cd>
+		<station_g_cd>1190913</station_g_cd>
+		<station_name>福吉</station_name>
+		<lon>130.079832</lon>
+		<lat>33.50166</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11705</line_cd>
+		<line_name>JR境線</line_name>
+		<station_cd>1170514</station_cd>
+		<station_g_cd>1170514</station_g_cd>
+		<station_name>上道</station_name>
+		<lon>133.230748</lon>
+		<lat>35.531148</lat>
+	</station>
+	<station_g>
+		<pref_cd>31</pref_cd>
+		<line_cd>11705</line_cd>
+		<line_name>JR境線</line_name>
+		<station_cd>1170514</station_cd>
+		<station_name>上道</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":2,"line_cd":11204,"line_name":"JR五能線","station_cd":1120413,"station_g_cd":1120413,"station_name":"白神岳登山口","lon":139.950318,"lat":40.513551}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

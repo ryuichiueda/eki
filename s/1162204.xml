@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>26</pref_cd>
+		<line_cd>11622</line_cd>
+		<line_name>JR舞鶴線</line_name>
+		<station_cd>1162204</station_cd>
+		<station_g_cd>1161511</station_g_cd>
+		<station_name>綾部</station_name>
+		<lon>135.251896</lon>
+		<lat>35.302188</lat>
+	</station>
+</ekidata>

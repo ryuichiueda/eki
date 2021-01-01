@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11226</line_cd>
+		<line_name>森と水とロマンの鉄道</line_name>
+		<station_cd>1122606</station_cd>
+		<station_g_cd>1122606</station_g_cd>
+		<station_name>会津豊川</station_name>
+		<lon>139.876787</lon>
+		<lat>37.633499</lat>
+	</station>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>11226</line_cd>
+		<line_name>森と水とロマンの鉄道</line_name>
+		<station_cd>1122606</station_cd>
+		<station_name>会津豊川</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":30,"line_cd":32008,"line_name":"南海高野山ケーブル","station_cd":3200802,"station_g_cd":3200802,"station_name":"高野山","lon":135.577619,"lat":34.227789}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

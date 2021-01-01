@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11338</line_cd>
+		<line_name>JR水郡線</line_name>
+		<station_cd>1133846</station_cd>
+		<station_g_cd>1123114</station_g_cd>
+		<station_name>郡山</station_name>
+		<lon>140.389363</lon>
+		<lat>37.398187</lat>
+	</station>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>11225</line_cd>
+		<line_name>JR磐越西線(郡山～会津若松)</line_name>
+		<station_cd>1122501</station_cd>
+		<station_name>郡山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>11228</line_cd>
+		<line_name>ゆうゆうあぶくまライン</line_name>
+		<station_cd>1122816</station_cd>
+		<station_name>郡山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>11231</line_cd>
+		<line_name>JR東北本線(黒磯～利府・盛岡)</line_name>
+		<station_cd>1123114</station_cd>
+		<station_name>郡山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>7</pref_cd>
+		<line_cd>11338</line_cd>
+		<line_name>JR水郡線</line_name>
+		<station_cd>1133846</station_cd>
+		<station_name>郡山</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99407</line_cd>
+		<line_name>上高地線</line_name>
+		<station_cd>9940701</station_cd>
+		<station_g_cd>1140901</station_g_cd>
+		<station_name>松本</station_name>
+		<lon>137.963846</lon>
+		<lat>36.231081</lat>
+	</station>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11409</line_cd>
+		<line_name>北アルプス線</line_name>
+		<station_cd>1140901</station_cd>
+		<station_name>松本</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>11412</line_cd>
+		<line_name>JR篠ノ井線</line_name>
+		<station_cd>1141205</station_cd>
+		<station_name>松本</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>99407</line_cd>
+		<line_name>上高地線</line_name>
+		<station_cd>9940701</station_cd>
+		<station_name>松本</station_name>
+	</station_g>
+</ekidata>

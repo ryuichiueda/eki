@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>22</pref_cd>
+		<line_cd>99507</line_cd>
+		<line_name>大井川鐵道大井川本線</line_name>
+		<station_cd>9950701</station_cd>
+		<station_g_cd>1150126</station_g_cd>
+		<station_name>金谷</station_name>
+		<lon>138.12605</lon>
+		<lat>34.819568</lat>
+	</station>
+</ekidata>

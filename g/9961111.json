@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":33001,"line_name":"京阪本線","station_cd":3300101,"station_name":"三条"},{"pref_cd":26,"line_cd":33004,"line_name":"京阪鴨東線","station_cd":3300403,"station_name":"三条"},{"pref_cd":26,"line_cd":99611,"line_name":"京都市営地下鉄東西線","station_cd":9961111,"station_name":"三条京阪"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

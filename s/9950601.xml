@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>22</pref_cd>
+		<line_cd>99506</line_cd>
+		<line_name>遠州鉄道鉄道線</line_name>
+		<station_cd>9950601</station_cd>
+		<station_g_cd>1150201</station_g_cd>
+		<station_name>新浜松</station_name>
+		<lon>137.732456</lon>
+		<lat>34.703402</lat>
+	</station>
+</ekidata>

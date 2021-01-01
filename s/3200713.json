@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":32007,"line_name":"南海高野線","station_cd":3200713,"station_g_cd":1162610,"station_name":"三国ヶ丘","lon":135.492668,"lat":34.565259}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

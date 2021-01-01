@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9941201</station_cd1>
+		<station_cd2>9941202</station_cd2>
+		<station_name1>宇奈月</station_name1>
+		<station_name2>黒薙</station_name2>
+		<lat1>36.815038</lat1>
+		<lon1>137.58586</lon1>
+		<lat2>36.786638</lat2>
+		<lon2>137.624738</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9941202</station_cd1>
+		<station_cd2>9941203</station_cd2>
+		<station_name1>黒薙</station_name1>
+		<station_name2>鐘釣</station_name2>
+		<lat1>36.786638</lat1>
+		<lon1>137.624738</lon1>
+		<lat2>36.734378</lat2>
+		<lon2>137.651315</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9941203</station_cd1>
+		<station_cd2>9941204</station_cd2>
+		<station_name1>鐘釣</station_name1>
+		<station_name2>欅平</station_name2>
+		<lat1>36.734378</lat1>
+		<lon1>137.651315</lon1>
+		<lat2>36.696732</lat2>
+		<lon2>137.658179</lon2>
+	</station_join>
+</ekidata>

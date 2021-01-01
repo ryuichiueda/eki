@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":11,"line_cd":99321,"line_name":"ニューシャトル","station_cd":9932106,"station_g_cd":9932106,"station_name":"吉野原","lon":139.620862,"lat":35.957065}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

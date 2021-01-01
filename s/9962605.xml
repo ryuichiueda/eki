@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>99626</line_cd>
+		<line_name>大阪モノレール線</line_name>
+		<station_cd>9962605</station_cd>
+		<station_g_cd>9961401</station_g_cd>
+		<station_name>千里中央</station_name>
+		<lon>135.495114</lon>
+		<lat>34.807479</lat>
+	</station>
+</ekidata>

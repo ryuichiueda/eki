@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11702</line_cd>
+		<line_name>JR山陰本線(益田～下関)</line_name>
+		<station_cd>1170237</station_cd>
+		<station_g_cd>1161235</station_g_cd>
+		<station_name>幡生</station_name>
+		<lon>130.92734</lon>
+		<lat>33.981592</lat>
+	</station>
+	<station_g>
+		<pref_cd>35</pref_cd>
+		<line_cd>11612</line_cd>
+		<line_name>JR山陽本線(岩国～門司)</line_name>
+		<station_cd>1161235</station_cd>
+		<station_name>幡生</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>35</pref_cd>
+		<line_cd>11702</line_cd>
+		<line_name>JR山陰本線(益田～下関)</line_name>
+		<station_cd>1170237</station_cd>
+		<station_name>幡生</station_name>
+	</station_g>
+</ekidata>

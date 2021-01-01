@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":99714,"line_name":"広電６号線(江波線)","station_cd":9971403,"station_g_cd":9971003,"station_name":"的場町","lon":132.475076,"lat":34.393277}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11342</line_cd>
+		<line_name>JR上越線</line_name>
+		<station_cd>1134202</station_cd>
+		<station_g_cd>1134102</station_g_cd>
+		<station_name>高崎問屋町</station_name>
+		<lon>139.017089</lon>
+		<lat>36.346097</lat>
+	</station>
+	<station_g>
+		<pref_cd>10</pref_cd>
+		<line_cd>11341</line_cd>
+		<line_name>JR両毛線</line_name>
+		<station_cd>1134102</station_cd>
+		<station_name>高崎問屋町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>10</pref_cd>
+		<line_cd>11342</line_cd>
+		<line_name>JR上越線</line_name>
+		<station_cd>1134202</station_cd>
+		<station_name>高崎問屋町</station_name>
+	</station_g>
+</ekidata>

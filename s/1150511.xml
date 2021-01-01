@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>22</pref_cd>
+		<line_cd>11505</line_cd>
+		<line_name>JR御殿場線</line_name>
+		<station_cd>1150511</station_cd>
+		<station_g_cd>1150511</station_g_cd>
+		<station_name>御殿場</station_name>
+		<lon>138.93424</lon>
+		<lat>35.299933</lat>
+	</station>
+</ekidata>

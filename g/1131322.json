@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":11313,"line_name":"JR中央・総武線","station_cd":1131322,"station_name":"錦糸町"},{"pref_cd":13,"line_cd":11314,"line_name":"JR総武本線","station_cd":1131404,"station_name":"錦糸町"},{"pref_cd":13,"line_cd":28008,"line_name":"東京メトロ半蔵門線","station_cd":2800812,"station_name":"錦糸町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

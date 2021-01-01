@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":99104,"line_name":"札幌市電山鼻線","station_cd":9910419,"station_g_cd":9910419,"station_name":"中島公園通","lon":141.350269,"lat":43.045652}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

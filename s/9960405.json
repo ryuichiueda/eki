@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":25,"line_cd":99604,"line_name":"信楽高原鐵道信楽線","station_cd":9960405,"station_g_cd":9960405,"station_name":"玉桂寺前","lon":136.06938,"lat":34.885257}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

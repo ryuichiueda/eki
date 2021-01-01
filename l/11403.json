@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11403,"line_name":"JR信越本線(篠ノ井～長野)","line_lon":138.15981626976,"line_lat":36.608595973876,"line_zoom":12,"station_l":[{"station_cd":1140301,"station_g_cd":1140301,"station_name":"篠ノ井","lon":138.138046,"lat":36.5771},{"station_cd":1140302,"station_g_cd":1140302,"station_name":"今井","lon":138.145347,"lat":36.595732},{"station_cd":1140303,"station_g_cd":1140303,"station_name":"川中島","lon":138.150679,"lat":36.614167},{"station_cd":1140304,"station_g_cd":1140304,"station_name":"安茂里","lon":138.161791,"lat":36.630262},{"station_cd":1140305,"station_g_cd":1140305,"station_name":"長野","lon":138.189101,"lat":36.643307}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

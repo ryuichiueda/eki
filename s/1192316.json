@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":43,"line_cd":11923,"line_name":"阿蘇高原線","station_cd":1192316,"station_g_cd":1192316,"station_name":"市ノ川","lon":131.00759,"lat":32.928048}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

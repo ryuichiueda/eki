@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>30003</line_cd>
+		<line_name>名鉄西尾線</line_name>
+		<station_cd>3000310</station_cd>
+		<station_g_cd>3000310</station_g_cd>
+		<station_name>西尾</station_name>
+		<lon>137.057789</lon>
+		<lat>34.863917</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>30003</line_cd>
+		<line_name>名鉄西尾線</line_name>
+		<station_cd>3000310</station_cd>
+		<station_name>西尾</station_name>
+	</station_g>
+</ekidata>

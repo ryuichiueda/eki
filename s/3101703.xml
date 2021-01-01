@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>29</pref_cd>
+		<line_cd>31017</line_cd>
+		<line_name>近鉄田原本線</line_name>
+		<station_cd>3101703</station_cd>
+		<station_g_cd>3101703</station_g_cd>
+		<station_name>但馬</station_name>
+		<lon>135.768269</lon>
+		<lat>34.569462</lat>
+	</station>
+</ekidata>

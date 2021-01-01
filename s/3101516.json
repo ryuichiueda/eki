@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":24,"line_cd":31015,"line_name":"近鉄志摩線","station_cd":3101516,"station_g_cd":3101516,"station_name":"賢島","lon":136.819285,"lat":34.308529}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

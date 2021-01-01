@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":35,"line_cd":99718,"line_name":"錦川清流線","station_cd":9971812,"station_g_cd":9971812,"station_name":"錦町","lon":131.962944,"lat":34.26475}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":22,"line_cd":99503,"line_name":"岳南鉄道線","station_cd":9950306,"station_g_cd":9950306,"station_name":"比奈","lon":138.713602,"lat":35.161485}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

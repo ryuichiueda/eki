@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>17</pref_cd>
+		<line_cd>11415</line_cd>
+		<line_name>JR北陸本線(米原～金沢)</line_name>
+		<station_cd>1141531</station_cd>
+		<station_g_cd>1141531</station_g_cd>
+		<station_name>加賀温泉</station_name>
+		<lon>136.350337</lon>
+		<lat>36.320562</lat>
+	</station>
+</ekidata>

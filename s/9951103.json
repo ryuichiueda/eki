@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":99511,"line_name":"愛知環状鉄道線","station_cd":9951103,"station_g_cd":3000114,"station_name":"中岡崎","lon":137.152723,"lat":34.956231}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

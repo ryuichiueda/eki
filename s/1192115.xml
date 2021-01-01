@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>41</pref_cd>
+		<line_cd>11921</line_cd>
+		<line_name>JR唐津線</line_name>
+		<station_cd>1192115</station_cd>
+		<station_g_cd>1190919</station_g_cd>
+		<station_name>唐津</station_name>
+		<lon>129.96835</lon>
+		<lat>33.446038</lat>
+	</station>
+</ekidata>

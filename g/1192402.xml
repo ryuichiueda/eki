@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11924</line_cd>
+		<line_name>三角線（あまくさみすみ線）</line_name>
+		<station_cd>1192402</station_cd>
+		<station_g_cd>1190342</station_g_cd>
+		<station_name>川尻</station_name>
+		<lon>130.679907</lon>
+		<lat>32.743772</lat>
+	</station>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>11903</line_cd>
+		<line_name>JR鹿児島本線(博多～八代)</line_name>
+		<station_cd>1190342</station_cd>
+		<station_name>川尻</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>11924</line_cd>
+		<line_name>三角線（あまくさみすみ線）</line_name>
+		<station_cd>1192402</station_cd>
+		<station_name>川尻</station_name>
+	</station_g>
+</ekidata>

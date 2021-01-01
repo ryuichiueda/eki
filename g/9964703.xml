@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99647</line_cd>
+		<line_name>夢かもめ</line_name>
+		<station_cd>9964703</station_cd>
+		<station_g_cd>9964703</station_g_cd>
+		<station_name>苅藻</station_name>
+		<lon>135.156598</lon>
+		<lat>34.65365</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>99647</line_cd>
+		<line_name>夢かもめ</line_name>
+		<station_cd>9964703</station_cd>
+		<station_name>苅藻</station_name>
+	</station_g>
+</ekidata>

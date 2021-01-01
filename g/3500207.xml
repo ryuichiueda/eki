@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>35002</line_cd>
+		<line_name>阪神なんば線</line_name>
+		<station_cd>3500207</station_cd>
+		<station_g_cd>3500109</station_g_cd>
+		<station_name>尼崎</station_name>
+		<lon>135.417309</lon>
+		<lat>34.718634</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>35001</line_cd>
+		<line_name>阪神本線</line_name>
+		<station_cd>3500109</station_cd>
+		<station_name>尼崎</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>35002</line_cd>
+		<line_name>阪神なんば線</line_name>
+		<station_cd>3500207</station_cd>
+		<station_name>尼崎</station_name>
+	</station_g>
+</ekidata>

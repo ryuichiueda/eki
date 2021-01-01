@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>24</pref_cd>
+		<line_cd>99532</line_cd>
+		<line_name>養老鉄道養老線</line_name>
+		<station_cd>9953202</station_cd>
+		<station_g_cd>3100402</station_g_cd>
+		<station_name>播磨</station_name>
+		<lon>136.674595</lon>
+		<lat>35.078242</lat>
+	</station>
+</ekidata>

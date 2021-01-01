@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":15,"line_cd":11226,"line_name":"森と水とロマンの鉄道","station_cd":1122624,"station_g_cd":1122624,"station_name":"五泉","lon":139.179785,"lat":37.734373}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

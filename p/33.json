@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11609,"line_name":"JR山陽本線(姫路～岡山)"},{"line_cd":11610,"line_name":"JR山陽本線(岡山～三原)"},{"line_cd":11631,"line_name":"JR赤穂線"},{"line_cd":11634,"line_name":"JR姫新線(佐用～新見)"},{"line_cd":11703,"line_name":"JR伯備線"},{"line_cd":11704,"line_name":"JR因美線"},{"line_cd":11709,"line_name":"JR宇野線"},{"line_cd":11710,"line_name":"瀬戸大橋線"},{"line_cd":11713,"line_name":"JR吉備線"},{"line_cd":11714,"line_name":"JR芸備線"},{"line_cd":11715,"line_name":"JR津山線"},{"line_cd":99644,"line_name":"智頭急行智頭線"},{"line_cd":99704,"line_name":"水島本線"},{"line_cd":99705,"line_name":"井原線"},{"line_cd":99706,"line_name":"東山線"},{"line_cd":99707,"line_name":"清輝橋線"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

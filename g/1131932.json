@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":9,"line_cd":11319,"line_name":"宇都宮線","station_cd":1131932,"station_name":"那須塩原"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

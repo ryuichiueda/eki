@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":11214,"line_name":"JR羽越本線","station_cd":1121440,"station_g_cd":1121440,"station_name":"南鳥海","lon":139.898662,"lat":38.98736}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

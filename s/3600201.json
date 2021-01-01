@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":36002,"line_name":"西鉄太宰府線","station_cd":3600201,"station_g_cd":3600112,"station_name":"西鉄二日市","lon":130.517871,"lat":33.502192}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

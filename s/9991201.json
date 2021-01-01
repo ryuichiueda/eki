@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":42,"line_cd":99912,"line_name":"島原鉄道線","station_cd":9991201,"station_g_cd":1190527,"station_name":"諫早","lon":130.041596,"lat":32.851018}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

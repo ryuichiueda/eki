@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11635</line_cd>
+		<line_name>JR播但線</line_name>
+		<station_cd>1163509</station_cd>
+		<station_g_cd>1163509</station_g_cd>
+		<station_name>甘地</station_name>
+		<lon>134.758525</lon>
+		<lat>34.98814</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11635</line_cd>
+		<line_name>JR播但線</line_name>
+		<station_cd>1163509</station_cd>
+		<station_name>甘地</station_name>
+	</station_g>
+</ekidata>

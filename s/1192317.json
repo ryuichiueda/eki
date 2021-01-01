@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":43,"line_cd":11923,"line_name":"阿蘇高原線","station_cd":1192317,"station_g_cd":1192317,"station_name":"内牧","lon":131.043648,"lat":32.942136}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

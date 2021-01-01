@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":31019,"line_name":"近鉄鈴鹿線","line_lon":136.58279578203,"line_lat":34.877984989431,"line_zoom":13,"station_l":[{"station_cd":3101901,"station_g_cd":3101901,"station_name":"伊勢若松","lon":136.616765,"lat":34.869431},{"station_cd":3101902,"station_g_cd":3101902,"station_name":"柳","lon":136.595947,"lat":34.871381},{"station_cd":3101903,"station_g_cd":3101903,"station_name":"鈴鹿市","lon":136.582812,"lat":34.883899},{"station_cd":3101904,"station_g_cd":3101904,"station_name":"三日市","lon":136.562316,"lat":34.880232},{"station_cd":3101905,"station_g_cd":3101905,"station_name":"平田町","lon":136.542406,"lat":34.875124}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

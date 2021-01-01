@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31013</line_cd>
+		<line_name>内部線</line_name>
+		<station_cd>3101301</station_cd>
+		<station_g_cd>3100801</station_g_cd>
+		<station_name>あすなろう四日市</station_name>
+		<lon>136.618352</lon>
+		<lat>34.966495</lat>
+	</station>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31008</line_cd>
+		<line_name>近鉄湯の山線</line_name>
+		<station_cd>3100801</station_cd>
+		<station_name>近鉄四日市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31013</line_cd>
+		<line_name>内部線</line_name>
+		<station_cd>3101301</station_cd>
+		<station_name>あすなろう四日市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31014</line_cd>
+		<line_name>八王子線</line_name>
+		<station_cd>3101401</station_cd>
+		<station_name>あすなろう四日市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31027</line_cd>
+		<line_name>近鉄名古屋線</line_name>
+		<station_cd>3102721</station_cd>
+		<station_name>近鉄四日市</station_name>
+	</station_g>
+</ekidata>

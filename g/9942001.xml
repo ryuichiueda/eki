@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99420</line_cd>
+		<line_name>えちぜん鉄道三国芦原線</line_name>
+		<station_cd>9942001</station_cd>
+		<station_g_cd>1141523</station_g_cd>
+		<station_name>福井</station_name>
+		<lon>136.223779</lon>
+		<lat>36.061711</lat>
+	</station>
+	<station_g>
+		<pref_cd>18</pref_cd>
+		<line_cd>11415</line_cd>
+		<line_name>JR北陸本線(米原～金沢)</line_name>
+		<station_cd>1141523</station_cd>
+		<station_name>福井</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>18</pref_cd>
+		<line_cd>11421</line_cd>
+		<line_name>九頭竜線</line_name>
+		<station_cd>1142101</station_cd>
+		<station_name>福井</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>18</pref_cd>
+		<line_cd>99419</line_cd>
+		<line_name>えちぜん鉄道勝山永平寺線</line_name>
+		<station_cd>9941901</station_cd>
+		<station_name>福井</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>18</pref_cd>
+		<line_cd>99420</line_cd>
+		<line_name>えちぜん鉄道三国芦原線</line_name>
+		<station_cd>9942001</station_cd>
+		<station_name>福井</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>18</pref_cd>
+		<line_cd>99421</line_cd>
+		<line_name>福井鉄道福武線</line_name>
+		<station_cd>9942120</station_cd>
+		<station_name>福井駅</station_name>
+	</station_g>
+</ekidata>

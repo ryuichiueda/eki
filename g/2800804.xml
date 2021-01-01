@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28008</line_cd>
+		<line_name>東京メトロ半蔵門線</line_name>
+		<station_cd>2800804</station_cd>
+		<station_g_cd>2800115</station_g_cd>
+		<station_name>永田町</station_name>
+		<lon>139.740258</lon>
+		<lat>35.678757</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28001</line_cd>
+		<line_name>東京メトロ銀座線</line_name>
+		<station_cd>2800115</station_cd>
+		<station_name>赤坂見附</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28002</line_cd>
+		<line_name>東京メトロ丸ノ内線</line_name>
+		<station_cd>2800213</station_cd>
+		<station_name>赤坂見附</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28006</line_cd>
+		<line_name>東京メトロ有楽町線</line_name>
+		<station_cd>2800616</station_cd>
+		<station_name>永田町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28008</line_cd>
+		<line_name>東京メトロ半蔵門線</line_name>
+		<station_cd>2800804</station_cd>
+		<station_name>永田町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800913</station_cd>
+		<station_name>永田町</station_name>
+	</station_g>
+</ekidata>

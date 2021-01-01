@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11316</line_cd>
+		<line_name>JR五日市線</line_name>
+		<station_cd>1131606</station_cd>
+		<station_g_cd>1131606</station_g_cd>
+		<station_name>武蔵増戸</station_name>
+		<lon>139.256355</lon>
+		<lat>35.730961</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11316</line_cd>
+		<line_name>JR五日市線</line_name>
+		<station_cd>1131606</station_cd>
+		<station_name>武蔵増戸</station_name>
+	</station_g>
+</ekidata>

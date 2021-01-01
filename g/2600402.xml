@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>26004</line_cd>
+		<line_name>東急大井町線</line_name>
+		<station_cd>2600402</station_cd>
+		<station_g_cd>2600402</station_g_cd>
+		<station_name>下神明</station_name>
+		<lon>139.726256</lon>
+		<lat>35.608704</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>26004</line_cd>
+		<line_name>東急大井町線</line_name>
+		<station_cd>2600402</station_cd>
+		<station_name>下神明</station_name>
+	</station_g>
+</ekidata>

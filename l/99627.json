@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99627,"line_name":"大阪モノレール彩都線","line_lon":135.52708881797,"line_lat":34.830775671316,"line_zoom":13,"station_l":[{"station_cd":9962701,"station_g_cd":9962607,"station_name":"万博記念公園","lon":135.530228,"lat":34.806692},{"station_cd":9962702,"station_g_cd":9962702,"station_name":"公園東口","lon":135.539235,"lat":34.810427},{"station_cd":9962703,"station_g_cd":9962703,"station_name":"阪大病院前","lon":135.530005,"lat":34.818474},{"station_cd":9962704,"station_g_cd":9962704,"station_name":"豊川","lon":135.526778,"lat":34.834611},{"station_cd":9962705,"station_g_cd":9962705,"station_name":"彩都西","lon":135.522931,"lat":34.855492}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

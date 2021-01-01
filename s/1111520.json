@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":11115,"line_name":"JR宗谷本線","station_cd":1111520,"station_g_cd":1111520,"station_name":"東風連","lon":142.463087,"lat":44.316748}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

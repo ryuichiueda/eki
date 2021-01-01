@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99601</line_cd>
+		<line_name>近江鉄道本線</line_name>
+		<station_cd>9960106</station_cd>
+		<station_g_cd>9960106</station_g_cd>
+		<station_name>高宮</station_name>
+		<lon>136.260524</lon>
+		<lat>35.236266</lat>
+	</station>
+	<station_g>
+		<pref_cd>25</pref_cd>
+		<line_cd>99601</line_cd>
+		<line_name>近江鉄道本線</line_name>
+		<station_cd>9960106</station_cd>
+		<station_name>高宮</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>25</pref_cd>
+		<line_cd>99602</line_cd>
+		<line_name>近江鉄道多賀線</line_name>
+		<station_cd>9960201</station_cd>
+		<station_name>高宮</station_name>
+	</station_g>
+</ekidata>

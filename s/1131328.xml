@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131328</station_cd>
+		<station_g_cd>1131328</station_g_cd>
+		<station_name>本八幡</station_name>
+		<lon>139.92741</lon>
+		<lat>35.720898</lat>
+	</station>
+</ekidata>

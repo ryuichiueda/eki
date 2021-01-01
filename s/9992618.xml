@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>46</pref_cd>
+		<line_cd>99926</line_cd>
+		<line_name>鹿児島市電２系統</line_name>
+		<station_cd>9992618</station_cd>
+		<station_g_cd>1193002</station_g_cd>
+		<station_name>純心学園前</station_name>
+		<lon>130.542694</lon>
+		<lat>31.566872</lat>
+	</station>
+</ekidata>

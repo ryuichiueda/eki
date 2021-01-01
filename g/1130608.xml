@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11306</line_cd>
+		<line_name>JR横浜線</line_name>
+		<station_cd>1130608</station_cd>
+		<station_g_cd>1130608</station_g_cd>
+		<station_name>十日市場</station_name>
+		<lon>139.51669</lon>
+		<lat>35.526254</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>11306</line_cd>
+		<line_name>JR横浜線</line_name>
+		<station_cd>1130608</station_cd>
+		<station_name>十日市場</station_name>
+	</station_g>
+</ekidata>

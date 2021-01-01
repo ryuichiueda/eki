@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99340</line_cd>
+		<line_name>北総鉄道北総線</line_name>
+		<station_cd>9934010</station_cd>
+		<station_g_cd>9934010</station_g_cd>
+		<station_name>西白井</station_name>
+		<lon>140.031545</lon>
+		<lat>35.784364</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>99340</line_cd>
+		<line_name>北総鉄道北総線</line_name>
+		<station_cd>9934010</station_cd>
+		<station_name>西白井</station_name>
+	</station_g>
+</ekidata>

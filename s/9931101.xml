@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>99311</line_cd>
+		<line_name>ゆりかもめ</line_name>
+		<station_cd>9931101</station_cd>
+		<station_g_cd>1130102</station_g_cd>
+		<station_name>新橋</station_name>
+		<lon>139.759644</lon>
+		<lat>35.665503</lat>
+	</station>
+</ekidata>

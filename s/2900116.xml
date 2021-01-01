@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>29001</line_cd>
+		<line_name>相鉄本線</line_name>
+		<station_cd>2900116</station_cd>
+		<station_g_cd>2900116</station_g_cd>
+		<station_name>さがみ野</station_name>
+		<lon>139.429055</lon>
+		<lat>35.471485</lat>
+	</station>
+</ekidata>

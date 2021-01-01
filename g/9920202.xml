@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99202</line_cd>
+		<line_name>弘南鉄道弘南線</line_name>
+		<station_cd>9920202</station_cd>
+		<station_g_cd>9920202</station_g_cd>
+		<station_name>弘前東高前</station_name>
+		<lon>140.488529</lon>
+		<lat>40.592301</lat>
+	</station>
+	<station_g>
+		<pref_cd>2</pref_cd>
+		<line_cd>99202</line_cd>
+		<line_name>弘南鉄道弘南線</line_name>
+		<station_cd>9920202</station_cd>
+		<station_name>弘前東高前</station_name>
+	</station_g>
+</ekidata>

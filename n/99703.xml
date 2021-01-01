@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9970301</station_cd1>
+		<station_cd2>9970302</station_cd2>
+		<station_name1>川跡</station_name1>
+		<station_name2>高浜</station_name2>
+		<lat1>35.395127</lat1>
+		<lon1>132.776411</lon1>
+		<lat2>35.390677</lat2>
+		<lon2>132.746684</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9970302</station_cd1>
+		<station_cd2>9970303</station_cd2>
+		<station_name1>高浜</station_name1>
+		<station_name2>遙堪</station_name2>
+		<lat1>35.390677</lat1>
+		<lon1>132.746684</lon1>
+		<lat2>35.389312</lat2>
+		<lon2>132.725637</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9970303</station_cd1>
+		<station_cd2>9970304</station_cd2>
+		<station_name1>遙堪</station_name1>
+		<station_name2>浜山公園北口</station_name2>
+		<lat1>35.389312</lat1>
+		<lon1>132.725637</lon1>
+		<lat2>35.38926</lat2>
+		<lon2>132.70829</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9970304</station_cd1>
+		<station_cd2>9970305</station_cd2>
+		<station_name1>浜山公園北口</station_name1>
+		<station_name2>出雲大社前</station_name2>
+		<lat1>35.38926</lat1>
+		<lon1>132.70829</lon1>
+		<lat2>35.393245</lat2>
+		<lon2>132.687531</lon2>
+	</station_join>
+</ekidata>

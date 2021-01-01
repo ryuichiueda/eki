@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>21004</line_cd>
+		<line_name>東武野田線</line_name>
+		<station_cd>2100422</station_cd>
+		<station_g_cd>2100422</station_g_cd>
+		<station_name>流山おおたかの森</station_name>
+		<lon>139.925898</lon>
+		<lat>35.872051</lat>
+	</station>
+</ekidata>

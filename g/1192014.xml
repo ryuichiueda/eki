@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11920</line_cd>
+		<line_name>JR筑肥線(西唐津～伊万里)</line_name>
+		<station_cd>1192014</station_cd>
+		<station_g_cd>1192014</station_g_cd>
+		<station_name>伊万里</station_name>
+		<lon>129.876718</lon>
+		<lat>33.271852</lat>
+	</station>
+	<station_g>
+		<pref_cd>41</pref_cd>
+		<line_cd>11920</line_cd>
+		<line_name>JR筑肥線(西唐津～伊万里)</line_name>
+		<station_cd>1192014</station_cd>
+		<station_name>伊万里</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>41</pref_cd>
+		<line_cd>99910</line_cd>
+		<line_name>西九州線(有田～伊万里)</line_name>
+		<station_cd>9991011</station_cd>
+		<station_name>伊万里</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>41</pref_cd>
+		<line_cd>99911</line_cd>
+		<line_name>西九州線(伊万里～佐世保)</line_name>
+		<station_cd>9991101</station_cd>
+		<station_name>伊万里</station_name>
+	</station_g>
+</ekidata>

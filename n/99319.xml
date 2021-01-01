@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>9931901</station_cd1>
+		<station_cd2>9931902</station_cd2>
+		<station_name1>佐貫</station_name1>
+		<station_name2>入地</station_name2>
+		<lat1>35.929636</lat1>
+		<lon1>140.138292</lon1>
+		<lat2>35.91899</lat2>
+		<lon2>140.157266</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>9931902</station_cd1>
+		<station_cd2>9931903</station_cd2>
+		<station_name1>入地</station_name1>
+		<station_name2>竜ヶ崎</station_name2>
+		<lat1>35.91899</lat1>
+		<lon1>140.157266</lon1>
+		<lat2>35.908586</lat2>
+		<lon2>140.178937</lon2>
+	</station_join>
+</ekidata>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>24002</line_cd>
+		<line_name>京王相模原線</line_name>
+		<station_cd>2400208</station_cd>
+		<station_g_cd>2400208</station_g_cd>
+		<station_name>京王多摩センター</station_name>
+		<lon>139.42402</lon>
+		<lat>35.62518</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>24002</line_cd>
+		<line_name>京王相模原線</line_name>
+		<station_cd>2400208</station_cd>
+		<station_name>京王多摩センター</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>25003</line_cd>
+		<line_name>小田急多摩線</line_name>
+		<station_cd>2500307</station_cd>
+		<station_name>小田急多摩センター</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99334</line_cd>
+		<line_name>多摩モノレール</line_name>
+		<station_cd>9933401</station_cd>
+		<station_name>多摩センター</station_name>
+	</station_g>
+</ekidata>

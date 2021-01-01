@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>36004</line_cd>
+		<line_name>西鉄貝塚線</line_name>
+		<station_cd>3600408</station_cd>
+		<station_g_cd>1191605</station_g_cd>
+		<station_name>和白</station_name>
+		<lon>130.42976</lon>
+		<lat>33.688741</lat>
+	</station>
+</ekidata>

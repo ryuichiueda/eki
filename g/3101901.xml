@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31019</line_cd>
+		<line_name>近鉄鈴鹿線</line_name>
+		<station_cd>3101901</station_cd>
+		<station_g_cd>3101901</station_g_cd>
+		<station_name>伊勢若松</station_name>
+		<lon>136.616765</lon>
+		<lat>34.869431</lat>
+	</station>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31019</line_cd>
+		<line_name>近鉄鈴鹿線</line_name>
+		<station_cd>3101901</station_cd>
+		<station_name>伊勢若松</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31027</line_cd>
+		<line_name>近鉄名古屋線</line_name>
+		<station_cd>3102729</station_cd>
+		<station_name>伊勢若松</station_name>
+	</station_g>
+</ekidata>

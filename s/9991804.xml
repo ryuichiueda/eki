@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>99918</line_cd>
+		<line_name>熊本電鉄上熊本線</line_name>
+		<station_cd>9991804</station_cd>
+		<station_g_cd>9991804</station_g_cd>
+		<station_name>打越</station_name>
+		<lon>130.713796</lon>
+		<lat>32.823765</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>32006</line_cd>
+		<line_name>南海多奈川線</line_name>
+		<station_cd>3200602</station_cd>
+		<station_g_cd>3200602</station_g_cd>
+		<station_name>深日町</station_name>
+		<lon>135.148002</lon>
+		<lat>34.31823</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>32006</line_cd>
+		<line_name>南海多奈川線</line_name>
+		<station_cd>3200602</station_cd>
+		<station_name>深日町</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11632</line_cd>
+		<line_name>JR加古川線</line_name>
+		<station_cd>1163214</station_cd>
+		<station_g_cd>1163214</station_g_cd>
+		<station_name>新西脇</station_name>
+		<lon>134.977563</lon>
+		<lat>34.977907</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11632</line_cd>
+		<line_name>JR加古川線</line_name>
+		<station_cd>1163214</station_cd>
+		<station_name>新西脇</station_name>
+	</station_g>
+</ekidata>

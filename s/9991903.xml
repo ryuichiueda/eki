@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>99919</line_cd>
+		<line_name>高森線</line_name>
+		<station_cd>9991903</station_cd>
+		<station_g_cd>9991903</station_g_cd>
+		<station_name>加勢</station_name>
+		<lon>131.010139</lon>
+		<lat>32.847818</lat>
+	</station>
+</ekidata>

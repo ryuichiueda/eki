@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99811</line_cd>
+		<line_name>伊予鉄道松山駅前線</line_name>
+		<station_cd>9981102</station_cd>
+		<station_g_cd>9980609</station_g_cd>
+		<station_name>大手町</station_name>
+		<lon>132.755384</lon>
+		<lat>33.839726</lat>
+	</station>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99806</line_cd>
+		<line_name>伊予鉄道高浜線</line_name>
+		<station_cd>9980609</station_cd>
+		<station_name>大手町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99808</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980804</station_cd>
+		<station_name>大手町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99809</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980920</station_cd>
+		<station_name>大手町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99811</line_cd>
+		<line_name>伊予鉄道松山駅前線</line_name>
+		<station_cd>9981102</station_cd>
+		<station_name>大手町</station_name>
+	</station_g>
+</ekidata>

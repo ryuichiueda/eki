@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":3,"line_cd":11208,"line_name":"ドラゴンレール大船渡線","station_cd":1120808,"station_g_cd":1120808,"station_name":"摺沢","lon":141.32146,"lat":38.99593}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

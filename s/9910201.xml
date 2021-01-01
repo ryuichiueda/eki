@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>99102</line_cd>
+		<line_name>札幌市営地下鉄南北線</line_name>
+		<station_cd>9910201</station_cd>
+		<station_g_cd>9910201</station_g_cd>
+		<station_name>麻生</station_name>
+		<lon>141.338255</lon>
+		<lat>43.109106</lat>
+	</station>
+</ekidata>

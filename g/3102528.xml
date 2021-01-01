@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31025</line_cd>
+		<line_name>近鉄京都線</line_name>
+		<station_cd>3102528</station_cd>
+		<station_g_cd>3102019</station_g_cd>
+		<station_name>近鉄奈良</station_name>
+		<lon>135.827472</lon>
+		<lat>34.684323</lat>
+	</station>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31020</line_cd>
+		<line_name>近鉄奈良線</line_name>
+		<station_cd>3102019</station_cd>
+		<station_name>近鉄奈良</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31025</line_cd>
+		<line_name>近鉄京都線</line_name>
+		<station_cd>3102528</station_cd>
+		<station_name>近鉄奈良</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>34007</line_cd>
+		<line_name>阪急箕面線</line_name>
+		<station_cd>3400701</station_cd>
+		<station_g_cd>3400211</station_g_cd>
+		<station_name>石橋阪大前</station_name>
+		<lon>135.445487</lon>
+		<lat>34.808254</lat>
+	</station>
+</ekidata>

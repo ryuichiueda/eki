@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":4,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123139,"station_name":"名取"},{"pref_cd":4,"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)","station_cd":1123030,"station_name":"名取"},{"pref_cd":4,"line_cd":99217,"line_name":"仙台空港線","station_cd":9921701,"station_name":"名取"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

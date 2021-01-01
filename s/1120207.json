@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":6,"line_cd":11202,"line_name":"JR奥羽本線(新庄～青森)","station_cd":1120207,"station_g_cd":1120207,"station_name":"及位","lon":140.361164,"lat":38.992983}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

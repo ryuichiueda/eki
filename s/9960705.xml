@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>26</pref_cd>
+		<line_cd>99607</line_cd>
+		<line_name>叡山電鉄鞍馬線</line_name>
+		<station_cd>9960705</station_cd>
+		<station_g_cd>9960705</station_g_cd>
+		<station_name>京都精華大前</station_name>
+		<lon>135.768909</lon>
+		<lat>35.073069</lat>
+	</station>
+</ekidata>

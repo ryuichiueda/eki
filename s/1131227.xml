@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11312</line_cd>
+		<line_name>JR中央線(快速)</line_name>
+		<station_cd>1131227</station_cd>
+		<station_g_cd>1130325</station_g_cd>
+		<station_name>立川</station_name>
+		<lon>139.413704</lon>
+		<lat>35.698202</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":11303,"line_name":"JR南武線","station_cd":1130307,"station_name":"武蔵小杉"},{"pref_cd":14,"line_cd":11308,"line_name":"JR横須賀線","station_cd":1130819,"station_name":"武蔵小杉"},{"pref_cd":14,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132821,"station_name":"武蔵小杉"},{"pref_cd":14,"line_cd":11333,"line_name":"JR湘南新宿ライン","station_cd":1133315,"station_name":"武蔵小杉"},{"pref_cd":14,"line_cd":26001,"line_name":"東急東横線","station_cd":2600111,"station_name":"武蔵小杉"},{"pref_cd":14,"line_cd":26002,"line_name":"東急目黒線","station_cd":2600211,"station_name":"武蔵小杉"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

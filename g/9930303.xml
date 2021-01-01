@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99303</line_cd>
+		<line_name>都営三田線</line_name>
+		<station_cd>9930303</station_cd>
+		<station_g_cd>2800917</station_g_cd>
+		<station_name>白金高輪</station_name>
+		<lon>139.734104</lon>
+		<lat>35.642903</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800917</station_cd>
+		<station_name>白金高輪</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99303</line_cd>
+		<line_name>都営三田線</line_name>
+		<station_cd>9930303</station_cd>
+		<station_name>白金高輪</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>43</pref_cd>
+		<line_cd>99920</line_cd>
+		<line_name>湯前線</line_name>
+		<station_cd>9992002</station_cd>
+		<station_g_cd>9992002</station_g_cd>
+		<station_name>相良藩願成寺</station_name>
+		<lon>130.769626</lon>
+		<lat>32.218429</lat>
+	</station>
+</ekidata>

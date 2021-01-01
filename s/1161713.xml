@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>11617</line_cd>
+		<line_name>学研都市線</line_name>
+		<station_cd>1161713</station_cd>
+		<station_g_cd>1161713</station_g_cd>
+		<station_name>河内磐船</station_name>
+		<lon>135.684592</lon>
+		<lat>34.776501</lat>
+	</station>
+</ekidata>

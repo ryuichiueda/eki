@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":38,"line_cd":99808,"line_name":"伊予鉄道環状線","station_cd":9980809,"station_name":"本町六丁目"},{"pref_cd":38,"line_cd":99809,"line_name":"伊予鉄道環状線","station_cd":9980915,"station_name":"本町六丁目"},{"pref_cd":38,"line_cd":99812,"line_name":"伊予鉄道本町線","station_cd":9981201,"station_name":"本町六丁目"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

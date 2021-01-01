@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>11305</line_cd>
+		<line_name>JR武蔵野線</line_name>
+		<station_cd>1130512</station_cd>
+		<station_g_cd>1130512</station_g_cd>
+		<station_name>東浦和</station_name>
+		<lon>139.704627</lon>
+		<lat>35.864079</lat>
+	</station>
+</ekidata>

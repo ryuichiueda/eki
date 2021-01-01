@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>19</pref_cd>
+		<line_cd>99401</line_cd>
+		<line_name>富士急行線</line_name>
+		<station_cd>9940106</station_cd>
+		<station_g_cd>9940106</station_g_cd>
+		<station_name>都留市</station_name>
+		<lon>138.907525</lon>
+		<lat>35.557199</lat>
+	</station>
+</ekidata>

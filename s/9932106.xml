@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>99321</line_cd>
+		<line_name>ニューシャトル</line_name>
+		<station_cd>9932106</station_cd>
+		<station_g_cd>9932106</station_g_cd>
+		<station_name>吉野原</station_name>
+		<lon>139.620862</lon>
+		<lat>35.957065</lat>
+	</station>
+</ekidata>

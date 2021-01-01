@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":22,"line_cd":11501,"line_name":"JR東海道本線(熱海～浜松)","station_cd":1150134,"station_name":"浜松"},{"pref_cd":22,"line_cd":11502,"line_name":"JR東海道本線(浜松～岐阜)","station_cd":1150201,"station_name":"浜松"},{"pref_cd":22,"line_cd":99506,"line_name":"遠州鉄道鉄道線","station_cd":9950601,"station_name":"新浜松"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

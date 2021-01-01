@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>26002</line_cd>
+		<line_name>東急目黒線</line_name>
+		<station_cd>2600201</station_cd>
+		<station_g_cd>1130203</station_g_cd>
+		<station_name>目黒</station_name>
+		<lon>139.7155</lon>
+		<lat>35.633272</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11302</line_cd>
+		<line_name>JR山手線</line_name>
+		<station_cd>1130203</station_cd>
+		<station_name>目黒</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>26002</line_cd>
+		<line_name>東急目黒線</line_name>
+		<station_cd>2600201</station_cd>
+		<station_name>目黒</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800919</station_cd>
+		<station_name>目黒</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99303</line_cd>
+		<line_name>都営三田線</line_name>
+		<station_cd>9930301</station_cd>
+		<station_name>目黒</station_name>
+	</station_g>
+</ekidata>

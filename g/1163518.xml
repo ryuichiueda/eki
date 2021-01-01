@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11635</line_cd>
+		<line_name>JR播但線</line_name>
+		<station_cd>1163518</station_cd>
+		<station_g_cd>1161519</station_g_cd>
+		<station_name>和田山</station_name>
+		<lon>134.85137</lon>
+		<lat>35.34141</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11615</line_cd>
+		<line_name>JR山陰本線(園部～豊岡)</line_name>
+		<station_cd>1161519</station_cd>
+		<station_name>和田山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>11635</line_cd>
+		<line_name>JR播但線</line_name>
+		<station_cd>1163518</station_cd>
+		<station_name>和田山</station_name>
+	</station_g>
+</ekidata>

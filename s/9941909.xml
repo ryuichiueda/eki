@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>18</pref_cd>
+		<line_cd>99419</line_cd>
+		<line_name>えちぜん鉄道勝山永平寺線</line_name>
+		<station_cd>9941909</station_cd>
+		<station_g_cd>9941909</station_g_cd>
+		<station_name>観音町</station_name>
+		<lon>136.289913</lon>
+		<lat>36.091726</lat>
+	</station>
+</ekidata>

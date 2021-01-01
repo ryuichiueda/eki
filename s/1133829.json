@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":7,"line_cd":11338,"line_name":"JR水郡線","station_cd":1133829,"station_g_cd":1133829,"station_name":"南石井","lon":140.416902,"lat":36.894625}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

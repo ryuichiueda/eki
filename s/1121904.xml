@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>6</pref_cd>
+		<line_cd>11219</line_cd>
+		<line_name>JR米坂線</line_name>
+		<station_cd>1121904</station_cd>
+		<station_g_cd>1121904</station_g_cd>
+		<station_name>成島</station_name>
+		<lon>140.075584</lon>
+		<lat>37.94335</lat>
+	</station>
+</ekidata>

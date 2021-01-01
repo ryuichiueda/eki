@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31002</line_cd>
+		<line_name>近鉄橿原線</line_name>
+		<station_cd>3100201</station_cd>
+		<station_g_cd>3100201</station_g_cd>
+		<station_name>大和西大寺</station_name>
+		<lon>135.783169</lon>
+		<lat>34.69358</lat>
+	</station>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31002</line_cd>
+		<line_name>近鉄橿原線</line_name>
+		<station_cd>3100201</station_cd>
+		<station_name>大和西大寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31020</line_cd>
+		<line_name>近鉄奈良線</line_name>
+		<station_cd>3102017</station_cd>
+		<station_name>大和西大寺</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>29</pref_cd>
+		<line_cd>31025</line_cd>
+		<line_name>近鉄京都線</line_name>
+		<station_cd>3102526</station_cd>
+		<station_name>大和西大寺</station_name>
+	</station_g>
+</ekidata>

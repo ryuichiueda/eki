@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99646,"line_name":"神戸市営地下鉄山手線","station_cd":9964602,"station_g_cd":1160313,"station_name":"三宮","lon":135.193012,"lat":34.694216}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

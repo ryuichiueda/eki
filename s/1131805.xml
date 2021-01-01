@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>11318</line_cd>
+		<line_name>JR八高線(高麗川～高崎)</line_name>
+		<station_cd>1131805</station_cd>
+		<station_g_cd>1131805</station_g_cd>
+		<station_name>小川町</station_name>
+		<lon>139.260412</lon>
+		<lat>36.05903</lat>
+	</station>
+</ekidata>

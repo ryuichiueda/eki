@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11216,"line_name":"山形線"},{"line_cd":11225,"line_name":"JR磐越西線(郡山～会津若松)"},{"line_cd":11226,"line_name":"森と水とロマンの鉄道"},{"line_cd":11227,"line_name":"JR只見線"},{"line_cd":11228,"line_name":"ゆうゆうあぶくまライン"},{"line_cd":11229,"line_name":"JR常磐線(取手～いわき)"},{"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)"},{"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)"},{"line_cd":11338,"line_name":"JR水郡線"},{"line_cd":99213,"line_name":"阿武隈急行線"},{"line_cd":99215,"line_name":"福島交通飯坂線"},{"line_cd":99216,"line_name":"会津鉄道会津線"},{"line_cd":99341,"line_name":"ほっとスパ・ライン"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

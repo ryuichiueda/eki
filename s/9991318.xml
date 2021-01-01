@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>42</pref_cd>
+		<line_cd>99913</line_cd>
+		<line_name>長崎電軌１系統</line_name>
+		<station_cd>9991318</station_cd>
+		<station_g_cd>1190541</station_g_cd>
+		<station_name>長崎駅前</station_name>
+		<lon>129.871874</lon>
+		<lat>32.75238</lat>
+	</station>
+</ekidata>

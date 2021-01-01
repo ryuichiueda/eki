@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>26007</line_cd>
+		<line_name>東急世田谷線</line_name>
+		<station_cd>2600709</station_cd>
+		<station_g_cd>2600709</station_g_cd>
+		<station_name>松原</station_name>
+		<lon>139.642</lon>
+		<lat>35.660048</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>26007</line_cd>
+		<line_name>東急世田谷線</line_name>
+		<station_cd>2600709</station_cd>
+		<station_name>松原</station_name>
+	</station_g>
+</ekidata>

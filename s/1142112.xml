@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>18</pref_cd>
+		<line_cd>11421</line_cd>
+		<line_name>九頭竜線</line_name>
+		<station_cd>1142112</station_cd>
+		<station_g_cd>1142112</station_g_cd>
+		<station_name>越前大宮</station_name>
+		<lon>136.409694</lon>
+		<lat>36.000064</lat>
+	</station>
+</ekidata>

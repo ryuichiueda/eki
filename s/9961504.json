@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99615,"line_name":"能勢電鉄妙見線","station_cd":9961504,"station_g_cd":9961504,"station_name":"鶯の森","lon":135.418888,"lat":34.847747}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

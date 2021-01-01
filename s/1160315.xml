@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>11603</line_cd>
+		<line_name>JR神戸線(大阪～神戸)</line_name>
+		<station_cd>1160315</station_cd>
+		<station_g_cd>1160315</station_g_cd>
+		<station_name>神戸</station_name>
+		<lon>135.178221</lon>
+		<lat>34.679453</lat>
+	</station>
+</ekidata>

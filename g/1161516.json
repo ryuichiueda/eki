@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":11615,"line_name":"JR山陰本線(園部～豊岡)","station_cd":1161516,"station_name":"下夜久野"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

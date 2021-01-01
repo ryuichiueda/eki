@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99640</line_cd>
+		<line_name>能勢電鉄日生線</line_name>
+		<line_lon>135.402694</line_lon>
+		<line_lat>34.900812803779</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>9964001</station_cd>
+		<station_g_cd>9961510</station_g_cd>
+		<station_name>山下</station_name>
+		<lon>135.412172</lon>
+		<lat>34.892926</lat>
+	</station>
+	<station>
+		<station_cd>9964002</station_cd>
+		<station_g_cd>9964002</station_g_cd>
+		<station_name>日生中央</station_name>
+		<lon>135.393216</lon>
+		<lat>34.906447</lat>
+	</station>
+</ekidata>

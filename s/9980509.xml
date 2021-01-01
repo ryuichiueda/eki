@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>38</pref_cd>
+		<line_cd>99805</line_cd>
+		<line_name>伊予鉄道郡中線</line_name>
+		<station_cd>9980509</station_cd>
+		<station_g_cd>9980509</station_g_cd>
+		<station_name>地蔵町</station_name>
+		<lon>132.70429</lon>
+		<lat>33.779907</lat>
+	</station>
+</ekidata>

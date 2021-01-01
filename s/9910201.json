@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":99102,"line_name":"札幌市営地下鉄南北線","station_cd":9910201,"station_g_cd":9910201,"station_name":"麻生","lon":141.338255,"lat":43.109106}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

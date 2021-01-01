@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>11</pref_cd>
+		<line_cd>99307</line_cd>
+		<line_name>埼玉高速鉄道線</line_name>
+		<station_cd>9930704</station_cd>
+		<station_g_cd>9930704</station_g_cd>
+		<station_name>鳩ヶ谷</station_name>
+		<lon>139.735967</lon>
+		<lat>35.830859</lat>
+	</station>
+</ekidata>

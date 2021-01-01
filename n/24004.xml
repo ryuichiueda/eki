@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>2400401</station_cd1>
+		<station_cd2>2400402</station_cd2>
+		<station_name1>東府中</station_name1>
+		<station_name2>府中競馬正門前</station_name2>
+		<lat1>35.668766</lat1>
+		<lon1>139.495257</lon1>
+		<lat2>35.668288</lat2>
+		<lon2>139.485019</lon2>
+	</station_join>
+</ekidata>

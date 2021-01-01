@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":99928,"line_name":"門司港レトロ観光線","station_cd":9992804,"station_g_cd":9992804,"station_name":"関門海峡めかり","lon":130.967347,"lat":33.960627}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

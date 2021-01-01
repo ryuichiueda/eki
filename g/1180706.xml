@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11807</line_cd>
+		<line_name>JR予讃・内子線</line_name>
+		<station_cd>1180706</station_cd>
+		<station_g_cd>1180706</station_g_cd>
+		<station_name>伊予市</station_name>
+		<lon>132.702532</lon>
+		<lat>33.755532</lat>
+	</station>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>11807</line_cd>
+		<line_name>JR予讃・内子線</line_name>
+		<station_cd>1180706</station_cd>
+		<station_name>伊予市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99805</line_cd>
+		<line_name>伊予鉄道郡中線</line_name>
+		<station_cd>9980512</station_cd>
+		<station_name>郡中港</station_name>
+	</station_g>
+</ekidata>

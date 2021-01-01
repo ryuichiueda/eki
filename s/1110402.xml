@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11104</line_cd>
+		<line_name>JR室蘭本線(長万部・室蘭～苫小牧)</line_name>
+		<station_cd>1110402</station_cd>
+		<station_g_cd>1110402</station_g_cd>
+		<station_name>静狩</station_name>
+		<lon>140.460025</lon>
+		<lat>42.584065</lat>
+	</station>
+</ekidata>

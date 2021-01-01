@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":34,"line_cd":11716,"line_name":"JR呉線","station_cd":1171622,"station_g_cd":1171622,"station_name":"かるが浜","lon":132.517523,"lat":34.263885}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

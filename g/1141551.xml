@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99425</line_cd>
+		<line_name>あいの風とやま鉄道線</line_name>
+		<station_cd>1141551</station_cd>
+		<station_g_cd>1141551</station_g_cd>
+		<station_name>高岡</station_name>
+		<lon>137.015274</lon>
+		<lat>36.740948</lat>
+	</station>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>11417</line_cd>
+		<line_name>JR城端線</line_name>
+		<station_cd>1141701</station_cd>
+		<station_name>高岡</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>11418</line_cd>
+		<line_name>JR氷見線</line_name>
+		<station_cd>1141801</station_cd>
+		<station_name>高岡</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99414</line_cd>
+		<line_name>万葉線</line_name>
+		<station_cd>9941401</station_cd>
+		<station_name>高岡駅</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99425</line_cd>
+		<line_name>あいの風とやま鉄道線</line_name>
+		<station_cd>1141551</station_cd>
+		<station_name>高岡</station_name>
+	</station_g>
+</ekidata>

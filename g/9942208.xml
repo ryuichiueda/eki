@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99422</line_cd>
+		<line_name>富山地鉄富山都心線【３系統(環状線)】</line_name>
+		<station_cd>9942208</station_cd>
+		<station_g_cd>9941310</station_g_cd>
+		<station_name>桜橋</station_name>
+		<lon>137.215934</lon>
+		<lat>36.69461</lat>
+	</station>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99422</line_cd>
+		<line_name>富山地鉄富山都心線【３系統(環状線)】</line_name>
+		<station_cd>9942208</station_cd>
+		<station_name>桜橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99413</line_cd>
+		<line_name>富山地鉄市内線【１・２系統】</line_name>
+		<station_cd>9941310</station_cd>
+		<station_name>桜橋</station_name>
+	</station_g>
+</ekidata>

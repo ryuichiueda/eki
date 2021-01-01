@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":25001,"line_name":"小田急線","station_cd":2500143,"station_g_cd":2500143,"station_name":"栢山","lon":139.14258,"lat":35.310679}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

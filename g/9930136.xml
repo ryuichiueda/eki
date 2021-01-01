@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99301</line_cd>
+		<line_name>都営大江戸線</line_name>
+		<station_cd>9930136</station_cd>
+		<station_g_cd>2200402</station_g_cd>
+		<station_name>豊島園</station_name>
+		<lon>139.64911</lon>
+		<lat>35.742067</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>22004</line_cd>
+		<line_name>西武豊島線</line_name>
+		<station_cd>2200402</station_cd>
+		<station_name>豊島園</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99301</line_cd>
+		<line_name>都営大江戸線</line_name>
+		<station_cd>9930136</station_cd>
+		<station_name>豊島園</station_name>
+	</station_g>
+</ekidata>

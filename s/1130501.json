@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":11305,"line_name":"JR武蔵野線","station_cd":1130501,"station_g_cd":1130320,"station_name":"府中本町","lon":139.477142,"lat":35.665766}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

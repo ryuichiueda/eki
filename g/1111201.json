@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":1,"line_cd":11103,"line_name":"JR函館本線(小樽～旭川)","station_cd":1110315,"station_name":"札幌"},{"pref_cd":1,"line_cd":11109,"line_name":"JR千歳線","station_cd":1110919,"station_name":"札幌"},{"pref_cd":1,"line_cd":11112,"line_name":"JR札沼線","station_cd":1111201,"station_name":"札幌"},{"pref_cd":1,"line_cd":99102,"line_name":"札幌市営地下鉄南北線","station_cd":9910206,"station_name":"さっぽろ"},{"pref_cd":1,"line_cd":99103,"line_name":"札幌市営地下鉄東豊線","station_cd":9910307,"station_name":"さっぽろ"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

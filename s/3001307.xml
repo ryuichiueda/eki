@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>30013</line_cd>
+		<line_name>名鉄津島線</line_name>
+		<station_cd>3001307</station_cd>
+		<station_g_cd>3001307</station_g_cd>
+		<station_name>藤浪</station_name>
+		<lon>136.738766</lon>
+		<lat>35.188911</lat>
+	</station>
+</ekidata>

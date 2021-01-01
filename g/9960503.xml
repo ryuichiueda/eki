@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99605</line_cd>
+		<line_name>嵯峨野観光線</line_name>
+		<station_cd>9960503</station_cd>
+		<station_g_cd>9960503</station_g_cd>
+		<station_name>トロッコ保津峡</station_name>
+		<lon>135.646284</lon>
+		<lat>35.026148</lat>
+	</station>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>99605</line_cd>
+		<line_name>嵯峨野観光線</line_name>
+		<station_cd>9960503</station_cd>
+		<station_name>トロッコ保津峡</station_name>
+	</station_g>
+</ekidata>

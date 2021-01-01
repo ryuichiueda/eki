@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11706</line_cd>
+		<line_name>JR木次線</line_name>
+		<station_cd>1170613</station_cd>
+		<station_g_cd>1170613</station_g_cd>
+		<station_name>出雲横田</station_name>
+		<lon>133.092394</lon>
+		<lat>35.177411</lat>
+	</station>
+	<station_g>
+		<pref_cd>32</pref_cd>
+		<line_cd>11706</line_cd>
+		<line_name>JR木次線</line_name>
+		<station_cd>1170613</station_cd>
+		<station_name>出雲横田</station_name>
+	</station_g>
+</ekidata>

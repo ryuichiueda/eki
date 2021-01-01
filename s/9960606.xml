@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>26</pref_cd>
+		<line_cd>99606</line_cd>
+		<line_name>叡山電鉄叡山本線</line_name>
+		<station_cd>9960606</station_cd>
+		<station_g_cd>9960606</station_g_cd>
+		<station_name>宝ヶ池</station_name>
+		<lon>135.792366</lon>
+		<lat>35.058054</lat>
+	</station>
+</ekidata>

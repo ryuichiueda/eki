@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":11302,"line_name":"JR山手線","station_cd":1130221,"station_name":"御徒町"},{"pref_cd":13,"line_cd":11332,"line_name":"JR京浜東北線","station_cd":1133219,"station_name":"御徒町"},{"pref_cd":13,"line_cd":28001,"line_name":"東京メトロ銀座線","station_cd":2800105,"station_name":"上野広小路"},{"pref_cd":13,"line_cd":28003,"line_name":"東京メトロ日比谷線","station_cd":2800306,"station_name":"仲御徒町"},{"pref_cd":13,"line_cd":99301,"line_name":"都営大江戸線","station_cd":9930110,"station_name":"上野御徒町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

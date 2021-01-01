@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":27002,"line_name":"京急空港線","line_lon":139.74978371429,"line_lat":35.555001253065,"line_zoom":13,"station_l":[{"station_cd":2700201,"station_g_cd":2700112,"station_name":"京急蒲田","lon":139.723681,"lat":35.560796},{"station_cd":2700202,"station_g_cd":2700202,"station_name":"糀谷","lon":139.72962,"lat":35.5545},{"station_cd":2700203,"station_g_cd":2700203,"station_name":"大鳥居","lon":139.739356,"lat":35.552531},{"station_cd":2700204,"station_g_cd":2700204,"station_name":"穴守稲荷","lon":139.746669,"lat":35.550326},{"station_cd":2700205,"station_g_cd":2700205,"station_name":"天空橋","lon":139.75423,"lat":35.548908},{"station_cd":2700207,"station_g_cd":2700207,"station_name":"羽田空港第3ターミナル","lon":139.768968,"lat":35.544676},{"station_cd":2700206,"station_g_cd":2700206,"station_name":"羽田空港第1・第2ターミナル","lon":139.785962,"lat":35.549809}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

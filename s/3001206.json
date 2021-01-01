@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":30012,"line_name":"名鉄瀬戸線","station_cd":3001206,"station_g_cd":1141105,"station_name":"大曽根","lon":136.936855,"lat":35.1916}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

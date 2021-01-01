@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141107,"station_g_cd":1141107,"station_name":"勝川","lon":136.956285,"lat":35.22982}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

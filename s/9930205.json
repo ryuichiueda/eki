@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":99302,"line_name":"都営浅草線","station_cd":9930205,"station_g_cd":1130202,"station_name":"五反田","lon":139.724175,"lat":35.627102}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

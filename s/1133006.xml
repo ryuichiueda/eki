@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>12</pref_cd>
+		<line_cd>11330</line_cd>
+		<line_name>JR久留里線</line_name>
+		<station_cd>1133006</station_cd>
+		<station_g_cd>1133006</station_g_cd>
+		<station_name>東横田</station_name>
+		<lon>140.035995</lon>
+		<lat>35.386185</lat>
+	</station>
+</ekidata>

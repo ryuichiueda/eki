@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>2900301</station_cd1>
+		<station_cd2>2900302</station_cd2>
+		<station_name1>羽沢横浜国大</station_name1>
+		<station_name2>西谷</station_name2>
+		<lat1>35.481389</lat1>
+		<lon1>139.586389</lon1>
+		<lat2>35.478092</lat2>
+		<lon2>139.565721</lon2>
+	</station_join>
+</ekidata>

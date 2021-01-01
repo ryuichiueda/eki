@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":35,"line_cd":11722,"line_name":"JR美祢線","station_cd":1172203,"station_g_cd":1172203,"station_name":"厚保","lon":131.154691,"lat":34.113929}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

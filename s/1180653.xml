@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>38</pref_cd>
+		<line_cd>11806</line_cd>
+		<line_name>JR予讃線</line_name>
+		<station_cd>1180653</station_cd>
+		<station_g_cd>1180653</station_g_cd>
+		<station_name>光洋台</station_name>
+		<lon>132.760967</lon>
+		<lat>33.926886</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":29003,"line_name":"相鉄・JR直通線","line_lon":139.49649288818,"line_lat":35.431541345898,"line_zoom":13,"station_l":[{"station_cd":2900301,"station_g_cd":2900301,"station_name":"羽沢横浜国大","lon":139.586389,"lat":35.481389},{"station_cd":2900302,"station_g_cd":2900108,"station_name":"西谷","lon":139.565721,"lat":35.478092}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

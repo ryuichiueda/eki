@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":27004,"line_name":"京急逗子線","line_lon":139.59885124072,"line_lat":35.314704348486,"line_zoom":13,"station_l":[{"station_cd":2700401,"station_g_cd":2700139,"station_name":"金沢八景","lon":139.62018,"lat":35.331223},{"station_cd":2700402,"station_g_cd":2700402,"station_name":"六浦","lon":139.611532,"lat":35.32269},{"station_cd":2700403,"station_g_cd":2700403,"station_name":"神武寺","lon":139.592947,"lat":35.306233},{"station_cd":2700404,"station_g_cd":2700404,"station_name":"逗子・葉山","lon":139.580359,"lat":35.294189}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

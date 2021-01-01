@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":9960401,"station_cd2":9960402,"station_name1":"貴生川","station_name2":"紫香楽宮跡","lat1":34.952033,"lon1":136.154026,"lat2":34.915741,"lon2":136.087967},{"station_cd1":9960402,"station_cd2":9960403,"station_name1":"紫香楽宮跡","station_name2":"雲井","lat1":34.915741,"lon1":136.087967,"lat2":34.911249,"lon2":136.084317},{"station_cd1":9960403,"station_cd2":9960404,"station_name1":"雲井","station_name2":"勅旨","lat1":34.911249,"lon1":136.084317,"lat2":34.893681,"lon2":136.073102},{"station_cd1":9960404,"station_cd2":9960405,"station_name1":"勅旨","station_name2":"玉桂寺前","lat1":34.893681,"lon1":136.073102,"lat2":34.885257,"lon2":136.06938},{"station_cd1":9960405,"station_cd2":9960406,"station_name1":"玉桂寺前","station_name2":"信楽","lat1":34.885257,"lon1":136.06938,"lat2":34.87713,"lon2":136.061317}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

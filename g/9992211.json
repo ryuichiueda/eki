@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":43,"line_cd":99922,"line_name":"熊本市電Ａ系統","station_cd":9992211,"station_name":"通町筋"},{"pref_cd":43,"line_cd":99923,"line_name":"熊本市電Ｂ系統","station_cd":9992313,"station_name":"通町筋"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

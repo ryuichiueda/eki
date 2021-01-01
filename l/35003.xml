@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>35003</line_cd>
+		<line_name>阪神武庫川線</line_name>
+		<line_lon>135.37922457275</line_lon>
+		<line_lat>34.712243327967</line_lat>
+		<line_zoom>15</line_zoom>
+	</line>
+	<station>
+		<station_cd>3500301</station_cd>
+		<station_g_cd>3500112</station_g_cd>
+		<station_name>武庫川</station_name>
+		<lon>135.383654</lon>
+		<lat>34.718154</lat>
+	</station>
+	<station>
+		<station_cd>3500302</station_cd>
+		<station_g_cd>3500302</station_g_cd>
+		<station_name>東鳴尾</station_name>
+		<lon>135.379065</lon>
+		<lat>34.712646</lat>
+	</station>
+	<station>
+		<station_cd>3500303</station_cd>
+		<station_g_cd>3500303</station_g_cd>
+		<station_name>洲先</station_name>
+		<lon>135.378049</lon>
+		<lat>34.709046</lat>
+	</station>
+	<station>
+		<station_cd>3500304</station_cd>
+		<station_g_cd>3500304</station_g_cd>
+		<station_name>武庫川団地前</station_name>
+		<lon>135.374757</lon>
+		<lat>34.704894</lat>
+	</station>
+</ekidata>

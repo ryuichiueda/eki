@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99617,"line_name":"水間鉄道水間線","station_cd":9961708,"station_g_cd":9961708,"station_name":"三ツ松","lon":135.383387,"lat":34.411135}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

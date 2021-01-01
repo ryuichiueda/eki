@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11622</line_cd>
+		<line_name>JR舞鶴線</line_name>
+		<station_cd>1162201</station_cd>
+		<station_g_cd>1161514</station_g_cd>
+		<station_name>福知山</station_name>
+		<lon>135.118564</lon>
+		<lat>35.296143</lat>
+	</station>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>11615</line_cd>
+		<line_name>JR山陰本線(園部～豊岡)</line_name>
+		<station_cd>1161514</station_cd>
+		<station_name>福知山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>11622</line_cd>
+		<line_name>JR舞鶴線</line_name>
+		<station_cd>1162201</station_cd>
+		<station_name>福知山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>11630</line_cd>
+		<line_name>福知山線(篠山口～福知山)</line_name>
+		<station_cd>1163010</station_cd>
+		<station_name>福知山</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>26</pref_cd>
+		<line_cd>99608</line_cd>
+		<line_name>宮福線</line_name>
+		<station_cd>9960801</station_cd>
+		<station_name>福知山</station_name>
+	</station_g>
+</ekidata>

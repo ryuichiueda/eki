@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>32004</line_cd>
+		<line_name>南海高師浜線</line_name>
+		<station_cd>3200402</station_cd>
+		<station_g_cd>3200402</station_g_cd>
+		<station_name>伽羅橋</station_name>
+		<lon>135.436847</lon>
+		<lat>34.528869</lat>
+	</station>
+</ekidata>

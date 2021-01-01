@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":22011,"line_name":"西武多摩湖線","line_lon":139.4685091852,"line_lat":35.741048131945,"line_zoom":13,"station_l":[{"station_cd":2201101,"station_g_cd":1131106,"station_name":"国分寺","lon":139.479547,"lat":35.700836},{"station_cd":2201102,"station_g_cd":2201102,"station_name":"一橋学園","lon":139.480039,"lat":35.72217},{"station_cd":2201103,"station_g_cd":2201103,"station_name":"青梅街道","lon":139.476628,"lat":35.73098},{"station_cd":2201105,"station_g_cd":2200802,"station_name":"萩山","lon":139.476903,"lat":35.740759},{"station_cd":2201106,"station_g_cd":2201106,"station_name":"八坂","lon":139.467676,"lat":35.744925},{"station_cd":2201107,"station_g_cd":2201107,"station_name":"武蔵大和","lon":139.444008,"lat":35.756427},{"station_cd":2201108,"station_g_cd":2200601,"station_name":"西武遊園地","lon":139.442747,"lat":35.765881}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

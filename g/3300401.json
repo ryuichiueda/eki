@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":33001,"line_name":"京阪本線","station_cd":3300142,"station_name":"出町柳"},{"pref_cd":26,"line_cd":33004,"line_name":"京阪鴨東線","station_cd":3300401,"station_name":"出町柳"},{"pref_cd":26,"line_cd":99606,"line_name":"叡山電鉄叡山本線","station_cd":9960601,"station_name":"出町柳"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

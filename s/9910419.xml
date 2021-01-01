@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>99104</line_cd>
+		<line_name>札幌市電山鼻線</line_name>
+		<station_cd>9910419</station_cd>
+		<station_g_cd>9910419</station_g_cd>
+		<station_name>中島公園通</station_name>
+		<lon>141.350269</lon>
+		<lat>43.045652</lat>
+	</station>
+</ekidata>

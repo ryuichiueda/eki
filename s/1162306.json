@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":11623,"line_name":"大阪環状線","station_cd":1162306,"station_g_cd":1162306,"station_name":"弁天町","lon":135.462348,"lat":34.669403}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

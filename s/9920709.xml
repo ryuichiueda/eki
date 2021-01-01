@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>3</pref_cd>
+		<line_cd>99208</line_cd>
+		<line_name>三陸鉄道リアス線</line_name>
+		<station_cd>9920709</station_cd>
+		<station_g_cd>9920709</station_g_cd>
+		<station_name>普代</station_name>
+		<lon>141.886269</lon>
+		<lat>40.002492</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":46,"line_cd":11926,"line_name":"JR肥薩線(吉松～隼人)","station_cd":1192606,"station_g_cd":1192606,"station_name":"嘉例川","lon":130.723021,"lat":31.826939}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

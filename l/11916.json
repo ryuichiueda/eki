@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11916,"line_name":"海の中道線","line_lon":130.40419308203,"line_lat":33.67670942056,"line_zoom":12,"station_l":[{"station_cd":1191601,"station_g_cd":1191601,"station_name":"西戸崎","lon":130.35777,"lat":33.650139},{"station_cd":1191602,"station_g_cd":1191602,"station_name":"海ノ中道","lon":130.361633,"lat":33.664241},{"station_cd":1191603,"station_g_cd":1191603,"station_name":"雁ノ巣","lon":130.403312,"lat":33.683872},{"station_cd":1191604,"station_g_cd":1191604,"station_name":"奈多","lon":130.411983,"lat":33.68646},{"station_cd":1191605,"station_g_cd":1191605,"station_name":"和白","lon":130.429918,"lat":33.688888},{"station_cd":1191606,"station_g_cd":1190227,"station_name":"香椎","lon":130.444063,"lat":33.659228}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

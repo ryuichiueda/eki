@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99310</line_cd>
+		<line_name>みなとみらい線</line_name>
+		<station_cd>9931004</station_cd>
+		<station_g_cd>9931004</station_g_cd>
+		<station_name>馬車道</station_name>
+		<lon>139.636175</lon>
+		<lat>35.450135</lat>
+	</station>
+</ekidata>

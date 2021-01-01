@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99332,"line_name":"千葉都市モノレール２号線","station_cd":9933209,"station_g_cd":1131412,"station_name":"都賀","lon":140.148736,"lat":35.635491}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

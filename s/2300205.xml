@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>23002</line_cd>
+		<line_name>京成押上線</line_name>
+		<station_cd>2300205</station_cd>
+		<station_g_cd>2300205</station_g_cd>
+		<station_name>京成立石</station_name>
+		<lon>139.848558</lon>
+		<lat>35.738281</lat>
+	</station>
+</ekidata>

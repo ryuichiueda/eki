@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":21002,"line_name":"東武伊勢崎線","station_cd":2100214,"station_name":"竹ノ塚"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

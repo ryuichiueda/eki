@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":1161301,"station_cd2":1161302,"station_name1":"兵庫","station_name2":"和田岬","lat1":34.668343,"lon1":135.164706,"lat2":34.657278,"lon2":135.174268}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

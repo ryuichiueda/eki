@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>23005</line_cd>
+		<line_name>京成千原線</line_name>
+		<station_cd>2300501</station_cd>
+		<station_g_cd>2300410</station_g_cd>
+		<station_name>千葉中央</station_name>
+		<lon>140.117809</lon>
+		<lat>35.607354</lat>
+	</station>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>23004</line_cd>
+		<line_name>京成千葉線</line_name>
+		<station_cd>2300410</station_cd>
+		<station_name>千葉中央</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>12</pref_cd>
+		<line_cd>23005</line_cd>
+		<line_name>京成千原線</line_name>
+		<station_cd>2300501</station_cd>
+		<station_name>千葉中央</station_name>
+	</station_g>
+</ekidata>

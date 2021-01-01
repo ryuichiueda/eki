@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>21001</line_cd>
+		<line_name>東武東上線</line_name>
+		<station_cd>2100109</station_cd>
+		<station_g_cd>2100109</station_g_cd>
+		<station_name>下赤塚</station_name>
+		<lon>139.644482</lon>
+		<lat>35.770558</lat>
+	</station>
+</ekidata>

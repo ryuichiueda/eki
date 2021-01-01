@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":99103,"line_name":"札幌市営地下鉄東豊線","station_cd":9910305,"station_g_cd":9910305,"station_name":"東区役所前","lon":141.364769,"lat":43.078197}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

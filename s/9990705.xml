@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>99907</line_cd>
+		<line_name>福岡市営地下鉄七隈線</line_name>
+		<station_cd>9990705</station_cd>
+		<station_g_cd>9990705</station_g_cd>
+		<station_name>梅林</station_name>
+		<lon>130.35494</lon>
+		<lat>33.545806</lat>
+	</station>
+</ekidata>

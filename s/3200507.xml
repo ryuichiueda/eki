@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>30</pref_cd>
+		<line_cd>32005</line_cd>
+		<line_name>南海加太線</line_name>
+		<station_cd>3200507</station_cd>
+		<station_g_cd>3200507</station_g_cd>
+		<station_name>二里ヶ浜</station_name>
+		<lon>135.104025</lon>
+		<lat>34.257627</lat>
+	</station>
+</ekidata>

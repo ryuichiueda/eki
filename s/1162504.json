@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":11625,"line_name":"JR東西線","station_cd":1162504,"station_g_cd":1160214,"station_name":"北新地","lon":135.497038,"lat":34.698323}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

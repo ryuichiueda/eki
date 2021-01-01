@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>39</pref_cd>
+		<line_cd>99814</line_cd>
+		<line_name>中村線</line_name>
+		<station_cd>9981408</station_cd>
+		<station_g_cd>9981408</station_g_cd>
+		<station_name>有井川</station_name>
+		<lon>133.071258</lon>
+		<lat>33.038914</lat>
+	</station>
+</ekidata>

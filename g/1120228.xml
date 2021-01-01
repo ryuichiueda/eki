@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120228</station_cd>
+		<station_g_cd>1120228</station_g_cd>
+		<station_name>秋田</station_name>
+		<lon>140.129931</lon>
+		<lat>39.716748</lat>
+	</station>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11202</line_cd>
+		<line_name>JR奥羽本線(新庄～青森)</line_name>
+		<station_cd>1120228</station_cd>
+		<station_name>秋田</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11214</line_cd>
+		<line_name>JR羽越本線</line_name>
+		<station_cd>1121460</station_cd>
+		<station_name>秋田</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":7,"line_cd":11225,"line_name":"JR磐越西線(郡山～会津若松)","station_cd":1122501,"station_name":"郡山"},{"pref_cd":7,"line_cd":11228,"line_name":"ゆうゆうあぶくまライン","station_cd":1122816,"station_name":"郡山"},{"pref_cd":7,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123114,"station_name":"郡山"},{"pref_cd":7,"line_cd":11338,"line_name":"JR水郡線","station_cd":1133846,"station_name":"郡山"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>41</pref_cd>
+		<line_cd>11918</line_cd>
+		<line_name>JR佐世保線</line_name>
+		<station_cd>1191803</station_cd>
+		<station_g_cd>1191803</station_g_cd>
+		<station_name>北方</station_name>
+		<lon>130.083206</lon>
+		<lat>33.21625</lat>
+	</station>
+</ekidata>

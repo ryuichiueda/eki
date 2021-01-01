@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11215</line_cd>
+		<line_name>JR男鹿線</line_name>
+		<station_cd>1121504</station_cd>
+		<station_g_cd>1121504</station_g_cd>
+		<station_name>二田</station_name>
+		<lon>139.987171</lon>
+		<lat>39.88174</lat>
+	</station>
+	<station_g>
+		<pref_cd>5</pref_cd>
+		<line_cd>11215</line_cd>
+		<line_name>JR男鹿線</line_name>
+		<station_cd>1121504</station_cd>
+		<station_name>二田</station_name>
+	</station_g>
+</ekidata>

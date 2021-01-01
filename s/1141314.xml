@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>11413</line_cd>
+		<line_name>JR飯田線(豊橋～天竜峡)</line_name>
+		<station_cd>1141314</station_cd>
+		<station_g_cd>1141314</station_g_cd>
+		<station_name>茶臼山</station_name>
+		<lon>137.514424</lon>
+		<lat>34.910334</lat>
+	</station>
+</ekidata>

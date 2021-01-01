@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":22011,"line_name":"西武多摩湖線","station_cd":2201106,"station_g_cd":2201106,"station_name":"八坂","lon":139.467676,"lat":35.744925}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

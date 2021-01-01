@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99410</line_cd>
+		<line_name>富山地鉄不二越・上滝線</line_name>
+		<station_cd>9941016</station_cd>
+		<station_g_cd>9941016</station_g_cd>
+		<station_name>栄町</station_name>
+		<lon>137.233333</lon>
+		<lat>36.691389</lat>
+	</station>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99410</line_cd>
+		<line_name>富山地鉄不二越・上滝線</line_name>
+		<station_cd>9941016</station_cd>
+		<station_name>栄町</station_name>
+	</station_g>
+</ekidata>

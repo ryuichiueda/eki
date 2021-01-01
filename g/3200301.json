@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":30,"line_cd":11640,"line_name":"紀勢本線(和歌山～和歌山市)","station_cd":1164003,"station_name":"和歌山市"},{"pref_cd":30,"line_cd":32001,"line_name":"南海本線","station_cd":3200140,"station_name":"和歌山市"},{"pref_cd":30,"line_cd":32003,"line_name":"南海和歌山港線","station_cd":3200301,"station_name":"和歌山市"},{"pref_cd":30,"line_cd":32005,"line_name":"南海加太線","station_cd":3200501,"station_name":"和歌山市"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

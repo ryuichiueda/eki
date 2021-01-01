@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":3,"line_cd":11206,"line_name":"JR八戸線","station_cd":1120615,"station_g_cd":1120615,"station_name":"角の浜","lon":141.681773,"lat":40.444478}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

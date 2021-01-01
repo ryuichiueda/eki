@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":28,"line_cd":99643,"line_name":"北条鉄道北条線","station_cd":9964304,"station_g_cd":9964304,"station_name":"法華口","lon":134.856384,"lat":34.875262}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

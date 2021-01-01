@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":11,"line_cd":11318,"line_name":"JR八高線(高麗川～高崎)","station_cd":1131803,"station_name":"越生"},{"pref_cd":11,"line_cd":21007,"line_name":"東武越生線","station_cd":2100708,"station_name":"越生"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

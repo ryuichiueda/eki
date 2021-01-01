@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":4,"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)","station_cd":1123027,"station_name":"逢隈"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":3,"line_cd":11209,"line_name":"銀河ドリームライン釜石線","station_cd":1120924,"station_name":"釜石"},{"pref_cd":3,"line_cd":99208,"line_name":"三陸鉄道リアス線","station_cd":9920810,"station_name":"釜石"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

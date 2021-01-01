@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11925</line_cd>
+		<line_name>えびの高原線(八代～吉松)</line_name>
+		<station_cd>1192501</station_cd>
+		<station_g_cd>1190349</station_g_cd>
+		<station_name>八代</station_name>
+		<lon>130.621609</lon>
+		<lat>32.503805</lat>
+	</station>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>11903</line_cd>
+		<line_name>JR鹿児島本線(博多～八代)</line_name>
+		<station_cd>1190349</station_cd>
+		<station_name>八代</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>11925</line_cd>
+		<line_name>えびの高原線(八代～吉松)</line_name>
+		<station_cd>1192501</station_cd>
+		<station_name>八代</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>43</pref_cd>
+		<line_cd>99921</line_cd>
+		<line_name>肥薩おれんじ鉄道線</line_name>
+		<station_cd>9992101</station_cd>
+		<station_name>八代</station_name>
+	</station_g>
+</ekidata>

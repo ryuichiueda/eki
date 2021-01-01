@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>16</pref_cd>
+		<line_cd>99415</line_cd>
+		<line_name>富山港線</line_name>
+		<station_cd>9941512</station_cd>
+		<station_g_cd>9941512</station_g_cd>
+		<station_name>競輪場前</station_name>
+		<lon>137.233907</lon>
+		<lat>36.757454</lat>
+	</station>
+</ekidata>

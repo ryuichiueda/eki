@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11113</line_cd>
+		<line_name>JR留萌本線</line_name>
+		<station_cd>1111308</station_cd>
+		<station_g_cd>1111308</station_g_cd>
+		<station_name>峠下</station_name>
+		<lon>141.818879</lon>
+		<lat>43.850789</lat>
+	</station>
+</ekidata>

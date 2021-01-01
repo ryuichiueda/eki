@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99409</line_cd>
+		<line_name>富山地鉄立山線</line_name>
+		<station_cd>9940911</station_cd>
+		<station_g_cd>9940911</station_g_cd>
+		<station_name>千垣</station_name>
+		<lon>137.373843</lon>
+		<lat>36.573752</lat>
+	</station>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99409</line_cd>
+		<line_name>富山地鉄立山線</line_name>
+		<station_cd>9940911</station_cd>
+		<station_name>千垣</station_name>
+	</station_g>
+</ekidata>

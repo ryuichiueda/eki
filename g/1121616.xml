@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+		<station_cd>1121616</station_cd>
+		<station_g_cd>1121616</station_g_cd>
+		<station_name>茂吉記念館前</station_name>
+		<lon>140.298167</lon>
+		<lat>38.171249</lat>
+	</station>
+	<station_g>
+		<pref_cd>6</pref_cd>
+		<line_cd>11216</line_cd>
+		<line_name>山形線</line_name>
+		<station_cd>1121616</station_cd>
+		<station_name>茂吉記念館前</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>11333</line_cd>
+		<line_name>JR湘南新宿ライン</line_name>
+		<station_cd>1133309</station_cd>
+		<station_g_cd>1130805</station_g_cd>
+		<station_name>新川崎</station_name>
+		<lon>139.671481</lon>
+		<lat>35.551784</lat>
+	</station>
+</ekidata>

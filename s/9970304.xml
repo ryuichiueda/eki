@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>32</pref_cd>
+		<line_cd>99703</line_cd>
+		<line_name>大社線</line_name>
+		<station_cd>9970304</station_cd>
+		<station_g_cd>9970304</station_g_cd>
+		<station_name>浜山公園北口</station_name>
+		<lon>132.70829</lon>
+		<lat>35.38926</lat>
+	</station>
+</ekidata>

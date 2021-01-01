@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>2200601</station_cd1>
+		<station_cd2>2200602</station_cd2>
+		<station_name1>西武遊園地</station_name1>
+		<station_name2>遊園地西</station_name2>
+		<lat1>35.765881</lat1>
+		<lon1>139.442747</lon1>
+		<lat2>35.769042</lat2>
+		<lon2>139.440166</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>2200602</station_cd1>
+		<station_cd2>2200603</station_cd2>
+		<station_name1>遊園地西</station_name1>
+		<station_name2>西武球場前</station_name2>
+		<lat1>35.769042</lat1>
+		<lon1>139.440166</lon1>
+		<lat2>35.77093</lat2>
+		<lon2>139.41966</lon2>
+	</station_join>
+</ekidata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99427</line_cd>
+		<line_name>北しなの線</line_name>
+		<station_cd>1140309</station_cd>
+		<station_g_cd>1140309</station_g_cd>
+		<station_name>牟礼</station_name>
+		<lon>138.247121</lon>
+		<lat>36.753239</lat>
+	</station>
+	<station_g>
+		<pref_cd>20</pref_cd>
+		<line_cd>99427</line_cd>
+		<line_name>北しなの線</line_name>
+		<station_cd>1140309</station_cd>
+		<station_name>牟礼</station_name>
+	</station_g>
+</ekidata>

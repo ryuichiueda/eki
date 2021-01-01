@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>25</pref_cd>
+		<line_cd>99601</line_cd>
+		<line_name>近江鉄道本線</line_name>
+		<station_cd>9960101</station_cd>
+		<station_g_cd>1141501</station_g_cd>
+		<station_name>米原</station_name>
+		<lon>136.291097</lon>
+		<lat>35.314578</lat>
+	</station>
+</ekidata>

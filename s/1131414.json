@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":11314,"line_name":"JR総武本線","station_cd":1131414,"station_g_cd":1131414,"station_name":"物井","lon":140.200263,"lat":35.68566}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

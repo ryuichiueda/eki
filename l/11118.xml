@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11118</line_cd>
+		<line_name>JR海峡線</line_name>
+		<line_lon>140.32904703906</line_lon>
+		<line_lat>41.366574565662</line_lat>
+		<line_zoom>9</line_zoom>
+	</line>
+	<station>
+		<station_cd>1111801</station_cd>
+		<station_g_cd>1111801</station_g_cd>
+		<station_name>中小国</station_name>
+		<lon>140.596798</lon>
+		<lat>41.051702</lat>
+	</station>
+	<station>
+		<station_cd>1111802</station_cd>
+		<station_g_cd>1111802</station_g_cd>
+		<station_name>津軽今別</station_name>
+		<lon>140.515625</lon>
+		<lat>41.144885</lat>
+	</station>
+	<station>
+		<station_cd>1111806</station_cd>
+		<station_g_cd>1111806</station_g_cd>
+		<station_name>木古内</station_name>
+		<lon>140.434004</lon>
+		<lat>41.677642</lat>
+	</station>
+</ekidata>

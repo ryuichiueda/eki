@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31013</line_cd>
+		<line_name>内部線</line_name>
+		<station_cd>3101302</station_cd>
+		<station_g_cd>3101302</station_g_cd>
+		<station_name>赤堀</station_name>
+		<lon>136.6104</lon>
+		<lat>34.95919</lat>
+	</station>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31013</line_cd>
+		<line_name>内部線</line_name>
+		<station_cd>3101302</station_cd>
+		<station_name>赤堀</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>31014</line_cd>
+		<line_name>八王子線</line_name>
+		<station_cd>3101402</station_cd>
+		<station_name>赤堀</station_name>
+	</station_g>
+</ekidata>

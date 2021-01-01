@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99523</line_cd>
+		<line_name>ゆとりーとライン</line_name>
+		<station_cd>9952305</station_cd>
+		<station_g_cd>9952305</station_g_cd>
+		<station_name>金屋</station_name>
+		<lon>136.956747</lon>
+		<lat>35.202551</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>99523</line_cd>
+		<line_name>ゆとりーとライン</line_name>
+		<station_cd>9952305</station_cd>
+		<station_name>金屋</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":99605,"line_name":"嵯峨野観光線","station_cd":9960501,"station_g_cd":1161407,"station_name":"トロッコ嵯峨","lon":135.680704,"lat":35.018656}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99509</line_cd>
+		<line_name>あおなみ線</line_name>
+		<station_cd>9950909</station_cd>
+		<station_g_cd>9950909</station_g_cd>
+		<station_name>稲永</station_name>
+		<lon>136.863203</lon>
+		<lat>35.091418</lat>
+	</station>
+	<station_g>
+		<pref_cd>23</pref_cd>
+		<line_cd>99509</line_cd>
+		<line_name>あおなみ線</line_name>
+		<station_cd>9950909</station_cd>
+		<station_name>稲永</station_name>
+	</station_g>
+</ekidata>

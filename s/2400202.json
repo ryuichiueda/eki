@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":24002,"line_name":"京王相模原線","station_cd":2400202,"station_g_cd":2400202,"station_name":"京王多摩川","lon":139.536606,"lat":35.644499}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

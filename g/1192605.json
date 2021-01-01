@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":46,"line_cd":11926,"line_name":"JR肥薩線(吉松～隼人)","station_cd":1192605,"station_name":"霧島温泉"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

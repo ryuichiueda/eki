@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>11631</line_cd>
+		<line_name>JR赤穂線</line_name>
+		<station_cd>1163106</station_cd>
+		<station_g_cd>1163106</station_g_cd>
+		<station_name>備前福河</station_name>
+		<lon>134.331664</lon>
+		<lat>34.746681</lat>
+	</station>
+</ekidata>

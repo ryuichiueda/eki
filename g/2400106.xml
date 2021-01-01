@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>24001</line_cd>
+		<line_name>京王線</line_name>
+		<station_cd>2400106</station_cd>
+		<station_g_cd>2400106</station_g_cd>
+		<station_name>明大前</station_name>
+		<lon>139.650352</lon>
+		<lat>35.668758</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>24001</line_cd>
+		<line_name>京王線</line_name>
+		<station_cd>2400106</station_cd>
+		<station_name>明大前</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>24006</line_cd>
+		<line_name>京王井の頭線</line_name>
+		<station_cd>2400608</station_cd>
+		<station_name>明大前</station_name>
+	</station_g>
+</ekidata>

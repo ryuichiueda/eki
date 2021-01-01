@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":41,"line_cd":11909,"line_name":"JR筑肥線(姪浜～西唐津)","station_cd":1190917,"station_name":"東唐津"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":34,"line_cd":99717,"line_name":"広電９号線(白島線)","station_cd":9971704,"station_name":"家庭裁判所前"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

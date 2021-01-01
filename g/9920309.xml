@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99203</line_cd>
+		<line_name>弘南鉄道大鰐線</line_name>
+		<station_cd>9920309</station_cd>
+		<station_g_cd>9920309</station_g_cd>
+		<station_name>小栗山</station_name>
+		<lon>140.486704</lon>
+		<lat>40.564276</lat>
+	</station>
+	<station_g>
+		<pref_cd>2</pref_cd>
+		<line_cd>99203</line_cd>
+		<line_name>弘南鉄道大鰐線</line_name>
+		<station_cd>9920309</station_cd>
+		<station_name>小栗山</station_name>
+	</station_g>
+</ekidata>

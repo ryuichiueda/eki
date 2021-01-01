@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>3001101</station_cd1>
+		<station_cd2>3001102</station_cd2>
+		<station_name1>大江</station_name1>
+		<station_name2>東名古屋港</station_name2>
+		<lat1>35.093258</lat1>
+		<lon1>136.912758</lon1>
+		<lat2>35.089091</lat2>
+		<lon2>136.899255</lon2>
+	</station_join>
+</ekidata>

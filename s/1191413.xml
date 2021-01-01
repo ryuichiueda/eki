@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>40</pref_cd>
+		<line_cd>11914</line_cd>
+		<line_name>JR日田彦山線</line_name>
+		<station_cd>1191413</station_cd>
+		<station_g_cd>1191413</station_g_cd>
+		<station_name>田川伊田</station_name>
+		<lon>130.817688</lon>
+		<lat>33.642046</lat>
+	</station>
+</ekidata>

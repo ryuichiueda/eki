@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>26001</line_cd>
+		<line_name>東急東横線</line_name>
+		<station_cd>2600107</station_cd>
+		<station_g_cd>2600107</station_g_cd>
+		<station_name>自由が丘</station_name>
+		<lon>139.668664</lon>
+		<lat>35.607224</lat>
+	</station>
+</ekidata>

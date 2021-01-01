@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11927</line_cd>
+		<line_name>JR宮崎空港線</line_name>
+		<line_lon>131.43276229102</line_lon>
+		<line_lat>31.895343146073</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>1192701</station_cd>
+		<station_g_cd>1190729</station_g_cd>
+		<station_name>宮崎</station_name>
+		<lon>131.431975</lon>
+		<lat>31.915742</lat>
+	</station>
+	<station>
+		<station_cd>1192702</station_cd>
+		<station_g_cd>1190730</station_g_cd>
+		<station_name>南宮崎</station_name>
+		<lon>131.422329</lon>
+		<lat>31.895097</lat>
+	</station>
+	<station>
+		<station_cd>1192703</station_cd>
+		<station_g_cd>1192703</station_g_cd>
+		<station_name>田吉</station_name>
+		<lon>131.430697</lon>
+		<lat>31.878202</lat>
+	</station>
+	<station>
+		<station_cd>1192704</station_cd>
+		<station_g_cd>1192704</station_g_cd>
+		<station_name>宮崎空港</station_name>
+		<lon>131.440555</lon>
+		<lat>31.87251</lat>
+	</station>
+</ekidata>

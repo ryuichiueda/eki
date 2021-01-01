@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>24</pref_cd>
+		<line_cd>31009</line_cd>
+		<line_name>近鉄山田線</line_name>
+		<station_cd>3100913</station_cd>
+		<station_g_cd>1151206</station_g_cd>
+		<station_name>伊勢市</station_name>
+		<lon>136.710155</lon>
+		<lat>34.492087</lat>
+	</station>
+</ekidata>

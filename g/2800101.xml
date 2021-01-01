@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28001</line_cd>
+		<line_name>東京メトロ銀座線</line_name>
+		<station_cd>2800101</station_cd>
+		<station_g_cd>2100201</station_g_cd>
+		<station_name>浅草</station_name>
+		<lon>139.797592</lon>
+		<lat>35.710733</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>21002</line_cd>
+		<line_name>東武伊勢崎線</line_name>
+		<station_cd>2100201</station_cd>
+		<station_name>浅草</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28001</line_cd>
+		<line_name>東京メトロ銀座線</line_name>
+		<station_cd>2800101</station_cd>
+		<station_name>浅草</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99302</line_cd>
+		<line_name>都営浅草線</line_name>
+		<station_cd>9930218</station_cd>
+		<station_name>浅草</station_name>
+	</station_g>
+</ekidata>

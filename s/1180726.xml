@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>38</pref_cd>
+		<line_cd>11807</line_cd>
+		<line_name>JR予讃・内子線</line_name>
+		<station_cd>1180726</station_cd>
+		<station_g_cd>1180726</station_g_cd>
+		<station_name>伊予大洲</station_name>
+		<lon>132.54485</lon>
+		<lat>33.518601</lat>
+	</station>
+</ekidata>

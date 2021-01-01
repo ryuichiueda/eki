@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":99927,"line_name":"ゆいレール"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

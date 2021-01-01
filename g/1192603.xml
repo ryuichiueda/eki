@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11926</line_cd>
+		<line_name>JR肥薩線(吉松～隼人)</line_name>
+		<station_cd>1192603</station_cd>
+		<station_g_cd>1192603</station_g_cd>
+		<station_name>大隅横川</station_name>
+		<lon>130.702825</lon>
+		<lat>31.906487</lat>
+	</station>
+	<station_g>
+		<pref_cd>46</pref_cd>
+		<line_cd>11926</line_cd>
+		<line_name>JR肥薩線(吉松～隼人)</line_name>
+		<station_cd>1192603</station_cd>
+		<station_name>大隅横川</station_name>
+	</station_g>
+</ekidata>

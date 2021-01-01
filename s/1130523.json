@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":11305,"line_name":"JR武蔵野線","station_cd":1130523,"station_g_cd":1130523,"station_name":"船橋法典","lon":139.966771,"lat":35.730435}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

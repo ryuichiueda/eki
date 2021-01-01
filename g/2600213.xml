@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>26002</line_cd>
+		<line_name>東急目黒線</line_name>
+		<station_cd>2600213</station_cd>
+		<station_g_cd>2600113</station_g_cd>
+		<station_name>日吉</station_name>
+		<lon>139.646944</lon>
+		<lat>35.5539</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>26001</line_cd>
+		<line_name>東急東横線</line_name>
+		<station_cd>2600113</station_cd>
+		<station_name>日吉</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>26002</line_cd>
+		<line_name>東急目黒線</line_name>
+		<station_cd>2600213</station_cd>
+		<station_name>日吉</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99343</line_cd>
+		<line_name>グリーンライン</line_name>
+		<station_cd>9934310</station_cd>
+		<station_name>日吉</station_name>
+	</station_g>
+</ekidata>

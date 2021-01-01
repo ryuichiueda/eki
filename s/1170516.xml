@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>31</pref_cd>
+		<line_cd>11705</line_cd>
+		<line_name>JR境線</line_name>
+		<station_cd>1170516</station_cd>
+		<station_g_cd>1170516</station_g_cd>
+		<station_name>境港</station_name>
+		<lon>133.222762</lon>
+		<lat>35.545002</lat>
+	</station>
+</ekidata>

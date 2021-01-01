@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>25</pref_cd>
+		<line_cd>33006</line_cd>
+		<line_name>京阪石山坂本線</line_name>
+		<station_cd>3300606</station_cd>
+		<station_g_cd>3300606</station_g_cd>
+		<station_name>中ノ庄</station_name>
+		<lon>135.891516</lon>
+		<lat>34.990857</lat>
+	</station>
+</ekidata>

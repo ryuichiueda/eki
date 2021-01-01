@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+	<pref>
+		<code>45</code>
+		<name>宮崎県</name>
+	</pref>
+	<line>
+		<line_cd>11907</line_cd>
+		<line_name>JR日豊本線(佐伯～鹿児島中央)</line_name>
+	</line>
+	<line>
+		<line_cd>11925</line_cd>
+		<line_name>えびの高原線(八代～吉松)</line_name>
+	</line>
+	<line>
+		<line_cd>11927</line_cd>
+		<line_name>JR宮崎空港線</line_name>
+	</line>
+	<line>
+		<line_cd>11928</line_cd>
+		<line_name>JR日南線</line_name>
+	</line>
+	<line>
+		<line_cd>11929</line_cd>
+		<line_name>えびの高原線</line_name>
+	</line>
+</ekidata>

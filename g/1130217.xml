@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11302</line_cd>
+		<line_name>JR山手線</line_name>
+		<station_cd>1130217</station_cd>
+		<station_g_cd>1130217</station_g_cd>
+		<station_name>西日暮里</station_name>
+		<lon>139.766857</lon>
+		<lat>35.731954</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11302</line_cd>
+		<line_name>JR山手線</line_name>
+		<station_cd>1130217</station_cd>
+		<station_name>西日暮里</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11332</line_cd>
+		<line_name>JR京浜東北線</line_name>
+		<station_cd>1133215</station_cd>
+		<station_name>西日暮里</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28005</line_cd>
+		<line_name>東京メトロ千代田線</line_name>
+		<station_cd>2800505</station_cd>
+		<station_name>西日暮里</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99342</line_cd>
+		<line_name>日暮里・舎人ライナー</line_name>
+		<station_cd>9934202</station_cd>
+		<station_name>西日暮里</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":32009,"line_name":"南海汐見橋線","station_cd":3200903,"station_g_cd":3200903,"station_name":"木津川","lon":135.483093,"lat":34.654703}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

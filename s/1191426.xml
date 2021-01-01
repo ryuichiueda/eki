@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>44</pref_cd>
+		<line_cd>11914</line_cd>
+		<line_name>JR日田彦山線</line_name>
+		<station_cd>1191426</station_cd>
+		<station_g_cd>1191311</station_g_cd>
+		<station_name>夜明</station_name>
+		<lon>130.866195</lon>
+		<lat>33.319541</lat>
+	</station>
+</ekidata>

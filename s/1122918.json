@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":11229,"line_name":"JR常磐線(取手～いわき)","station_cd":1122918,"station_g_cd":1122918,"station_name":"勝田","lon":140.524482,"lat":36.394033}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

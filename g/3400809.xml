@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>34008</line_cd>
+		<line_name>阪急千里線</line_name>
+		<station_cd>3400809</station_cd>
+		<station_g_cd>3400322</station_g_cd>
+		<station_name>淡路</station_name>
+		<lon>135.516527</lon>
+		<lat>34.738827</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>11641</line_cd>
+		<line_name>おおさか東線</line_name>
+		<station_cd>1164111</station_cd>
+		<station_name>JR淡路</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>34003</line_cd>
+		<line_name>阪急京都本線</line_name>
+		<station_cd>3400322</station_cd>
+		<station_name>淡路</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>34008</line_cd>
+		<line_name>阪急千里線</line_name>
+		<station_cd>3400809</station_cd>
+		<station_name>淡路</station_name>
+	</station_g>
+</ekidata>

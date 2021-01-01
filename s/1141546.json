@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":17,"line_cd":99426,"line_name":"IRいしかわ鉄道線","station_cd":1141546,"station_g_cd":1141546,"station_name":"津幡","lon":136.730759,"lat":36.657895}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

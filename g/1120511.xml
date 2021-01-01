@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11205</line_cd>
+		<line_name>JR津軽線</line_name>
+		<station_cd>1120511</station_cd>
+		<station_g_cd>1120511</station_g_cd>
+		<station_name>蟹田</station_name>
+		<lon>140.642565</lon>
+		<lat>41.038274</lat>
+	</station>
+	<station_g>
+		<pref_cd>2</pref_cd>
+		<line_cd>11205</line_cd>
+		<line_name>JR津軽線</line_name>
+		<station_cd>1120511</station_cd>
+		<station_name>蟹田</station_name>
+	</station_g>
+</ekidata>

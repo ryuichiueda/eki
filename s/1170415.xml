@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>33</pref_cd>
+		<line_cd>11704</line_cd>
+		<line_name>JR因美線</line_name>
+		<station_cd>1170415</station_cd>
+		<station_g_cd>1170415</station_g_cd>
+		<station_name>美作加茂</station_name>
+		<lon>134.062239</lon>
+		<lat>35.169622</lat>
+	</station>
+</ekidata>

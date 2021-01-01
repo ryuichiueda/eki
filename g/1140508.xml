@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99425</line_cd>
+		<line_name>あいの風とやま鉄道線</line_name>
+		<station_cd>1140508</station_cd>
+		<station_g_cd>1140508</station_g_cd>
+		<station_name>生地</station_name>
+		<lon>137.426534</lon>
+		<lat>36.906031</lat>
+	</station>
+	<station_g>
+		<pref_cd>16</pref_cd>
+		<line_cd>99425</line_cd>
+		<line_name>あいの風とやま鉄道線</line_name>
+		<station_cd>1140508</station_cd>
+		<station_name>生地</station_name>
+	</station_g>
+</ekidata>

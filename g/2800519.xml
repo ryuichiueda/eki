@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28005</line_cd>
+		<line_name>東京メトロ千代田線</line_name>
+		<station_cd>2800519</station_cd>
+		<station_g_cd>2500104</station_g_cd>
+		<station_name>代々木公園</station_name>
+		<lon>139.689099</lon>
+		<lat>35.669187</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>25001</line_cd>
+		<line_name>小田急線</line_name>
+		<station_cd>2500104</station_cd>
+		<station_name>代々木八幡</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28005</line_cd>
+		<line_name>東京メトロ千代田線</line_name>
+		<station_cd>2800519</station_cd>
+		<station_name>代々木公園</station_name>
+	</station_g>
+</ekidata>

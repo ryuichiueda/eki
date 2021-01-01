@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>32002</line_cd>
+		<line_name>南海空港線</line_name>
+		<station_cd>3200202</station_cd>
+		<station_g_cd>1162802</station_g_cd>
+		<station_name>りんくうタウン</station_name>
+		<lon>135.300117</lon>
+		<lat>34.410308</lat>
+	</station>
+</ekidata>

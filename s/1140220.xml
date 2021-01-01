@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>19</pref_cd>
+		<line_cd>11402</line_cd>
+		<line_name>JR身延線</line_name>
+		<station_cd>1140220</station_cd>
+		<station_g_cd>1140220</station_g_cd>
+		<station_name>下部温泉</station_name>
+		<lon>138.472359</lon>
+		<lat>35.425751</lat>
+	</station>
+</ekidata>

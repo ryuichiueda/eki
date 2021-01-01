@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":34,"line_cd":99714,"line_name":"広電６号線(江波線)","station_cd":9971415,"station_name":"舟入町"},{"pref_cd":34,"line_cd":99716,"line_name":"広電８号線(横川線)","station_cd":9971607,"station_name":"舟入町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

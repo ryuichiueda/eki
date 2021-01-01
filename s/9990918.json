@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":40,"line_cd":99909,"line_name":"筑豊電気鉄道線","station_cd":9990918,"station_g_cd":9990918,"station_name":"木屋瀬","lon":130.724957,"lat":33.778483}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

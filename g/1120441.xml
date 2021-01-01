@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11204</line_cd>
+		<line_name>JR五能線</line_name>
+		<station_cd>1120441</station_cd>
+		<station_g_cd>1120441</station_g_cd>
+		<station_name>林崎</station_name>
+		<lon>140.480401</lon>
+		<lat>40.675355</lat>
+	</station>
+	<station_g>
+		<pref_cd>2</pref_cd>
+		<line_cd>11204</line_cd>
+		<line_name>JR五能線</line_name>
+		<station_cd>1120441</station_cd>
+		<station_name>林崎</station_name>
+	</station_g>
+</ekidata>

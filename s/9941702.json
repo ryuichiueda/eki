@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":17,"line_cd":99417,"line_name":"北陸鉄道浅野川線","station_cd":9941702,"station_g_cd":9941702,"station_name":"七ツ屋","lon":136.651752,"lat":36.583108}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

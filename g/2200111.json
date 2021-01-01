@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":13,"line_cd":22001,"line_name":"西武池袋線","station_cd":2200111,"station_name":"大泉学園"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

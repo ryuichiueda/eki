@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":20,"line_cd":11407,"line_name":"JR飯山線","station_cd":1140718,"station_g_cd":1140718,"station_name":"信濃白鳥","lon":138.50302,"lat":36.983591}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

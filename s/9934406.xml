@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99344</line_cd>
+		<line_name>箱根登山ケーブルカー</line_name>
+		<station_cd>9934406</station_cd>
+		<station_g_cd>9934406</station_g_cd>
+		<station_name>早雲山</station_name>
+		<lon>139.035611</lon>
+		<lat>35.246444</lat>
+	</station>
+</ekidata>

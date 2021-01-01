@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>28</pref_cd>
+		<line_cd>35001</line_cd>
+		<line_name>阪神本線</line_name>
+		<station_cd>3500122</station_cd>
+		<station_g_cd>3500122</station_g_cd>
+		<station_name>青木</station_name>
+		<lon>135.28062</lon>
+		<lat>34.71695</lat>
+	</station>
+</ekidata>

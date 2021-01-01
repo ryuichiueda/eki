@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>23002</line_cd>
+		<line_name>京成押上線</line_name>
+		<station_cd>2300201</station_cd>
+		<station_g_cd>2100203</station_g_cd>
+		<station_name>押上（スカイツリー前）</station_name>
+		<lon>139.812935</lon>
+		<lat>35.710702</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>21002</line_cd>
+		<line_name>東武伊勢崎線</line_name>
+		<station_cd>2100203</station_cd>
+		<station_name>押上〈スカイツリー前〉</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>23002</line_cd>
+		<line_name>京成押上線</line_name>
+		<station_cd>2300201</station_cd>
+		<station_name>押上（スカイツリー前）</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28008</line_cd>
+		<line_name>東京メトロ半蔵門線</line_name>
+		<station_cd>2800813</station_cd>
+		<station_name>押上〈スカイツリー前〉</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>99302</line_cd>
+		<line_name>都営浅草線</line_name>
+		<station_cd>9930220</station_cd>
+		<station_name>押上（スカイツリー前）</station_name>
+	</station_g>
+</ekidata>

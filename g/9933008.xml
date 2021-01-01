@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99330</line_cd>
+		<line_name>真岡鐵道真岡線</line_name>
+		<station_cd>9933008</station_cd>
+		<station_g_cd>9933008</station_g_cd>
+		<station_name>北真岡</station_name>
+		<lon>140.014061</lon>
+		<lat>36.44909</lat>
+	</station>
+	<station_g>
+		<pref_cd>9</pref_cd>
+		<line_cd>99330</line_cd>
+		<line_name>真岡鐵道真岡線</line_name>
+		<station_cd>9933008</station_cd>
+		<station_name>北真岡</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>11343</line_cd>
+		<line_name>上野東京ライン</line_name>
+		<line_lon>139.77210044861</line_lon>
+		<line_lat>35.697455807258</line_lat>
+		<line_zoom>14</line_zoom>
+	</line>
+	<station>
+		<station_cd>1134301</station_cd>
+		<station_g_cd>1130101</station_g_cd>
+		<station_name>東京</station_name>
+		<lon>139.766103</lon>
+		<lat>35.681391</lat>
+	</station>
+	<station>
+		<station_cd>1134302</station_cd>
+		<station_g_cd>1130220</station_g_cd>
+		<station_name>上野</station_name>
+		<lon>139.777043</lon>
+		<lat>35.71379</lat>
+	</station>
+</ekidata>

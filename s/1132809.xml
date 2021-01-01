@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>11328</line_cd>
+		<line_name>JR成田エクスプレス</line_name>
+		<station_cd>1132809</station_cd>
+		<station_g_cd>1130101</station_g_cd>
+		<station_name>東京</station_name>
+		<lon>139.766103</lon>
+		<lat>35.681391</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>32002</line_cd>
+		<line_name>南海空港線</line_name>
+		<line_lon>135.28406741797</line_lon>
+		<line_lat>34.423067923727</line_lat>
+		<line_zoom>12</line_zoom>
+	</line>
+	<station>
+		<station_cd>3200201</station_cd>
+		<station_g_cd>3200128</station_g_cd>
+		<station_name>泉佐野</station_name>
+		<lon>135.316724</lon>
+		<lat>34.411153</lat>
+	</station>
+	<station>
+		<station_cd>3200202</station_cd>
+		<station_g_cd>1162802</station_g_cd>
+		<station_name>りんくうタウン</station_name>
+		<lon>135.300117</lon>
+		<lat>34.410308</lat>
+	</station>
+	<station>
+		<station_cd>3200203</station_cd>
+		<station_g_cd>1162803</station_g_cd>
+		<station_name>関西空港</station_name>
+		<lon>135.243601</lon>
+		<lat>34.435848</lat>
+	</station>
+</ekidata>

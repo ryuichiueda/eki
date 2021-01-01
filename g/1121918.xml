@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11219</line_cd>
+		<line_name>JR米坂線</line_name>
+		<station_cd>1121918</station_cd>
+		<station_g_cd>1121918</station_g_cd>
+		<station_name>越後下関</station_name>
+		<lon>139.560024</lon>
+		<lat>38.090037</lat>
+	</station>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11219</line_cd>
+		<line_name>JR米坂線</line_name>
+		<station_cd>1121918</station_cd>
+		<station_name>越後下関</station_name>
+	</station_g>
+</ekidata>

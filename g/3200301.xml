@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>32003</line_cd>
+		<line_name>南海和歌山港線</line_name>
+		<station_cd>3200301</station_cd>
+		<station_g_cd>1164003</station_g_cd>
+		<station_name>和歌山市</station_name>
+		<lon>135.166538</lon>
+		<lat>34.236925</lat>
+	</station>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>11640</line_cd>
+		<line_name>紀勢本線(和歌山～和歌山市)</line_name>
+		<station_cd>1164003</station_cd>
+		<station_name>和歌山市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>32001</line_cd>
+		<line_name>南海本線</line_name>
+		<station_cd>3200140</station_cd>
+		<station_name>和歌山市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>32003</line_cd>
+		<line_name>南海和歌山港線</line_name>
+		<station_cd>3200301</station_cd>
+		<station_name>和歌山市</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>32005</line_cd>
+		<line_name>南海加太線</line_name>
+		<station_cd>3200501</station_cd>
+		<station_name>和歌山市</station_name>
+	</station_g>
+</ekidata>

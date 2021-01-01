@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":23,"line_cd":99514,"line_name":"名古屋市営地下鉄名城線","station_cd":9951414,"station_g_cd":9951414,"station_name":"西高蔵","lon":136.901769,"lat":35.134622}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

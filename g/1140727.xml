@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11407</line_cd>
+		<line_name>JR飯山線</line_name>
+		<station_cd>1140727</station_cd>
+		<station_g_cd>1140727</station_g_cd>
+		<station_name>越後水沢</station_name>
+		<lon>138.718056</lon>
+		<lat>37.074324</lat>
+	</station>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11407</line_cd>
+		<line_name>JR飯山線</line_name>
+		<station_cd>1140727</station_cd>
+		<station_name>越後水沢</station_name>
+	</station_g>
+</ekidata>

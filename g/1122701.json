@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":7,"line_cd":11225,"line_name":"JR磐越西線(郡山～会津若松)","station_cd":1122515,"station_name":"会津若松"},{"pref_cd":7,"line_cd":11226,"line_name":"森と水とロマンの鉄道","station_cd":1122601,"station_name":"会津若松"},{"pref_cd":7,"line_cd":11227,"line_name":"JR只見線","station_cd":1122701,"station_name":"会津若松"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":11,"line_cd":22005,"line_name":"西武狭山線","station_cd":2200503,"station_g_cd":2200503,"station_name":"西武球場前","lon":139.41966,"lat":35.77093}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":11324,"line_name":"JR外房線","station_cd":1132424,"station_g_cd":1132424,"station_name":"行川アイランド","lon":140.226962,"lat":35.11832}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

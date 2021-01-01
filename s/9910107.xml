@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>99101</line_cd>
+		<line_name>札幌市営地下鉄東西線</line_name>
+		<station_cd>9910107</station_cd>
+		<station_g_cd>9910107</station_g_cd>
+		<station_name>西１８丁目</station_name>
+		<lon>141.330204</lon>
+		<lat>43.057168</lat>
+	</station>
+</ekidata>

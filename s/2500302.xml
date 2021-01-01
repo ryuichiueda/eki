@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>25003</line_cd>
+		<line_name>小田急多摩線</line_name>
+		<station_cd>2500302</station_cd>
+		<station_g_cd>2500302</station_g_cd>
+		<station_name>五月台</station_name>
+		<lon>139.493542</lon>
+		<lat>35.600174</lat>
+	</station>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>26002</line_cd>
+		<line_name>東急目黒線</line_name>
+		<station_cd>2600211</station_cd>
+		<station_g_cd>1130307</station_g_cd>
+		<station_name>武蔵小杉</station_name>
+		<lon>139.659652</lon>
+		<lat>35.575752</lat>
+	</station>
+</ekidata>

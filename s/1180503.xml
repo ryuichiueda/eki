@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>36</pref_cd>
+		<line_cd>11805</line_cd>
+		<line_name>JR鳴門線</line_name>
+		<station_cd>1180503</station_cd>
+		<station_g_cd>1180503</station_g_cd>
+		<station_name>金比羅前</station_name>
+		<lon>134.585014</lon>
+		<lat>34.169651</lat>
+	</station>
+</ekidata>

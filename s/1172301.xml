@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>35</pref_cd>
+		<line_cd>11723</line_cd>
+		<line_name>JR小野田線</line_name>
+		<station_cd>1172301</station_cd>
+		<station_g_cd>1172115</station_g_cd>
+		<station_name>宇部新川</station_name>
+		<lon>131.242441</lon>
+		<lat>33.958369</lat>
+	</station>
+</ekidata>

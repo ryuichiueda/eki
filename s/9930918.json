@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":99309,"line_name":"つくばエクスプレス","station_cd":9930918,"station_g_cd":9930918,"station_name":"万博記念公園","lon":140.059256,"lat":36.05841}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11214,"line_name":"JR羽越本線"},{"line_cd":11219,"line_name":"JR米坂線"},{"line_cd":11226,"line_name":"森と水とロマンの鉄道"},{"line_cd":11227,"line_name":"JR只見線"},{"line_cd":11342,"line_name":"JR上越線"},{"line_cd":11404,"line_name":"JR信越本線(直江津～新潟)"},{"line_cd":11406,"line_name":"JR白新線"},{"line_cd":11407,"line_name":"JR飯山線"},{"line_cd":11408,"line_name":"JR越後線"},{"line_cd":11409,"line_name":"北アルプス線"},{"line_cd":11410,"line_name":"JR弥彦線"},{"line_cd":99402,"line_name":"北越急行ほくほく線"},{"line_cd":99423,"line_name":"日本海ひすいライン"},{"line_cd":99424,"line_name":"妙高はねうまライン"},{"line_cd":99425,"line_name":"あいの風とやま鉄道線"},{"line_cd":99427,"line_name":"北しなの線"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

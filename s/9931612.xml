@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>99316</line_cd>
+		<line_name>ブルーライン</line_name>
+		<station_cd>9931612</station_cd>
+		<station_g_cd>9931612</station_g_cd>
+		<station_name>三ツ沢下町</station_name>
+		<lon>139.61481</lon>
+		<lat>35.476512</lat>
+	</station>
+</ekidata>

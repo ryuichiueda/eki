@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>28009</line_cd>
+		<line_name>東京メトロ南北線</line_name>
+		<station_cd>2800915</station_cd>
+		<station_g_cd>2800915</station_g_cd>
+		<station_name>六本木一丁目</station_name>
+		<lon>139.739</lon>
+		<lat>35.665595</lat>
+	</station>
+</ekidata>

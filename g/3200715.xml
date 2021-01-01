@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>32007</line_cd>
+		<line_name>南海高野線</line_name>
+		<station_cd>3200715</station_cd>
+		<station_g_cd>3200715</station_g_cd>
+		<station_name>中百舌鳥</station_name>
+		<lon>135.504454</lon>
+		<lat>34.556232</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>32007</line_cd>
+		<line_name>南海高野線</line_name>
+		<station_cd>3200715</station_cd>
+		<station_name>中百舌鳥</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99616</line_cd>
+		<line_name>泉北高速鉄道線</line_name>
+		<station_cd>9961601</station_cd>
+		<station_name>中百舌鳥</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99618</line_cd>
+		<line_name>大阪メトロ御堂筋線</line_name>
+		<station_cd>9961820</station_cd>
+		<station_name>なかもず</station_name>
+	</station_g>
+</ekidata>

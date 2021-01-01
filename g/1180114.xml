@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11801</line_cd>
+		<line_name>JR土讃線</line_name>
+		<station_cd>1180114</station_cd>
+		<station_g_cd>1180114</station_g_cd>
+		<station_name>阿波川口</station_name>
+		<lon>133.754634</lon>
+		<lat>33.963649</lat>
+	</station>
+	<station_g>
+		<pref_cd>36</pref_cd>
+		<line_cd>11801</line_cd>
+		<line_name>JR土讃線</line_name>
+		<station_cd>1180114</station_cd>
+		<station_name>阿波川口</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":34,"line_cd":99711,"line_name":"広電２号線(宮島線)","station_cd":9971117,"station_name":"観音町"},{"pref_cd":34,"line_cd":99712,"line_name":"広電３号線","station_cd":9971226,"station_name":"観音町"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

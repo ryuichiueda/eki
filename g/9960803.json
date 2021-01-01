@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":26,"line_cd":99608,"line_name":"宮福線","station_cd":9960803,"station_name":"荒河かしの木台"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

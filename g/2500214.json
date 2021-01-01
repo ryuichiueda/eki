@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":11301,"line_name":"JR東海道本線(東京～熱海)","station_cd":1130108,"station_name":"藤沢"},{"pref_cd":14,"line_cd":25002,"line_name":"小田急江ノ島線","station_cd":2500214,"station_name":"藤沢"},{"pref_cd":14,"line_cd":99320,"line_name":"江ノ島電鉄線","station_cd":9932001,"station_name":"藤沢"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99651</line_cd>
+		<line_name>貴志川線</line_name>
+		<station_cd>9965111</station_cd>
+		<station_g_cd>9965111</station_g_cd>
+		<station_name>大池遊園</station_name>
+		<lon>135.285239</lon>
+		<lat>34.204706</lat>
+	</station>
+	<station_g>
+		<pref_cd>30</pref_cd>
+		<line_cd>99651</line_cd>
+		<line_name>貴志川線</line_name>
+		<station_cd>9965111</station_cd>
+		<station_name>大池遊園</station_name>
+	</station_g>
+</ekidata>

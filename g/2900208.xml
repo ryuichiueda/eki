@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>29002</line_cd>
+		<line_name>相鉄いずみ野線</line_name>
+		<station_cd>2900208</station_cd>
+		<station_g_cd>2500210</station_g_cd>
+		<station_name>湘南台</station_name>
+		<lon>139.467031</lon>
+		<lat>35.396642</lat>
+	</station>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>25002</line_cd>
+		<line_name>小田急江ノ島線</line_name>
+		<station_cd>2500210</station_cd>
+		<station_name>湘南台</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>29002</line_cd>
+		<line_name>相鉄いずみ野線</line_name>
+		<station_cd>2900208</station_cd>
+		<station_name>湘南台</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>14</pref_cd>
+		<line_cd>99316</line_cd>
+		<line_name>ブルーライン</line_name>
+		<station_cd>9931632</station_cd>
+		<station_name>湘南台</station_name>
+	</station_g>
+</ekidata>

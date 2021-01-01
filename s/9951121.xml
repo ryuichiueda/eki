@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>23</pref_cd>
+		<line_cd>99511</line_cd>
+		<line_name>愛知環状鉄道線</line_name>
+		<station_cd>9951121</station_cd>
+		<station_g_cd>3001218</station_g_cd>
+		<station_name>瀬戸市</station_name>
+		<lon>137.078452</lon>
+		<lat>35.225921</lat>
+	</station>
+</ekidata>

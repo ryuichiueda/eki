@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11342</line_cd>
+		<line_name>JR上越線</line_name>
+		<station_cd>1134229</station_cd>
+		<station_g_cd>1122738</station_g_cd>
+		<station_name>小出</station_name>
+		<lon>138.953526</lon>
+		<lat>37.233581</lat>
+	</station>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11227</line_cd>
+		<line_name>JR只見線</line_name>
+		<station_cd>1122738</station_cd>
+		<station_name>小出</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11342</line_cd>
+		<line_name>JR上越線</line_name>
+		<station_cd>1134229</station_cd>
+		<station_name>小出</station_name>
+	</station_g>
+</ekidata>

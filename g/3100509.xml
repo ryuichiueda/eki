@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>31005</line_cd>
+		<line_name>近鉄大阪線</line_name>
+		<station_cd>3100509</station_cd>
+		<station_g_cd>3100509</station_g_cd>
+		<station_name>近鉄八尾</station_name>
+		<lon>135.603591</lon>
+		<lat>34.62978</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>31005</line_cd>
+		<line_name>近鉄大阪線</line_name>
+		<station_cd>3100509</station_cd>
+		<station_name>近鉄八尾</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>28008</line_cd>
+		<line_name>東京メトロ半蔵門線</line_name>
+		<station_cd>2800812</station_cd>
+		<station_g_cd>1131322</station_g_cd>
+		<station_name>錦糸町</station_name>
+		<lon>139.814941</lon>
+		<lat>35.697578</lat>
+	</station>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11313</line_cd>
+		<line_name>JR中央・総武線</line_name>
+		<station_cd>1131322</station_cd>
+		<station_name>錦糸町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>11314</line_cd>
+		<line_name>JR総武本線</line_name>
+		<station_cd>1131404</station_cd>
+		<station_name>錦糸町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>13</pref_cd>
+		<line_cd>28008</line_cd>
+		<line_name>東京メトロ半蔵門線</line_name>
+		<station_cd>2800812</station_cd>
+		<station_name>錦糸町</station_name>
+	</station_g>
+</ekidata>

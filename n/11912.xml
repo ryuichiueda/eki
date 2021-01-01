@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station_join api 1.0">
+	<station_join>
+		<station_cd1>1191201</station_cd1>
+		<station_cd2>1191202</station_cd2>
+		<station_name1>桂川</station_name1>
+		<station_name2>上穂波</station_name2>
+		<lat1>33.584705</lat1>
+		<lon1>130.662752</lon1>
+		<lat2>33.566909</lat2>
+		<lon2>130.645151</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1191202</station_cd1>
+		<station_cd2>1191203</station_cd2>
+		<station_name1>上穂波</station_name1>
+		<station_name2>筑前内野</station_name2>
+		<lat1>33.566909</lat1>
+		<lon1>130.645151</lon1>
+		<lat2>33.539967</lat2>
+		<lon2>130.63793</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1191203</station_cd1>
+		<station_cd2>1191204</station_cd2>
+		<station_name1>筑前内野</station_name1>
+		<station_name2>筑前山家</station_name2>
+		<lat1>33.539967</lat1>
+		<lon1>130.63793</lon1>
+		<lat2>33.477472</lat2>
+		<lon2>130.574185</lon2>
+	</station_join>
+	<station_join>
+		<station_cd1>1191204</station_cd1>
+		<station_cd2>1191205</station_cd2>
+		<station_name1>筑前山家</station_name1>
+		<station_name2>原田</station_name2>
+		<lat1>33.477472</lat1>
+		<lon1>130.574185</lon1>
+		<lat2>33.451769</lat2>
+		<lon2>130.539376</lon2>
+	</station_join>
+</ekidata>

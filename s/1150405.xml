@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>22</pref_cd>
+		<line_cd>11504</line_cd>
+		<line_name>JR伊東線</line_name>
+		<station_cd>1150405</station_cd>
+		<station_g_cd>1150405</station_g_cd>
+		<station_name>宇佐美</station_name>
+		<lon>139.079778</lon>
+		<lat>35.005602</lat>
+	</station>
+</ekidata>

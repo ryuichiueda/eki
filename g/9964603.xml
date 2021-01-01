@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99646</line_cd>
+		<line_name>神戸市営地下鉄山手線</line_name>
+		<station_cd>9964603</station_cd>
+		<station_g_cd>9964603</station_g_cd>
+		<station_name>県庁前</station_name>
+		<lon>135.183859</lon>
+		<lat>34.690916</lat>
+	</station>
+	<station_g>
+		<pref_cd>28</pref_cd>
+		<line_cd>99646</line_cd>
+		<line_name>神戸市営地下鉄山手線</line_name>
+		<station_cd>9964603</station_cd>
+		<station_name>県庁前</station_name>
+	</station_g>
+</ekidata>

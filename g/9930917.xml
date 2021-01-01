@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99309</line_cd>
+		<line_name>つくばエクスプレス</line_name>
+		<station_cd>9930917</station_cd>
+		<station_g_cd>9930917</station_g_cd>
+		<station_name>みどりの</station_name>
+		<lon>140.056276</lon>
+		<lat>36.03025</lat>
+	</station>
+	<station_g>
+		<pref_cd>8</pref_cd>
+		<line_cd>99309</line_cd>
+		<line_name>つくばエクスプレス</line_name>
+		<station_cd>9930917</station_cd>
+		<station_name>みどりの</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":9933101,"station_cd2":9933102,"station_name1":"千葉みなと","station_name2":"市役所前","lat1":35.607391,"lon1":140.102495,"lat2":35.606878,"lon2":140.107757},{"station_cd1":9933102,"station_cd2":9933103,"station_name1":"市役所前","station_name2":"千葉","lat1":35.606878,"lon1":140.107757,"lat2":35.612084,"lon2":140.114136},{"station_cd1":9933103,"station_cd2":9933104,"station_name1":"千葉","station_name2":"栄町","lat1":35.612084,"lon1":140.114136,"lat2":35.612822,"lon2":140.118592},{"station_cd1":9933104,"station_cd2":9933105,"station_name1":"栄町","station_name2":"葭川公園","lat1":35.612822,"lon1":140.118592,"lat2":35.608551,"lon2":140.120142},{"station_cd1":9933105,"station_cd2":9933106,"station_name1":"葭川公園","station_name2":"県庁前","lat1":35.608551,"lon1":140.120142,"lat2":35.603958,"lon2":140.12222}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

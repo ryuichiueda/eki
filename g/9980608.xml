@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99806</line_cd>
+		<line_name>伊予鉄道高浜線</line_name>
+		<station_cd>9980608</station_cd>
+		<station_g_cd>9980608</station_g_cd>
+		<station_name>古町</station_name>
+		<lon>132.754998</lon>
+		<lat>33.846978</lat>
+	</station>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99806</line_cd>
+		<line_name>伊予鉄道高浜線</line_name>
+		<station_cd>9980608</station_cd>
+		<station_name>古町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99808</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980807</station_cd>
+		<station_name>古町</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>38</pref_cd>
+		<line_cd>99809</line_cd>
+		<line_name>伊予鉄道環状線</line_name>
+		<station_cd>9980917</station_cd>
+		<station_name>古町</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>22012</line_cd>
+		<line_name>西武多摩川線</line_name>
+		<station_cd>2201202</station_cd>
+		<station_g_cd>2201202</station_g_cd>
+		<station_name>新小金井</station_name>
+		<lon>139.526603</lon>
+		<lat>35.695908</lat>
+	</station>
+</ekidata>

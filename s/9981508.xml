@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>39</pref_cd>
+		<line_cd>99815</line_cd>
+		<line_name>宿毛線</line_name>
+		<station_cd>9981508</station_cd>
+		<station_g_cd>9981508</station_g_cd>
+		<station_name>宿毛</station_name>
+		<lon>132.71364</lon>
+		<lat>32.932534</lat>
+	</station>
+</ekidata>

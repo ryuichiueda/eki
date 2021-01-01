@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>14</pref_cd>
+		<line_cd>26001</line_cd>
+		<line_name>東急東横線</line_name>
+		<station_cd>2600120</station_cd>
+		<station_g_cd>2600120</station_g_cd>
+		<station_name>反町</station_name>
+		<lon>139.625337</lon>
+		<lat>35.47474</lat>
+	</station>
+</ekidata>

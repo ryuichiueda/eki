@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>3</pref_cd>
+		<line_cd>11211</line_cd>
+		<line_name>JR田沢湖線</line_name>
+		<station_cd>1121101</station_cd>
+		<station_g_cd>1123185</station_g_cd>
+		<station_name>盛岡</station_name>
+		<lon>141.136599</lon>
+		<lat>39.701547</lat>
+	</station>
+</ekidata>

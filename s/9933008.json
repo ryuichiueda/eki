@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":9,"line_cd":99330,"line_name":"真岡鐵道真岡線","station_cd":9933008,"station_g_cd":9933008,"station_name":"北真岡","lon":140.014061,"lat":36.44909}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

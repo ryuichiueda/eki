@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99616,"line_name":"泉北高速鉄道線","station_cd":9961605,"station_g_cd":9961605,"station_name":"光明池","lon":135.475572,"lat":34.474712}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

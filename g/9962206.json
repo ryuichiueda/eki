@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":27,"line_cd":31001,"line_name":"近鉄難波線","station_cd":3100101,"station_name":"大阪難波"},{"pref_cd":27,"line_cd":35002,"line_name":"阪神なんば線","station_cd":3500211,"station_name":"大阪難波"},{"pref_cd":27,"line_cd":99618,"line_name":"大阪メトロ御堂筋線","station_cd":9961810,"station_name":"なんば"},{"pref_cd":27,"line_cd":99620,"line_name":"大阪メトロ四つ橋線","station_cd":9962005,"station_name":"なんば"},{"pref_cd":27,"line_cd":99622,"line_name":"大阪メトロ千日前線","station_cd":9962206,"station_name":"なんば"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

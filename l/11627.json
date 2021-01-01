@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":11627,"line_name":"羽衣線","line_lon":135.44957737036,"line_lat":34.534058567075,"line_zoom":14,"station_l":[{"station_cd":1162701,"station_g_cd":1162614,"station_name":"鳳","lon":135.458734,"lat":34.531674},{"station_cd":1162702,"station_g_cd":1162702,"station_name":"東羽衣","lon":135.442824,"lat":34.535029}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

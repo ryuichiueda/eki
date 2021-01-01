@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_join":[{"station_cd1":2201001,"station_cd2":2201002,"station_name1":"国分寺","station_name2":"恋ヶ窪","lat1":35.700123,"lon1":139.480841,"lat2":35.711385,"lon2":139.463944},{"station_cd1":2201002,"station_cd2":2201003,"station_name1":"恋ヶ窪","station_name2":"鷹の台","lat1":35.711385,"lon1":139.463944,"lat2":35.723097,"lon2":139.461155},{"station_cd1":2201003,"station_cd2":2201004,"station_name1":"鷹の台","station_name2":"小川","lat1":35.723097,"lon1":139.461155,"lat2":35.737573,"lon2":139.463493},{"station_cd1":2201004,"station_cd2":2201005,"station_name1":"小川","station_name2":"東村山","lat1":35.737573,"lon1":139.463493,"lat2":35.76006,"lon2":139.465839}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

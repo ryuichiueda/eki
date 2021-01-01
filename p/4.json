@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line":[{"line_cd":11208,"line_name":"ドラゴンレール大船渡線"},{"line_cd":11217,"line_name":"JR仙山線"},{"line_cd":11221,"line_name":"奥の細道湯けむりライン"},{"line_cd":11222,"line_name":"JR仙石線"},{"line_cd":11223,"line_name":"JR石巻線"},{"line_cd":11224,"line_name":"JR気仙沼線"},{"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)"},{"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)"},{"line_cd":99213,"line_name":"阿武隈急行線"},{"line_cd":99214,"line_name":"仙台市営地下鉄南北線"},{"line_cd":99217,"line_name":"仙台空港線"},{"line_cd":99218,"line_name":"仙台市営地下鉄東西線"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

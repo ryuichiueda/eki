@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>1</pref_cd>
+		<line_cd>11102</line_cd>
+		<line_name>JR函館本線(長万部～小樽)</line_name>
+		<station_cd>1110208</station_cd>
+		<station_g_cd>1110208</station_g_cd>
+		<station_name>昆布</station_name>
+		<lon>140.596107</lon>
+		<lat>42.797984</lat>
+	</station>
+</ekidata>

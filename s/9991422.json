@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":42,"line_cd":99914,"line_name":"長崎電軌３系統","station_cd":9991422,"station_g_cd":1190539,"station_name":"昭和町通","lon":129.860694,"lat":32.79063}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

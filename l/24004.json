@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":24004,"line_name":"京王競馬場線","line_lon":139.48962301587,"line_lat":35.668945374045,"line_zoom":14,"station_l":[{"station_cd":2400401,"station_g_cd":2400123,"station_name":"東府中","lon":139.495257,"lat":35.668766},{"station_cd":2400402,"station_g_cd":2400402,"station_name":"府中競馬正門前","lon":139.485019,"lat":35.668288}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

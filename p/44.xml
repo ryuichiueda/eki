@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+	<pref>
+		<code>44</code>
+		<name>大分県</name>
+	</pref>
+	<line>
+		<line_cd>11906</line_cd>
+		<line_name>JR日豊本線(門司港～佐伯)</line_name>
+	</line>
+	<line>
+		<line_cd>11907</line_cd>
+		<line_name>JR日豊本線(佐伯～鹿児島中央)</line_name>
+	</line>
+	<line>
+		<line_cd>11913</line_cd>
+		<line_name>ゆふ高原線</line_name>
+	</line>
+	<line>
+		<line_cd>11914</line_cd>
+		<line_name>JR日田彦山線</line_name>
+	</line>
+	<line>
+		<line_cd>11923</line_cd>
+		<line_name>阿蘇高原線</line_name>
+	</line>
+</ekidata>

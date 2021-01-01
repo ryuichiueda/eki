@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":14,"line_cd":99317,"line_name":"金沢シーサイドライン","station_cd":9931706,"station_g_cd":9931706,"station_name":"幸浦","lon":139.643706,"lat":35.358406}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

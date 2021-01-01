@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":1,"line_cd":99108,"line_name":"道南いさりび鉄道線","station_cd":1111922,"station_g_cd":1110101,"station_name":"函館","lon":140.726413,"lat":41.773709}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

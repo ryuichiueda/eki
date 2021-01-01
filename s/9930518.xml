@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>99305</line_cd>
+		<line_name>都電荒川線</line_name>
+		<station_cd>9930518</station_cd>
+		<station_g_cd>9930518</station_g_cd>
+		<station_name>滝野川一丁目</station_name>
+		<lon>139.735376</lon>
+		<lat>35.747374</lat>
+	</station>
+</ekidata>

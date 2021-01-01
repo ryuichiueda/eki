@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>11602</line_cd>
+		<line_name>JR京都線</line_name>
+		<station_cd>1160208</station_cd>
+		<station_g_cd>1160208</station_g_cd>
+		<station_name>茨木</station_name>
+		<lon>135.56208</lon>
+		<lat>34.815091</lat>
+	</station>
+</ekidata>

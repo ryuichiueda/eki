@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":9,"line_cd":99341,"line_name":"ほっとスパ・ライン","station_cd":9934107,"station_name":"上三依塩原温泉口"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

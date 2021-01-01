@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>27</pref_cd>
+		<line_cd>31003</line_cd>
+		<line_name>近鉄南大阪線</line_name>
+		<station_cd>3100301</station_cd>
+		<station_g_cd>1160719</station_g_cd>
+		<station_name>大阪阿部野橋</station_name>
+		<lon>135.514529</lon>
+		<lat>34.645643</lat>
+	</station>
+</ekidata>

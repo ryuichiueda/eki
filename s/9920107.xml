@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>2</pref_cd>
+		<line_cd>99201</line_cd>
+		<line_name>津軽鉄道線</line_name>
+		<station_cd>9920107</station_cd>
+		<station_g_cd>9920107</station_g_cd>
+		<station_name>金木</station_name>
+		<lon>140.459971</lon>
+		<lat>40.902875</lat>
+	</station>
+</ekidata>

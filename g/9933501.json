@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":12,"line_cd":11314,"line_name":"JR総武本線","station_cd":1131431,"station_name":"銚子"},{"pref_cd":12,"line_cd":11327,"line_name":"JR成田線","station_cd":1132719,"station_name":"銚子"},{"pref_cd":12,"line_cd":99335,"line_name":"銚子電鉄線","station_cd":9933501,"station_name":"銚子"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

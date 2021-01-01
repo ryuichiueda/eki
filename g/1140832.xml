@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11408</line_cd>
+		<line_name>JR越後線</line_name>
+		<station_cd>1140832</station_cd>
+		<station_g_cd>1140442</station_g_cd>
+		<station_name>新潟</station_name>
+		<lon>139.060869</lon>
+		<lat>37.912299</lat>
+	</station>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11404</line_cd>
+		<line_name>JR信越本線(直江津～新潟)</line_name>
+		<station_cd>1140442</station_cd>
+		<station_name>新潟</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11406</line_cd>
+		<line_name>JR白新線</line_name>
+		<station_cd>1140601</station_cd>
+		<station_name>新潟</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>15</pref_cd>
+		<line_cd>11408</line_cd>
+		<line_name>JR越後線</line_name>
+		<station_cd>1140832</station_cd>
+		<station_name>新潟</station_name>
+	</station_g>
+</ekidata>

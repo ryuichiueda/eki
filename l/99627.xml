@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp line api 1.0">
+	<line>
+		<line_cd>99627</line_cd>
+		<line_name>大阪モノレール彩都線</line_name>
+		<line_lon>135.52708881797</line_lon>
+		<line_lat>34.830775671316</line_lat>
+		<line_zoom>13</line_zoom>
+	</line>
+	<station>
+		<station_cd>9962701</station_cd>
+		<station_g_cd>9962607</station_g_cd>
+		<station_name>万博記念公園</station_name>
+		<lon>135.530228</lon>
+		<lat>34.806692</lat>
+	</station>
+	<station>
+		<station_cd>9962702</station_cd>
+		<station_g_cd>9962702</station_g_cd>
+		<station_name>公園東口</station_name>
+		<lon>135.539235</lon>
+		<lat>34.810427</lat>
+	</station>
+	<station>
+		<station_cd>9962703</station_cd>
+		<station_g_cd>9962703</station_g_cd>
+		<station_name>阪大病院前</station_name>
+		<lon>135.530005</lon>
+		<lat>34.818474</lat>
+	</station>
+	<station>
+		<station_cd>9962704</station_cd>
+		<station_g_cd>9962704</station_g_cd>
+		<station_name>豊川</station_name>
+		<lon>135.526778</lon>
+		<lat>34.834611</lat>
+	</station>
+	<station>
+		<station_cd>9962705</station_cd>
+		<station_g_cd>9962705</station_g_cd>
+		<station_name>彩都西</station_name>
+		<lon>135.522931</lon>
+		<lat>34.855492</lat>
+	</station>
+</ekidata>

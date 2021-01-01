@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"line_cd":99918,"line_name":"熊本電鉄上熊本線","line_lon":130.70907904761,"line_lat":32.823570912231,"line_zoom":14,"station_l":[{"station_cd":9991801,"station_g_cd":1190340,"station_name":"上熊本","lon":130.699797,"lat":32.818324},{"station_cd":9991802,"station_g_cd":9991802,"station_name":"韓々坂","lon":130.701917,"lat":32.824201},{"station_cd":9991803,"station_g_cd":9991803,"station_name":"池田","lon":130.70748,"lat":32.827082},{"station_cd":9991804,"station_g_cd":9991804,"station_name":"打越","lon":130.713796,"lat":32.823765},{"station_cd":9991805,"station_g_cd":9991805,"station_name":"坪井川公園","lon":130.718773,"lat":32.821427},{"station_cd":9991806,"station_g_cd":9991703,"station_name":"北熊本","lon":130.721981,"lat":32.827492}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

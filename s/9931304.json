@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":12,"line_cd":99313,"line_name":"ユーカリが丘線","station_cd":9931304,"station_g_cd":9931304,"station_name":"女子大","lon":140.155054,"lat":35.738357}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

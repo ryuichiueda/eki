@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99108</line_cd>
+		<line_name>道南いさりび鉄道線</line_name>
+		<station_cd>1111913</station_cd>
+		<station_g_cd>1111913</station_g_cd>
+		<station_name>釜谷</station_name>
+		<lon>140.53718</lon>
+		<lat>41.712153</lat>
+	</station>
+	<station_g>
+		<pref_cd>1</pref_cd>
+		<line_cd>99108</line_cd>
+		<line_name>道南いさりび鉄道線</line_name>
+		<station_cd>1111913</station_cd>
+		<station_name>釜谷</station_name>
+	</station_g>
+</ekidata>

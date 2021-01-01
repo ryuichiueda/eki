@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":26,"line_cd":31025,"line_name":"近鉄京都線","station_cd":3102507,"station_g_cd":3102507,"station_name":"近鉄丹波橋","lon":135.766262,"lat":34.938299}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

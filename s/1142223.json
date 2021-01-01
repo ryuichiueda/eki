@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":18,"line_cd":11422,"line_name":"JR小浜線","station_cd":1142223,"station_g_cd":1142223,"station_name":"西敦賀","lon":136.067787,"lat":35.617975}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

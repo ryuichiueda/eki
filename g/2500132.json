@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station_g":[{"pref_cd":14,"line_cd":11309,"line_name":"JR相模線","station_cd":1130910,"station_name":"海老名"},{"pref_cd":14,"line_cd":25001,"line_name":"小田急線","station_cd":2500132,"station_name":"海老名"},{"pref_cd":14,"line_cd":29001,"line_name":"相鉄本線","station_cd":2900118,"station_name":"海老名"}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

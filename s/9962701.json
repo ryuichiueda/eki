@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":27,"line_cd":99627,"line_name":"大阪モノレール彩都線","station_cd":9962701,"station_g_cd":9962607,"station_name":"万博記念公園","lon":135.530228,"lat":34.806692}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":11338,"line_name":"JR水郡線","station_cd":1133825,"station_g_cd":1133825,"station_name":"常陸大子","lon":140.350855,"lat":36.770657}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

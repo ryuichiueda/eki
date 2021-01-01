@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":8,"line_cd":99318,"line_name":"関東鉄道常総線","station_cd":9931803,"station_g_cd":9931803,"station_name":"寺原","lon":140.054551,"lat":35.911825}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

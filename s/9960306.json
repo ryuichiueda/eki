@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":25,"line_cd":99603,"line_name":"近江鉄道八日市線","station_cd":9960306,"station_g_cd":9960306,"station_name":"武佐","lon":136.130692,"lat":35.114894}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

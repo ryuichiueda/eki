@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>13</pref_cd>
+		<line_cd>99301</line_cd>
+		<line_name>都営大江戸線</line_name>
+		<station_cd>9930132</station_cd>
+		<station_g_cd>2200704</station_g_cd>
+		<station_name>中井</station_name>
+		<lon>139.686356</lon>
+		<lat>35.714035</lat>
+	</station>
+</ekidata>

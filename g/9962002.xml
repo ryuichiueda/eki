@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>99620</line_cd>
+		<line_name>大阪メトロ四つ橋線</line_name>
+		<station_cd>9962002</station_cd>
+		<station_g_cd>3300804</station_g_cd>
+		<station_name>肥後橋</station_name>
+		<lon>135.496388</lon>
+		<lat>34.691355</lat>
+	</station>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>33008</line_cd>
+		<line_name>京阪中之島線</line_name>
+		<station_cd>3300804</station_cd>
+		<station_name>渡辺橋</station_name>
+	</station_g>
+	<station_g>
+		<pref_cd>27</pref_cd>
+		<line_cd>99620</line_cd>
+		<line_name>大阪メトロ四つ橋線</line_name>
+		<station_cd>9962002</station_cd>
+		<station_name>肥後橋</station_name>
+	</station_g>
+</ekidata>

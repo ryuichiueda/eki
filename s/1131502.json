@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":11315,"line_name":"JR青梅線","station_cd":1131502,"station_g_cd":1131502,"station_name":"西立川","lon":139.393556,"lat":35.703526}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);

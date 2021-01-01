@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<pref_cd>39</pref_cd>
+		<line_cd>99817</line_cd>
+		<line_name>ごめん線</line_name>
+		<station_cd>9981728</station_cd>
+		<station_g_cd>9981728</station_g_cd>
+		<station_name>知寄町二丁目</station_name>
+		<lon>133.55989</lon>
+		<lat>33.558097</lat>
+	</station>
+</ekidata>

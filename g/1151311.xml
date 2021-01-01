@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp station api 1.0">
+	<station>
+		<line_cd>11513</line_cd>
+		<line_name>JR名松線</line_name>
+		<station_cd>1151311</station_cd>
+		<station_g_cd>1151311</station_g_cd>
+		<station_name>伊勢竹原</station_name>
+		<lon>136.309081</lon>
+		<lat>34.599785</lat>
+	</station>
+	<station_g>
+		<pref_cd>24</pref_cd>
+		<line_cd>11513</line_cd>
+		<line_name>JR名松線</line_name>
+		<station_cd>1151311</station_cd>
+		<station_name>伊勢竹原</station_name>
+	</station_g>
+</ekidata>

@@ -1,0 +1,4 @@
+
+if(typeof(xml)=='undefined') xml = {};
+xml.data = {"station":[{ "pref_cd":13,"line_cd":99340,"line_name":"北総鉄道北総線","station_cd":9934002,"station_g_cd":9934002,"station_name":"新柴又","lon":139.879376,"lat":35.75101}]}
+if(typeof(xml.onload)=='function') xml.onload(xml.data);
