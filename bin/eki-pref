@@ -1,0 +1,22 @@
+#!/bin/bash -e
+
+[ "$1" = "-h" ] && {
+	cat >&2 <<- EOF
+	eki-pref 0.1
+	Copyright (C) 2021, Ryuichi Ueda.
+
+	Usage: eki-pref [option]
+
+	MIT License
+	Released under MIT license
+	https://github.com/ryuichiueda/eki
+	EOF
+	exit 0
+}
+
+DATA=/usr/share/eki/
+[ -e "$DATA" ] || DATA="/eki/"
+[ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
+
+cat "$DATA/p/"*.xml   |
+awk -F '[<>]' '$2=="name"{pref=$3}/line_name/{print pref,$3}'
