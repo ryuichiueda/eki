@@ -1,0 +1,21 @@
+#!/bin/bash -e
+
+DATA=/eki/
+[ -e "$DATA" ] || DATA=..
+
+[ $1 = "list" ] && 
+	grep "<line_name>$2" "$DATA/l" -Rl |
+	grep "xml$"                        |
+	xargs grep station_name            |
+	sed 's/<[^<]*>//g'                 |
+	tr -d '\t' && exit 0
+
+[ $1 = "grep" ] &&
+	grep "$2" "$DATA" -R          |
+	grep -v '[a-z]/[0-9]*.json:'  |
+	sed "s;$DATA/;;"
+
+[ $1 = "cat" ] && cat "$DATA/$2"
+
+grep "$1" -Rl "$DATA"                 |
+grep -oE './[0-9]*\.(json|xml)'

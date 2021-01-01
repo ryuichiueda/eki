@@ -1,21 +1,22 @@
 #!/bin/bash -e
 
-DATA=/eki/
-[ -e "$DATA" ] || DATA=..
+[ "$1" = "-h" ] && {
+	cat >&2 <<- EOF
+	eki 0.1
+	Copyright (C) 2021, Ryuichi Ueda.
 
-[ $1 = "list" ] && 
-	grep "<line_name>$2" "$DATA/l" -Rl |
-	grep "xml$"                        |
-	xargs grep station_name            |
-	sed 's/<[^<]*>//g'                 |
-	tr -d '\t' && exit 0
+	Usage: eki [option]
 
-[ $1 = "grep" ] &&
-	grep "$2" "$DATA" -R          |
-	grep -v '[a-z]/[0-9]*.json:'  |
-	sed "s;$DATA/;;"
+	MIT License
+	Released under MIT license
+	https://github.com/ryuichiueda/eki
+	EOF
+	exit 0
+}
 
-[ $1 = "cat" ] && cat "$DATA/$2"
+DATA=/usr/share/eki/
+[ -e "$DATA" ] || DATA="/eki/"
+[ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
 
-grep "$1" -Rl "$DATA"                 |
-grep -oE './[0-9]*\.(json|xml)'
+cat "$DATA/l/"*.xml   |
+awk -F '[<>]' '/line_name/{line=$3}/station_name/{print line,$3}'
