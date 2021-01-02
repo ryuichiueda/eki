@@ -6,7 +6,7 @@
 
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
-	eki 0.1
+	eki 0.2
 	Copyright (C) 2021, Ryuichi Ueda.
 
 	Usage: eki [option]
