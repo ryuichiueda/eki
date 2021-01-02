@@ -1,0 +1,21 @@
+#!/bin/bash -e
+
+[ "$1" = "-h" ] && {
+	cat >&2 <<- EOF
+	eki-line 0.1
+	Copyright (C) 2021, Ryuichi Ueda.
+
+	Usage: eki-line [option]
+
+	MIT License
+	Released under MIT license
+	https://github.com/ryuichiueda/eki
+	EOF
+	exit 0
+}
+
+DATA=/usr/share/eki/
+[ -e "$DATA" ] || DATA="/eki/"
+[ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
+
+awk -F '[<>]' -v s="$1" '$2=="line_name"{line=$3}$2=="station_name" && $3==s{print line}' "$DATA/s/"*.xml 

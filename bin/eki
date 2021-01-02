@@ -1,11 +1,20 @@
 #!/bin/bash -e
 
+[ "$1" = "pref" ] && shift && exec "$(dirname $0)/eki-pref" "$@"
+[ "$1" = "adj" ] && shift && exec "$(dirname $0)/eki-adj" "$@"
+[ "$1" = "line" ] && shift && exec "$(dirname $0)/eki-line" "$@"
+
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
 	eki 0.1
 	Copyright (C) 2021, Ryuichi Ueda.
 
 	Usage: eki [option]
+
+	These are some sub-commands (see eki [sub-command] -h):
+	    pref:                    Show each prefectures with the lines in it.
+	    line <station_name>:     Show lines avaliable at the station.
+	    adj <station_name>:      Show adjoining stations.
 
 	MIT License
 	Released under MIT license

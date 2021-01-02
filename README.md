@@ -30,6 +30,20 @@ GitHubでクローンした後、`cd`で`bin`に移動し、
 $ git clone https://github.com/ryuichiueda/eki
 $ cd eki
 $ sudo make install
+$ eki -h
+eki 0.1
+Copyright (C) 2021, Ryuichi Ueda.
+
+Usage: eki [option]
+
+These are some sub-commands (see eki [sub-command] -h):
+    pref:                    Show each prefectures with the lines in it.
+    line <station_name>:     Show lines avaliable at the station.
+    adj <station_name>:      Show adjoining stations.
+
+MIT License
+Released under MIT license
+https://github.com/ryuichiueda/eki
 ```
 
 ### ライセンス
