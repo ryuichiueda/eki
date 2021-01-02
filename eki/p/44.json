@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11906,"line_name":"JR日豊本線(門司港～佐伯)"},{"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)"},{"line_cd":11913,"line_name":"ゆふ高原線"},{"line_cd":11914,"line_name":"JR日田彦山線"},{"line_cd":11923,"line_name":"阿蘇高原線"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11906,"line_name":"JR日豊本線(門司港～佐伯)"},{"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)"},{"line_cd":11913,"line_name":"ゆふ高原線"},{"line_cd":11914,"line_name":"JR日田彦山線"},{"line_cd":11923,"line_name":"阿蘇高原線"}]}

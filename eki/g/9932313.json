@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":8,"line_cd":99323,"line_name":"鹿島臨海鉄道大洗鹿島線","station_cd":9932313,"station_name":"長者ヶ浜潮騒はまなす公園前"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":8,"line_cd":99323,"line_name":"鹿島臨海鉄道大洗鹿島線","station_cd":9932313,"station_name":"長者ヶ浜潮騒はまなす公園前"}]}

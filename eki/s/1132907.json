@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":8,"line_cd":11329,"line_name":"JR鹿島線","station_cd":1132907,"station_g_cd":1132907,"station_name":"鹿島サッカースタジアム（臨）","lon":140.63606,"lat":35.992707}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":8,"line_cd":11329,"line_name":"JR鹿島線","station_cd":1132907,"station_g_cd":1132907,"station_name":"鹿島サッカースタジアム（臨）","lon":140.63606,"lat":35.992707}]}

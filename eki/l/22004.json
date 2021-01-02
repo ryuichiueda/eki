@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":22004,"line_name":"西武豊島線","line_lon":139.65151682275,"line_lat":35.740043166698,"line_zoom":15,"station_l":[{"station_cd":2200401,"station_g_cd":2200106,"station_name":"練馬","lon":139.654368,"lat":35.737893},{"station_cd":2200402,"station_g_cd":2200402,"station_name":"豊島園","lon":139.647979,"lat":35.742054}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":22004,"line_name":"西武豊島線","line_lon":139.65151682275,"line_lat":35.740043166698,"line_zoom":15,"station_l":[{"station_cd":2200401,"station_g_cd":2200106,"station_name":"練馬","lon":139.654368,"lat":35.737893},{"station_cd":2200402,"station_g_cd":2200402,"station_name":"豊島園","lon":139.647979,"lat":35.742054}]}

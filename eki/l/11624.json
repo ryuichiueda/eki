@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":11624,"line_name":"JRゆめ咲線","line_lon":135.44744518652,"line_lat":34.674044432381,"line_zoom":13,"station_l":[{"station_cd":1162401,"station_g_cd":1162307,"station_name":"西九条","lon":135.466779,"lat":34.68269},{"station_cd":1162402,"station_g_cd":1162402,"station_name":"安治川口","lon":135.443921,"lat":34.673416},{"station_cd":1162403,"station_g_cd":1162403,"station_name":"ユニバーサルシティ","lon":135.438705,"lat":34.667842},{"station_cd":1162404,"station_g_cd":1162404,"station_name":"桜島","lon":135.432136,"lat":34.662065}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":11624,"line_name":"JRゆめ咲線","line_lon":135.44744518652,"line_lat":34.674044432381,"line_zoom":13,"station_l":[{"station_cd":1162401,"station_g_cd":1162307,"station_name":"西九条","lon":135.466779,"lat":34.68269},{"station_cd":1162402,"station_g_cd":1162402,"station_name":"安治川口","lon":135.443921,"lat":34.673416},{"station_cd":1162403,"station_g_cd":1162403,"station_name":"ユニバーサルシティ","lon":135.438705,"lat":34.667842},{"station_cd":1162404,"station_g_cd":1162404,"station_name":"桜島","lon":135.432136,"lat":34.662065}]}

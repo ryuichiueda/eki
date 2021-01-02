@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":38,"line_cd":99807,"line_name":"伊予鉄道横河原線","station_cd":9980702,"station_g_cd":9980702,"station_name":"石手川公園","lon":132.76935,"lat":33.831311}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":38,"line_cd":99807,"line_name":"伊予鉄道横河原線","station_cd":9980702,"station_g_cd":9980702,"station_name":"石手川公園","lon":132.76935,"lat":33.831311}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11710,"line_name":"瀬戸大橋線"},{"line_cd":11801,"line_name":"JR土讃線"},{"line_cd":11802,"line_name":"JR高徳線"},{"line_cd":11806,"line_name":"JR予讃線"},{"line_cd":99802,"line_name":"琴電琴平線"},{"line_cd":99803,"line_name":"琴電長尾線"},{"line_cd":99804,"line_name":"琴電志度線"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11710,"line_name":"瀬戸大橋線"},{"line_cd":11801,"line_name":"JR土讃線"},{"line_cd":11802,"line_name":"JR高徳線"},{"line_cd":11806,"line_name":"JR予讃線"},{"line_cd":99802,"line_name":"琴電琴平線"},{"line_cd":99803,"line_name":"琴電長尾線"},{"line_cd":99804,"line_name":"琴電志度線"}]}

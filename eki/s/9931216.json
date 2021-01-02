@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":9,"line_cd":99312,"line_name":"わたらせ渓谷線","station_cd":9931216,"station_g_cd":9931216,"station_name":"足尾","lon":139.447773,"lat":36.641853}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":9,"line_cd":99312,"line_name":"わたらせ渓谷線","station_cd":9931216,"station_g_cd":9931216,"station_name":"足尾","lon":139.447773,"lat":36.641853}]}

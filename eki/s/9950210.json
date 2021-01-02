@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":22,"line_cd":99502,"line_name":"伊豆箱根鉄道駿豆線","station_cd":9950210,"station_g_cd":9950210,"station_name":"田京","lon":138.945767,"lat":35.014551}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":22,"line_cd":99502,"line_name":"伊豆箱根鉄道駿豆線","station_cd":9950210,"station_g_cd":9950210,"station_name":"田京","lon":138.945767,"lat":35.014551}]}

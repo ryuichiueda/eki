@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":20,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141136,"station_g_cd":1141136,"station_name":"木曽平沢","lon":137.832613,"lat":35.979108}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":20,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141136,"station_g_cd":1141136,"station_name":"木曽平沢","lon":137.832613,"lat":35.979108}]}

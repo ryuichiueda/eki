@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":24005,"line_name":"京王動物園線","line_lon":139.40999162964,"line_lat":35.657461750042,"line_zoom":14,"station_l":[{"station_cd":2400501,"station_g_cd":2400129,"station_name":"高幡不動","lon":139.412953,"lat":35.662361},{"station_cd":2400502,"station_g_cd":2400502,"station_name":"多摩動物公園","lon":139.404627,"lat":35.649215}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":24005,"line_name":"京王動物園線","line_lon":139.40999162964,"line_lat":35.657461750042,"line_zoom":14,"station_l":[{"station_cd":2400501,"station_g_cd":2400129,"station_name":"高幡不動","lon":139.412953,"lat":35.662361},{"station_cd":2400502,"station_g_cd":2400502,"station_name":"多摩動物公園","lon":139.404627,"lat":35.649215}]}

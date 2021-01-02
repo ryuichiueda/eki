@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":34,"line_cd":99711,"line_name":"広電２号線(宮島線)","station_cd":9971126,"station_g_cd":1161118,"station_name":"商工センター入口","lon":132.391999,"lat":34.375423}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":34,"line_cd":99711,"line_name":"広電２号線(宮島線)","station_cd":9971126,"station_g_cd":1161118,"station_name":"商工センター入口","lon":132.391999,"lat":34.375423}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":15,"line_cd":11404,"line_name":"JR信越本線(直江津～新潟)","station_cd":1140423,"station_g_cd":1134236,"station_name":"長岡","lon":138.853927,"lat":37.447787}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":15,"line_cd":11404,"line_name":"JR信越本線(直江津～新潟)","station_cd":1140423,"station_g_cd":1134236,"station_name":"長岡","lon":138.853927,"lat":37.447787}]}

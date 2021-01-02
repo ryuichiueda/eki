@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":38,"line_cd":99808,"line_name":"伊予鉄道環状線","station_cd":9980811,"station_g_cd":9980811,"station_name":"高砂町","lon":132.762464,"lat":33.851664}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":38,"line_cd":99808,"line_name":"伊予鉄道環状線","station_cd":9980811,"station_g_cd":9980811,"station_name":"高砂町","lon":132.762464,"lat":33.851664}]}

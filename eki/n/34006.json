@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":3400601,"station_cd2":3400602,"station_name1":"塚口","station_name2":"稲野","lat1":34.752826,"lon1":135.41585,"lat2":34.764817,"lon2":135.415532},{"station_cd1":3400602,"station_cd2":3400603,"station_name1":"稲野","station_name2":"新伊丹","lat1":34.764817,"lon1":135.415532,"lat2":34.772574,"lon2":135.415479},{"station_cd1":3400603,"station_cd2":3400604,"station_name1":"新伊丹","station_name2":"伊丹","lat1":34.772574,"lon1":135.415479,"lat2":34.779875,"lon2":135.413618}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":3400601,"station_cd2":3400602,"station_name1":"塚口","station_name2":"稲野","lat1":34.752826,"lon1":135.41585,"lat2":34.764817,"lon2":135.415532},{"station_cd1":3400602,"station_cd2":3400603,"station_name1":"稲野","station_name2":"新伊丹","lat1":34.764817,"lon1":135.415532,"lat2":34.772574,"lon2":135.415479},{"station_cd1":3400603,"station_cd2":3400604,"station_name1":"新伊丹","station_name2":"伊丹","lat1":34.772574,"lon1":135.415479,"lat2":34.779875,"lon2":135.413618}]}

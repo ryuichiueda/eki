@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":15,"line_cd":11404,"line_name":"JR信越本線(直江津～新潟)","station_cd":1140442,"station_name":"新潟"},{"pref_cd":15,"line_cd":11406,"line_name":"JR白新線","station_cd":1140601,"station_name":"新潟"},{"pref_cd":15,"line_cd":11408,"line_name":"JR越後線","station_cd":1140832,"station_name":"新潟"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":15,"line_cd":11404,"line_name":"JR信越本線(直江津～新潟)","station_cd":1140442,"station_name":"新潟"},{"pref_cd":15,"line_cd":11406,"line_name":"JR白新線","station_cd":1140601,"station_name":"新潟"},{"pref_cd":15,"line_cd":11408,"line_name":"JR越後線","station_cd":1140832,"station_name":"新潟"}]}

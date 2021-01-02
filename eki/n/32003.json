@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":3200301,"station_cd2":3200302,"station_name1":"和歌山市","station_name2":"和歌山港","lat1":34.236925,"lon1":135.166538,"lat2":34.217321,"lon2":135.146488}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":3200301,"station_cd2":3200302,"station_name1":"和歌山市","station_name2":"和歌山港","lat1":34.236925,"lon1":135.166538,"lat2":34.217321,"lon2":135.146488}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":43,"line_cd":99921,"line_name":"肥薩おれんじ鉄道線","station_cd":9992106,"station_g_cd":9992106,"station_name":"たのうら御立岬公園","lon":130.506705,"lat":32.363202}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":43,"line_cd":99921,"line_name":"肥薩おれんじ鉄道線","station_cd":9992106,"station_g_cd":9992106,"station_name":"たのうら御立岬公園","lon":130.506705,"lat":32.363202}]}

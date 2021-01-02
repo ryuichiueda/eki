@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":28001,"line_name":"東京メトロ銀座線","station_cd":2800115,"station_name":"赤坂見附"},{"pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800213,"station_name":"赤坂見附"},{"pref_cd":13,"line_cd":28006,"line_name":"東京メトロ有楽町線","station_cd":2800616,"station_name":"永田町"},{"pref_cd":13,"line_cd":28008,"line_name":"東京メトロ半蔵門線","station_cd":2800804,"station_name":"永田町"},{"pref_cd":13,"line_cd":28009,"line_name":"東京メトロ南北線","station_cd":2800913,"station_name":"永田町"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":28001,"line_name":"東京メトロ銀座線","station_cd":2800115,"station_name":"赤坂見附"},{"pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800213,"station_name":"赤坂見附"},{"pref_cd":13,"line_cd":28006,"line_name":"東京メトロ有楽町線","station_cd":2800616,"station_name":"永田町"},{"pref_cd":13,"line_cd":28008,"line_name":"東京メトロ半蔵門線","station_cd":2800804,"station_name":"永田町"},{"pref_cd":13,"line_cd":28009,"line_name":"東京メトロ南北線","station_cd":2800913,"station_name":"永田町"}]}

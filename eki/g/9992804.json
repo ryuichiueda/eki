@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":40,"line_cd":99928,"line_name":"門司港レトロ観光線","station_cd":9992804,"station_name":"関門海峡めかり"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":40,"line_cd":99928,"line_name":"門司港レトロ観光線","station_cd":9992804,"station_name":"関門海峡めかり"}]}

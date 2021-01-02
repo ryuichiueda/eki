@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11206,"line_name":"JR八戸線"},{"line_cd":11208,"line_name":"ドラゴンレール大船渡線"},{"line_cd":11209,"line_name":"銀河ドリームライン釜石線"},{"line_cd":11210,"line_name":"JR北上線"},{"line_cd":11211,"line_name":"JR田沢湖線"},{"line_cd":11212,"line_name":"十和田八幡平四季彩ライン"},{"line_cd":11213,"line_name":"JR山田線"},{"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)"},{"line_cd":99205,"line_name":"いわて銀河鉄道線"},{"line_cd":99208,"line_name":"三陸鉄道リアス線"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11206,"line_name":"JR八戸線"},{"line_cd":11208,"line_name":"ドラゴンレール大船渡線"},{"line_cd":11209,"line_name":"銀河ドリームライン釜石線"},{"line_cd":11210,"line_name":"JR北上線"},{"line_cd":11211,"line_name":"JR田沢湖線"},{"line_cd":11212,"line_name":"十和田八幡平四季彩ライン"},{"line_cd":11213,"line_name":"JR山田線"},{"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)"},{"line_cd":99205,"line_name":"いわて銀河鉄道線"},{"line_cd":99208,"line_name":"三陸鉄道リアス線"}]}

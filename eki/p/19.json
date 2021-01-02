@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)"},{"line_cd":11401,"line_name":"八ヶ岳高原線"},{"line_cd":11402,"line_name":"JR身延線"},{"line_cd":99401,"line_name":"富士急行線"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)"},{"line_cd":11401,"line_name":"八ヶ岳高原線"},{"line_cd":11402,"line_name":"JR身延線"},{"line_cd":99401,"line_name":"富士急行線"}]}

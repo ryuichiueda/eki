@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":13,"line_cd":99334,"line_name":"多摩モノレール","station_cd":9933409,"station_g_cd":9933409,"station_name":"甲州街道","lon":139.409191,"lat":35.678262}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":13,"line_cd":99334,"line_name":"多摩モノレール","station_cd":9933409,"station_g_cd":9933409,"station_name":"甲州街道","lon":139.409191,"lat":35.678262}]}

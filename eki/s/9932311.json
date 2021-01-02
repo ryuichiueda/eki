@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":8,"line_cd":99323,"line_name":"鹿島臨海鉄道大洗鹿島線","station_cd":9932311,"station_g_cd":9932311,"station_name":"鹿島灘","lon":140.596789,"lat":36.075568}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":8,"line_cd":99323,"line_name":"鹿島臨海鉄道大洗鹿島線","station_cd":9932311,"station_g_cd":9932311,"station_name":"鹿島灘","lon":140.596789,"lat":36.075568}]}

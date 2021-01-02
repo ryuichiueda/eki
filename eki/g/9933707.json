@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":11332,"line_name":"JR京浜東北線","station_cd":1133228,"station_name":"大井町"},{"pref_cd":13,"line_cd":26004,"line_name":"東急大井町線","station_cd":2600401,"station_name":"大井町"},{"pref_cd":13,"line_cd":99337,"line_name":"りんかい線","station_cd":9933707,"station_name":"大井町"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":11332,"line_name":"JR京浜東北線","station_cd":1133228,"station_name":"大井町"},{"pref_cd":13,"line_cd":26004,"line_name":"東急大井町線","station_cd":2600401,"station_name":"大井町"},{"pref_cd":13,"line_cd":99337,"line_name":"りんかい線","station_cd":9933707,"station_name":"大井町"}]}

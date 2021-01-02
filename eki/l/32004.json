@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":32004,"line_name":"南海高師浜線","line_lon":135.43873427515,"line_lat":34.53069292334,"line_zoom":15,"station_l":[{"station_cd":3200401,"station_g_cd":1162702,"station_name":"羽衣","lon":135.44178,"lat":34.534546},{"station_cd":3200402,"station_g_cd":3200402,"station_name":"伽羅橋","lon":135.436847,"lat":34.528869},{"station_cd":3200403,"station_g_cd":3200403,"station_name":"高師浜","lon":135.431911,"lat":34.527391}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":32004,"line_name":"南海高師浜線","line_lon":135.43873427515,"line_lat":34.53069292334,"line_zoom":15,"station_l":[{"station_cd":3200401,"station_g_cd":1162702,"station_name":"羽衣","lon":135.44178,"lat":34.534546},{"station_cd":3200402,"station_g_cd":3200402,"station_name":"伽羅橋","lon":135.436847,"lat":34.528869},{"station_cd":3200403,"station_g_cd":3200403,"station_name":"高師浜","lon":135.431911,"lat":34.527391}]}

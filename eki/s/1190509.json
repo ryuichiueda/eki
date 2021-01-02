@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":41,"line_cd":11905,"line_name":"JR長崎本線(鳥栖～長崎)","station_cd":1190509,"station_g_cd":1190509,"station_name":"バルーンさが","lon":130.248942,"lat":33.257795}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":41,"line_cd":11905,"line_name":"JR長崎本線(鳥栖～長崎)","station_cd":1190509,"station_g_cd":1190509,"station_name":"バルーンさが","lon":130.248942,"lat":33.257795}]}

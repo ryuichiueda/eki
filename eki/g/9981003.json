@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":38,"line_cd":99808,"line_name":"伊予鉄道環状線","station_cd":9980821,"station_name":"市役所前"},{"pref_cd":38,"line_cd":99809,"line_name":"伊予鉄道環状線","station_cd":9980903,"station_name":"市役所前"},{"pref_cd":38,"line_cd":99810,"line_name":"伊予鉄道市駅線","station_cd":9981003,"station_name":"市役所前"},{"pref_cd":38,"line_cd":99811,"line_name":"伊予鉄道松山駅前線","station_cd":9981105,"station_name":"市役所前"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":38,"line_cd":99808,"line_name":"伊予鉄道環状線","station_cd":9980821,"station_name":"市役所前"},{"pref_cd":38,"line_cd":99809,"line_name":"伊予鉄道環状線","station_cd":9980903,"station_name":"市役所前"},{"pref_cd":38,"line_cd":99810,"line_name":"伊予鉄道市駅線","station_cd":9981003,"station_name":"市役所前"},{"pref_cd":38,"line_cd":99811,"line_name":"伊予鉄道松山駅前線","station_cd":9981105,"station_name":"市役所前"}]}

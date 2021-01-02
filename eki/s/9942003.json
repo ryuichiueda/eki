@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":18,"line_cd":99420,"line_name":"えちぜん鉄道三国芦原線","station_cd":9942003,"station_g_cd":9941903,"station_name":"福井口","lon":136.233176,"lat":36.071386}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":18,"line_cd":99420,"line_name":"えちぜん鉄道三国芦原線","station_cd":9942003,"station_g_cd":9941903,"station_name":"福井口","lon":136.233176,"lat":36.071386}]}

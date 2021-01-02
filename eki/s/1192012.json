@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":41,"line_cd":11920,"line_name":"JR筑肥線(西唐津～伊万里)","station_cd":1192012,"station_g_cd":1192012,"station_name":"金石原","lon":129.935012,"lat":33.265354}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":41,"line_cd":11920,"line_name":"JR筑肥線(西唐津～伊万里)","station_cd":1192012,"station_g_cd":1192012,"station_name":"金石原","lon":129.935012,"lat":33.265354}]}

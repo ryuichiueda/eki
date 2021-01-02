@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":1006,"line_name":"上越新幹線(ガーラ湯沢支線)","line_lon":138.8032503783,"line_lat":36.942882112443,"line_zoom":14,"station_l":[]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":1006,"line_name":"上越新幹線(ガーラ湯沢支線)","line_lon":138.8032503783,"line_lat":36.942882112443,"line_zoom":14,"station_l":[]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":31011,"line_name":"近鉄天理線","line_lon":135.80370124072,"line_lat":34.602763,"line_zoom":13,"station_l":[{"station_cd":3101101,"station_g_cd":3100207,"station_name":"平端","lon":135.782804,"lat":34.606712},{"station_cd":3101102,"station_g_cd":3101102,"station_name":"二階堂","lon":135.79553,"lat":34.602121},{"station_cd":3101103,"station_g_cd":3101103,"station_name":"前栽","lon":135.816536,"lat":34.600996},{"station_cd":3101104,"station_g_cd":1163705,"station_name":"天理","lon":135.829548,"lat":34.601223}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":31011,"line_name":"近鉄天理線","line_lon":135.80370124072,"line_lat":34.602763,"line_zoom":13,"station_l":[{"station_cd":3101101,"station_g_cd":3100207,"station_name":"平端","lon":135.782804,"lat":34.606712},{"station_cd":3101102,"station_g_cd":3101102,"station_name":"二階堂","lon":135.79553,"lat":34.602121},{"station_cd":3101103,"station_g_cd":3101103,"station_name":"前栽","lon":135.816536,"lat":34.600996},{"station_cd":3101104,"station_g_cd":1163705,"station_name":"天理","lon":135.829548,"lat":34.601223}]}

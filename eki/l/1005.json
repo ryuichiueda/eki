@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":1005,"line_name":"上越新幹線","line_lon":139.12148795052,"line_lat":36.798564726932,"line_zoom":8,"station_l":[]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":1005,"line_name":"上越新幹線","line_lon":139.12148795052,"line_lat":36.798564726932,"line_zoom":8,"station_l":[]}

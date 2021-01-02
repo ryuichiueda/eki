@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":26,"line_cd":99611,"line_name":"京都市営地下鉄東西線","station_cd":9961114,"station_name":"二条城前"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":26,"line_cd":99611,"line_name":"京都市営地下鉄東西線","station_cd":9961114,"station_name":"二条城前"}]}

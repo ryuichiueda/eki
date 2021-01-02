@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":3200601,"station_cd2":3200602,"station_name1":"みさき公園","station_name2":"深日町","lat1":34.323986,"lon1":135.160977,"lat2":34.31823,"lon2":135.148002},{"station_cd1":3200602,"station_cd2":3200603,"station_name1":"深日町","station_name2":"深日港","lat1":34.31823,"lon1":135.148002,"lat2":34.317386,"lon2":135.141297},{"station_cd1":3200603,"station_cd2":3200604,"station_name1":"深日港","station_name2":"多奈川","lat1":34.317386,"lon1":135.141297,"lat2":34.316705,"lon2":135.137181}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":3200601,"station_cd2":3200602,"station_name1":"みさき公園","station_name2":"深日町","lat1":34.323986,"lon1":135.160977,"lat2":34.31823,"lon2":135.148002},{"station_cd1":3200602,"station_cd2":3200603,"station_name1":"深日町","station_name2":"深日港","lat1":34.31823,"lon1":135.148002,"lat2":34.317386,"lon2":135.141297},{"station_cd1":3200603,"station_cd2":3200604,"station_name1":"深日港","station_name2":"多奈川","lat1":34.317386,"lon1":135.141297,"lat2":34.316705,"lon2":135.137181}]}

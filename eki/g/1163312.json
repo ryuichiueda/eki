@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":28,"line_cd":11633,"line_name":"JR姫新線(姫路～佐用)","station_cd":1163312,"station_name":"佐用"},{"pref_cd":28,"line_cd":11634,"line_name":"JR姫新線(佐用～新見)","station_cd":1163401,"station_name":"佐用"},{"pref_cd":28,"line_cd":99644,"line_name":"智頭急行智頭線","station_cd":9964405,"station_name":"佐用"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":28,"line_cd":11633,"line_name":"JR姫新線(姫路～佐用)","station_cd":1163312,"station_name":"佐用"},{"pref_cd":28,"line_cd":11634,"line_name":"JR姫新線(佐用～新見)","station_cd":1163401,"station_name":"佐用"},{"pref_cd":28,"line_cd":99644,"line_name":"智頭急行智頭線","station_cd":9964405,"station_name":"佐用"}]}

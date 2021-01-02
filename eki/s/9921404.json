@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":4,"line_cd":99214,"line_name":"仙台市営地下鉄南北線","station_cd":9921404,"station_g_cd":9921404,"station_name":"旭ヶ丘","lon":140.883633,"lat":38.295593}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":4,"line_cd":99214,"line_name":"仙台市営地下鉄南北線","station_cd":9921404,"station_g_cd":9921404,"station_name":"旭ヶ丘","lon":140.883633,"lat":38.295593}]}

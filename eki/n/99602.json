@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":9960201,"station_cd2":9960203,"station_name1":"高宮","station_name2":"スクリーン","lat1":35.236266,"lon1":136.260524,"lat2":35.233264,"lon2":136.267258},{"station_cd1":9960203,"station_cd2":9960202,"station_name1":"スクリーン","station_name2":"多賀大社前","lat1":35.233264,"lon1":136.267258,"lat2":35.226442,"lon2":136.284077}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":9960201,"station_cd2":9960203,"station_name1":"高宮","station_name2":"スクリーン","lat1":35.236266,"lon1":136.260524,"lat2":35.233264,"lon2":136.267258},{"station_cd1":9960203,"station_cd2":9960202,"station_name1":"スクリーン","station_name2":"多賀大社前","lat1":35.233264,"lon1":136.267258,"lat2":35.226442,"lon2":136.284077}]}

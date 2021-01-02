@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":9,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123101,"station_g_cd":1123101,"station_name":"黒磯","lon":140.060204,"lat":36.970128}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":9,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123101,"station_g_cd":1123101,"station_name":"黒磯","lon":140.060204,"lat":36.970128}]}

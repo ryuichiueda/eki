@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":8,"line_cd":99319,"line_name":"関東鉄道竜ヶ崎線","station_cd":9931902,"station_g_cd":9931902,"station_name":"入地","lon":140.157266,"lat":35.91899}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":8,"line_cd":99319,"line_name":"関東鉄道竜ヶ崎線","station_cd":9931902,"station_g_cd":9931902,"station_name":"入地","lon":140.157266,"lat":35.91899}]}

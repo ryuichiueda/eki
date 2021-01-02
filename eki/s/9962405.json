@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":27,"line_cd":99624,"line_name":"大阪メトロ長堀鶴見緑地線","station_cd":9962405,"station_g_cd":9961809,"station_name":"心斎橋","lon":135.50033,"lat":34.675012}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":27,"line_cd":99624,"line_name":"大阪メトロ長堀鶴見緑地線","station_cd":9962405,"station_g_cd":9961809,"station_name":"心斎橋","lon":135.50033,"lat":34.675012}]}

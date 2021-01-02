@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":11901,"line_name":"JR博多南線","line_lon":130.4288095,"line_lat":33.564850122278,"line_zoom":12,"station_l":[{"station_cd":1190101,"station_g_cd":1190101,"station_name":"博多","lon":130.420622,"lat":33.590002},{"station_cd":1190102,"station_g_cd":1190102,"station_name":"博多南","lon":130.436997,"lat":33.517955}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":11901,"line_name":"JR博多南線","line_lon":130.4288095,"line_lat":33.564850122278,"line_zoom":12,"station_l":[{"station_cd":1190101,"station_g_cd":1190101,"station_name":"博多","lon":130.420622,"lat":33.590002},{"station_cd":1190102,"station_g_cd":1190102,"station_name":"博多南","lon":130.436997,"lat":33.517955}]}

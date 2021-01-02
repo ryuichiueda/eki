@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":32,"line_cd":99702,"line_name":"北松江線","station_cd":9970222,"station_g_cd":9970222,"station_name":"松江しんじ湖温泉","lon":133.046039,"lat":35.46731}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":32,"line_cd":99702,"line_name":"北松江線","station_cd":9970222,"station_g_cd":9970222,"station_name":"松江しんじ湖温泉","lon":133.046039,"lat":35.46731}]}

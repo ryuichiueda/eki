@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":34007,"line_name":"阪急箕面線","line_lon":135.46021566138,"line_lat":34.82297850569,"line_zoom":14,"station_l":[{"station_cd":3400701,"station_g_cd":3400211,"station_name":"石橋阪大前","lon":135.445487,"lat":34.808254},{"station_cd":3400702,"station_g_cd":3400702,"station_name":"桜井","lon":135.460705,"lat":34.816801},{"station_cd":3400703,"station_g_cd":3400703,"station_name":"牧落","lon":135.465794,"lat":34.823436},{"station_cd":3400704,"station_g_cd":3400704,"station_name":"箕面","lon":135.46819,"lat":34.834404}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":34007,"line_name":"阪急箕面線","line_lon":135.46021566138,"line_lat":34.82297850569,"line_zoom":14,"station_l":[{"station_cd":3400701,"station_g_cd":3400211,"station_name":"石橋阪大前","lon":135.445487,"lat":34.808254},{"station_cd":3400702,"station_g_cd":3400702,"station_name":"桜井","lon":135.460705,"lat":34.816801},{"station_cd":3400703,"station_g_cd":3400703,"station_name":"牧落","lon":135.465794,"lat":34.823436},{"station_cd":3400704,"station_g_cd":3400704,"station_name":"箕面","lon":135.46819,"lat":34.834404}]}

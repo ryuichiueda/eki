@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":0,"line_name":"line_name","line_lon":0,"line_lat":0,"line_zoom":0,"station_l":[]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":0,"line_name":"line_name","line_lon":0,"line_lat":0,"line_zoom":0,"station_l":[]}

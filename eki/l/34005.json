@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":34005,"line_name":"阪急甲陽線","line_lon":135.32876150793,"line_lat":34.752838687946,"line_zoom":14,"station_l":[{"station_cd":3400501,"station_g_cd":3400109,"station_name":"夙川","lon":135.328207,"lat":34.742246},{"station_cd":3400502,"station_g_cd":3400502,"station_name":"苦楽園口","lon":135.328885,"lat":34.750062},{"station_cd":3400503,"station_g_cd":3400503,"station_name":"甲陽園","lon":135.329965,"lat":34.760919}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":34005,"line_name":"阪急甲陽線","line_lon":135.32876150793,"line_lat":34.752838687946,"line_zoom":14,"station_l":[{"station_cd":3400501,"station_g_cd":3400109,"station_name":"夙川","lon":135.328207,"lat":34.742246},{"station_cd":3400502,"station_g_cd":3400502,"station_name":"苦楽園口","lon":135.328885,"lat":34.750062},{"station_cd":3400503,"station_g_cd":3400503,"station_name":"甲陽園","lon":135.329965,"lat":34.760919}]}

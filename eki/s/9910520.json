@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":1,"line_cd":99105,"line_name":"函館市電２系統","station_cd":9910520,"station_g_cd":9910520,"station_name":"十字街","lon":140.718513,"lat":41.763998}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":1,"line_cd":99105,"line_name":"函館市電２系統","station_cd":9910520,"station_g_cd":9910520,"station_name":"十字街","lon":140.718513,"lat":41.763998}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":2400501,"station_cd2":2400502,"station_name1":"高幡不動","station_name2":"多摩動物公園","lat1":35.662361,"lon1":139.412953,"lat2":35.649215,"lon2":139.404627}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":2400501,"station_cd2":2400502,"station_name1":"高幡不動","station_name2":"多摩動物公園","lat1":35.662361,"lon1":139.412953,"lat2":35.649215,"lon2":139.404627}]}

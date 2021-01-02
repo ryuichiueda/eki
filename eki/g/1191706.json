@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":40,"line_cd":11908,"line_name":"福北ゆたか線","station_cd":1190808,"station_name":"長者原"},{"pref_cd":40,"line_cd":11917,"line_name":"JR香椎線(香椎～宇美)","station_cd":1191706,"station_name":"長者原"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":40,"line_cd":11908,"line_name":"福北ゆたか線","station_cd":1190808,"station_name":"長者原"},{"pref_cd":40,"line_cd":11917,"line_name":"JR香椎線(香椎～宇美)","station_cd":1191706,"station_name":"長者原"}]}

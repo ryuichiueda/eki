@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":40,"line_cd":99905,"line_name":"福岡市営地下鉄空港線","station_cd":9990509,"station_g_cd":9990509,"station_name":"唐人町","lon":130.370451,"lat":33.590235}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":40,"line_cd":99905,"line_name":"福岡市営地下鉄空港線","station_cd":9990509,"station_g_cd":9990509,"station_name":"唐人町","lon":130.370451,"lat":33.590235}]}

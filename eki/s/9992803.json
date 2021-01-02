@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":40,"line_cd":99928,"line_name":"門司港レトロ観光線","station_cd":9992803,"station_g_cd":9992803,"station_name":"ノーフォーク広場","lon":130.964254,"lat":33.955973}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":40,"line_cd":99928,"line_name":"門司港レトロ観光線","station_cd":9992803,"station_g_cd":9992803,"station_name":"ノーフォーク広場","lon":130.964254,"lat":33.955973}]}

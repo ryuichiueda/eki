@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":8,"line_cd":99315,"line_name":"ひたちなか海浜鉄道湊線","station_cd":9931501,"station_g_cd":9931501,"station_name":"阿字ヶ浦","lon":140.61244,"lat":36.383529}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":8,"line_cd":99315,"line_name":"ひたちなか海浜鉄道湊線","station_cd":9931501,"station_g_cd":9931501,"station_name":"阿字ヶ浦","lon":140.61244,"lat":36.383529}]}

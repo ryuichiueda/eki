@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":16,"line_cd":99410,"line_name":"富山地鉄不二越・上滝線","station_cd":9941010,"station_g_cd":9941010,"station_name":"開発","lon":137.242854,"lat":36.636207}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":16,"line_cd":99410,"line_name":"富山地鉄不二越・上滝線","station_cd":9941010,"station_g_cd":9941010,"station_name":"開発","lon":137.242854,"lat":36.636207}]}

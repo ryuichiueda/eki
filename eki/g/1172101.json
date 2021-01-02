@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":35,"line_cd":11612,"line_name":"JR山陽本線(岩国～門司)","station_cd":1161224,"station_name":"新山口"},{"pref_cd":35,"line_cd":11708,"line_name":"JR山口線","station_cd":1170801,"station_name":"新山口"},{"pref_cd":35,"line_cd":11721,"line_name":"JR宇部線","station_cd":1172101,"station_name":"新山口"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":35,"line_cd":11612,"line_name":"JR山陽本線(岩国～門司)","station_cd":1161224,"station_name":"新山口"},{"pref_cd":35,"line_cd":11708,"line_name":"JR山口線","station_cd":1170801,"station_name":"新山口"},{"pref_cd":35,"line_cd":11721,"line_name":"JR宇部線","station_cd":1172101,"station_name":"新山口"}]}

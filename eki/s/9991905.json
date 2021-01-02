@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":43,"line_cd":99919,"line_name":"高森線","station_cd":9991905,"station_g_cd":9991905,"station_name":"南阿蘇水の生まれる里白水高原","lon":131.040264,"lat":32.83407}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":43,"line_cd":99919,"line_name":"高森線","station_cd":9991905,"station_g_cd":9991905,"station_name":"南阿蘇水の生まれる里白水高原","lon":131.040264,"lat":32.83407}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":16,"line_cd":11417,"line_name":"JR城端線","station_cd":1141701,"station_name":"高岡"},{"pref_cd":16,"line_cd":11418,"line_name":"JR氷見線","station_cd":1141801,"station_name":"高岡"},{"pref_cd":16,"line_cd":99414,"line_name":"万葉線","station_cd":9941401,"station_name":"高岡駅"},{"pref_cd":16,"line_cd":99425,"line_name":"あいの風とやま鉄道線","station_cd":1141551,"station_name":"高岡"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":16,"line_cd":11417,"line_name":"JR城端線","station_cd":1141701,"station_name":"高岡"},{"pref_cd":16,"line_cd":11418,"line_name":"JR氷見線","station_cd":1141801,"station_name":"高岡"},{"pref_cd":16,"line_cd":99414,"line_name":"万葉線","station_cd":9941401,"station_name":"高岡駅"},{"pref_cd":16,"line_cd":99425,"line_name":"あいの風とやま鉄道線","station_cd":1141551,"station_name":"高岡"}]}

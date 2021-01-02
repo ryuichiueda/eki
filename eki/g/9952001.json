@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":23,"line_cd":11413,"line_name":"JR飯田線(豊橋～天竜峡)","station_cd":1141301,"station_name":"豊橋"},{"pref_cd":23,"line_cd":11502,"line_name":"JR東海道本線(浜松～岐阜)","station_cd":1150210,"station_name":"豊橋"},{"pref_cd":23,"line_cd":30001,"line_name":"名鉄名古屋本線","station_cd":3000101,"station_name":"豊橋"},{"pref_cd":23,"line_cd":99520,"line_name":"豊橋鉄道渥美線","station_cd":9952001,"station_name":"新豊橋"},{"pref_cd":23,"line_cd":99521,"line_name":"豊橋鉄道東田本線","station_cd":9952101,"station_name":"駅前"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":23,"line_cd":11413,"line_name":"JR飯田線(豊橋～天竜峡)","station_cd":1141301,"station_name":"豊橋"},{"pref_cd":23,"line_cd":11502,"line_name":"JR東海道本線(浜松～岐阜)","station_cd":1150210,"station_name":"豊橋"},{"pref_cd":23,"line_cd":30001,"line_name":"名鉄名古屋本線","station_cd":3000101,"station_name":"豊橋"},{"pref_cd":23,"line_cd":99520,"line_name":"豊橋鉄道渥美線","station_cd":9952001,"station_name":"新豊橋"},{"pref_cd":23,"line_cd":99521,"line_name":"豊橋鉄道東田本線","station_cd":9952101,"station_name":"駅前"}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":11640,"line_name":"紀勢本線(和歌山～和歌山市)","line_lon":135.17833371428,"line_lat":34.238033068498,"line_zoom":14,"station_l":[{"station_cd":1164001,"station_g_cd":1162635,"station_name":"和歌山","lon":135.191454,"lat":34.232436},{"station_cd":1164002,"station_g_cd":1164002,"station_name":"紀和","lon":135.181451,"lat":34.241966},{"station_cd":1164003,"station_g_cd":1164003,"station_name":"和歌山市","lon":135.166731,"lat":34.236717}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":11640,"line_name":"紀勢本線(和歌山～和歌山市)","line_lon":135.17833371428,"line_lat":34.238033068498,"line_zoom":14,"station_l":[{"station_cd":1164001,"station_g_cd":1162635,"station_name":"和歌山","lon":135.191454,"lat":34.232436},{"station_cd":1164002,"station_g_cd":1164002,"station_name":"紀和","lon":135.181451,"lat":34.241966},{"station_cd":1164003,"station_g_cd":1164003,"station_name":"和歌山市","lon":135.166731,"lat":34.236717}]}

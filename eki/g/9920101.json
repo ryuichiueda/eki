@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":2,"line_cd":11204,"line_name":"JR五能線","station_cd":1120437,"station_name":"五所川原"},{"pref_cd":2,"line_cd":99201,"line_name":"津軽鉄道線","station_cd":9920101,"station_name":"津軽五所川原"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":2,"line_cd":11204,"line_name":"JR五能線","station_cd":1120437,"station_name":"五所川原"},{"pref_cd":2,"line_cd":99201,"line_name":"津軽鉄道線","station_cd":9920101,"station_name":"津軽五所川原"}]}

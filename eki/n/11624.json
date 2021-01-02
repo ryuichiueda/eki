@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":1162401,"station_cd2":1162402,"station_name1":"西九条","station_name2":"安治川口","lat1":34.68269,"lon1":135.466779,"lat2":34.673416,"lon2":135.443921},{"station_cd1":1162402,"station_cd2":1162403,"station_name1":"安治川口","station_name2":"ユニバーサルシティ","lat1":34.673416,"lon1":135.443921,"lat2":34.667842,"lon2":135.438705},{"station_cd1":1162403,"station_cd2":1162404,"station_name1":"ユニバーサルシティ","station_name2":"桜島","lat1":34.667842,"lon1":135.438705,"lat2":34.662065,"lon2":135.432136}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":1162401,"station_cd2":1162402,"station_name1":"西九条","station_name2":"安治川口","lat1":34.68269,"lon1":135.466779,"lat2":34.673416,"lon2":135.443921},{"station_cd1":1162402,"station_cd2":1162403,"station_name1":"安治川口","station_name2":"ユニバーサルシティ","lat1":34.673416,"lon1":135.443921,"lat2":34.667842,"lon2":135.438705},{"station_cd1":1162403,"station_cd2":1162404,"station_name1":"ユニバーサルシティ","station_name2":"桜島","lat1":34.667842,"lon1":135.438705,"lat2":34.662065,"lon2":135.432136}]}

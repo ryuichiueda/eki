@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":40,"line_cd":11903,"line_name":"JR鹿児島本線(博多～八代)","station_cd":1190323,"station_g_cd":1190323,"station_name":"瀬高","lon":130.485181,"lat":33.157}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":40,"line_cd":11903,"line_name":"JR鹿児島本線(博多～八代)","station_cd":1190323,"station_g_cd":1190323,"station_name":"瀬高","lon":130.485181,"lat":33.157}]}

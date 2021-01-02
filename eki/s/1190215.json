@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":40,"line_cd":11902,"line_name":"JR鹿児島本線(下関・門司港～博多)","station_cd":1190215,"station_g_cd":1190215,"station_name":"水巻","lon":130.694624,"lat":33.852287}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":40,"line_cd":11902,"line_name":"JR鹿児島本線(下関・門司港～博多)","station_cd":1190215,"station_g_cd":1190215,"station_name":"水巻","lon":130.694624,"lat":33.852287}]}

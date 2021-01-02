@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":34,"line_cd":99717,"line_name":"広電９号線(白島線)","station_cd":9971703,"station_g_cd":9971703,"station_name":"縮景園前","lon":132.465334,"lat":34.399881}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":34,"line_cd":99717,"line_name":"広電９号線(白島線)","station_cd":9971703,"station_g_cd":9971703,"station_name":"縮景園前","lon":132.465334,"lat":34.399881}]}

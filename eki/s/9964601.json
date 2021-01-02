@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":28,"line_cd":99646,"line_name":"神戸市営地下鉄山手線","station_cd":9964601,"station_g_cd":9963601,"station_name":"新神戸","lon":135.195823,"lat":34.705379}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":28,"line_cd":99646,"line_name":"神戸市営地下鉄山手線","station_cd":9964601,"station_g_cd":9963601,"station_name":"新神戸","lon":135.195823,"lat":34.705379}]}

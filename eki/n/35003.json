@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":3500301,"station_cd2":3500302,"station_name1":"武庫川","station_name2":"東鳴尾","lat1":34.718154,"lon1":135.383654,"lat2":34.712646,"lon2":135.379065},{"station_cd1":3500302,"station_cd2":3500303,"station_name1":"東鳴尾","station_name2":"洲先","lat1":34.712646,"lon1":135.379065,"lat2":34.709046,"lon2":135.378049},{"station_cd1":3500303,"station_cd2":3500304,"station_name1":"洲先","station_name2":"武庫川団地前","lat1":34.709046,"lon1":135.378049,"lat2":34.704894,"lon2":135.374757}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":3500301,"station_cd2":3500302,"station_name1":"武庫川","station_name2":"東鳴尾","lat1":34.718154,"lon1":135.383654,"lat2":34.712646,"lon2":135.379065},{"station_cd1":3500302,"station_cd2":3500303,"station_name1":"東鳴尾","station_name2":"洲先","lat1":34.712646,"lon1":135.379065,"lat2":34.709046,"lon2":135.378049},{"station_cd1":3500303,"station_cd2":3500304,"station_name1":"洲先","station_name2":"武庫川団地前","lat1":34.709046,"lon1":135.378049,"lat2":34.704894,"lon2":135.374757}]}

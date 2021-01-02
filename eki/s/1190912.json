@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":40,"line_cd":11909,"line_name":"JR筑肥線(姪浜～西唐津)","station_cd":1190912,"station_g_cd":1190912,"station_name":"大入","lon":130.105576,"lat":33.50891}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":40,"line_cd":11909,"line_name":"JR筑肥線(姪浜～西唐津)","station_cd":1190912,"station_g_cd":1190912,"station_name":"大入","lon":130.105576,"lat":33.50891}]}

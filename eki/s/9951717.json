@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":23,"line_cd":99517,"line_name":"名古屋市営地下鉄桜通線","station_cd":9951717,"station_g_cd":9951717,"station_name":"野並","lon":136.95549,"lat":35.102358}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":23,"line_cd":99517,"line_name":"名古屋市営地下鉄桜通線","station_cd":9951717,"station_g_cd":9951717,"station_name":"野並","lon":136.95549,"lat":35.102358}]}

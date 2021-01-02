@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":27,"line_cd":99629,"line_name":"阪堺電軌阪堺線","station_cd":9962909,"station_g_cd":3200104,"station_name":"東玉出","lon":135.495926,"lat":34.626784}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":27,"line_cd":99629,"line_name":"阪堺電軌阪堺線","station_cd":9962909,"station_g_cd":3200104,"station_name":"東玉出","lon":135.495926,"lat":34.626784}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":22,"line_cd":99502,"line_name":"伊豆箱根鉄道駿豆線","station_cd":9950204,"station_g_cd":9950204,"station_name":"三島二日町","lon":138.926001,"lat":35.111039}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":22,"line_cd":99502,"line_name":"伊豆箱根鉄道駿豆線","station_cd":9950204,"station_g_cd":9950204,"station_name":"三島二日町","lon":138.926001,"lat":35.111039}]}

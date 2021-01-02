@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":11302,"line_name":"JR山手線","station_cd":1130222,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":11313,"line_name":"JR中央・総武線","station_cd":1131319,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":11332,"line_name":"JR京浜東北線","station_cd":1133220,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":28003,"line_name":"東京メトロ日比谷線","station_cd":2800307,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":99309,"line_name":"つくばエクスプレス","station_cd":9930901,"station_name":"秋葉原"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":11302,"line_name":"JR山手線","station_cd":1130222,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":11313,"line_name":"JR中央・総武線","station_cd":1131319,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":11332,"line_name":"JR京浜東北線","station_cd":1133220,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":28003,"line_name":"東京メトロ日比谷線","station_cd":2800307,"station_name":"秋葉原"},{"pref_cd":13,"line_cd":99309,"line_name":"つくばエクスプレス","station_cd":9930901,"station_name":"秋葉原"}]}

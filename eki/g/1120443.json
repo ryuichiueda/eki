@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":2,"line_cd":11202,"line_name":"JR奥羽本線(新庄～青森)","station_cd":1120259,"station_name":"川部"},{"pref_cd":2,"line_cd":11204,"line_name":"JR五能線","station_cd":1120443,"station_name":"川部"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":2,"line_cd":11202,"line_name":"JR奥羽本線(新庄～青森)","station_cd":1120259,"station_name":"川部"},{"pref_cd":2,"line_cd":11204,"line_name":"JR五能線","station_cd":1120443,"station_name":"川部"}]}

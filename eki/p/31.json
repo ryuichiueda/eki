@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11616,"line_name":"JR山陰本線(豊岡～米子)"},{"line_cd":11701,"line_name":"JR山陰本線(米子～益田)"},{"line_cd":11703,"line_name":"JR伯備線"},{"line_cd":11704,"line_name":"JR因美線"},{"line_cd":11705,"line_name":"JR境線"},{"line_cd":99644,"line_name":"智頭急行智頭線"},{"line_cd":99701,"line_name":"若桜線"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11616,"line_name":"JR山陰本線(豊岡～米子)"},{"line_cd":11701,"line_name":"JR山陰本線(米子～益田)"},{"line_cd":11703,"line_name":"JR伯備線"},{"line_cd":11704,"line_name":"JR因美線"},{"line_cd":11705,"line_name":"JR境線"},{"line_cd":99644,"line_name":"智頭急行智頭線"},{"line_cd":99701,"line_name":"若桜線"}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":4,"line_cd":99218,"line_name":"仙台市営地下鉄東西線","station_cd":9921812,"station_g_cd":9921812,"station_name":"六丁の目","lon":140.935556,"lat":38.250972}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":4,"line_cd":99218,"line_name":"仙台市営地下鉄東西線","station_cd":9921812,"station_g_cd":9921812,"station_name":"六丁の目","lon":140.935556,"lat":38.250972}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":7,"line_cd":99216,"line_name":"会津鉄道会津線","station_cd":9921612,"station_name":"ふるさと公園"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":7,"line_cd":99216,"line_name":"会津鉄道会津線","station_cd":9921612,"station_name":"ふるさと公園"}]}

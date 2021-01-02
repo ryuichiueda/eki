@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":4,"line_cd":99218,"line_name":"仙台市営地下鉄東西線","station_cd":9921807,"station_g_cd":1122201,"station_name":"仙台","lon":140.879928,"lat":38.259901}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":4,"line_cd":99218,"line_name":"仙台市営地下鉄東西線","station_cd":9921807,"station_g_cd":1122201,"station_name":"仙台","lon":140.879928,"lat":38.259901}]}

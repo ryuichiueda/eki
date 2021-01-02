@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":23,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141105,"station_name":"大曽根"},{"pref_cd":23,"line_cd":30012,"line_name":"名鉄瀬戸線","station_cd":3001206,"station_name":"大曽根"},{"pref_cd":23,"line_cd":99514,"line_name":"名古屋市営地下鉄名城線","station_cd":9951402,"station_name":"大曽根"},{"pref_cd":23,"line_cd":99523,"line_name":"ゆとりーとライン","station_cd":9952301,"station_name":"大曽根"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":23,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141105,"station_name":"大曽根"},{"pref_cd":23,"line_cd":30012,"line_name":"名鉄瀬戸線","station_cd":3001206,"station_name":"大曽根"},{"pref_cd":23,"line_cd":99514,"line_name":"名古屋市営地下鉄名城線","station_cd":9951402,"station_name":"大曽根"},{"pref_cd":23,"line_cd":99523,"line_name":"ゆとりーとライン","station_cd":9952301,"station_name":"大曽根"}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":5,"line_cd":11212,"line_name":"十和田八幡平四季彩ライン","station_cd":1121221,"station_g_cd":1121221,"station_name":"土深井","lon":140.713142,"lat":40.222452}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":5,"line_cd":11212,"line_name":"十和田八幡平四季彩ライン","station_cd":1121221,"station_g_cd":1121221,"station_name":"土深井","lon":140.713142,"lat":40.222452}]}

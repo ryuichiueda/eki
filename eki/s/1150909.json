@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":26,"line_cd":11509,"line_name":"JR関西本線(亀山～加茂)","station_cd":1150909,"station_g_cd":1150909,"station_name":"月ケ瀬口","lon":136.023703,"lat":34.762813}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":26,"line_cd":11509,"line_name":"JR関西本線(亀山～加茂)","station_cd":1150909,"station_g_cd":1150909,"station_name":"月ケ瀬口","lon":136.023703,"lat":34.762813}]}

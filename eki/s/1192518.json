@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":45,"line_cd":11925,"line_name":"えびの高原線(八代～吉松)","station_cd":1192518,"station_g_cd":1192518,"station_name":"真幸","lon":130.72914,"lat":32.074544}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":45,"line_cd":11925,"line_name":"えびの高原線(八代～吉松)","station_cd":1192518,"station_g_cd":1192518,"station_name":"真幸","lon":130.72914,"lat":32.074544}]}

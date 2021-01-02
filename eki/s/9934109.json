@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":7,"line_cd":99341,"line_name":"ほっとスパ・ライン","station_cd":9934109,"station_g_cd":9921621,"station_name":"会津高原尾瀬口","lon":139.705067,"lat":37.089949}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":7,"line_cd":99341,"line_name":"ほっとスパ・ライン","station_cd":9934109,"station_g_cd":9921621,"station_name":"会津高原尾瀬口","lon":139.705067,"lat":37.089949}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":11927,"line_name":"JR宮崎空港線","line_lon":131.43276229102,"line_lat":31.895343146073,"line_zoom":13,"station_l":[{"station_cd":1192701,"station_g_cd":1190729,"station_name":"宮崎","lon":131.431975,"lat":31.915742},{"station_cd":1192702,"station_g_cd":1190730,"station_name":"南宮崎","lon":131.422329,"lat":31.895097},{"station_cd":1192703,"station_g_cd":1192703,"station_name":"田吉","lon":131.430697,"lat":31.878202},{"station_cd":1192704,"station_g_cd":1192704,"station_name":"宮崎空港","lon":131.440555,"lat":31.87251}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":11927,"line_name":"JR宮崎空港線","line_lon":131.43276229102,"line_lat":31.895343146073,"line_zoom":13,"station_l":[{"station_cd":1192701,"station_g_cd":1190729,"station_name":"宮崎","lon":131.431975,"lat":31.915742},{"station_cd":1192702,"station_g_cd":1190730,"station_name":"南宮崎","lon":131.422329,"lat":31.895097},{"station_cd":1192703,"station_g_cd":1192703,"station_name":"田吉","lon":131.430697,"lat":31.878202},{"station_cd":1192704,"station_g_cd":1192704,"station_name":"宮崎空港","lon":131.440555,"lat":31.87251}]}

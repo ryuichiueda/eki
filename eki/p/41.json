@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11903,"line_name":"JR鹿児島本線(博多～八代)"},{"line_cd":11905,"line_name":"JR長崎本線(鳥栖～長崎)"},{"line_cd":11909,"line_name":"JR筑肥線(姪浜～西唐津)"},{"line_cd":11918,"line_name":"JR佐世保線"},{"line_cd":11920,"line_name":"JR筑肥線(西唐津～伊万里)"},{"line_cd":11921,"line_name":"JR唐津線"},{"line_cd":99901,"line_name":"甘木鉄道"},{"line_cd":99910,"line_name":"西九州線(有田～伊万里)"},{"line_cd":99911,"line_name":"西九州線(伊万里～佐世保)"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11903,"line_name":"JR鹿児島本線(博多～八代)"},{"line_cd":11905,"line_name":"JR長崎本線(鳥栖～長崎)"},{"line_cd":11909,"line_name":"JR筑肥線(姪浜～西唐津)"},{"line_cd":11918,"line_name":"JR佐世保線"},{"line_cd":11920,"line_name":"JR筑肥線(西唐津～伊万里)"},{"line_cd":11921,"line_name":"JR唐津線"},{"line_cd":99901,"line_name":"甘木鉄道"},{"line_cd":99910,"line_name":"西九州線(有田～伊万里)"},{"line_cd":99911,"line_name":"西九州線(伊万里～佐世保)"}]}

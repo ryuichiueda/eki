@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":22003,"line_name":"西武有楽町線","station_cd":2200301,"station_name":"小竹向原"},{"pref_cd":13,"line_cd":28006,"line_name":"東京メトロ有楽町線","station_cd":2800606,"station_name":"小竹向原"},{"pref_cd":13,"line_cd":28010,"line_name":"東京メトロ副都心線","station_cd":2801006,"station_name":"小竹向原"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":22003,"line_name":"西武有楽町線","station_cd":2200301,"station_name":"小竹向原"},{"pref_cd":13,"line_cd":28006,"line_name":"東京メトロ有楽町線","station_cd":2800606,"station_name":"小竹向原"},{"pref_cd":13,"line_cd":28010,"line_name":"東京メトロ副都心線","station_cd":2801006,"station_name":"小竹向原"}]}

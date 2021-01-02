@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":99614,"line_name":"北大阪急行電鉄","line_lon":135.49546160449,"line_lat":34.789927239204,"line_zoom":13,"station_l":[{"station_cd":9961401,"station_g_cd":9961401,"station_name":"千里中央","lon":135.495067,"lat":34.808655},{"station_cd":9961402,"station_g_cd":9961402,"station_name":"桃山台","lon":135.497142,"lat":34.793842},{"station_cd":9961403,"station_g_cd":9961403,"station_name":"緑地公園","lon":135.495278,"lat":34.774772},{"station_cd":9961404,"station_g_cd":9961404,"station_name":"江坂","lon":135.497106,"lat":34.758755}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":99614,"line_name":"北大阪急行電鉄","line_lon":135.49546160449,"line_lat":34.789927239204,"line_zoom":13,"station_l":[{"station_cd":9961401,"station_g_cd":9961401,"station_name":"千里中央","lon":135.495067,"lat":34.808655},{"station_cd":9961402,"station_g_cd":9961402,"station_name":"桃山台","lon":135.497142,"lat":34.793842},{"station_cd":9961403,"station_g_cd":9961403,"station_name":"緑地公園","lon":135.495278,"lat":34.774772},{"station_cd":9961404,"station_g_cd":9961404,"station_name":"江坂","lon":135.497106,"lat":34.758755}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":14,"line_cd":99344,"line_name":"箱根登山ケーブルカー","station_cd":9934402,"station_g_cd":9934402,"station_name":"公園下","lon":139.045639,"lat":35.249944}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":14,"line_cd":99344,"line_name":"箱根登山ケーブルカー","station_cd":9934402,"station_g_cd":9934402,"station_name":"公園下","lon":139.045639,"lat":35.249944}]}

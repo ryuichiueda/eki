@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":20,"line_cd":11414,"line_name":"JR飯田線(天竜峡～辰野)","station_cd":1141423,"station_g_cd":1141423,"station_name":"伊那本郷","lon":137.93248,"lat":35.66543}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":20,"line_cd":11414,"line_name":"JR飯田線(天竜峡～辰野)","station_cd":1141423,"station_g_cd":1141423,"station_name":"伊那本郷","lon":137.93248,"lat":35.66543}]}

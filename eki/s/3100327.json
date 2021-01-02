@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":29,"line_cd":31003,"line_name":"近鉄南大阪線","station_cd":3100327,"station_g_cd":3100327,"station_name":"橿原神宮西口","lon":135.781372,"lat":34.486187}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":29,"line_cd":31003,"line_name":"近鉄南大阪線","station_cd":3100327,"station_g_cd":3100327,"station_name":"橿原神宮西口","lon":135.781372,"lat":34.486187}]}

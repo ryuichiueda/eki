@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131112,"station_name":"高尾"},{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131232,"station_name":"高尾"},{"pref_cd":13,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132815,"station_name":"高尾"},{"pref_cd":13,"line_cd":24003,"line_name":"京王高尾線","station_cd":2400306,"station_name":"高尾"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131112,"station_name":"高尾"},{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131232,"station_name":"高尾"},{"pref_cd":13,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132815,"station_name":"高尾"},{"pref_cd":13,"line_cd":24003,"line_name":"京王高尾線","station_cd":2400306,"station_name":"高尾"}]}

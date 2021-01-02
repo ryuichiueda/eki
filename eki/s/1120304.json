@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":2,"line_cd":11203,"line_name":"はまなすベイライン大湊線","station_cd":1120304,"station_g_cd":1120304,"station_name":"吹越","lon":141.246552,"lat":41.022038}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":2,"line_cd":11203,"line_name":"はまなすベイライン大湊線","station_cd":1120304,"station_g_cd":1120304,"station_name":"吹越","lon":141.246552,"lat":41.022038}]}

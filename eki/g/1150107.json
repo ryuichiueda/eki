@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":22,"line_cd":11501,"line_name":"JR東海道本線(熱海～浜松)","station_cd":1150107,"station_name":"東田子の浦"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":22,"line_cd":11501,"line_name":"JR東海道本線(熱海～浜松)","station_cd":1150107,"station_name":"東田子の浦"}]}

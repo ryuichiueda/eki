@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":11,"line_cd":11318,"line_name":"JR八高線(高麗川～高崎)","station_cd":1131806,"station_g_cd":1131806,"station_name":"竹沢","lon":139.229952,"lat":36.075466}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":11,"line_cd":11318,"line_name":"JR八高線(高麗川～高崎)","station_cd":1131806,"station_g_cd":1131806,"station_name":"竹沢","lon":139.229952,"lat":36.075466}]}

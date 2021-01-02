@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":17,"line_cd":99417,"line_name":"北陸鉄道浅野川線","station_cd":9941711,"station_g_cd":9941711,"station_name":"粟ヶ崎","lon":136.638149,"lat":36.630224}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":17,"line_cd":99417,"line_name":"北陸鉄道浅野川線","station_cd":9941711,"station_g_cd":9941711,"station_name":"粟ヶ崎","lon":136.638149,"lat":36.630224}]}

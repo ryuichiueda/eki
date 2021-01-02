@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":23,"line_cd":31027,"line_name":"近鉄名古屋線","station_cd":3102702,"station_name":"米野"},{"pref_cd":23,"line_cd":99509,"line_name":"あおなみ線","station_cd":9950902,"station_name":"ささしまライブ"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":23,"line_cd":31027,"line_name":"近鉄名古屋線","station_cd":3102702,"station_name":"米野"},{"pref_cd":23,"line_cd":99509,"line_name":"あおなみ線","station_cd":9950902,"station_name":"ささしまライブ"}]}

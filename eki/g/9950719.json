@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":22,"line_cd":99507,"line_name":"大井川鐵道大井川本線","station_cd":9950719,"station_name":"千頭"},{"pref_cd":22,"line_cd":99508,"line_name":"南アルプスあぷとライン","station_cd":9950801,"station_name":"千頭"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":22,"line_cd":99507,"line_name":"大井川鐵道大井川本線","station_cd":9950719,"station_name":"千頭"},{"pref_cd":22,"line_cd":99508,"line_name":"南アルプスあぷとライン","station_cd":9950801,"station_name":"千頭"}]}

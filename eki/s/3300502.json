@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":26,"line_cd":33005,"line_name":"石清水八幡宮参道ケーブル","station_cd":3300502,"station_g_cd":3300502,"station_name":"ケーブル八幡宮山上","lon":135.699796,"lat":34.881061}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":26,"line_cd":33005,"line_name":"石清水八幡宮参道ケーブル","station_cd":3300502,"station_g_cd":3300502,"station_name":"ケーブル八幡宮山上","lon":135.699796,"lat":34.881061}]}

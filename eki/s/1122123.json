@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":6,"line_cd":11221,"line_name":"奥の細道湯けむりライン","station_cd":1122123,"station_g_cd":1122123,"station_name":"瀬見温泉","lon":140.419557,"lat":38.755192}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":6,"line_cd":11221,"line_name":"奥の細道湯けむりライン","station_cd":1122123,"station_g_cd":1122123,"station_name":"瀬見温泉","lon":140.419557,"lat":38.755192}]}

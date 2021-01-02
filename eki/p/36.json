@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11801,"line_name":"JR土讃線"},{"line_cd":11802,"line_name":"JR高徳線"},{"line_cd":11803,"line_name":"よしの川ブルーライン"},{"line_cd":11804,"line_name":"JR牟岐線"},{"line_cd":11805,"line_name":"JR鳴門線"},{"line_cd":99801,"line_name":"阿波室戸シーサイドライン"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11801,"line_name":"JR土讃線"},{"line_cd":11802,"line_name":"JR高徳線"},{"line_cd":11803,"line_name":"よしの川ブルーライン"},{"line_cd":11804,"line_name":"JR牟岐線"},{"line_cd":11805,"line_name":"JR鳴門線"},{"line_cd":99801,"line_name":"阿波室戸シーサイドライン"}]}

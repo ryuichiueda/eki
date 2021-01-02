@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":45,"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)","station_cd":1190729,"station_name":"宮崎"},{"pref_cd":45,"line_cd":11927,"line_name":"JR宮崎空港線","station_cd":1192701,"station_name":"宮崎"},{"pref_cd":45,"line_cd":11928,"line_name":"JR日南線","station_cd":1192801,"station_name":"宮崎"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":45,"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)","station_cd":1190729,"station_name":"宮崎"},{"pref_cd":45,"line_cd":11927,"line_name":"JR宮崎空港線","station_cd":1192701,"station_name":"宮崎"},{"pref_cd":45,"line_cd":11928,"line_name":"JR日南線","station_cd":1192801,"station_name":"宮崎"}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":3300501,"station_cd2":3300502,"station_name1":"ケーブル八幡宮口","station_name2":"ケーブル八幡宮山上","lat1":34.88453597,"lon1":135.6995372,"lat2":34.881061,"lon2":135.699796}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":3300501,"station_cd2":3300502,"station_name1":"ケーブル八幡宮口","station_name2":"ケーブル八幡宮山上","lat1":34.88453597,"lon1":135.6995372,"lat2":34.881061,"lon2":135.699796}]}

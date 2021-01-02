@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":1,"line_cd":11105,"line_name":"JR室蘭本線(苫小牧～岩見沢)","station_cd":1110505,"station_g_cd":1110505,"station_name":"安平","lon":141.825283,"lat":42.814007}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":1,"line_cd":11105,"line_name":"JR室蘭本線(苫小牧～岩見沢)","station_cd":1110505,"station_g_cd":1110505,"station_name":"安平","lon":141.825283,"lat":42.814007}]}

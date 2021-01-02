@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":3,"line_cd":11208,"line_name":"ドラゴンレール大船渡線","station_cd":1120810,"station_name":"小梨"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":3,"line_cd":11208,"line_name":"ドラゴンレール大船渡線","station_cd":1120810,"station_name":"小梨"}]}

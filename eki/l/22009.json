@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":22009,"line_name":"西武西武園線","line_lon":139.4573715,"line_lat":35.764150582754,"line_zoom":14,"station_l":[{"station_cd":2200901,"station_g_cd":2200721,"station_name":"東村山","lon":139.465839,"lat":35.76006},{"station_cd":2200902,"station_g_cd":2200902,"station_name":"西武園","lon":139.448904,"lat":35.767684}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":22009,"line_name":"西武西武園線","line_lon":139.4573715,"line_lat":35.764150582754,"line_zoom":14,"station_l":[{"station_cd":2200901,"station_g_cd":2200721,"station_name":"東村山","lon":139.465839,"lat":35.76006},{"station_cd":2200902,"station_g_cd":2200902,"station_name":"西武園","lon":139.448904,"lat":35.767684}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11202,"line_name":"JR奥羽本線(新庄～青森)"},{"line_cd":11214,"line_name":"JR羽越本線"},{"line_cd":11216,"line_name":"山形線"},{"line_cd":11217,"line_name":"JR仙山線"},{"line_cd":11218,"line_name":"フルーツライン左沢線"},{"line_cd":11219,"line_name":"JR米坂線"},{"line_cd":11220,"line_name":"奥の細道最上川ライン"},{"line_cd":11221,"line_name":"奥の細道湯けむりライン"},{"line_cd":99211,"line_name":"フラワー長井線"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11202,"line_name":"JR奥羽本線(新庄～青森)"},{"line_cd":11214,"line_name":"JR羽越本線"},{"line_cd":11216,"line_name":"山形線"},{"line_cd":11217,"line_name":"JR仙山線"},{"line_cd":11218,"line_name":"フルーツライン左沢線"},{"line_cd":11219,"line_name":"JR米坂線"},{"line_cd":11220,"line_name":"奥の細道最上川ライン"},{"line_cd":11221,"line_name":"奥の細道湯けむりライン"},{"line_cd":99211,"line_name":"フラワー長井線"}]}

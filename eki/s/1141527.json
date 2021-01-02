@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":18,"line_cd":11415,"line_name":"JR北陸本線(米原～金沢)","station_cd":1141527,"station_g_cd":1141527,"station_name":"芦原温泉","lon":136.235069,"lat":36.214542}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":18,"line_cd":11415,"line_name":"JR北陸本線(米原～金沢)","station_cd":1141527,"station_g_cd":1141527,"station_name":"芦原温泉","lon":136.235069,"lat":36.214542}]}

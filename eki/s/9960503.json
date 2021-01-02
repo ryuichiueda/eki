@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":26,"line_cd":99605,"line_name":"嵯峨野観光線","station_cd":9960503,"station_g_cd":9960503,"station_name":"トロッコ保津峡","lon":135.646284,"lat":35.026148}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":26,"line_cd":99605,"line_name":"嵯峨野観光線","station_cd":9960503,"station_g_cd":9960503,"station_name":"トロッコ保津峡","lon":135.646284,"lat":35.026148}]}

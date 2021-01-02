@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":21,"line_cd":99525,"line_name":"長良川鉄道越美南線","station_cd":9952508,"station_g_cd":9952508,"station_name":"関","lon":136.912758,"lat":35.490027}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":21,"line_cd":99525,"line_name":"長良川鉄道越美南線","station_cd":9952508,"station_g_cd":9952508,"station_name":"関","lon":136.912758,"lat":35.490027}]}

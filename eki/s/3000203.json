@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":23,"line_cd":30002,"line_name":"名鉄豊川線","station_cd":3000203,"station_g_cd":3000203,"station_name":"諏訪町","lon":137.370479,"lat":34.823464}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":23,"line_cd":30002,"line_name":"名鉄豊川線","station_cd":3000203,"station_g_cd":3000203,"station_name":"諏訪町","lon":137.370479,"lat":34.823464}]}

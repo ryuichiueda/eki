@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":31012,"line_name":"近鉄道明寺線","line_lon":135.62202935979,"line_lat":34.580118020584,"line_zoom":14,"station_l":[{"station_cd":3101201,"station_g_cd":3100315,"station_name":"道明寺","lon":135.620399,"lat":34.56834},{"station_cd":3101202,"station_g_cd":3101202,"station_name":"柏原南口","lon":135.624956,"lat":34.58153},{"station_cd":3101203,"station_g_cd":1160712,"station_name":"柏原","lon":135.623308,"lat":34.586668}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":31012,"line_name":"近鉄道明寺線","line_lon":135.62202935979,"line_lat":34.580118020584,"line_zoom":14,"station_l":[{"station_cd":3101201,"station_g_cd":3100315,"station_name":"道明寺","lon":135.620399,"lat":34.56834},{"station_cd":3101202,"station_g_cd":3101202,"station_name":"柏原南口","lon":135.624956,"lat":34.58153},{"station_cd":3101203,"station_g_cd":1160712,"station_name":"柏原","lon":135.623308,"lat":34.586668}]}

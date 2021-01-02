@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":9961401,"station_cd2":9961402,"station_name1":"千里中央","station_name2":"桃山台","lat1":34.808655,"lon1":135.495067,"lat2":34.793842,"lon2":135.497142},{"station_cd1":9961402,"station_cd2":9961403,"station_name1":"桃山台","station_name2":"緑地公園","lat1":34.793842,"lon1":135.497142,"lat2":34.774772,"lon2":135.495278},{"station_cd1":9961403,"station_cd2":9961404,"station_name1":"緑地公園","station_name2":"江坂","lat1":34.774772,"lon1":135.495278,"lat2":34.758755,"lon2":135.497106}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":9961401,"station_cd2":9961402,"station_name1":"千里中央","station_name2":"桃山台","lat1":34.808655,"lon1":135.495067,"lat2":34.793842,"lon2":135.497142},{"station_cd1":9961402,"station_cd2":9961403,"station_name1":"桃山台","station_name2":"緑地公園","lat1":34.793842,"lon1":135.497142,"lat2":34.774772,"lon2":135.495278},{"station_cd1":9961403,"station_cd2":9961404,"station_name1":"緑地公園","station_name2":"江坂","lat1":34.774772,"lon1":135.495278,"lat2":34.758755,"lon2":135.497106}]}

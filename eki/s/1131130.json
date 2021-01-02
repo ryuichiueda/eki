@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":19,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131130,"station_g_cd":1131130,"station_name":"酒折","lon":138.598852,"lat":35.659486}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":19,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131130,"station_g_cd":1131130,"station_name":"酒折","lon":138.598852,"lat":35.659486}]}

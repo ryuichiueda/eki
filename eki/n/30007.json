@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_join":[{"station_cd1":3000701,"station_cd2":3000702,"station_name1":"常滑","station_name2":"りんくう常滑","lat1":34.891167,"lon1":136.834992,"lat2":34.87967,"lon2":136.828164},{"station_cd1":3000702,"station_cd2":3000703,"station_name1":"りんくう常滑","station_name2":"中部国際空港","lat1":34.87967,"lon1":136.828164,"lat2":34.859262,"lon2":136.816382}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_join":[{"station_cd1":3000701,"station_cd2":3000702,"station_name1":"常滑","station_name2":"りんくう常滑","lat1":34.891167,"lon1":136.834992,"lat2":34.87967,"lon2":136.828164},{"station_cd1":3000702,"station_cd2":3000703,"station_name1":"りんくう常滑","station_name2":"中部国際空港","lat1":34.87967,"lon1":136.828164,"lat2":34.859262,"lon2":136.816382}]}

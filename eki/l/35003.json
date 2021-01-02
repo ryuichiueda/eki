@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":35003,"line_name":"阪神武庫川線","line_lon":135.37922457275,"line_lat":34.712243327967,"line_zoom":15,"station_l":[{"station_cd":3500301,"station_g_cd":3500112,"station_name":"武庫川","lon":135.383654,"lat":34.718154},{"station_cd":3500302,"station_g_cd":3500302,"station_name":"東鳴尾","lon":135.379065,"lat":34.712646},{"station_cd":3500303,"station_g_cd":3500303,"station_name":"洲先","lon":135.378049,"lat":34.709046},{"station_cd":3500304,"station_g_cd":3500304,"station_name":"武庫川団地前","lon":135.374757,"lat":34.704894}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":35003,"line_name":"阪神武庫川線","line_lon":135.37922457275,"line_lat":34.712243327967,"line_zoom":15,"station_l":[{"station_cd":3500301,"station_g_cd":3500112,"station_name":"武庫川","lon":135.383654,"lat":34.718154},{"station_cd":3500302,"station_g_cd":3500302,"station_name":"東鳴尾","lon":135.379065,"lat":34.712646},{"station_cd":3500303,"station_g_cd":3500303,"station_name":"洲先","lon":135.378049,"lat":34.709046},{"station_cd":3500304,"station_g_cd":3500304,"station_name":"武庫川団地前","lon":135.374757,"lat":34.704894}]}

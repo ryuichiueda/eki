@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":31001,"line_name":"近鉄難波線","line_lon":135.52715820898,"line_lat":34.663363778757,"line_zoom":12,"station_l":[{"station_cd":3100101,"station_g_cd":3100101,"station_name":"大阪難波","lon":135.499144,"lat":34.667113},{"station_cd":3100102,"station_g_cd":3100102,"station_name":"近鉄日本橋","lon":135.505818,"lat":34.666949},{"station_cd":3100103,"station_g_cd":3100103,"station_name":"大阪上本町","lon":135.522189,"lat":34.665513}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":31001,"line_name":"近鉄難波線","line_lon":135.52715820898,"line_lat":34.663363778757,"line_zoom":12,"station_l":[{"station_cd":3100101,"station_g_cd":3100101,"station_name":"大阪難波","lon":135.499144,"lat":34.667113},{"station_cd":3100102,"station_g_cd":3100102,"station_name":"近鉄日本橋","lon":135.505818,"lat":34.666949},{"station_cd":3100103,"station_g_cd":3100103,"station_name":"大阪上本町","lon":135.522189,"lat":34.665513}]}

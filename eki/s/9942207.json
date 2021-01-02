@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":16,"line_cd":99422,"line_name":"富山地鉄富山都心線【３系統(環状線)】","station_cd":9942207,"station_g_cd":9941309,"station_name":"荒町","lon":137.215805,"lat":36.691513}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":16,"line_cd":99422,"line_name":"富山地鉄富山都心線【３系統(環状線)】","station_cd":9942207,"station_g_cd":9941309,"station_name":"荒町","lon":137.215805,"lat":36.691513}]}

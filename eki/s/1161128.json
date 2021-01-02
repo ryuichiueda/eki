@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":35,"line_cd":11611,"line_name":"JR山陽本線(三原～岩国)","station_cd":1161128,"station_g_cd":1161128,"station_name":"岩国","lon":132.225631,"lat":34.171828}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":35,"line_cd":11611,"line_name":"JR山陽本線(三原～岩国)","station_cd":1161128,"station_g_cd":1161128,"station_name":"岩国","lon":132.225631,"lat":34.171828}]}

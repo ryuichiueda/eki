@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line":[{"line_cd":11229,"line_name":"JR常磐線(取手～いわき)"},{"line_cd":11319,"line_name":"宇都宮線"},{"line_cd":11320,"line_name":"JR常磐線(上野～取手)"},{"line_cd":11329,"line_name":"JR鹿島線"},{"line_cd":11338,"line_name":"JR水郡線"},{"line_cd":11339,"line_name":"JR水戸線"},{"line_cd":99309,"line_name":"つくばエクスプレス"},{"line_cd":99315,"line_name":"ひたちなか海浜鉄道湊線"},{"line_cd":99318,"line_name":"関東鉄道常総線"},{"line_cd":99319,"line_name":"関東鉄道竜ヶ崎線"},{"line_cd":99323,"line_name":"鹿島臨海鉄道大洗鹿島線"},{"line_cd":99330,"line_name":"真岡鐵道真岡線"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line":[{"line_cd":11229,"line_name":"JR常磐線(取手～いわき)"},{"line_cd":11319,"line_name":"宇都宮線"},{"line_cd":11320,"line_name":"JR常磐線(上野～取手)"},{"line_cd":11329,"line_name":"JR鹿島線"},{"line_cd":11338,"line_name":"JR水郡線"},{"line_cd":11339,"line_name":"JR水戸線"},{"line_cd":99309,"line_name":"つくばエクスプレス"},{"line_cd":99315,"line_name":"ひたちなか海浜鉄道湊線"},{"line_cd":99318,"line_name":"関東鉄道常総線"},{"line_cd":99319,"line_name":"関東鉄道竜ヶ崎線"},{"line_cd":99323,"line_name":"鹿島臨海鉄道大洗鹿島線"},{"line_cd":99330,"line_name":"真岡鐵道真岡線"}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":38,"line_cd":99808,"line_name":"伊予鉄道環状線","station_cd":9980803,"station_name":"西堀端"},{"pref_cd":38,"line_cd":99809,"line_name":"伊予鉄道環状線","station_cd":9980921,"station_name":"西堀端"},{"pref_cd":38,"line_cd":99811,"line_name":"伊予鉄道松山駅前線","station_cd":9981103,"station_name":"西堀端"},{"pref_cd":38,"line_cd":99812,"line_name":"伊予鉄道本町線","station_cd":9981205,"station_name":"本町一丁目"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":38,"line_cd":99808,"line_name":"伊予鉄道環状線","station_cd":9980803,"station_name":"西堀端"},{"pref_cd":38,"line_cd":99809,"line_name":"伊予鉄道環状線","station_cd":9980921,"station_name":"西堀端"},{"pref_cd":38,"line_cd":99811,"line_name":"伊予鉄道松山駅前線","station_cd":9981103,"station_name":"西堀端"},{"pref_cd":38,"line_cd":99812,"line_name":"伊予鉄道本町線","station_cd":9981205,"station_name":"本町一丁目"}]}

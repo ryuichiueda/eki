@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131217,"station_name":"荻窪"},{"pref_cd":13,"line_cd":11313,"line_name":"JR中央・総武線","station_cd":1131304,"station_name":"荻窪"},{"pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800225,"station_name":"荻窪"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131217,"station_name":"荻窪"},{"pref_cd":13,"line_cd":11313,"line_name":"JR中央・総武線","station_cd":1131304,"station_name":"荻窪"},{"pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800225,"station_name":"荻窪"}]}

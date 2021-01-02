@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":28,"line_cd":11608,"line_name":"JR神戸線(神戸～姫路)","station_cd":1160808,"station_g_cd":1160808,"station_name":"舞子","lon":135.034373,"lat":34.63302}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":28,"line_cd":11608,"line_name":"JR神戸線(神戸～姫路)","station_cd":1160808,"station_g_cd":1160808,"station_name":"舞子","lon":135.034373,"lat":34.63302}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":1,"line_cd":99104,"line_name":"札幌市電山鼻線","station_cd":9910420,"station_g_cd":9910420,"station_name":"山鼻９条","lon":141.349862,"lat":43.048067}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":1,"line_cd":99104,"line_name":"札幌市電山鼻線","station_cd":9910420,"station_g_cd":9910420,"station_name":"山鼻９条","lon":141.349862,"lat":43.048067}]}

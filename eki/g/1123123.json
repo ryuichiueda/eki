@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":7,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123123,"station_name":"南福島"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":7,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123123,"station_name":"南福島"}]}

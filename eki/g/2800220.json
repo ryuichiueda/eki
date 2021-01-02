@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800220,"station_name":"中野坂上"},{"pref_cd":13,"line_cd":99301,"line_name":"都営大江戸線","station_cd":9930130,"station_name":"中野坂上"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":28002,"line_name":"東京メトロ丸ノ内線","station_cd":2800220,"station_name":"中野坂上"},{"pref_cd":13,"line_cd":99301,"line_name":"都営大江戸線","station_cd":9930130,"station_name":"中野坂上"}]}

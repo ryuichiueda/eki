@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":42,"line_cd":99915,"line_name":"長崎電軌４系統","station_cd":9991506,"station_name":"めがね橋"},{"pref_cd":42,"line_cd":99916,"line_name":"長崎電軌５系統","station_cd":9991606,"station_name":"めがね橋"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":42,"line_cd":99915,"line_name":"長崎電軌４系統","station_cd":9991506,"station_name":"めがね橋"},{"pref_cd":42,"line_cd":99916,"line_name":"長崎電軌５系統","station_cd":9991606,"station_name":"めがね橋"}]}

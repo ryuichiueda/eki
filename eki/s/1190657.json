@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":44,"line_cd":11906,"line_name":"JR日豊本線(門司港～佐伯)","station_cd":1190657,"station_g_cd":1190657,"station_name":"浅海井","lon":131.919236,"lat":33.043539}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":44,"line_cd":11906,"line_name":"JR日豊本線(門司港～佐伯)","station_cd":1190657,"station_g_cd":1190657,"station_name":"浅海井","lon":131.919236,"lat":33.043539}]}

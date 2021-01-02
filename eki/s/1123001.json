@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":7,"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)","station_cd":1123001,"station_g_cd":1122801,"station_name":"いわき","lon":140.892273,"lat":37.058241}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":7,"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)","station_cd":1123001,"station_g_cd":1122801,"station_name":"いわき","lon":140.892273,"lat":37.058241}]}

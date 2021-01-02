@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":23,"line_cd":99510,"line_name":"東海交通事業城北線","station_cd":9951006,"station_g_cd":1141107,"station_name":"勝川","lon":136.952734,"lat":35.227821}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":23,"line_cd":99510,"line_name":"東海交通事業城北線","station_cd":9951006,"station_g_cd":1141107,"station_name":"勝川","lon":136.952734,"lat":35.227821}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":43,"line_cd":99923,"line_name":"熊本市電Ｂ系統","station_cd":9992305,"station_name":"段山町"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":43,"line_cd":99923,"line_name":"熊本市電Ｂ系統","station_cd":9992305,"station_name":"段山町"}]}

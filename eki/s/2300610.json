@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":12,"line_cd":23006,"line_name":"成田スカイアクセス","station_cd":2300610,"station_g_cd":1132813,"station_name":"空港第２ビル（第２旅客ターミナル）","lon":140.387163,"lat":35.773693}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":12,"line_cd":23006,"line_name":"成田スカイアクセス","station_cd":2300610,"station_g_cd":1132813,"station_name":"空港第２ビル（第２旅客ターミナル）","lon":140.387163,"lat":35.773693}]}

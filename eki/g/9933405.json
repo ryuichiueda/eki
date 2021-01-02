@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":24005,"line_name":"京王動物園線","station_cd":2400502,"station_name":"多摩動物公園"},{"pref_cd":13,"line_cd":99334,"line_name":"多摩モノレール","station_cd":9933405,"station_name":"多摩動物公園"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":24005,"line_name":"京王動物園線","station_cd":2400502,"station_name":"多摩動物公園"},{"pref_cd":13,"line_cd":99334,"line_name":"多摩モノレール","station_cd":9933405,"station_name":"多摩動物公園"}]}

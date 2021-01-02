@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":44,"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)","station_cd":1190706,"station_g_cd":1190706,"station_name":"宗太郎","lon":131.706735,"lat":32.78628}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":44,"line_cd":11907,"line_name":"JR日豊本線(佐伯～鹿児島中央)","station_cd":1190706,"station_g_cd":1190706,"station_name":"宗太郎","lon":131.706735,"lat":32.78628}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":4,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123138,"station_name":"館腰"},{"pref_cd":4,"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)","station_cd":1123029,"station_name":"館腰"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":4,"line_cd":11231,"line_name":"JR東北本線(黒磯～利府・盛岡)","station_cd":1123138,"station_name":"館腰"},{"pref_cd":4,"line_cd":11230,"line_name":"JR常磐線(いわき～仙台)","station_cd":1123029,"station_name":"館腰"}]}

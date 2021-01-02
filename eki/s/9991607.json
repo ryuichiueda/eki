@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":42,"line_cd":99916,"line_name":"長崎電軌５系統","station_cd":9991607,"station_g_cd":9991323,"station_name":"西浜町","lon":129.876015,"lat":32.743735}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":42,"line_cd":99916,"line_name":"長崎電軌５系統","station_cd":9991607,"station_g_cd":9991323,"station_name":"西浜町","lon":129.876015,"lat":32.743735}]}

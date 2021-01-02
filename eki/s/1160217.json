@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":27,"line_cd":11602,"line_name":"JR京都線","station_cd":1160217,"station_g_cd":1160217,"station_name":"JR総持寺","lon":135.577778,"lat":34.828611}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":27,"line_cd":11602,"line_name":"JR京都線","station_cd":1160217,"station_g_cd":1160217,"station_name":"JR総持寺","lon":135.577778,"lat":34.828611}]}

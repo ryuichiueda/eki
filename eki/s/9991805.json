@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":43,"line_cd":99918,"line_name":"熊本電鉄上熊本線","station_cd":9991805,"station_g_cd":9991805,"station_name":"坪井川公園","lon":130.718773,"lat":32.821427}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":43,"line_cd":99918,"line_name":"熊本電鉄上熊本線","station_cd":9991805,"station_g_cd":9991805,"station_name":"坪井川公園","lon":130.718773,"lat":32.821427}]}

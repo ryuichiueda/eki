@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":1,"line_cd":11107,"line_name":"JR根室本線(新得～釧路)","station_cd":1110709,"station_g_cd":1110709,"station_name":"帯広","lon":143.20195,"lat":42.917997}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":1,"line_cd":11107,"line_name":"JR根室本線(新得～釧路)","station_cd":1110709,"station_g_cd":1110709,"station_name":"帯広","lon":143.20195,"lat":42.917997}]}

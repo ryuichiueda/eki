@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":24,"line_cd":11508,"line_name":"JR関西本線(名古屋～亀山)","station_cd":1150814,"station_name":"河原田"},{"pref_cd":24,"line_cd":99530,"line_name":"伊勢鉄道伊勢線","station_cd":9953001,"station_name":"河原田"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":24,"line_cd":11508,"line_name":"JR関西本線(名古屋～亀山)","station_cd":1150814,"station_name":"河原田"},{"pref_cd":24,"line_cd":99530,"line_name":"伊勢鉄道伊勢線","station_cd":9953001,"station_name":"河原田"}]}

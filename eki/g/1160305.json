@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":28,"line_cd":11603,"line_name":"JR神戸線(大阪～神戸)","station_cd":1160305,"station_name":"甲子園口"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":28,"line_cd":11603,"line_name":"JR神戸線(大阪～神戸)","station_cd":1160305,"station_name":"甲子園口"}]}

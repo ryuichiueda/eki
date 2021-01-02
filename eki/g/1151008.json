@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":24,"line_cd":11510,"line_name":"JR紀勢本線","station_cd":1151008,"station_name":"松阪"},{"pref_cd":24,"line_cd":11513,"line_name":"JR名松線","station_cd":1151301,"station_name":"松阪"},{"pref_cd":24,"line_cd":31009,"line_name":"近鉄山田線","station_cd":3100904,"station_name":"松阪"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":24,"line_cd":11510,"line_name":"JR紀勢本線","station_cd":1151008,"station_name":"松阪"},{"pref_cd":24,"line_cd":11513,"line_name":"JR名松線","station_cd":1151301,"station_name":"松阪"},{"pref_cd":24,"line_cd":31009,"line_name":"近鉄山田線","station_cd":3100904,"station_name":"松阪"}]}

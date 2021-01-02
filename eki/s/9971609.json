@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":34,"line_cd":99716,"line_name":"広電８号線(横川線)","station_cd":9971609,"station_g_cd":9971417,"station_name":"舟入幸町","lon":132.441151,"lat":34.383139}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":34,"line_cd":99716,"line_name":"広電８号線(横川線)","station_cd":9971609,"station_g_cd":9971417,"station_name":"舟入幸町","lon":132.441151,"lat":34.383139}]}

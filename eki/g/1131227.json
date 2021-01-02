@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":11303,"line_name":"JR南武線","station_cd":1130325,"station_name":"立川"},{"pref_cd":13,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131107,"station_name":"立川"},{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131227,"station_name":"立川"},{"pref_cd":13,"line_cd":11315,"line_name":"JR青梅線","station_cd":1131501,"station_name":"立川"},{"pref_cd":13,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132817,"station_name":"立川"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":11303,"line_name":"JR南武線","station_cd":1130325,"station_name":"立川"},{"pref_cd":13,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131107,"station_name":"立川"},{"pref_cd":13,"line_cd":11312,"line_name":"JR中央線(快速)","station_cd":1131227,"station_name":"立川"},{"pref_cd":13,"line_cd":11315,"line_name":"JR青梅線","station_cd":1131501,"station_name":"立川"},{"pref_cd":13,"line_cd":11328,"line_name":"JR成田エクスプレス","station_cd":1132817,"station_name":"立川"}]}

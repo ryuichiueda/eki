@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":31018,"line_name":"近鉄御所線","line_lon":135.72487327246,"line_lat":34.488001852982,"line_zoom":13,"station_l":[{"station_cd":3101801,"station_g_cd":3100323,"station_name":"尺土","lon":135.721404,"lat":34.508577},{"station_cd":3101802,"station_g_cd":3101802,"station_name":"近鉄新庄","lon":135.727338,"lat":34.489105},{"station_cd":3101803,"station_g_cd":3101803,"station_name":"忍海","lon":135.731988,"lat":34.476062},{"station_cd":3101804,"station_g_cd":1163608,"station_name":"近鉄御所","lon":135.732496,"lat":34.46468}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":31018,"line_name":"近鉄御所線","line_lon":135.72487327246,"line_lat":34.488001852982,"line_zoom":13,"station_l":[{"station_cd":3101801,"station_g_cd":3100323,"station_name":"尺土","lon":135.721404,"lat":34.508577},{"station_cd":3101802,"station_g_cd":3101802,"station_name":"近鉄新庄","lon":135.727338,"lat":34.489105},{"station_cd":3101803,"station_g_cd":3101803,"station_name":"忍海","lon":135.731988,"lat":34.476062},{"station_cd":3101804,"station_g_cd":1163608,"station_name":"近鉄御所","lon":135.732496,"lat":34.46468}]}

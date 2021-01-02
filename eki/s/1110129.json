@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":1,"line_cd":11101,"line_name":"JR函館本線(函館～長万部)","station_cd":1110129,"station_g_cd":1110129,"station_name":"野田生","lon":140.37586,"lat":42.217104}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":1,"line_cd":11101,"line_name":"JR函館本線(函館～長万部)","station_cd":1110129,"station_g_cd":1110129,"station_name":"野田生","lon":140.37586,"lat":42.217104}]}

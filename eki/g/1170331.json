@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":31,"line_cd":11616,"line_name":"JR山陰本線(豊岡～米子)","station_cd":1161640,"station_name":"伯耆大山"},{"pref_cd":31,"line_cd":11703,"line_name":"JR伯備線","station_cd":1170331,"station_name":"伯耆大山"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":31,"line_cd":11616,"line_name":"JR山陰本線(豊岡～米子)","station_cd":1161640,"station_name":"伯耆大山"},{"pref_cd":31,"line_cd":11703,"line_name":"JR伯備線","station_cd":1170331,"station_name":"伯耆大山"}]}

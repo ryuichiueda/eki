@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":11118,"line_name":"JR海峡線","line_lon":140.32904703906,"line_lat":41.366574565662,"line_zoom":9,"station_l":[{"station_cd":1111801,"station_g_cd":1111801,"station_name":"中小国","lon":140.596798,"lat":41.051702},{"station_cd":1111802,"station_g_cd":1111802,"station_name":"津軽今別","lon":140.515625,"lat":41.144885},{"station_cd":1111806,"station_g_cd":1111806,"station_name":"木古内","lon":140.434004,"lat":41.677642}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":11118,"line_name":"JR海峡線","line_lon":140.32904703906,"line_lat":41.366574565662,"line_zoom":9,"station_l":[{"station_cd":1111801,"station_g_cd":1111801,"station_name":"中小国","lon":140.596798,"lat":41.051702},{"station_cd":1111802,"station_g_cd":1111802,"station_name":"津軽今別","lon":140.515625,"lat":41.144885},{"station_cd":1111806,"station_g_cd":1111806,"station_name":"木古内","lon":140.434004,"lat":41.677642}]}

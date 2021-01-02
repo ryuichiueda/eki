@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":13,"line_cd":11314,"line_name":"JR総武本線","station_cd":1131402,"station_name":"新日本橋"},{"pref_cd":13,"line_cd":28001,"line_name":"東京メトロ銀座線","station_cd":2800108,"station_name":"三越前"},{"pref_cd":13,"line_cd":28008,"line_name":"東京メトロ半蔵門線","station_cd":2800809,"station_name":"三越前"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":13,"line_cd":11314,"line_name":"JR総武本線","station_cd":1131402,"station_name":"新日本橋"},{"pref_cd":13,"line_cd":28001,"line_name":"東京メトロ銀座線","station_cd":2800108,"station_name":"三越前"},{"pref_cd":13,"line_cd":28008,"line_name":"東京メトロ半蔵門線","station_cd":2800809,"station_name":"三越前"}]}

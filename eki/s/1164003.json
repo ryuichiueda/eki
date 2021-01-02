@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":30,"line_cd":11640,"line_name":"紀勢本線(和歌山～和歌山市)","station_cd":1164003,"station_g_cd":1164003,"station_name":"和歌山市","lon":135.166731,"lat":34.236717}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":30,"line_cd":11640,"line_name":"紀勢本線(和歌山～和歌山市)","station_cd":1164003,"station_g_cd":1164003,"station_name":"和歌山市","lon":135.166731,"lat":34.236717}]}

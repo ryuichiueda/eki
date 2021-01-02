@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":23003,"line_name":"京成金町線","line_lon":139.86858506877,"line_lat":35.761222006316,"line_zoom":14,"station_l":[{"station_cd":2300301,"station_g_cd":2300110,"station_name":"京成高砂","lon":139.866875,"lat":35.750932},{"station_cd":2300302,"station_g_cd":2300302,"station_name":"柴又","lon":139.875188,"lat":35.756323},{"station_cd":2300303,"station_g_cd":1132008,"station_name":"京成金町","lon":139.870387,"lat":35.768471}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":23003,"line_name":"京成金町線","line_lon":139.86858506877,"line_lat":35.761222006316,"line_zoom":14,"station_l":[{"station_cd":2300301,"station_g_cd":2300110,"station_name":"京成高砂","lon":139.866875,"lat":35.750932},{"station_cd":2300302,"station_g_cd":2300302,"station_name":"柴又","lon":139.875188,"lat":35.756323},{"station_cd":2300303,"station_g_cd":1132008,"station_name":"京成金町","lon":139.870387,"lat":35.768471}]}

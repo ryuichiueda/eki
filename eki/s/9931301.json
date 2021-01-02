@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":12,"line_cd":99313,"line_name":"ユーカリが丘線","station_cd":9931301,"station_g_cd":2300133,"station_name":"ユーカリが丘","lon":140.157019,"lat":35.722247}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":12,"line_cd":99313,"line_name":"ユーカリが丘線","station_cd":9931301,"station_g_cd":2300133,"station_name":"ユーカリが丘","lon":140.157019,"lat":35.722247}]}

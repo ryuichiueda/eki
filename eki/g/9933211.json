@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":12,"line_cd":99332,"line_name":"千葉都市モノレール２号線","station_cd":9933211,"station_name":"小倉台"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":12,"line_cd":99332,"line_name":"千葉都市モノレール２号線","station_cd":9933211,"station_name":"小倉台"}]}

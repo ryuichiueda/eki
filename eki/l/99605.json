@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":99605,"line_name":"嵯峨野観光線","line_lon":135.65168439551,"line_lat":35.021588141529,"line_zoom":12,"station_l":[{"station_cd":9960501,"station_g_cd":1161407,"station_name":"トロッコ嵯峨","lon":135.680704,"lat":35.018656},{"station_cd":9960502,"station_g_cd":9960502,"station_name":"トロッコ嵐山","lon":135.670252,"lat":35.017162},{"station_cd":9960503,"station_g_cd":9960503,"station_name":"トロッコ保津峡","lon":135.646284,"lat":35.026148},{"station_cd":9960504,"station_g_cd":9960504,"station_name":"トロッコ亀岡","lon":135.606751,"lat":35.01314}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":99605,"line_name":"嵯峨野観光線","line_lon":135.65168439551,"line_lat":35.021588141529,"line_zoom":12,"station_l":[{"station_cd":9960501,"station_g_cd":1161407,"station_name":"トロッコ嵯峨","lon":135.680704,"lat":35.018656},{"station_cd":9960502,"station_g_cd":9960502,"station_name":"トロッコ嵐山","lon":135.670252,"lat":35.017162},{"station_cd":9960503,"station_g_cd":9960503,"station_name":"トロッコ保津峡","lon":135.646284,"lat":35.026148},{"station_cd":9960504,"station_g_cd":9960504,"station_name":"トロッコ亀岡","lon":135.606751,"lat":35.01314}]}

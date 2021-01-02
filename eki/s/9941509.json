@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":16,"line_cd":99415,"line_name":"富山港線","station_cd":9941509,"station_g_cd":9941509,"station_name":"蓮町（馬場記念公園前）","lon":137.227463,"lat":36.742663}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":16,"line_cd":99415,"line_name":"富山港線","station_cd":9941509,"station_g_cd":9941509,"station_name":"蓮町（馬場記念公園前）","lon":137.227463,"lat":36.742663}]}

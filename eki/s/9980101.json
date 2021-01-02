@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":36,"line_cd":99801,"line_name":"阿波室戸シーサイドライン","station_cd":9980101,"station_g_cd":1180430,"station_name":"海部","lon":134.351999,"lat":33.593453}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":36,"line_cd":99801,"line_name":"阿波室戸シーサイドライン","station_cd":9980101,"station_g_cd":1180430,"station_name":"海部","lon":134.351999,"lat":33.593453}]}

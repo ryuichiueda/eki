@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":46,"line_cd":99926,"line_name":"鹿児島市電２系統","station_cd":9992620,"station_g_cd":9992516,"station_name":"郡元","lon":130.549024,"lat":31.562466}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":46,"line_cd":99926,"line_name":"鹿児島市電２系統","station_cd":9992620,"station_g_cd":9992516,"station_name":"郡元","lon":130.549024,"lat":31.562466}]}

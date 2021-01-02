@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":99217,"line_name":"仙台空港線","line_lon":140.90579885449,"line_lat":38.161795240605,"line_zoom":13,"station_l":[{"station_cd":9921701,"station_g_cd":1123139,"station_name":"名取","lon":140.882771,"lat":38.173129},{"station_cd":9921702,"station_g_cd":9921702,"station_name":"杜せきのした","lon":140.895738,"lat":38.165482},{"station_cd":9921703,"station_g_cd":9921703,"station_name":"美田園","lon":140.917404,"lat":38.15965},{"station_cd":9921704,"station_g_cd":9921704,"station_name":"仙台空港","lon":140.930029,"lat":38.138122}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":99217,"line_name":"仙台空港線","line_lon":140.90579885449,"line_lat":38.161795240605,"line_zoom":13,"station_l":[{"station_cd":9921701,"station_g_cd":1123139,"station_name":"名取","lon":140.882771,"lat":38.173129},{"station_cd":9921702,"station_g_cd":9921702,"station_name":"杜せきのした","lon":140.895738,"lat":38.165482},{"station_cd":9921703,"station_g_cd":9921703,"station_name":"美田園","lon":140.917404,"lat":38.15965},{"station_cd":9921704,"station_g_cd":9921704,"station_name":"仙台空港","lon":140.930029,"lat":38.138122}]}

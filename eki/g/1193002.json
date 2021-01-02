@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":46,"line_cd":11930,"line_name":"JR指宿枕崎線","station_cd":1193002,"station_name":"郡元"},{"pref_cd":46,"line_cd":99926,"line_name":"鹿児島市電２系統","station_cd":9992618,"station_name":"純心学園前"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":46,"line_cd":11930,"line_name":"JR指宿枕崎線","station_cd":1193002,"station_name":"郡元"},{"pref_cd":46,"line_cd":99926,"line_name":"鹿児島市電２系統","station_cd":9992618,"station_name":"純心学園前"}]}

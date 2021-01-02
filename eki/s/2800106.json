@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":13,"line_cd":28001,"line_name":"東京メトロ銀座線","station_cd":2800106,"station_g_cd":2800106,"station_name":"末広町","lon":139.771713,"lat":35.702972}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":13,"line_cd":28001,"line_name":"東京メトロ銀座線","station_cd":2800106,"station_g_cd":2800106,"station_name":"末広町","lon":139.771713,"lat":35.702972}]}

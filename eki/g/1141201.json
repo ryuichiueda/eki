@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":20,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131153,"station_name":"塩尻"},{"pref_cd":20,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141140,"station_name":"塩尻"},{"pref_cd":20,"line_cd":11412,"line_name":"JR篠ノ井線","station_cd":1141201,"station_name":"塩尻"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":20,"line_cd":11311,"line_name":"JR中央本線(東京～塩尻)","station_cd":1131153,"station_name":"塩尻"},{"pref_cd":20,"line_cd":11411,"line_name":"JR中央本線(名古屋～塩尻)","station_cd":1141140,"station_name":"塩尻"},{"pref_cd":20,"line_cd":11412,"line_name":"JR篠ノ井線","station_cd":1141201,"station_name":"塩尻"}]}

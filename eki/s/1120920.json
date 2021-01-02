@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":3,"line_cd":11209,"line_name":"銀河ドリームライン釜石線","station_cd":1120920,"station_g_cd":1120920,"station_name":"陸中大橋","lon":141.718436,"lat":39.280451}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":3,"line_cd":11209,"line_name":"銀河ドリームライン釜石線","station_cd":1120920,"station_g_cd":1120920,"station_name":"陸中大橋","lon":141.718436,"lat":39.280451}]}

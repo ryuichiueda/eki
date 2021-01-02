@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":27,"line_cd":33001,"line_name":"京阪本線","station_cd":3300138,"station_name":"天満橋"},{"pref_cd":27,"line_cd":33008,"line_name":"京阪中之島線","station_cd":3300801,"station_name":"天満橋"},{"pref_cd":27,"line_cd":99619,"line_name":"大阪メトロ谷町線","station_cd":9961912,"station_name":"天満橋"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":27,"line_cd":33001,"line_name":"京阪本線","station_cd":3300138,"station_name":"天満橋"},{"pref_cd":27,"line_cd":33008,"line_name":"京阪中之島線","station_cd":3300801,"station_name":"天満橋"},{"pref_cd":27,"line_cd":99619,"line_name":"大阪メトロ谷町線","station_cd":9961912,"station_name":"天満橋"}]}

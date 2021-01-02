@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":26,"line_cd":11601,"line_name":"琵琶湖線","station_cd":1160119,"station_name":"山科"},{"pref_cd":26,"line_cd":11605,"line_name":"JR湖西線","station_cd":1160502,"station_name":"山科"},{"pref_cd":26,"line_cd":33007,"line_name":"京阪京津線","station_cd":3300702,"station_name":"京阪山科"},{"pref_cd":26,"line_cd":99611,"line_name":"京都市営地下鉄東西線","station_cd":9961107,"station_name":"山科"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":26,"line_cd":11601,"line_name":"琵琶湖線","station_cd":1160119,"station_name":"山科"},{"pref_cd":26,"line_cd":11605,"line_name":"JR湖西線","station_cd":1160502,"station_name":"山科"},{"pref_cd":26,"line_cd":33007,"line_name":"京阪京津線","station_cd":3300702,"station_name":"京阪山科"},{"pref_cd":26,"line_cd":99611,"line_name":"京都市営地下鉄東西線","station_cd":9961107,"station_name":"山科"}]}

@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":25,"line_cd":11503,"line_name":"JR東海道本線(岐阜～美濃赤坂・米原)","station_cd":1150311,"station_g_cd":1150311,"station_name":"醒ケ井","lon":136.345135,"lat":35.327664}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":25,"line_cd":11503,"line_name":"JR東海道本線(岐阜～美濃赤坂・米原)","station_cd":1150311,"station_g_cd":1150311,"station_name":"醒ケ井","lon":136.345135,"lat":35.327664}]}

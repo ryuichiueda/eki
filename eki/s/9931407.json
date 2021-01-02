@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":14,"line_cd":99314,"line_name":"伊豆箱根鉄道大雄山線","station_cd":9931407,"station_g_cd":9931407,"station_name":"相模沼田","lon":139.133945,"lat":35.292334}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":14,"line_cd":99314,"line_name":"伊豆箱根鉄道大雄山線","station_cd":9931407,"station_g_cd":9931407,"station_name":"相模沼田","lon":139.133945,"lat":35.292334}]}

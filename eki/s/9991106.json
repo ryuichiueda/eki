@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":41,"line_cd":99911,"line_name":"西九州線(伊万里～佐世保)","station_cd":9991106,"station_g_cd":9991106,"station_name":"久原","lon":129.811763,"lat":33.313973}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":41,"line_cd":99911,"line_name":"西九州線(伊万里～佐世保)","station_cd":9991106,"station_g_cd":9991106,"station_name":"久原","lon":129.811763,"lat":33.313973}]}

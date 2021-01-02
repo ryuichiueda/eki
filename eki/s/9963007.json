@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station":[{ "pref_cd":28,"line_cd":99630,"line_name":"神戸高速東西線","station_cd":9963007,"station_g_cd":9963007,"station_name":"大開","lon":135.161709,"lat":34.671179}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station":[{ "pref_cd":28,"line_cd":99630,"line_name":"神戸高速東西線","station_cd":9963007,"station_g_cd":9963007,"station_name":"大開","lon":135.161709,"lat":34.671179}]}

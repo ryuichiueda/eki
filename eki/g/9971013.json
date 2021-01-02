@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"station_g":[{"pref_cd":34,"line_cd":99710,"line_name":"広電１号線(宇品線)","station_cd":9971013,"station_name":"市役所前"},{"pref_cd":34,"line_cd":99712,"line_name":"広電３号線","station_cd":9971215,"station_name":"市役所前"},{"pref_cd":34,"line_cd":99715,"line_name":"広電７号線","station_cd":9971512,"station_name":"市役所前"}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"station_g":[{"pref_cd":34,"line_cd":99710,"line_name":"広電１号線(宇品線)","station_cd":9971013,"station_name":"市役所前"},{"pref_cd":34,"line_cd":99712,"line_name":"広電３号線","station_cd":9971215,"station_name":"市役所前"},{"pref_cd":34,"line_cd":99715,"line_name":"広電７号線","station_cd":9971512,"station_name":"市役所前"}]}

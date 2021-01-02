@@ -1,4 +1,1 @@
-
-if(typeof(xml)=='undefined') xml = {};
-xml.data = {"line_cd":99801,"line_name":"阿波室戸シーサイドライン","line_lon":134.31125740739,"line_lat":33.573504169616,"line_zoom":13,"station_l":[{"station_cd":9980101,"station_g_cd":1180430,"station_name":"海部","lon":134.351999,"lat":33.593453},{"station_cd":9980102,"station_g_cd":9980102,"station_name":"宍喰","lon":134.300741,"lat":33.566949},{"station_cd":9980103,"station_g_cd":9980103,"station_name":"甲浦","lon":134.288242,"lat":33.547238}]}
-if(typeof(xml.onload)=='function') xml.onload(xml.data);
+{"line_cd":99801,"line_name":"阿波室戸シーサイドライン","line_lon":134.31125740739,"line_lat":33.573504169616,"line_zoom":13,"station_l":[{"station_cd":9980101,"station_g_cd":1180430,"station_name":"海部","lon":134.351999,"lat":33.593453},{"station_cd":9980102,"station_g_cd":9980102,"station_name":"宍喰","lon":134.300741,"lat":33.566949},{"station_cd":9980103,"station_g_cd":9980103,"station_name":"甲浦","lon":134.288242,"lat":33.547238}]}
