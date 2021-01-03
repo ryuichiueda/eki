@@ -11,5 +11,6 @@ $BIN/eki pref | grep '神奈川県 京急本線' 2> /dev/null
 [ "$($BIN/eki adj 京急川崎 | LANG=C sort | xargs)" = "八丁畷 六郷土手 港町" ]
 [ "$($BIN/eki-line 京急川崎 | LANG=C sort | xargs)" = "京急大師線 京急本線" ]
 [ "$($BIN/eki line 京急川崎 | LANG=C sort | xargs)" = "京急大師線 京急本線" ]
-[ "$($BIN/eki pref 沖縄県 | LANG=C sort | xargs)" = "沖縄県 ゆいレール" ]
-[ "$($BIN/eki pref 47 | LANG=C sort | xargs)" = "沖縄県 ゆいレール" ]
+[ "$($BIN/eki 京急蒲田 | wc -l)" = "2" ]
+[ "$($BIN/eki-pref 14 | grep 京急 | wc -l)" = "4" ]
+[ "$($BIN/eki-pref 神奈川県 | grep 京急 | wc -l)" = "4" ]
