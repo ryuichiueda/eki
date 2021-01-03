@@ -2,7 +2,7 @@
 
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
-	eki-adj 0.1
+	eki-adj 0.1.1
 	Copyright (C) 2021, Ryuichi Ueda.
 
 	Usage: eki-adj [option]
@@ -18,6 +18,6 @@ DATA=/usr/share/eki/
 [ -e "$DATA" ] || DATA="/eki/"
 [ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
 
-grep -C1 "$1" "$DATA/n/"*.xml                                      |
+grep -C1 ">$1<" "$DATA/n/"*.xml                                    |
 awk -F '[<>]' -v s="$1" '$2~/station_name[12]/ && $3!=s{print $3}' |
 sort -u
