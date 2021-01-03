@@ -2,21 +2,29 @@
 
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
-	eki-pref 0.1
+	eki-pref 0.2
 	Copyright (C) 2021, Ryuichi Ueda.
 
 	Usage: eki-pref [option]
 
-	MIT License
 	Released under MIT license
 	https://github.com/ryuichiueda/eki
 	EOF
 	exit 0
 }
 
-DATA=/usr/share/eki/
-[ -e "$DATA" ] || DATA="/eki/"
-[ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
+EKIDATA=/usr/share/eki/
+[ -e "$EKIDATA" ] || EKIDATA="/eki/"
+[ -e "$EKIDATA" ] || EKIDATA="$(dirname $0)/../eki/"
 
-cat "$DATA/p/"*.xml   |
+BIN="$(dirname $0)"
+
+[ "$1" != "" ] &&
+	$BIN/eki-prefcode                                           |
+	awk -v a="$1" '$1==a || $2==a{print $1}'                    |
+	xargs -I@ cat "$EKIDATA/p/@.xml"                            |
+	awk -F '[<>]' '$2=="name"{pref=$3}/line_name/{print pref,$3}' &&
+	exit 0
+
+cat "$EKIDATA/p/"*.xml   |
 awk -F '[<>]' '$2=="name"{pref=$3}/line_name/{print pref,$3}'

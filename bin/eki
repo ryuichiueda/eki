@@ -12,9 +12,9 @@
 	Usage: eki [option]
 
 	These are some sub-commands (see eki [sub-command] -h):
-	    pref:                    Show all prefectures with the lines in them.
-	    line <station_name>:     Show lines avaliable at the station.
-	    adj <station_name>:      Show adjoining stations.
+	    pref [pref_code|pref_name]:  Show all prefectures with the lines in them.
+	    line <station_name>:         Show lines avaliable at the station.
+	    adj <station_name>:          Show adjoining stations.
 
 	Released under MIT license
 	https://github.com/ryuichiueda/eki
