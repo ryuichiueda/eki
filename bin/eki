@@ -6,17 +6,16 @@
 
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
-	eki 0.2
+	eki 0.2.1
 	Copyright (C) 2021, Ryuichi Ueda.
 
 	Usage: eki [option]
 
 	These are some sub-commands (see eki [sub-command] -h):
-	    pref:                    Show each prefectures with the lines in it.
+	    pref:                    Show all prefectures with the lines in them.
 	    line <station_name>:     Show lines avaliable at the station.
 	    adj <station_name>:      Show adjoining stations.
 
-	MIT License
 	Released under MIT license
 	https://github.com/ryuichiueda/eki
 	EOF
