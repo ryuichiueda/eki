@@ -8,3 +8,5 @@ $BIN/eki | grep '京急本線 京急川崎' 2> /dev/null
 $BIN/eki-pref | grep '神奈川県 京急本線' 2> /dev/null
 $BIN/eki pref | grep '神奈川県 京急本線' 2> /dev/null
 [ "$($BIN/eki 京急蒲田 | wc -l)" = "2" ]
+[ "$($BIN/eki -c 安針塚)" = "27001 京急本線 2700142 安針塚" ]
+[ "$($BIN/eki -c 京急本線 | grep 川崎)"  = "27001 京急本線 2700115 京急川崎" ]

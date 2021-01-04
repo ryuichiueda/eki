@@ -1,13 +1,15 @@
 #!/bin/bash -e
 set -o pipefail
 
-[ "$1" = "pref" ] && shift && exec "$(dirname $0)/eki-pref" "$@"
-[ "$1" = "adj" ] && shift && exec "$(dirname $0)/eki-adj" "$@"
-[ "$1" = "line" ] && shift && exec "$(dirname $0)/eki-line" "$@"
+[ "$1" = "pref" ] && shift && exec "$0-pref" "$@"
+[ "$1" = "adj" ] && shift && exec "$0-adj" "$@"
+[ "$1" = "line" ] && shift && exec "$0-line" "$@"
+
+[ "$1" = "-c" ] && shift && exec $0-c "$@"
 
 [ "$1" = "-h" ] && {
 	cat >&2 <<- EOF
-	eki 0.2.1
+	eki 0.2.2
 	Copyright (C) 2021, Ryuichi Ueda.
 
 	Usage: eki [subcommand|option|key]
@@ -27,11 +29,6 @@ DATA=/usr/share/eki/
 [ -e "$DATA" ] || DATA="/eki/"
 [ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
 
-[ "$1" != "" ] && 
-	cat "$DATA/l/"*.xml                                                |
-	awk -F '[<>]' '/line_name/{line=$3}/station_name/{print line,$3}'  |
-	grep "$1" -
-
-[ "$1" = "" ] &&
-	cat "$DATA/l/"*.xml   |
-	awk -F '[<>]' '/line_name/{line=$3}/station_name/{print line,$3}'
+awk -F '[<>]' '/line_name/{line=$3}
+		/station_name/{print line,$3}' "$DATA/l/"*.xml  |
+( [ "$1" = "" ] && cat || grep "$1" - )

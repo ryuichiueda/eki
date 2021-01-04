@@ -18,6 +18,11 @@ DATA=/usr/share/eki/
 [ -e "$DATA" ] || DATA="/eki/"
 [ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
 
+BIN=$(dirname $0)
+
+#$BIN/eki                  |
+#awk -v s="$1" '$2==s'
+
 grep -C1 ">$1<" "$DATA/n/"*.xml                                    |
 awk -F '[<>]' -v s="$1" '$2~/station_name[12]/ && $3!=s{print $3}' |
 sort -u

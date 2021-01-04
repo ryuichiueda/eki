@@ -1,0 +1,29 @@
+#!/bin/bash -e
+set -o pipefail
+
+[ "$1" = "pref" ] && shift && exec "$(dirname $0)/eki-pref" "$@"
+[ "$1" = "adj" ] && shift && exec "$(dirname $0)/eki-adj" "$@"
+[ "$1" = "line" ] && shift && exec "$(dirname $0)/eki-line" "$@"
+
+[ "$1" = "-h" ] && {
+	cat >&2 <<- EOF
+	eki-c 0.0.1
+	Copyright (C) 2021, Ryuichi Ueda.
+
+	Usage: eki-c [key]
+
+	Released under MIT license
+	https://github.com/ryuichiueda/eki
+	EOF
+	exit 0
+}
+
+DATA=/usr/share/eki/
+[ -e "$DATA" ] || DATA="/eki/"
+[ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
+
+awk -F '[<>]' '/line_name/{line=$3}
+	/line_cd/{lcd=$3}
+	/station_cd/{scd=$3}
+	/station_name/{print lcd,line,scd,$3}' "$DATA/l/"*.xml  |
+( [ "$1" = "" ] && cat || grep "$1" - )
