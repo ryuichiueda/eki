@@ -1,0 +1,8 @@
+#!/bin/bash -evx
+set -o pipefail
+
+BIN=$(dirname $0)/../bin/
+
+### テストは京急で（京急さえ出力できれば他は大した問題ではない） ###
+[ "$($BIN/eki-line 京急川崎 | LANG=C sort | xargs)" = "京急大師線 京急本線" ]
+[ "$($BIN/eki line 京急川崎 | LANG=C sort | xargs)" = "京急大師線 京急本線" ]

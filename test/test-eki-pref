@@ -1,0 +1,8 @@
+#!/bin/bash -evx
+set -o pipefail
+
+BIN=$(dirname $0)/../bin/
+
+### テストは京急で（京急さえ出力できれば他は大した問題ではない） ###
+[ "$($BIN/eki-pref 14 | grep 京急 | wc -l)" = "4" ]
+[ "$($BIN/eki-pref 神奈川県 | grep 京急 | wc -l)" = "4" ]
