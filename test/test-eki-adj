@@ -4,5 +4,5 @@ set -o pipefail
 BIN=$(dirname $0)/../bin/
 
 ### テストは京急で（京急さえ出力できれば他は大した問題ではない） ###
-[ "$($BIN/eki-adj 京急川崎 | LANG=C sort | xargs)" = "八丁畷 六郷土手 港町" ]
-[ "$($BIN/eki adj 京急川崎 | LANG=C sort | xargs)" = "八丁畷 六郷土手 港町" ]
+[ "$($BIN/eki-adj 京急川崎 | LANG=C sort | xargs)" = "京急大師線 港町 京急本線 八丁畷 京急本線 六郷土手" ]
+[ "$($BIN/eki adj 京急川崎 | LANG=C sort | xargs)" = "京急大師線 港町 京急本線 八丁畷 京急本線 六郷土手" ]

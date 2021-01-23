@@ -20,9 +20,9 @@ DATA=/usr/share/eki/
 
 BIN=$(dirname $0)
 
-#$BIN/eki                  |
-#awk -v s="$1" '$2==s'
-
-grep -C1 ">$1<" "$DATA/n/"*.xml                                    |
-awk -F '[<>]' -v s="$1" '$2~/station_name[12]/ && $3!=s{print $3}' |
-sort -u
+grep -C3 ">$1<" "$DATA/n/"*.xml                                    |
+awk -F '[<>]' -v s="$1" '{gsub(/station_/,"",$2);a[$2]=$3}
+	$2=="name2"&&a["name2"]==s{print a["cd1"]}
+	$2=="name2"&&a["name1"]==s{print a["cd2"]}'                |
+xargs -n1 $BIN/eki-c                                               |
+awk '{print $2,$4}'
