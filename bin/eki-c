@@ -18,12 +18,12 @@ set -o pipefail
 	exit 0
 }
 
-DATA=/usr/share/eki/
-[ -e "$DATA" ] || DATA="/eki/"
-[ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
+RAWDATA=/usr/share/eki/raw
+[ -e "$RAWDATA" ] || RAWDATA="/eki/raw"
+[ -e "$RAWDATA" ] || RAWDATA="$(dirname $0)/../eki/raw"
 
 awk -F '[<>]' '/line_name/{line=$3}
 	/line_cd/{lcd=$3}
 	/station_cd/{scd=$3}
-	/station_name/{print lcd,line,scd,$3}' "$DATA/l/"*.xml  |
+	/station_name/{print lcd,line,scd,$3}' "$RAWDATA/l/"*.xml  |
 ( [ "$1" = "" ] && cat || grep "$1" - )

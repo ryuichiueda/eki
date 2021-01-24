@@ -14,13 +14,13 @@
 	exit 0
 }
 
-DATA=/usr/share/eki/
-[ -e "$DATA" ] || DATA="/eki/"
-[ -e "$DATA" ] || DATA="$(dirname $0)/../eki/"
+RAWDATA=/usr/share/eki/raw
+[ -e "$RAWDATA" ] || RAWDATA="/eki/raw"
+[ -e "$RAWDATA" ] || RAWDATA="$(dirname $0)/../eki/raw"
 
 BIN=$(dirname $0)
 
-grep -C3 ">$1<" "$DATA/n/"*.xml                                    |
+grep -C3 ">$1<" "$RAWDATA/n/"*.xml                                    |
 awk -F '[<>]' -v s="$1" '{gsub(/station_/,"",$2);a[$2]=$3}
 	$2=="name2"&&a["name2"]==s{print a["cd1"]}
 	$2=="name2"&&a["name1"]==s{print a["cd2"]}'                |
