@@ -26,8 +26,8 @@ set -o pipefail
 }
 
 DATA=/usr/share/eki
-[ -e "$RAW" ] || DATA="/eki"
-[ -e "$RAW" ] || DATA="$(dirname $0)/../eki"
+[ -e "$DATA" ] || DATA="/eki"
+[ -e "$DATA" ] || DATA="$(dirname $0)/../eki"
 
 if [ "$1" = "" ] ; then
 	awk '{print $2,$4}' $DATA/cache/line-stations

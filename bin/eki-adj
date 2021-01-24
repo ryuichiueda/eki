@@ -15,10 +15,9 @@
 }
 
 DATA=/usr/share/eki
-[ -e "$RAWDATA" ] || RAWDATA="/eki"
-[ -e "$RAWDATA" ] || RAWDATA="$(dirname $0)/../eki"
+[ -e "$DATA" ] || DATA="/eki"
+[ -e "$DATA" ] || DATA="$(dirname $0)/../eki"
 
 CACHE="$DATA/cache"
-BIN=$(dirname $0)
 
 awk -v s="$1" '$4==s || $6==s{print $2, ($4==s?$6:$4)}' $CACHE/adj-stations

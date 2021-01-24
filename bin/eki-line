@@ -14,8 +14,8 @@
 	exit 0
 }
 
-RAWDATA=/usr/share/eki/raw
-[ -e "$RAWDATA" ] || RAWDATA="/eki/raw"
-[ -e "$RAWDATA" ] || RAWDATA="$(dirname $0)/../eki/raw"
+DATA=/usr/share/eki
+[ -e "$DATA" ] || DATA="/eki"
+[ -e "$DATA" ] || DATA="$(dirname $0)/../eki"
 
-awk -F '[<>]' -v s="$1" '$2=="line_name"{line=$3}$2=="station_name" && $3==s{print line}' "$RAWDATA/s/"*.xml 
+awk -v s="$1" '$4==s{print $2}' $DATA/cache/line-stations
