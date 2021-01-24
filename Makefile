@@ -1,4 +1,5 @@
 install:
+	./eki-cachegen
 	rsync -av --delete ./eki/ /usr/share/eki/
 	cp ./bin/eki /usr/local/bin/
 	cp ./bin/eki-* /usr/local/bin/

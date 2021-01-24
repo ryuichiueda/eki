@@ -1,0 +1,39 @@
+#!/bin/bash -e
+set -o pipefail
+
+[ "$1" = "-h" ] && {
+	cat >&2 <<- EOF
+	eki-cachegen 0.0.1
+	Copyright (C) 2021, Ryuichi Ueda.
+
+	Usage: ./eki-cachegen
+
+	Released under MIT license
+	https://github.com/ryuichiueda/eki
+	EOF
+	exit 0
+}
+
+BIN=./bin
+RAW=./eki/raw
+CACHE=./eki/cache
+
+$BIN/eki-prefcode > $CACHE/prefs
+
+awk -F '[<>]' '/line_cd/{lcd=$3}
+	/line_name/&&lcd!=0{print lcd, $3}' "$RAW/l/"*.xml  |
+	sort -k1,1 > $CACHE/lines
+
+awk -F '[<>]' '/line_cd/{lcd=$3}
+	/line_name/{line=$3}
+	/station_cd/{scd=$3}
+	/station_name/{print lcd,line,scd,$3}' "$RAW/l/"*.xml |
+	sort -k1,1 -k3,3 > $CACHE/line-stations
+
+cat "$RAW/n/"*.xml |
+awk -F '[<>]' '{gsub(/station_/,"",$2);a[$2]=$3}
+	$2=="name2"{print a["cd1"], a["name1"], a["cd2"], a["name2"]}' |
+awk 'NF==4 && $1!=0 && $3!=0'                          |
+sort -s -k1,1                                          |
+join -j1 <(awk '{print $3,$1,$2}' $CACHE/line-stations | sort) - |
+awk '{print $2,$3,$1,$4,$5,$6}' > $CACHE/adj-stations

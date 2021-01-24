@@ -14,15 +14,11 @@
 	exit 0
 }
 
-RAWDATA=/usr/share/eki/raw
-[ -e "$RAWDATA" ] || RAWDATA="/eki/raw"
-[ -e "$RAWDATA" ] || RAWDATA="$(dirname $0)/../eki/raw"
+DATA=/usr/share/eki
+[ -e "$RAWDATA" ] || RAWDATA="/eki"
+[ -e "$RAWDATA" ] || RAWDATA="$(dirname $0)/../eki"
 
+CACHE="$DATA/cache"
 BIN=$(dirname $0)
 
-grep -C3 ">$1<" "$RAWDATA/n/"*.xml                                    |
-awk -F '[<>]' -v s="$1" '{gsub(/station_/,"",$2);a[$2]=$3}
-	$2=="name2"&&a["name2"]==s{print a["cd1"]}
-	$2=="name2"&&a["name1"]==s{print a["cd2"]}'                |
-xargs -n1 $BIN/eki-c                                               |
-awk '{print $2,$4}'
+awk -v s="$1" '$4==s || $6==s{print $2, ($4==s?$6:$4)}' $CACHE/adj-stations
